@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from www.drewgreenwell.com/tests/LiveTilesAndAppBar.htm by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:49 GMT -->
+<head>
+	<title>Live Tiles and AppBar</title>
+	<link href="../Scripts/MetroJs/bundles/MetroJs.lta.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="tiles">
+	<div class="live-tile">
+		<div style="background-color:Red;">test 1</div>
+	</div>
+	<div class="live-tile" data-mode="flip">
+		<div style="background-color:green;">test 2</div>
+        <div style="background-color:blue;">test 2 - back</div>
+	</div>
+	<div class="list-tile">
+		<ul class="flip-list fourTiles" data-mode="flip-list">
+			<li><div style="background-color:Blue;"></div><div style="background-color:Orange;"></div></li>
+			<li><div style="background-color:Orange;"></div><div style="background-color:Blue;"></div></li>
+			<li><div style="background-color:Green;"></div><div style="background-color:Red;"></div></li>
+			<li><div style="background-color:Red;"></div><div style="background-color:Green;"></div></li>
+		</ul>
+	</div>
+</div>
+	<div class="appbar">
+				<ul id="menu" class="appbar-buttons">
+					<li>
+						<a href="../index.html" class="home"><img src="../images/1pixel.gif" alt="home" /></a>
+						<span class="charm-title">Home</span>
+					</li>
+					<li>
+						<a href="../about.html" class="about"><img src="../images/1pixel.gif" alt="about" /></a>
+						<span class="charm-title">About</span>
+					</li>
+					<li>
+						<a href="http://www.twitter.com/dgreenwell" class="twitter" target="_blank"><img src="../images/1pixel.gif" alt="twitter" /></a>
+						<span class="charm-title">Twitter</span>
+					</li>
+				</ul>
+			<a class="etc">&bull;&bull;&bull;</a>
+			
+	</div>
+
+	<script src="../Scripts/jquery-1.7.1.min-2.js" type="text/javascript"></script>
+	<script src="../Scripts/MetroJs/bundles/MetroJs.lta.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$(".live-tile,.flip-list").liveTile();
+			$(".appbar").applicationBar();
+		});
+	</script>
+</body>
+
+<!-- Mirrored from www.drewgreenwell.com/tests/LiveTilesAndAppBar.htm by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:53 GMT -->
+</html>

@@ -1,0 +1,416 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs/changelog by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=728,initial-scale=1" />
+    <title>Metro JS Change Log - Drew Greenwell - Professional Developer</title>
+    <meta name="description" content="This site contains projects and thoughts by Drew Greenwell. Drew Greenwell is a professional developer living in Louisville, Ky and specializing in creating engaging experiences on the web and mobile devices." />
+    <meta name="keywords" content="Drew Greenwell,professional developer,Louisville,Kentucky,asp.net,MVC,ajax,jquery,javascript,MCSD">
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <link rel="stylesheet" href="../../content/site3912.css?v=0.9.72" type="text/css" />
+    <link rel="stylesheet" href="../../content/fa/assets/css/dg-font-awesome.min.css" type="text/css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/content/fa/assets/css/dg-font-awesome-ie7.min.css">
+    <![endif]-->
+    <link rel="stylesheet" href="../../scripts/metrojs/bundles/metrojs.minb1c9.css?v=0.9.72dev" type="text/css" />    
+    <link rel="stylesheet" href="../../content/syntax/shCoreVStudio.css" type="text/css" />    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27990990-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        function trackExternal(link, prefix) {
+            try {
+                if (typeof prefix == "undefined" || prefix == null)
+                    prefix = "";
+                var href = link.href.replace(/(http)(s)?:\/\/(www\.)?/i, "/outgoing/" + prefix);
+                _gaq.push(['_trackPageview', href]);
+            }
+            catch (err) { }
+        }
+	</script>
+    <script type="text/javascript" src="../../scripts/modernizr-2.5.3.js"></script>
+    <script type="text/javascript">window.MetroJsVersion = '0.9.72';</script>
+</head>
+<body class="desktop dark projects-metrojs">
+    <header>
+        <div class="site-title"><a href="../../index.html">drewgreenwell</a></div>
+    </header>
+    
+
+<section class="interior-content clear-fix">
+    <h2>Metro JS Change Log</h2>
+        <h4>0.9.71 -> 0.9.72</h4>
+<ul>
+	<li>Improved content module performance and tweaked to avoid prototype issues</li>
+	<li>preloadImages now works properly with image objects and not just string arrays</li>
+	<li>applicationBar calculates its collapsed height automatically by default for improved support for swapping to 'small' appbar mode</li>
+	<li>accentBgHover class added</li>
+</ul>
+<h4>0.9.7 -> 0.9.71</h4>
+<ul>
+    <li>Set default value for playOnHoverEvent back to 'both'</li>
+</ul>
+<h4>0.9.6 -> 0.9.7</h4>
+<ul>
+    <li>translate() is now used for carousel and slide mode when available.</li>
+    <li>useTranslate (aka data-use-translate) added to disable translate() and transition on top/left</li>
+    <li>pauseOnHoverEvent and playOnHoverEvent added. These are defaulted to 'both' which is the normal behavior for playOnHover and pauseOnHover, but can be changed to 'mouseover' etc. I plan on unifying the hover event model for the next release.</li>
+    <li>.theme default selectors will now allow nesting the ul. (eg 'ul.theme-options,.theme-options>ul' and 'ul.base-theme-options,.base-theme-options>ul'). You can change this to whatever suits your needs at jQuery.fn.metrojs.theme.defaults</li>
+</ul>
+<h4>0.9.5 -> 0.9.6</h4>
+<ul>
+    <li>'fade' mode added. This mode fades the front tile face in and out.</li>
+    <li>bounce now updates to different directions as the mouse/finger moves. This can be disabled by setting bounceFollowsMove aka 'data-bounce-follows' to false</li>
+    <li>bounceDirections correctly cleans up the perspective origin it sets on it's parent</li>
+    <li>carousel mode now uses percentages for tile movement to enable responsive scenarios.</li>
+    <li>All tile modes now pause their timer until the animation has finished (flip was the only mode that did not before)</li>
+</ul>
+<h4>0.9e -> 0.9.5</h4>
+<ul>
+    <li>No code changes. Swapping to semantic versioning for compatibility with the new <a href="http://plugins.jquery.com/" onclick="javascript:_gaq.push(['_trackPageView','/outgoing/plugins.jquery.com'])" target="_blank">jQuery plugins</a> site.</li>
+</ul>
+<h4>0.9d1 -> 0.9e</h4>
+<ul>
+    <li>bounceDirections aka data-bounce-dir added to allow tilt bouncing of tiles in addition to the default scale. You can limit the directions explicitly or use phrases like 'edges' or 'corners'.</li>
+    <li>animationComplete now correctly passes the current tile as the 'this'context</li>
+    <li>Resolved an issue with the swap modules not always triggering in slide mode</li>
+    <li>Added fadeSwap to the image swap module to force a fade when the image is changed</li>
+    <li>Added alwaysSwapFront and alwaysSwapBack to the image module. This can be useful in slide mode if you want to make the front and back face swap simultaneously</li>    
+</ul>
+<h4>0.9d -> 0.9d1</h4>
+<ul>
+    <li>Fixed typo causing global scope on a carousel property</li>
+    <li>haTransFunc and noHaTransFunc added to expose easing properties of animations</li>
+    <li>Support for jQuery 1.3.2 added</li>
+</ul>
+<h4>0.9c -> 0.9d</h4>
+<ul>
+    <li>You can now declare data-direction and data-ani-direction on each tile face in carousel mode</li>
+    <li>Calling 'goto' with no options is now the same as calling .liveTile('goto', 'next')</li>
+    <li>autoAniDirection option added to 'goto' to override the index based direction swapping</li>
+    <li>Issue with carousel mode getting index from all siblings resolved (fixes issues with a global tile-title in a carousel)</li>
+    <li>newWindow support added to data-link for flip-list</li>
+    <li>flipListOnHoverEvent option added to allow flipping based on events other than mouseout</li>
+    <li>flipListOnHover now works when startNow is set to false</li>
+    <li>issue with .themeLoaded resolved</li>
+    <li>accentBorderTop, accentBorderRight, accentBorderBottom and accentBorderLeft classes added for theming</li>
+    <li>.applicationBar now exposes its methods through the "ApplicationBar" data object</li>
+    <li>slideOpen and slideClosed methods added to .applicationBar, you can call them via .data("ApplicationBar")</li>
+    <li>handleSelector added to .applicationBar so you can use something other than 'a.etc'</li>
+</ul>
+<h4>0.9b -> 0.9c</h4>
+<ul>
+    <li>Corrected issue with destroy unbinding bounce twice</li>
+    <li>Added onHoverDelay aka data-hover-delay to allow a delay before a tile play or pause is triggered when a user hovers the tile</li>
+    <li>Resolved issue with .applicationBar in jQuery 1.9</li>
+    <li>.fourTiles and .nineTiles tile sizes are now relative to their container. The mosaic background-positions are still defined for one-tile size.
+    I'm planning to create a mosaic generator to create custom CSS for tile mosaics.</li>
+</ul>
+<h4>0.9a -> 0.9b</h4>
+<ul>
+    <li>The fadeout effect used in flip animations on non hardware accelerated browsers has been disabled by default. To turn it back on you can set noHAflipOpacity: '0'.</li>
+    <li>Fixed a flicker that occurs when playOnHover is set and a user hovers in and out of a flip tile faster than the css reset can be applied.</li>
+</ul>
+<h4>0.9 -> 0.9a</h4>
+<ul>
+    <li>Added direction support to the 'goto' carousel method in addition to animationDirection.<br />
+        <a href="../metrojs.html#fiddle_mBX3K">see JS Fiddle example here</a>
+    </li>
+    <li>Finished updating calls to appendStyleProperties. (Thanks Devline)</li>
+    <li>Style change to help IE8 and below</li>
+    <li>Updated destroy method</li>
+    <li>padding-box style does not have consistent enough support and has been removed.</li>
+    <li>Padding removed from .face class. You can get padding on content by using a 'p' tag</li>    
+</ul>
+<h4>0.8.9.3l -> 0.9</h4>
+<p>Note: 0.9 is a full rewrite. I made every effort to keep 100% backward compatibility with 0.8, but please test your code before going live.
+More often than not, if a change in your code is required, it will be a reduction in the amount of code.</p>
+<ul>
+    <li>Full rewrite! Improved performance, touch support, new features.</li>
+    <li>Improved compatibility with IE10</li>
+    <li>150px X 150px with a 5px margin is the new default tile size. I have added a theme generator <a href="theme-generator.html">here</a> to let you generate your own tile sizes (Previous versions used 180px X 180px with a 15px margin).</li>
+    <li>New css classes to help size and layout tiles have been added.
+        <ul>
+            <li>.tile-group is intended to be a wrapper for tiles</li>
+            <li>.tile-strip is intended to wrap a group of tiles within a tile-group</li>
+            <li>.copy-tile is intended for use with plain text styles (you can add an accent class as needed)</li>
+            <li>.live-tile, .list-tile, .copy-tile, .tile-group and .tile-strip all support the #-wide #tall syntax</li>
+            <li>the #-wide/#-tall classes range from half, one, two, three, four, five, six, seven, eight, nine and ten<br />
+<div class="code-label">Example:</div>
+<pre><code class="brush:js; htmlscript:true; toolbar:false; gutter:false;">
+&lt;div class=&quot;tile-group two-tall three-wide&quot;&gt;&lt;!--some tiles--&gt;&lt;/div&gt;
+</code></pre>
+                'half-tile' is also supported as shorthand for half-wide half-tall
+            </li>
+        </ul>
+    </li>
+    <li>Flip animations are now much smoother</li>
+    <li>startNow aka data-start-now added to eliminate the lazy load requirements</li>
+    <li>playOnHover aka data-play-onhover added</li>
+    <li>'carousel' mode added. Slide any number of tile faces in any direction.</li>
+    <li>'goto' method added for use with carousel mode</li>
+    <li>animationDirection aka data-ani-direction added</li>
+    <li>'none' mode added to make it easy to use bounce / link with no timer overhead</li>
+    <li>link aka data-link option added</li>
+    <li>newWindow aka data-new-window option added to be used in conjunction with link</li>
+    <li>bounce aka data-bounce added to make a tile shrink when tapped/clicked</li>
+    <li>'image' Swap module now supports passing attr and css options directly.
+        <pre><code class="brush:js; toolbar:false; gutter:false;">
+            // be sure to undo any changes you make!
+            var images = [{ attr:{ title:'my title',src:'img1.gif' alt:'1'}, css:{ borderColor:'' } }, 
+                          { attr:{ title:'', src:'img2.gif', alt:'2' }, css:{ borderColor:'red' } }];
+             </code></pre>
+    </li>
+    <li>'html' swap module added. (supports an array of html content)</li>
+    <li><strong>Important:</strong> swap aka data-swap has been added. a swap property is now required to activate any content modules<br />
+        swap properties include 'swap', 'swapFront' and 'swapBack'. swaps support a value of 'image', 'html' or 'image,html'
+        <div class="code-label">Example:</div>
+<pre><code class="brush:js; toolbar:false; gutter:false;">
+$(&quot;.live-tile&quot;).liveTile({ 
+    frontContent:[&#39;some content&#39;,&#39;&lt;p&gt;some more&lt;/p&gt;&#39;],
+    swapFront:&#39;html&#39;, // aka data-swap-front
+    backImages:[{src:&#39;img1.gif&#39; alt:&#39;1&#39;}, { src:&#39;img2.gif&#39;, alt:&#39;2&#39; }]
+    swapBack: &#39;images&#39; // aka data-swap-back
+] })
+</code></pre>
+    </li>
+    <li>CSS Selector options are now named tileSelector and tileFaceSelector</li>
+</ul>
+<h4>0.8.9.3k -> 0.8.9.3l</h4>
+    <ul>
+    <li>Bug fix for destroy method</li>
+	<li>rebind method available for tiles removed and readded to the DOM
+	<div class="code-label">Example:</div>
+	<pre><code class="brush:js; toolbar:false; gutter:false;">
+    // set up a tile
+    $("#tile1").liveTile();
+    // this could be in document ready or called right before the postback
+    var tile1Data = $("#tile1").data("LiveTile");
+    //..
+    // this should run after a postback
+    $("#tile1").liveTile('rebind', tile1Data);
+    	</code></pre>
+	</li>
+    </ul>
+    <h4>0.8.9.3j -> 0.8.9.3k</h4>
+    <ul>
+        <li>10 New accent colors added! ( amber, cobalt, crimson, cyan, emerald, indigo, mauve, olive, orange, violet a.k.a. purple, sienna, steel, yellow )</li>
+        <li>Returning -1 on the triggerDelay option will prevent a flip-list tile from flipping.</li>
+    </ul>
+    <h4>0.8.9.3i -> 0.8.9.3j</h4>
+	<ul>
+        <li>isReversed has been added to the LiveTile data object This is used on the Animate On Hover example in the <a href="../metrojs.html#fiddleAround">Fiddle Around</a> section</li>
+    </ul>
+	<h4>0.8.9.3h -> 0.8.9.3i</h4>
+	<ul>
+        <li>Swapped to jQuery rather than $ for library to avoid issues with jQuery.noConflict</li>
+        <li>All code is encapsulated now instead of just the liveTile library</li>
+    </ul>
+    <h4>0.8.9.3g -> 0.8.9.3h</h4>
+	<ul>
+	<li>$front and $back option added to liveTile to give you more control over what the front/back tile faces should be. These should be passed as jQuery objects. <span class="smallNote">Note: These override the tileCssSelector option</span>
+    <pre><code class="brush:js; toolbar:false; gutter:false;">
+    $("#tile1").liveTile({ $back:$("#myback"), $front:$("#myfront") });
+    </code></pre>
+    </li>    
+    <li>Array slicing is done manually now to avoid issues with IE</li>
+    <li>backface-visibility:hidden added to prevent elements being clicked while they are on the backface</li>
+    <li>Other IE adjustments</li>
+	</ul>
+    <h4>0.8.9.3f -> 0.8.9.3g</h4>
+	<ul>
+	<li>Bug fix for data methods</li>
+	</ul>
+	<h4>0.8.9.3e -> 0.8.9.3f</h4>
+	<ul>
+		<li>Metro JS is now modular. You can download only the bits of functionality that you require</li>
+		<li>Fixed issue that could cause flip list to become out of sync making them repeat animations</li>
+	</ul>
+	<h4>0.8.9.3d -> 0.8.9.3e</h4>
+	<ul>
+	<li>Instances of Array.prototype removed for SharePoint compatibility</li>
+	<li>Added different behaviors for negative delay values<br />
+	--Setting the delay value to -1 will use a random delay value between 3500 and 8000 milliseconds (3.5 - 8 seconds).<br />
+	--Setting the delay value to anything lower than -1 (e.g. -2) will call the triggerDelay method one time to get the delay value. 
+	</li>
+	</ul>
+	<h4>0.8.9.3c -> 0.8.9.3d</h4>
+	<ul>
+	<li>'animate' method added to liveTile to allow you to trigger animations manually <a href="#fiddleAround" class="smallNote" onclick="$('#animateOnClick').click();">JS Fiddle Example</a>
+	<pre><code class="brush:js; toolbar:false; gutter:false;">
+		var $tile = $(".live-tile").liveTile();
+		$tile.click(function(){
+			$tile.liveTile("animate");
+		});
+	</code></pre>
+	</li>
+	<li>Fixed issue that caused animationComplete to not fire when hardware acceleration is disabled</li>
+	<li>Fixed issue with applicationBar in older versions of Internet explorer and Device Central</li>
+	</ul>
+	<h4>0.8.9.3a -> 0.8.9.3c</h4>
+	<ul>
+		<li>An api for loading and applying themes has been added. If you're using the applicationBar, you're already getting the benefits of the api. <a class="accentHover" href="themes/index.html">More Info</a></li>
+		<li>I've added a good chunk of documentation for the theming features of Metro JS <a class="accentHover" href="themes/index.html">More Info</a></li>
+		<li><strong>changed image paths for applicationBar</strong> icons to be relative instead of absolute.</li>
+	</ul>
+	<h4>0.8.9.3 -> 0.8.9.3a</h4>
+	<ul>
+		<li>Rewrote all random functions to guarantee no duplicate images... finally</li>
+		<li><strong>changed preloadImages</strong> to use metrojs namespace i.e. $(['img1.jpg','img2.jpg']).metrojs.preloadImages()</li>
+		<li>Corrected flicker when using hardware accelerated flips in Firefox 11+</li>
+		<li>'destroy' method has been implemented
+		<div class="code-label">Example:</div>
+		<pre><code class="brush:js; toolbar:false; gutter:false;">
+			var tile = $(".live-tile").liveTile();
+			//...
+			tile.liveTile("destroy");
+		</code></pre>
+		</li>
+	</ul>
+	<h4>0.8.9.2 -> 0.8.9.3</h4>
+	<ul>        
+		<li>Added repeatCount aka <a href="#liveTileOptions">data-repeat</a>.</li>
+		<li>Added animationComplete event
+	 <div class="code-label">Example:</div>
+		<pre><code class="brush:js; toolbar:false; gutter:false;">
+			var tile = $(".live-tile").liveTile({
+				mode:'flip', // or slide
+				animationComplete:function(tileData, $front, $back){
+					$back.text("Updated content");
+				}
+			});
+		</code></pre>
+		</li>
+		<li>Added better duplicate prevention code to improve random image swaps. 
+	<span class="smallNote">This will all be refactored out into something a bit better in the next release, but it's doing well now.</span></li>
+		<li>Bug fixes and performance updates</li>
+	</ul>
+	<h4>0.8.9.1 -> 0.8.9.2</h4>
+	<ul>        
+		<li>Corrected issue with slide tile not being activated</li>
+	</ul>
+	<h4>0.8.9 -> 0.8.9.1</h4>
+	<ul>        
+		<li>Improved randomness of image selection (<span class="smallNote">I'll optimize this more in the next releases</span>)</li>
+		<li>Mapped initDelay to delay unless initDelay has been set to something other than -1</li>
+		<li>Performance improvements(<span class="smallNote">more coming</span>)</li>
+	</ul>
+	<h4>0.8.8 -> 0.8.9</h4>
+	<ul>
+		<li>Added methods to control animiation state 'play', 'pause', 'stop' (destroy will be in the next release)
+		<div class="code-label">Example:</div>
+		<pre><code class="brush:js; toolbar:false; gutter:false;">
+			var tile = $(".live-tile").liveTile();
+			//...
+			// 'play', 'pause', 'stop' (stop causes initDelay to trigger again)
+			tile.liveTile("stop");
+		</code></pre>
+		</li>
+		<li>Added access to .liveTile api/data properties
+			<div class="code-label">Example:</div>
+		<pre><code class="brush:js; toolbar:false; gutter:false;">
+			$(".live-tile").each(function(){
+				var tileData = $(this).data("LiveTile");
+				tileData.direction = "horizontal"; // console.dir(tileData);
+				$(this).data("LiveTile", tileData);
+			});
+		</code></pre>
+		</li>
+	</ul>
+
+</section>
+
+    
+<footer class="appbar">
+    <nav class="clear">
+		<ul class="appbar-buttons" id="menu">
+			<li>
+				<a class="home" href="../../index.html"><img alt="home" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">Home</span>
+			</li>
+			<li>
+				<a class="about" href="../../about.html"><img alt="about" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">About</span>
+			</li>
+			<li>
+				<a class="twitter" target="_blank" onclick="javascript:trackExternal(this);" href="http://www.twitter.com/dgreenwell"><img alt="twitter" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">Twitter</span>
+			</li>
+		</ul>
+	</nav>
+    <a class="etc">&bull;&bull;&bull;</a>
+    <div class="tray">
+        <section class="base-theme-options">            
+            <h2>Base Theme</h2>
+            <ul></ul>
+        </section>
+        <section class="theme-options">
+            <h2>Accent Color</h2>
+            <ul></ul>
+        </section>
+        <section class="links clear">
+            <ul>
+                <li><a href="theme-generator.html">Generate a theme...</a></li>
+            </ul>
+        </section>
+    </div>      
+</footer>
+
+
+
+    <script src="../../scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="../../scripts/metrojs/bundles/metrojs3912.js?v=0.9.72" type="text/javascript"></script>
+    <script type="text/javascript">
+        var metroJs,
+            appBar;
+        // remove the default theme set for noscript and apply user theme
+        $(document).ready(function () {
+            $("body,.tiles").removeClass("dark blue");
+            metroJs = jQuery.fn.metrojs;
+            metroJs.theme.loadDefaultTheme();
+        });
+    </script>
+    <script src="../../scripts/syntax/syntaxhighlighter.xj.min.js" type="text/javascript"></script>    
+<script type="text/javascript">
+$(document).ready(function(){
+	SyntaxHighlighter.config.tagName = "code";
+        SyntaxHighlighter.all();
+});
+</script>
+
+    <script type="text/javascript">        
+        
+        $(document).ready(function () {
+            var doBind = (typeof (window.bindAppBarKeyboard) === "undefined" || window.bindAppBarKeyboard);
+            // create the app bar
+            appBar = $(".appbar").applicationBar({
+	    	applyTheme: false, // apply theme example below
+                preloadAltBaseTheme: true, // load both sets of images so there isn't a flicker when base theme is changed
+                metroLightUrl: '/images/metroIcons_light.jpg',
+                metroDarkUrl: '/images/metroIcons.jpg',
+                bindKeyboard: doBind // bind the keyboard unless specified in an included script
+            });
+            // add the accents and base colors to the appbar
+            metroJs.theme.appendAccentColors();
+            metroJs.theme.appendBaseThemes();
+        });
+        
+
+	</script>
+    <script type="text/javascript" src="../../scripts/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="../../scripts/dg/global3912.js?v=0.9.72"></script>
+</body>
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs/changelog by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:39 GMT -->
+</html>
