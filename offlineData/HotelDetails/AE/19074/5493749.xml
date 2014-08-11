@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493749" resultcode="0" message="" >
+				<Name><![CDATA[PANORAMA DEIRA]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o. Box 181211 Dubai, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.247778</Latitude>
+					<Longitude>55.286945</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3410/32603410.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 229 2797]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 224 8055 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

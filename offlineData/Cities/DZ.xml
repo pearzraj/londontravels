@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="DZ">
+		<City id="35550"> 
+			<Name lang="EN">Ain Benian</Name>
+			<Region lang="EN">Ain Benian</Region>
+			<Destination lang="EN">Ain Benian, Ain Benian, Algeria</Destination>
+		</City>
+		<City id="6346">
+			<Name lang="EN">Algiers</Name>
+			<Region lang="EN">Algiers</Region>
+			<Destination lang="EN">Algiers, Algiers, Algeria</Destination>
+		</City>
+		<City id="6547">
+			<Name lang="EN">Annaba</Name>
+			<Region lang="EN">Annaba</Region>
+			<Destination lang="EN">Annaba, Annaba, Algeria</Destination>
+		</City>
+		<City id="36452">
+			<Name lang="EN">Boumerdes</Name>
+			<Region lang="EN">Boumerdes</Region>
+			<Destination lang="EN">Boumerdes, Boumerdes, Algeria</Destination>
+		</City>
+		<City id="11718">
+			<Name lang="EN">Constantine</Name>
+			<Region lang="EN">Constantine</Region>
+			<Destination lang="EN">Constantine, Constantine, Algeria</Destination>
+		</City>
+		<City id="27029">
+			<Name lang="EN">Oran</Name>
+			<Region lang="EN">Oran</Region>
+			<Destination lang="EN">Oran, Oran, Algeria</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

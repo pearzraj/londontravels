@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="FI">
+		<City id="31454"> 
+			<Name lang="EN">Ahtari</Name>
+			<Region lang="EN">Ahtari</Region>
+			<Destination lang="EN">Ahtari, Ahtari, Finland</Destination>
+		</City>
+		<City id="11986">
+			<Name lang="EN">Espoo</Name>
+			<Region lang="EN">Espoo</Region>
+			<Destination lang="EN">Espoo, Espoo, Finland</Destination>
+		</City>
+		<City id="20908">
+			<Name lang="EN">Hameenlinna</Name>
+			<Region lang="EN">Hameenlinna</Region>
+			<Destination lang="EN">Hameenlinna, Hameenlinna, Finland</Destination>
+		</City>
+		<City id="9273">
+			<Name lang="EN">Helsinki</Name>
+			<Region lang="EN">Helsinki</Region>
+			<Destination lang="EN">Helsinki, Helsinki, Finland</Destination>
+		</City>
+		<City id="12449">
+			<Name lang="EN">Hyvinkaa</Name>
+			<Region lang="EN">Hyvinkaa</Region>
+			<Destination lang="EN">Hyvinkaa, Hyvinkaa, Finland</Destination>
+		</City>
+		<City id="70">
+			<Name lang="EN">Jarvenpaa</Name>
+			<Region lang="EN">Jarvenpaa</Region>
+			<Destination lang="EN">Jarvenpaa, Jarvenpaa, Finland</Destination>
+		</City>
+		<City id="29652">
+			<Name lang="EN">Joensuu</Name>
+			<Region lang="EN">Joensuu</Region>
+			<Destination lang="EN">Joensuu, Joensuu, Finland</Destination>
+		</City>
+		<City id="17588">
+			<Name lang="EN">Jyvaskyla</Name>
+			<Region lang="EN">Jyvaskyla</Region>
+			<Destination lang="EN">Jyvaskyla, Jyvaskyla, Finland</Destination>
+		</City>
+		<City id="8084">
+			<Name lang="EN">Kemi/Tornio</Name>
+			<Region lang="EN">Kemi/Tornio</Region>
+			<Destination lang="EN">Kemi/Tornio, Kemi/Tornio, Finland</Destination>
+		</City>
+		<City id="10223">
+			<Name lang="EN">Kilpisjarvi</Name>
+			<Region lang="EN">Kilpisjarvi</Region>
+			<Destination lang="EN">Kilpisjarvi, Kilpisjarvi, Finland</Destination>
+		</City>
+		<City id="9357">
+			<Name lang="EN">Kouvola</Name>
+			<Region lang="EN">Kouvola</Region>
+			<Destination lang="EN">Kouvola, Kouvola, Finland</Destination>
+		</City>
+		<City id="9874">
+			<Name lang="EN">Kuopio</Name>
+			<Region lang="EN">Kuopio</Region>
+			<Destination lang="EN">Kuopio, Kuopio, Finland</Destination>
+		</City>
+		<City id="9896">
+			<Name lang="EN">Kuusamo</Name>
+			<Region lang="EN">Kuusamo</Region>
+			<Destination lang="EN">Kuusamo, Kuusamo, Finland</Destination>
+		</City>
+		<City id="16868">
+			<Name lang="EN">Lahti</Name>
+			<Region lang="EN">Lahti</Region>
+			<Destination lang="EN">Lahti, Lahti, Finland</Destination>
+		</City>
+		<City id="30227">
+			<Name lang="EN">Lappeenranta</Name>
+			<Region lang="EN">Lappeenranta</Region>
+			<Destination lang="EN">Lappeenranta, Lappeenranta, Finland</Destination>
+		</City>
+		<City id="18494">
+			<Name lang="EN">Levi</Name>
+			<Region lang="EN">Levi</Region>
+			<Destination lang="EN">Levi, Levi, Finland</Destination>
+		</City>
+		<City id="20673">
+			<Name lang="EN">Luosto</Name>
+			<Region lang="EN">Luosto</Region>
+			<Destination lang="EN">Luosto, Luosto, Finland</Destination>
+		</City>
+		<City id="15800">
+			<Name lang="EN">Mikkeli</Name>
+			<Region lang="EN">Mikkeli</Region>
+			<Destination lang="EN">Mikkeli, Mikkeli, Finland</Destination>
+		</City>
+		<City id="27829">
+			<Name lang="EN">Naantali</Name>
+			<Region lang="EN">Naantali</Region>
+			<Destination lang="EN">Naantali, Naantali, Finland</Destination>
+		</City>
+		<City id="27072">
+			<Name lang="EN">Oulu</Name>
+			<Region lang="EN">Oulu</Region>
+			<Destination lang="EN">Oulu, Oulu, Finland</Destination>
+		</City>
+		<City id="36645">
+			<Name lang="EN">Parainen</Name>
+			<Region lang="EN">Parainen</Region>
+			<Destination lang="EN">Parainen, Parainen, Finland</Destination>
+		</City>
+		<City id="29754">
+			<Name lang="EN">Pori</Name>
+			<Region lang="EN">Pori</Region>
+			<Destination lang="EN">Pori, Pori, Finland</Destination>
+		</City>
+		<City id="27100">
+			<Name lang="EN">Rauma</Name>
+			<Region lang="EN">Rauma</Region>
+			<Destination lang="EN">Rauma, Rauma, Finland</Destination>
+		</City>
+		<City id="5686">
+			<Name lang="EN">Riihimaki</Name>
+			<Region lang="EN">Riihimaki</Region>
+			<Destination lang="EN">Riihimaki, Riihimaki, Finland</Destination>
+		</City>
+		<City id="30536">
+			<Name lang="EN">Rovaniemi</Name>
+			<Region lang="EN">Rovaniemi</Region>
+			<Destination lang="EN">Rovaniemi, Rovaniemi, Finland</Destination>
+		</City>
+		<City id="28246">
+			<Name lang="EN">Saariselka</Name>
+			<Region lang="EN">Saariselka</Region>
+			<Destination lang="EN">Saariselka, Saariselka, Finland</Destination>
+		</City>
+		<City id="28602">
+			<Name lang="EN">Seinajoki</Name>
+			<Region lang="EN">Seinajoki</Region>
+			<Destination lang="EN">Seinajoki, Seinajoki, Finland</Destination>
+		</City>
+		<City id="4873">
+			<Name lang="EN">Sinetta</Name>
+			<Region lang="EN">Sinetta</Region>
+			<Destination lang="EN">Sinetta, Sinetta, Finland</Destination>
+		</City>
+		<City id="29179">
+			<Name lang="EN">Tampere</Name>
+			<Region lang="EN">Tampere</Region>
+			<Destination lang="EN">Tampere, Tampere, Finland</Destination>
+		</City>
+		<City id="29867">
+			<Name lang="EN">Turku</Name>
+			<Region lang="EN">Turku</Region>
+			<Destination lang="EN">Turku, Turku, Finland</Destination>
+		</City>
+		<City id="30832">
+			<Name lang="EN">Vaasa</Name>
+			<Region lang="EN">Vaasa</Region>
+			<Destination lang="EN">Vaasa, Vaasa, Finland</Destination>
+		</City>
+		<City id="962">
+			<Name lang="EN">Vantaa</Name>
+			<Region lang="EN">Vantaa</Region>
+			<Destination lang="EN">Vantaa, Vantaa, Finland</Destination>
+		</City>
+		<City id="1210">
+			<Name lang="EN">Vierumaki</Name>
+			<Region lang="EN">Vierumaki</Region>
+			<Destination lang="EN">Vierumaki, Vierumaki, Finland</Destination>
+		</City>
+		<City id="2089">
+			<Name lang="EN">Vuokatti</Name>
+			<Region lang="EN">Vuokatti</Region>
+			<Destination lang="EN">Vuokatti, Vuokatti, Finland</Destination>
+		</City>
+		<City id="3161">
+			<Name lang="EN">Yllas</Name>
+			<Region lang="EN">Yllas</Region>
+			<Destination lang="EN">Yllas, Yllas, Finland</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

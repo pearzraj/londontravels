@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494861" resultcode="0" message="" >
+				<Name><![CDATA[VIBE RUSHCUTTERS]]></Name>
+				<Address>
+					<Address1><![CDATA[  100 Bayswater Road Rushcutters Bay, Sydney,]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.875973</Latitude>
+					<Longitude>151.22911</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8718/32608718.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 2 8353 8999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 2 8353 8988 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

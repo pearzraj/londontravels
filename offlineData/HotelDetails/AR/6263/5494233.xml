@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494233" resultcode="0" message="" >
+				<Name><![CDATA[KING'S HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Corrientes 623,]]></Address1>
+					<Address2><![CDATA[C1043AAG, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1043AAG</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.602818</Latitude>
+					<Longitude>-58.37531</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7518/32607518.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7519/32607519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7520/32607520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7521/32607521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7522/32607522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7523/32607523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7524/32607524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7515/32607515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7516/32607516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7517/32607517.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 4322 8334]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4322 8161 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

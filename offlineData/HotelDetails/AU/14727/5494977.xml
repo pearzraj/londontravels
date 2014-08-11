@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494977" resultcode="0" message="" >
+				<Name><![CDATA[CAPE TRIBULATION RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Cape Tribulation Road Cape Tribulation, Queenslan,]]></Address1>
+					<Address2><![CDATA[Cape Tribulation, Australia]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>86183</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cape Tribulation]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.098072</Latitude>
+					<Longitude>145.45802</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T59000/T59871_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

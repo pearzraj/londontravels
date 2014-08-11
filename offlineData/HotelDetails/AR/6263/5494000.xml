@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494000" resultcode="0" message="" >
+				<Name><![CDATA[ALVEAR PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  AVENIDA ALVEAR 1891,]]></Address1>
+					<Address2><![CDATA[C1129AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1129AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.5877</Latitude>
+					<Longitude>-58.389084</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5311/32605311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5312/32605312.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4804 0034]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(54 11) 4808-2100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493861" resultcode="0" message="" >
+				<Name><![CDATA[ATLANTIS THE PALM]]></Name>
+				<Address>
+					<Address1><![CDATA[  The Crescent The Palm Jumeirah, Dubai Po Box 2112,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.130877</Latitude>
+					<Longitude>55.116695</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53791_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 426 0001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 426 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

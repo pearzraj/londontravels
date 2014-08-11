@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333182" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL CONTINENTAL VORA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Vore Tirana,]]></Address1>
+					<Address2><![CDATA[Tirana, Tirana, Albania]]></Address2>
+					<PostalCode>Tirana</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.394638</Latitude>
+					<Longitude>19.656769</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9821/37299821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9822/37299822.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+355 4 2600238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

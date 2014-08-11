@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339039" resultcode="0" message="" >
+				<Name><![CDATA[ARMANI HOTEL DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o Box 88333,Burj Khalifa, Downtown Dubai Complex,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.264444</Latitude>
+					<Longitude>55.31167</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9901/37129901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9902/37129902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9903/37129903.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9904/37129904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9905/37129905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9906/37129906.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13320_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97148883777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097148883711 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495611" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL WIESLER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Grieskai 4-8,]]></Address1>
+					<Address2><![CDATA[8020, Graz, Austria]]></Address2>
+					<PostalCode>8020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.069378</Latitude>
+					<Longitude>15.43434</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9887/32609887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9888/32609888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9889/32609889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9890/32609890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9891/32609891.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9892/32609892.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9893/32609893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9894/32609894.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9895/32609895.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9896/32609896.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9897/32609897.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9898/32609898.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 316 706676]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 316 70660 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

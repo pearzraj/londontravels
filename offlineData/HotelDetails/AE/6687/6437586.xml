@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6437586" resultcode="0" message="" >
+				<Name><![CDATA[SHANGRI-LA QARYAT AL BERI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Between the bridges,]]></Address1>
+					<Address2><![CDATA[128881, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>128881</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.40667</Latitude>
+					<Longitude>54.490578</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18414_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97125098630 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

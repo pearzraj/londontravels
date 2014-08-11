@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339623" resultcode="0" message="" >
+				<Name><![CDATA[HILTON CURACAO ]]></Name>
+				<Address>
+					<Address1><![CDATA[  John F. Kennedy Boulevard,]]></Address1>
+					<Address2><![CDATA[1, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.121322</Latitude>
+					<Longitude>-68.968346</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6226/37146226.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6227/37146227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6228/37146228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6196/37146196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6197/37146197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6198/37146198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6199/37146199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6200/37146200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6201/37146201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6202/37146202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6203/37146203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6204/37146204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6205/37146205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6206/37146206.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6207/37146207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6208/37146208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6209/37146209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6210/37146210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6229/37146229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6230/37146230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6231/37146231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6232/37146232.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6233/37146233.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6211/37146211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6212/37146212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6213/37146213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6214/37146214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6215/37146215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6216/37146216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6217/37146217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6218/37146218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6219/37146219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6220/37146220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6221/37146221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6224/37146224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6225/37146225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6222/37146222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6223/37146223.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+59 994 625846]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+59 994 625000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

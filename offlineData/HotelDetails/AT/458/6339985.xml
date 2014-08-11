@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339985" resultcode="0" message="" >
+				<Name><![CDATA[ARCOTEL WIMBERGER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Neubauguertel 34-36,]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.18468</Latitude>
+					<Longitude>16.35685</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar and Room-Service We also have .  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar and Room-Service We also have .  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7491/37787491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7492/37787492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7493/37787493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7494/37787494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7495/37787495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7496/37787496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7497/37787497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7498/37787498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7499/37787499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7500/37787500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7483/37787483.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7484/37787484.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7485/37787485.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7486/37787486.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7487/37787487.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7488/37787488.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7489/37787489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7490/37787490.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_32.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_32.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_39.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_12_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13649_1_39.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[004930809475390]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 521 65 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

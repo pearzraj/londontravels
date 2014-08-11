@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493919" resultcode="0" message="" >
+				<Name><![CDATA[REGAL PACIFIC HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  25 de Mayo 764,]]></Address1>
+					<Address2><![CDATA[C1002ABP, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1002ABP</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59886</Latitude>
+					<Longitude>-58.37145</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4531/32604531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4532/32604532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4533/32604533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4534/32604534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4535/32604535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4536/32604536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4537/32604537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4538/32604538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4519/32604519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4520/32604520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4521/32604521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4522/32604522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4523/32604523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4524/32604524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4525/32604525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4526/32604526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4527/32604527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4528/32604528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4529/32604529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4530/32604530.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4310 7001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4310 7000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

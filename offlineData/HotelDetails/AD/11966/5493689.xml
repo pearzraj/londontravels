@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493689" resultcode="0" message="" >
+				<Name><![CDATA[LES CLOSES]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. Carlemany,93]]></Address1>
+					<Address2><![CDATA[AD700, Escaldes-Engordany, Andorra]]></Address2>
+					<PostalCode>AD700</PostalCode>
+					<CityCode>59325</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Escaldes-Engordany]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.5087</Latitude>
+					<Longitude>1.5399299</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It is impossible to resist the charms of this sumptuous 3*** hotel, full of tiny details that make it unique. Of particular note are the panoramic views of the mountain and of the avenue. Its 78 rooms are spaces designed right down to the last detail. Customers can relax in the communal rooms, chatting with friends.   The multilingual staff at reception will be happy to assist you. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Telephone, Central Air Conditioning, Balcony, Central Heating, Terrace, Plasma TV , Hairdryer, Bathtub, Wi-Fi, Internet Connection and 1 , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Smoking Area, Games Room, Billiards and Bar Cafeteria. We also have Multilingual Personnel, Wi-Fi, Tourist Information, Internet Corner, Shops and Garage.  Activities and relax: . Cuisine: Mediterranean. . Credit Cards:  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It is impossible to resist the charms of this sumptuous 3*** hotel, full of tiny details that make it unique. Of particular note are the panoramic views of the mountain and of the avenue. Its 78 rooms are spaces designed right down to the last detail. Customers can relax in the communal rooms, chatting with friends.   The multilingual staff at reception will be happy to assist you. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Telephone, Central Air Conditioning, Balcony, Central Heating, Terrace, Plasma TV , Hairdryer, Bathtub, Wi-Fi, Internet Connection and 1 , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Smoking Area, Games Room, Billiards and Bar Cafeteria. We also have Multilingual Personnel, Wi-Fi, Tourist Information, Internet Corner, Shops and Garage.  Activities and relax: . Cuisine: Mediterranean. . Credit Cards: Euro/Mastercard, Master and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Restaurant]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Other Facilities]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Mountain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Avenue]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Balcony]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Terrace]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Independent Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Carpet]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Hand soap]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shaving Kit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Comb]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Eurosport]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[BBC (UK)]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[TV5]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Kitchen]]></Name>
+						<Description><![CDATA[Mediterranean]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Desk]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Disabled Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Smoking Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Remote Control]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Screen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shampoo]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Bath Gel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shower Hat]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Dental Kit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Internet Connection]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Plasma TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Euronews]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Tve]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[CNN]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Lunch Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Billiards]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Restaurant Bookings]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Gala Restaurant at]]></Name>
+						<Description><![CDATA[New Year]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2996/32602996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2997/32602997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2998/32602998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2999/32602999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3000/32603000.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3001/32603001.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376822968]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376808393 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

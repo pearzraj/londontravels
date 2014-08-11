@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493809" resultcode="0" message="" >
+				<Name><![CDATA[IBIS AL BARSHA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Shiekh Zayed Road, P.o. Box 450011,]]></Address1>
+					<Address2><![CDATA[450011, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>450011</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.93509</Latitude>
+					<Longitude>55.028973</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_12_4.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3772/32603772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3773/32603773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3774/32603774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3775/32603775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3776/32603776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3777/32603777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3778/32603778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3779/32603779.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53801_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 3996669]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 3996699 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

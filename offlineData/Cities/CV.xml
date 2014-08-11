@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CV">
+		<City id="510"> 
+			<Name lang="EN">Sal Rei</Name>
+			<Region lang="EN">Sal Rei</Region>
+			<Destination lang="EN">Sal Rei, Sal Rei, Cape Verde</Destination>
+		</City>
+		<City id="10552">
+			<Name lang="EN">Santa Maria</Name>
+			<Region lang="EN">Santa Maria</Region>
+			<Destination lang="EN">Santa Maria, Santa Maria, Cape Verde</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

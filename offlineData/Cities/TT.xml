@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TT">
+		<City id="10090"> 
+			<Name lang="EN">Black Rock</Name>
+			<Region lang="EN">Black Rock</Region>
+			<Destination lang="EN">Black Rock, Black Rock, Trinidad and Tobago</Destination>
+		</City>
+		<City id="29896">
+			<Name lang="EN">Port of Spain</Name>
+			<Region lang="EN">Port of Spain</Region>
+			<Destination lang="EN">Port of Spain, Port of Spain, Trinidad and Tobago</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

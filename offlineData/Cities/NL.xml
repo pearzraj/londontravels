@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NL">
+		<City id="31632"> 
+			<Name lang="EN">Alkmaar</Name>
+			<Region lang="EN">Alkmaar</Region>
+			<Destination lang="EN">Alkmaar, Alkmaar, Netherlands</Destination>
+		</City>
+		<City id="31744">
+			<Name lang="EN">Amersfoort</Name>
+			<Region lang="EN">Amersfoort</Region>
+			<Destination lang="EN">Amersfoort, Amersfoort, Netherlands</Destination>
+		</City>
+		<City id="31768">
+			<Name lang="EN">Amstelveen</Name>
+			<Region lang="EN">Amstelveen</Region>
+			<Destination lang="EN">Amstelveen, Amstelveen, Netherlands</Destination>
+		</City>
+		<City id="6396">
+			<Name lang="EN">Amsterdam</Name>
+			<Region lang="EN">Amsterdam</Region>
+			<Destination lang="EN">Amsterdam, Amsterdam, Netherlands</Destination>
+		</City>
+		<City id="31848">
+			<Name lang="EN">Apeldoorn</Name>
+			<Region lang="EN">Apeldoorn</Region>
+			<Destination lang="EN">Apeldoorn, Apeldoorn, Netherlands</Destination>
+		</City>
+		<City id="31960">
+			<Name lang="EN">Arnhem</Name>
+			<Region lang="EN">Arnhem</Region>
+			<Destination lang="EN">Arnhem, Arnhem, Netherlands</Destination>
+		</City>
+		<City id="8364">
+			<Name lang="EN">Beetsterzwaag</Name>
+			<Region lang="EN">Beetsterzwaag</Region>
+			<Destination lang="EN">Beetsterzwaag, Beetsterzwaag, Netherlands</Destination>
+		</City>
+		<City id="8986">
+			<Name lang="EN">Best</Name>
+			<Region lang="EN">Best</Region>
+			<Destination lang="EN">Best, Best, Netherlands</Destination>
+		</City>
+		<City id="10147">
+			<Name lang="EN">Bodegraven</Name>
+			<Region lang="EN">Bodegraven</Region>
+			<Destination lang="EN">Bodegraven, Bodegraven, Netherlands</Destination>
+		</City>
+		<City id="7248">
+			<Name lang="EN">Breda</Name>
+			<Region lang="EN">Breda</Region>
+			<Destination lang="EN">Breda, Breda, Netherlands</Destination>
+		</City>
+		<City id="23457">
+			<Name lang="EN">Delft</Name>
+			<Region lang="EN">Delft</Region>
+			<Destination lang="EN">Delft, Delft, Netherlands</Destination>
+		</City>
+		<City id="3492">
+			<Name lang="EN">Eindhoven</Name>
+			<Region lang="EN">Eindhoven</Region>
+			<Destination lang="EN">Eindhoven, Eindhoven, Netherlands</Destination>
+		</City>
+		<City id="10431">
+			<Name lang="EN">Epen</Name>
+			<Region lang="EN">Epen</Region>
+			<Destination lang="EN">Epen, Epen, Netherlands</Destination>
+		</City>
+		<City id="17474">
+			<Name lang="EN">Geldrop</Name>
+			<Region lang="EN">Geldrop</Region>
+			<Destination lang="EN">Geldrop, Geldrop, Netherlands</Destination>
+		</City>
+		<City id="17039">
+			<Name lang="EN">Groningen</Name>
+			<Region lang="EN">Groningen</Region>
+			<Destination lang="EN">Groningen, Groningen, Netherlands</Destination>
+		</City>
+		<City id="20835">
+			<Name lang="EN">Haarlem</Name>
+			<Region lang="EN">Haarlem</Region>
+			<Destination lang="EN">Haarlem, Haarlem, Netherlands</Destination>
+		</City>
+		<City id="22380">
+			<Name lang="EN">Heelsum</Name>
+			<Region lang="EN">Heelsum</Region>
+			<Destination lang="EN">Heelsum, Heelsum, Netherlands</Destination>
+		</City>
+		<City id="22381">
+			<Name lang="EN">Heemskerk</Name>
+			<Region lang="EN">Heemskerk</Region>
+			<Destination lang="EN">Heemskerk, Heemskerk, Netherlands</Destination>
+		</City>
+		<City id="22385">
+			<Name lang="EN">Heerlen</Name>
+			<Region lang="EN">Heerlen</Region>
+			<Destination lang="EN">Heerlen, Heerlen, Netherlands</Destination>
+		</City>
+		<City id="23992">
+			<Name lang="EN">Hoofddorp</Name>
+			<Region lang="EN">Hoofddorp</Region>
+			<Destination lang="EN">Hoofddorp, Hoofddorp, Netherlands</Destination>
+		</City>
+		<City id="24813">
+			<Name lang="EN">IJmuiden</Name>
+			<Region lang="EN">IJmuiden</Region>
+			<Destination lang="EN">IJmuiden, IJmuiden, Netherlands</Destination>
+		</City>
+		<City id="10534">
+			<Name lang="EN">Leiden</Name>
+			<Region lang="EN">Leiden</Region>
+			<Destination lang="EN">Leiden, Leiden, Netherlands</Destination>
+		</City>
+		<City id="17839">
+			<Name lang="EN">Leiderdorp</Name>
+			<Region lang="EN">Leiderdorp</Region>
+			<Destination lang="EN">Leiderdorp, Leiderdorp, Netherlands</Destination>
+		</City>
+		<City id="19557">
+			<Name lang="EN">Lisse</Name>
+			<Region lang="EN">Lisse</Region>
+			<Destination lang="EN">Lisse, Lisse, Netherlands</Destination>
+		</City>
+		<City id="12623">
+			<Name lang="EN">Maastricht</Name>
+			<Region lang="EN">Maastricht</Region>
+			<Destination lang="EN">Maastricht, Maastricht, Netherlands</Destination>
+		</City>
+		<City id="25639">
+			<Name lang="EN">Moerdijk</Name>
+			<Region lang="EN">Moerdijk</Region>
+			<Destination lang="EN">Moerdijk, Moerdijk, Netherlands</Destination>
+		</City>
+		<City id="25704">
+			<Name lang="EN">Monnickendam</Name>
+			<Region lang="EN">Monnickendam</Region>
+			<Destination lang="EN">Monnickendam, Monnickendam, Netherlands</Destination>
+		</City>
+		<City id="9405">
+			<Name lang="EN">Nijmegen</Name>
+			<Region lang="EN">Nijmegen</Region>
+			<Destination lang="EN">Nijmegen, Nijmegen, Netherlands</Destination>
+		</City>
+		<City id="9462">
+			<Name lang="EN">Noordwijkerhout</Name>
+			<Region lang="EN">Noordwijkerhout</Region>
+			<Destination lang="EN">Noordwijkerhout, Noordwijkerhout, Netherlands</Destination>
+		</City>
+		<City id="10280">
+			<Name lang="EN">Nunspeet</Name>
+			<Region lang="EN">Nunspeet</Region>
+			<Destination lang="EN">Nunspeet, Nunspeet, Netherlands</Destination>
+		</City>
+		<City id="13006">
+			<Name lang="EN">Oegstgeest</Name>
+			<Region lang="EN">Oegstgeest</Region>
+			<Destination lang="EN">Oegstgeest, Oegstgeest, Netherlands</Destination>
+		</City>
+		<City id="13853">
+			<Name lang="EN">Oosterbeek</Name>
+			<Region lang="EN">Oosterbeek</Region>
+			<Destination lang="EN">Oosterbeek, Oosterbeek, Netherlands</Destination>
+		</City>
+		<City id="14926">
+			<Name lang="EN">Oss</Name>
+			<Region lang="EN">Oss</Region>
+			<Destination lang="EN">Oss, Oss, Netherlands</Destination>
+		</City>
+		<City id="26018">
+			<Name lang="EN">Purmerend</Name>
+			<Region lang="EN">Purmerend</Region>
+			<Destination lang="EN">Purmerend, Purmerend, Netherlands</Destination>
+		</City>
+		<City id="27712">
+			<Name lang="EN">Rijswijk</Name>
+			<Region lang="EN">Rijswijk</Region>
+			<Destination lang="EN">Rijswijk, Rijswijk, Netherlands</Destination>
+		</City>
+		<City id="30527">
+			<Name lang="EN">Rotterdam</Name>
+			<Region lang="EN">Rotterdam</Region>
+			<Destination lang="EN">Rotterdam, Rotterdam, Netherlands</Destination>
+		</City>
+		<City id="4714">
+			<Name lang="EN">Scheveningen</Name>
+			<Region lang="EN">Scheveningen</Region>
+			<Destination lang="EN">Scheveningen, Scheveningen, Netherlands</Destination>
+		</City>
+		<City id="5152">
+			<Name lang="EN">Soestduinen</Name>
+			<Region lang="EN">Soestduinen</Region>
+			<Destination lang="EN">Soestduinen, Soestduinen, Netherlands</Destination>
+		</City>
+		<City id="366">
+			<Name lang="EN">The Hague</Name>
+			<Region lang="EN">The Hague</Region>
+			<Destination lang="EN">The Hague, The Hague, Netherlands</Destination>
+		</City>
+		<City id="30825">
+			<Name lang="EN">Utrecht</Name>
+			<Region lang="EN">Utrecht</Region>
+			<Destination lang="EN">Utrecht, Utrecht, Netherlands</Destination>
+		</City>
+		<City id="624">
+			<Name lang="EN">Valkenburg</Name>
+			<Region lang="EN">Valkenburg</Region>
+			<Destination lang="EN">Valkenburg, Valkenburg, Netherlands</Destination>
+		</City>
+		<City id="34306">
+			<Name lang="EN">Veldhoven</Name>
+			<Region lang="EN">Veldhoven</Region>
+			<Destination lang="EN">Veldhoven, Veldhoven, Netherlands</Destination>
+		</City>
+		<City id="1080">
+			<Name lang="EN">Waalwijk</Name>
+			<Region lang="EN">Waalwijk</Region>
+			<Destination lang="EN">Waalwijk, Waalwijk, Netherlands</Destination>
+		</City>
+		<City id="2355">
+			<Name lang="EN">Weert</Name>
+			<Region lang="EN">Weert</Region>
+			<Destination lang="EN">Weert, Weert, Netherlands</Destination>
+		</City>
+		<City id="3210">
+			<Name lang="EN">Zaandam</Name>
+			<Region lang="EN">Zaandam</Region>
+			<Destination lang="EN">Zaandam, Zaandam, Netherlands</Destination>
+		</City>
+		<City id="3241">
+			<Name lang="EN">Zandvoort</Name>
+			<Region lang="EN">Zandvoort</Region>
+			<Destination lang="EN">Zandvoort, Zandvoort, Netherlands</Destination>
+		</City>
+		<City id="3290">
+			<Name lang="EN">Zevenaar</Name>
+			<Region lang="EN">Zevenaar</Region>
+			<Destination lang="EN">Zevenaar, Zevenaar, Netherlands</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

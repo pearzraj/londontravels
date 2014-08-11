@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493746" resultcode="0" message="" >
+				<Name><![CDATA[HILTON DUBAI JUMEIRAH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jumeirah Beach Road,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.078836</Latitude>
+					<Longitude>55.134148</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. The following services are offered Currency Exchange and Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Car parker, Tourist Information, Shops, Safe in Reception and Business Centre.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. The following services are offered Currency Exchange and Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Car parker, Tourist Information, Shops, Safe in Reception and Business Centre.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Children´s Park]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3395/32603395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3396/32603396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3379/32603379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3380/32603380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3381/32603381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3382/32603382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3383/32603383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3384/32603384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3385/32603385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3386/32603386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3387/32603387.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_71.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_71.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_74.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_51.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3388/32603388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3389/32603389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3390/32603390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3391/32603391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3392/32603392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3393/32603393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3394/32603394.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_51.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_61.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_61.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_74.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02921_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 399 1112]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143991111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

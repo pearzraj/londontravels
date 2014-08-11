@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338915" resultcode="0" message="" >
+				<Name><![CDATA[AMERICAS BEST VALUE INN]]></Name>
+				<Address>
+					<Address1><![CDATA[  1598 Carlson Boularvard,]]></Address1>
+					<Address2><![CDATA[94804, Richmond, Australia]]></Address2>
+					<PostalCode>94804</PostalCode>
+					<CityCode>86368</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Richmond]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>37.91055</Latitude>
+					<Longitude>-122.31624</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9059/37129059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9060/37129060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9061/37129061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9062/37129062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9063/37129063.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9064/37129064.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 1 510 528 4472]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 518 526 2665 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

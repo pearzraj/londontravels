@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MX">
+		<City id="6692"> 
+			<Name lang="EN">Acapulco</Name>
+			<Region lang="EN">Acapulco</Region>
+			<Destination lang="EN">Acapulco, Acapulco, Mexico</Destination>
+		</City>
+		<City id="10835">
+			<Name lang="EN">Aguascalientes</Name>
+			<Region lang="EN">Aguascalientes</Region>
+			<Destination lang="EN">Aguascalientes, Aguascalientes, Mexico</Destination>
+		</City>
+		<City id="31488">
+			<Name lang="EN">Akumal</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Akumal, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="31852">
+			<Name lang="EN">Apodaca</Name>
+			<Region lang="EN">Apodaca</Region>
+			<Destination lang="EN">Apodaca, Apodaca, Mexico</Destination>
+		</City>
+		<City id="12846">
+			<Name lang="EN">Cabo San Lucas</Name>
+			<Region lang="EN">Baja California South</Region>
+			<Destination lang="EN">Cabo San Lucas, Baja California South, Mexico</Destination>
+		</City>
+		<City id="7784">
+			<Name lang="EN">Campeche</Name>
+			<Region lang="EN">Campeche</Region>
+			<Destination lang="EN">Campeche, Campeche, Mexico</Destination>
+		</City>
+		<City id="7799">
+			<Name lang="EN">Cancun</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Cancun, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="6728">
+			<Name lang="EN">Chetumal</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Chetumal, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="6740">
+			<Name lang="EN">Chichen Itza</Name>
+			<Region lang="EN">Yucatan</Region>
+			<Destination lang="EN">Chichen Itza, Yucatan, Mexico</Destination>
+		</City>
+		<City id="16736">
+			<Name lang="EN">Chihuahua</Name>
+			<Region lang="EN">Chihuahua</Region>
+			<Destination lang="EN">Chihuahua, Chihuahua, Mexico</Destination>
+		</City>
+		<City id="11575">
+			<Name lang="EN">Ciudad Juarez</Name>
+			<Region lang="EN">Chihuahua</Region>
+			<Destination lang="EN">Ciudad Juarez, Chihuahua, Mexico</Destination>
+		</City>
+		<City id="19972">
+			<Name lang="EN">Ciudad Valles</Name>
+			<Region lang="EN">Ciudad Valles</Region>
+			<Destination lang="EN">Ciudad Valles, Ciudad Valles, Mexico</Destination>
+		</City>
+		<City id="6794">
+			<Name lang="EN">Ciudad Victoria</Name>
+			<Region lang="EN">Ciudad Victoria</Region>
+			<Destination lang="EN">Ciudad Victoria, Ciudad Victoria, Mexico</Destination>
+		</City>
+		<City id="20047">
+			<Name lang="EN">Coatzacoalcos</Name>
+			<Region lang="EN">Coatzacoalcos</Region>
+			<Destination lang="EN">Coatzacoalcos, Coatzacoalcos, Mexico</Destination>
+		</City>
+		<City id="11681">
+			<Name lang="EN">Colima</Name>
+			<Region lang="EN">Colima</Region>
+			<Destination lang="EN">Colima, Colima, Mexico</Destination>
+		</City>
+		<City id="21641">
+			<Name lang="EN">Cordoba</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Cordoba, Cordoba, Mexico</Destination>
+		</City>
+		<City id="7913">
+			<Name lang="EN">Cozumel</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Cozumel, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="7447">
+			<Name lang="EN">Cuernavaca</Name>
+			<Region lang="EN">Cuernavaca</Region>
+			<Destination lang="EN">Cuernavaca, Cuernavaca, Mexico</Destination>
+		</City>
+		<City id="11060">
+			<Name lang="EN">Durango</Name>
+			<Region lang="EN">Durango</Region>
+			<Destination lang="EN">Durango, Durango, Mexico</Destination>
+		</City>
+		<City id="9662">
+			<Name lang="EN">El Salto</Name>
+			<Region lang="EN">El Salto</Region>
+			<Destination lang="EN">El Salto, El Salto, Mexico</Destination>
+		</City>
+		<City id="25176">
+			<Name lang="EN">Ensenada</Name>
+			<Region lang="EN">Baja California</Region>
+			<Destination lang="EN">Ensenada, Baja California, Mexico</Destination>
+		</City>
+		<City id="17046">
+			<Name lang="EN">Guadalajara</Name>
+			<Region lang="EN">Guadalajara</Region>
+			<Destination lang="EN">Guadalajara, Guadalajara, Mexico</Destination>
+		</City>
+		<City id="20466">
+			<Name lang="EN">Guanajuato</Name>
+			<Region lang="EN">Guanajuato</Region>
+			<Destination lang="EN">Guanajuato, Guanajuato, Mexico</Destination>
+		</City>
+		<City id="9289">
+			<Name lang="EN">Hermosillo</Name>
+			<Region lang="EN">Sonora</Region>
+			<Destination lang="EN">Hermosillo, Sonora, Mexico</Destination>
+		</City>
+		<City id="23956">
+			<Name lang="EN">Holbox</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Holbox, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="10054">
+			<Name lang="EN">Huatulco</Name>
+			<Region lang="EN">Huatulco</Region>
+			<Destination lang="EN">Huatulco, Huatulco, Mexico</Destination>
+		</City>
+		<City id="15136">
+			<Name lang="EN">Isla Mujeres</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Isla Mujeres, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="17501">
+			<Name lang="EN">Ixtapa/Zihuatanejo</Name>
+			<Region lang="EN">Ixtapa/Zihuatanejo</Region>
+			<Destination lang="EN">Ixtapa/Zihuatanejo, Ixtapa/Zihuatanejo, Mexico</Destination>
+		</City>
+		<City id="29618">
+			<Name lang="EN">Jalapa</Name>
+			<Region lang="EN">Jalapa</Region>
+			<Destination lang="EN">Jalapa, Jalapa, Mexico</Destination>
+		</City>
+		<City id="9927">
+			<Name lang="EN">La Paz</Name>
+			<Region lang="EN">Baja California South</Region>
+			<Destination lang="EN">La Paz, Baja California South, Mexico</Destination>
+		</City>
+		<City id="10449">
+			<Name lang="EN">Lagos de Moreno</Name>
+			<Region lang="EN">Lagos de Moreno</Region>
+			<Destination lang="EN">Lagos de Moreno, Lagos de Moreno, Mexico</Destination>
+		</City>
+		<City id="30343">
+			<Name lang="EN">Lazaro Cardenas</Name>
+			<Region lang="EN">Lazaro Cardenas</Region>
+			<Destination lang="EN">Lazaro Cardenas, Lazaro Cardenas, Mexico</Destination>
+		</City>
+		<City id="10638">
+			<Name lang="EN">Leon-Guanajuato</Name>
+			<Region lang="EN">Leon-Guanajuato</Region>
+			<Destination lang="EN">Leon-Guanajuato, Leon-Guanajuato, Mexico</Destination>
+		</City>
+		<City id="30371">
+			<Name lang="EN">Loreto</Name>
+			<Region lang="EN">Baja California South</Region>
+			<Destination lang="EN">Loreto, Baja California South, Mexico</Destination>
+		</City>
+		<City id="20574">
+			<Name lang="EN">Los Cabos</Name>
+			<Region lang="EN">Los Cabos</Region>
+			<Destination lang="EN">Los Cabos, Los Cabos, Mexico</Destination>
+		</City>
+		<City id="30382">
+			<Name lang="EN">Los Mochis</Name>
+			<Region lang="EN">Sinaloa</Region>
+			<Destination lang="EN">Los Mochis, Sinaloa, Mexico</Destination>
+		</City>
+		<City id="13725">
+			<Name lang="EN">Manzanillo</Name>
+			<Region lang="EN">Manzanillo</Region>
+			<Destination lang="EN">Manzanillo, Manzanillo, Mexico</Destination>
+		</City>
+		<City id="21393">
+			<Name lang="EN">Matamoros</Name>
+			<Region lang="EN">Matamoros</Region>
+			<Destination lang="EN">Matamoros, Matamoros, Mexico</Destination>
+		</City>
+		<City id="15740">
+			<Name lang="EN">Mazatlan</Name>
+			<Region lang="EN">Sinaloa</Region>
+			<Destination lang="EN">Mazatlan, Sinaloa, Mexico</Destination>
+		</City>
+		<City id="15783">
+			<Name lang="EN">Merida</Name>
+			<Region lang="EN">Yucatan</Region>
+			<Destination lang="EN">Merida, Yucatan, Mexico</Destination>
+		</City>
+		<City id="18223">
+			<Name lang="EN">Mexicali</Name>
+			<Region lang="EN">Baja California</Region>
+			<Destination lang="EN">Mexicali, Baja California, Mexico</Destination>
+		</City>
+		<City id="18224">
+			<Name lang="EN">Mexico City</Name>
+			<Region lang="EN">Mexico City</Region>
+			<Destination lang="EN">Mexico City, Mexico City, Mexico</Destination>
+		</City>
+		<City id="17133">
+			<Name lang="EN">Monterrey</Name>
+			<Region lang="EN">Monterrey</Region>
+			<Destination lang="EN">Monterrey, Monterrey, Mexico</Destination>
+		</City>
+		<City id="17163">
+			<Name lang="EN">Morelia</Name>
+			<Region lang="EN">Morelia</Region>
+			<Destination lang="EN">Morelia, Morelia, Mexico</Destination>
+		</City>
+		<City id="26187">
+			<Name lang="EN">Nuevo Laredo</Name>
+			<Region lang="EN">Nuevo Laredo</Region>
+			<Destination lang="EN">Nuevo Laredo, Nuevo Laredo, Mexico</Destination>
+		</City>
+		<City id="26225">
+			<Name lang="EN">Oaxaca</Name>
+			<Region lang="EN">Oaxaca</Region>
+			<Destination lang="EN">Oaxaca, Oaxaca, Mexico</Destination>
+		</City>
+		<City id="18406">
+			<Name lang="EN">Pachuca</Name>
+			<Region lang="EN">Pachuca</Region>
+			<Destination lang="EN">Pachuca, Pachuca, Mexico</Destination>
+		</City>
+		<City id="27415">
+			<Name lang="EN">Palenque</Name>
+			<Region lang="EN">Palenque</Region>
+			<Destination lang="EN">Palenque, Palenque, Mexico</Destination>
+		</City>
+		<City id="20808">
+			<Name lang="EN">Patzcuaro</Name>
+			<Region lang="EN">Patzcuaro</Region>
+			<Destination lang="EN">Patzcuaro, Patzcuaro, Mexico</Destination>
+		</City>
+		<City id="29690">
+			<Name lang="EN">Playa Del Carmen</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Playa Del Carmen, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="29948">
+			<Name lang="EN">Poza Rica</Name>
+			<Region lang="EN">Poza Rica</Region>
+			<Destination lang="EN">Poza Rica, Poza Rica, Mexico</Destination>
+		</City>
+		<City id="30070">
+			<Name lang="EN">Puebla</Name>
+			<Region lang="EN">Puebla</Region>
+			<Destination lang="EN">Puebla, Puebla, Mexico</Destination>
+		</City>
+		<City id="25765">
+			<Name lang="EN">Puerto Aventuras</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Puerto Aventuras, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="30084">
+			<Name lang="EN">Puerto Escondido</Name>
+			<Region lang="EN">Puerto Escondido</Region>
+			<Destination lang="EN">Puerto Escondido, Puerto Escondido, Mexico</Destination>
+		</City>
+		<City id="25791">
+			<Name lang="EN">Puerto Morelos</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Puerto Morelos, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="30097">
+			<Name lang="EN">Puerto Penasco</Name>
+			<Region lang="EN">Sonora</Region>
+			<Destination lang="EN">Puerto Penasco, Sonora, Mexico</Destination>
+		</City>
+		<City id="30103">
+			<Name lang="EN">Puerto Vallarta</Name>
+			<Region lang="EN">Puerto Vallarta</Region>
+			<Destination lang="EN">Puerto Vallarta, Puerto Vallarta, Mexico</Destination>
+		</City>
+		<City id="30262">
+			<Name lang="EN">Queretaro</Name>
+			<Region lang="EN">Queretaro</Region>
+			<Destination lang="EN">Queretaro, Queretaro, Mexico</Destination>
+		</City>
+		<City id="5509">
+			<Name lang="EN">Saltillo</Name>
+			<Region lang="EN">Saltillo</Region>
+			<Destination lang="EN">Saltillo, Saltillo, Mexico</Destination>
+		</City>
+		<City id="30662">
+			<Name lang="EN">San Cristobal de Las Casas</Name>
+			<Region lang="EN">San Cristobal de Las Casas</Region>
+			<Destination lang="EN">San Cristobal de Las Casas, San Cristobal de Las Casas, Mexico</Destination>
+		</City>
+		<City id="6012">
+			<Name lang="EN">San Juan del Rio</Name>
+			<Region lang="EN">San Juan del Rio</Region>
+			<Destination lang="EN">San Juan del Rio, San Juan del Rio, Mexico</Destination>
+		</City>
+		<City id="30681">
+			<Name lang="EN">San Luis Potosi</Name>
+			<Region lang="EN">San Luis Potosi</Region>
+			<Destination lang="EN">San Luis Potosi, San Luis Potosi, Mexico</Destination>
+		</City>
+		<City id="6055">
+			<Name lang="EN">San Miguel de Allende</Name>
+			<Region lang="EN">San Miguel de Allende</Region>
+			<Destination lang="EN">San Miguel de Allende, San Miguel de Allende, Mexico</Destination>
+		</City>
+		<City id="34147">
+			<Name lang="EN">Solidaridad</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Solidaridad, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="29180">
+			<Name lang="EN">Tampico</Name>
+			<Region lang="EN">Tampico</Region>
+			<Destination lang="EN">Tampico, Tampico, Mexico</Destination>
+		</City>
+		<City id="29530">
+			<Name lang="EN">Tijuana</Name>
+			<Region lang="EN">Baja California</Region>
+			<Destination lang="EN">Tijuana, Baja California, Mexico</Destination>
+		</City>
+		<City id="2006">
+			<Name lang="EN">Tlaxcala</Name>
+			<Region lang="EN">Tlaxcala</Region>
+			<Destination lang="EN">Tlaxcala, Tlaxcala, Mexico</Destination>
+		</City>
+		<City id="2030">
+			<Name lang="EN">Toluca</Name>
+			<Region lang="EN">Toluca</Region>
+			<Destination lang="EN">Toluca, Toluca, Mexico</Destination>
+		</City>
+		<City id="29803">
+			<Name lang="EN">Torreon</Name>
+			<Region lang="EN">Torreon</Region>
+			<Destination lang="EN">Torreon, Torreon, Mexico</Destination>
+		</City>
+		<City id="693">
+			<Name lang="EN">Tulum</Name>
+			<Region lang="EN">Quintana Roo</Region>
+			<Destination lang="EN">Tulum, Quintana Roo, Mexico</Destination>
+		</City>
+		<City id="30721">
+			<Name lang="EN">Tuxtla Gutierrez</Name>
+			<Region lang="EN">Tuxtla Gutierrez</Region>
+			<Destination lang="EN">Tuxtla Gutierrez, Tuxtla Gutierrez, Mexico</Destination>
+		</City>
+		<City id="428">
+			<Name lang="EN">Uxmal</Name>
+			<Region lang="EN">Yucatan</Region>
+			<Destination lang="EN">Uxmal, Yucatan, Mexico</Destination>
+		</City>
+		<City id="30890">
+			<Name lang="EN">Veracruz</Name>
+			<Region lang="EN">Veracruz</Region>
+			<Destination lang="EN">Veracruz, Veracruz, Mexico</Destination>
+		</City>
+		<City id="30907">
+			<Name lang="EN">Villahermosa</Name>
+			<Region lang="EN">Villahermosa</Region>
+			<Destination lang="EN">Villahermosa, Villahermosa, Mexico</Destination>
+		</City>
+		<City id="3086">
+			<Name lang="EN">Xalapa</Name>
+			<Region lang="EN">Xalapa</Region>
+			<Destination lang="EN">Xalapa, Xalapa, Mexico</Destination>
+		</City>
+		<City id="31257">
+			<Name lang="EN">Zacatecas</Name>
+			<Region lang="EN">Zacatecas</Region>
+			<Destination lang="EN">Zacatecas, Zacatecas, Mexico</Destination>
+		</City>
+		<City id="3309">
+			<Name lang="EN">Zihuatanejo</Name>
+			<Region lang="EN">Zihuatanejo</Region>
+			<Destination lang="EN">Zihuatanejo, Zihuatanejo, Mexico</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

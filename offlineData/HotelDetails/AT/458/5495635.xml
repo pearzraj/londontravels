@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495635" resultcode="0" message="" >
+				<Name><![CDATA[KAISERIN ELISABETH]]></Name>
+				<Address>
+					<Address1><![CDATA[   Weihburggasse, 3]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20715</Latitude>
+					<Longitude>16.372011</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9095/37259095.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04151_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 515267]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 515260 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

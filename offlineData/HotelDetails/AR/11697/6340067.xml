@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340067" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRAL PLAZA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  moreno 725,]]></Address1>
+					<Address2><![CDATA[9000, Comodoro Rivadavia, Argentina]]></Address2>
+					<PostalCode>9000</PostalCode>
+					<CityCode>86995</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Comodoro Rivadavia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-45.862686</Latitude>
+					<Longitude>-67.476906</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8612/37158612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8613/37158613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8614/37158614.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8615/37158615.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8616/37158616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8617/37158617.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2974472444]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2974472200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

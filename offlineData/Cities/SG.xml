@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SG">
+		<City id="28803"> 
+			<Name lang="EN">Singapore</Name>
+			<Region lang="EN">Singapore</Region>
+			<Destination lang="EN">Singapore, Singapore, Singapore</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

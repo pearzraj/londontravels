@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494039" resultcode="0" message="" >
+				<Name><![CDATA[MONTE DEL PINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Alsina, ]]></Address1>
+					<Address2><![CDATA[7600, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>7600</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.994865</Latitude>
+					<Longitude>-57.5669</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4349/37674349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4350/37674350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4351/37674351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4352/37674352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4353/37674353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4354/37674354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4355/37674355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4348/37674348.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00542234863025]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00542234863025 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

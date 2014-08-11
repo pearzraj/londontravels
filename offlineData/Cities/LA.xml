@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LA">
+		<City id="12304"> 
+			<Name lang="EN">Luang Prabang</Name>
+			<Region lang="EN">Luang Prabang</Region>
+			<Destination lang="EN">Luang Prabang, Luang Prabang, Lao</Destination>
+		</City>
+		<City id="459">
+			<Name lang="EN">Vientiane</Name>
+			<Region lang="EN">Vientiane</Region>
+			<Destination lang="EN">Vientiane, Vientiane, Lao</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

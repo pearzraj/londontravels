@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331813" resultcode="0" message="" >
+				<Name><![CDATA[LOS ÑIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV LOS ÑIRES 3040,]]></Address1>
+					<Address2><![CDATA[0000, Ushuaia, Argentina]]></Address2>
+					<PostalCode>0000</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.83613</Latitude>
+					<Longitude>-68.36198</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Shops.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Shops.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6885/37296885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6886/37296886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6905/37296905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6906/37296906.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6907/37296907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6908/37296908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6887/37296887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6888/37296888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6889/37296889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6890/37296890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6891/37296891.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6892/37296892.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6893/37296893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6894/37296894.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6895/37296895.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6896/37296896.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6897/37296897.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6898/37296898.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6899/37296899.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6900/37296900.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6901/37296901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6902/37296902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6903/37296903.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6904/37296904.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 2901 445173 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

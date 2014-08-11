@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495700" resultcode="0" message="" >
+				<Name><![CDATA[SENATOR HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Hernalserhaupt Strasse,103-105]]></Address1>
+					<Address2><![CDATA[1170, Vienna, Austria]]></Address2>
+					<PostalCode>1170</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.21963</Latitude>
+					<Longitude>16.325737</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9437/37259437.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60866_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60866_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 60580555]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 60580550 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

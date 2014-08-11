@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493682" resultcode="0" message="" >
+				<Name><![CDATA[XALET BRINGUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. El Serrat,]]></Address1>
+					<Address2><![CDATA[AD300, Ordino, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>59327</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ordino]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.61894</Latitude>
+					<Longitude>1.5394</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This hotel provides its guests with those little extras that make their stay and unforgettable experience.  Its rooms have been designed to provide the right environment for a welcome rest. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This hotel provides its guests with those little extras that make their stay and unforgettable experience.  Its rooms have been designed to provide the right environment for a welcome rest. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2944/32602944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2945/32602945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2946/32602946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2947/32602947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2948/32602948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2949/32602949.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+376 850 774]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+376 749 100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

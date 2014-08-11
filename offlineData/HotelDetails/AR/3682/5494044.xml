@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494044" resultcode="0" message="" >
+				<Name><![CDATA[TEHUELCHE]]></Name>
+				<Address>
+					<Address1><![CDATA[  9 DE JULIO 831,]]></Address1>
+					<Address2><![CDATA[9200, Esquel, Argentina]]></Address2>
+					<PostalCode>9200</PostalCode>
+					<CityCode>87020</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Esquel]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-42.91476</Latitude>
+					<Longitude>-71.3235</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, Laundry Service and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, Laundry Service and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4389/37674389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4390/37674390.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(02945) 452420 / 452 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341171" resultcode="0" message="" >
+				<Name><![CDATA[PLAZA SAN MARTIN]]></Name>
+				<Address>
+					<Address1><![CDATA[  SUIPACHA 1092,]]></Address1>
+					<Address2><![CDATA[05000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>05000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.594147</Latitude>
+					<Longitude>-58.380016</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Currency Exchange and Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Vehicle Rental and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Currency Exchange and Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Vehicle Rental and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9644/37119644.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9645/37119645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9646/37119646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9647/37119647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9648/37119648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9649/37119649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9650/37119650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9631/37119631.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9632/37119632.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9633/37119633.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9634/37119634.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9635/37119635.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9636/37119636.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9637/37119637.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9638/37119638.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9639/37119639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9640/37119640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9641/37119641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9642/37119642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9643/37119643.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 1150937000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

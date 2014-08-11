@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335666" resultcode="0" message="" >
+				<Name><![CDATA[ESPLENDOR EL CALAFATE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Juan Domingo Peron 1143,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.34457</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7377/37107377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7378/37107378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7379/37107379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7380/37107380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7381/37107381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7359/37107359.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7360/37107360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7361/37107361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7362/37107362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7363/37107363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7364/37107364.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7365/37107365.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7366/37107366.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7367/37107367.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7368/37107368.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7369/37107369.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7370/37107370.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7371/37107371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7372/37107372.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T45000/T45268_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7374/37107374.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4495/37764495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4496/37764496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7375/37107375.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7376/37107376.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2902 49 6055]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542902492454 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

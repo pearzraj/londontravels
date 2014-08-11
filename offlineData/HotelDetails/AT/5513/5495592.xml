@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495592" resultcode="0" message="" >
+				<Name><![CDATA[ARENA CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Am Messezentrum,2]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.82214</Latitude>
+					<Longitude>13.02787</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9785/32609785.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00513_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662 43551095]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043662 4355460 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493589" resultcode="0" message="" >
+				<Name><![CDATA[LA SOLANA DE RANSOL APARTAMENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Ransol, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>62367</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ransol]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.58024</Latitude>
+					<Longitude>1.64767</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The LA SOLANA DE RANSOL APARTAMENTOS are a first-class family destination. With children¿s play areas and rest areas for the parents. Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. Among the offers from the kitchen you will find Vitroceramic, Refrigerator and Microwave Advice to tourists and information about basic services provided. We also have Games Room. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The apartments have Central Heating, TV, Lounge-Diner, Sofa Bed, Kitchen, Refrigerator, Microwave, Bathtub, Towels and Wi-Fi , and among our services and facilities available we have Lifts, Heating, Games Room and Games Machines . We also have Currency Exchange, 24/24 Reception and Tourist Information. Credit Cards: Visa.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The LA SOLANA DE RANSOL APARTAMENTOS are a first-class family destination. With children¿s play areas and rest areas for the parents. Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. Among the offers from the kitchen you will find Vitroceramic, Refrigerator and Microwave Advice to tourists and information about basic services provided. We also have Games Room. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The apartments have Central Heating, TV, Lounge-Diner, Sofa Bed, Kitchen, Refrigerator, Microwave, Bathtub, Towels and Wi-Fi , and among our services and facilities available we have Lifts, Heating, Games Room and Games Machines . We also have Currency Exchange, 24/24 Reception and Tourist Information. Credit Cards: Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Apartment Security]]></Name>
+						<Description><![CDATA[Manual Lock]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Lounge-Diner]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Kitchen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Vitroceramic]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Microwave]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Refrigerator]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Electric Stove]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376852902]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376853003 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

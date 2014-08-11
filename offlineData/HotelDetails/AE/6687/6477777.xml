@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6477777" resultcode="0" message="" >
+				<Name><![CDATA[MIRFA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Mirfa St., Al Marfa City, Western Region, Abu Dha,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.09955</Latitude>
+					<Longitude>53.480644</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20671_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20671_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

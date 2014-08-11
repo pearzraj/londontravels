@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331659" resultcode="0" message="" >
+				<Name><![CDATA[CITY SEASON HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Maktoum Road Port Saeed Street,]]></Address1>
+					<Address2><![CDATA[182002, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>182002</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.255875</Latitude>
+					<Longitude>55.332985</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6580/37296580.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6581/37296581.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6582/37296582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6583/37296583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6584/37296584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6585/37296585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6586/37296586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6587/37296587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6588/37296588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6589/37296589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6590/37296590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6591/37296591.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09746_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09746_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09746_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09746_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 294 2888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 294 2777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

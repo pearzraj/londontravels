@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494193" resultcode="0" message="" >
+				<Name><![CDATA[EMBASSY ALL SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Cordoba, 860]]></Address1>
+					<Address2><![CDATA[1054, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1054</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.6</Latitude>
+					<Longitude>-58.38</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Laundry Service We also have Porters and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Laundry Service We also have Porters and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7091/32607091.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7092/32607092.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7093/32607093.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7094/32607094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7095/32607095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7096/32607096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7097/32607097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7098/32607098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7099/32607099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7100/32607100.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 43221228 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

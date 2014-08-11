@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334655" resultcode="0" message="" >
+				<Name><![CDATA[ARCOTEL KAISERWASSER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Wagramerstraße,8]]></Address1>
+					<Address2><![CDATA[1160, Vienna, Austria]]></Address2>
+					<PostalCode>1160</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20527</Latitude>
+					<Longitude>16.33651</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1500/37301500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1501/37301501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1502/37301502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1503/37301503.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/428/37150428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/429/37150429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/430/37150430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/431/37150431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/432/37150432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/433/37150433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/434/37150434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/435/37150435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/436/37150436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/437/37150437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9340/42869340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9341/42869341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9342/42869342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9343/42869343.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43 1 224 24 710]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43 1 22424 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341657" resultcode="0" message="" >
+				<Name><![CDATA[CENTRO AL MANHAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Street no. 2, Airport Road, P.O.Box 109595,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.467855</Latitude>
+					<Longitude>54.372967</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4852/37134852.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4853/37134853.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4854/37134854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4855/37134855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4856/37134856.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4857/37134857.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4858/37134858.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4859/37134859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4860/37134860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4861/37134861.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 2 8115100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 8115000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

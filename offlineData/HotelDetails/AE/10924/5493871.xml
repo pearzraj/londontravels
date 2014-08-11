@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493871" resultcode="0" message="" >
+				<Name><![CDATA[JAL FUJAIRAH RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.O. Box 12590,]]></Address1>
+					<Address2><![CDATA[1, Fujairah, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>78897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Fujairah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.6019</Latitude>
+					<Longitude>56.3381</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Car parker.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Car parker.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4157/32604157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4158/32604158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4159/32604159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4160/32604160.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4161/32604161.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4162/32604162.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4163/32604163.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4164/32604164.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4165/32604165.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4166/32604166.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 9 244 9777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 9 244 9700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

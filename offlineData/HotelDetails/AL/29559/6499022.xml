@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499022" resultcode="0" message="" >
+				<Name><![CDATA[THE ROOMS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rruga Sami Frasheri,56 - Kompleksi,]]></Address1>
+					<Address2><![CDATA[Tirana, Tirana, Albania]]></Address2>
+					<PostalCode>Tirana</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.33165</Latitude>
+					<Longitude>19.83179</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20799_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20799_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[35545550501 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

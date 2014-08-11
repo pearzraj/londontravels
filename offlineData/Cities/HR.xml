@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="HR">
+		<City id="32455"> 
+			<Name lang="EN">Baska Voda</Name>
+			<Region lang="EN">Baska Voda</Region>
+			<Destination lang="EN">Baska Voda, Baska Voda, Croatia</Destination>
+		</City>
+		<City id="9577">
+			<Name lang="EN">Biograd na Moru</Name>
+			<Region lang="EN">Biograd na Moru</Region>
+			<Destination lang="EN">Biograd na Moru, Biograd na Moru, Croatia</Destination>
+		</City>
+		<City id="12213">
+			<Name lang="EN">Brac Island</Name>
+			<Region lang="EN">Brac Island</Region>
+			<Destination lang="EN">Brac Island, Brac Island, Croatia</Destination>
+		</City>
+		<City id="12370">
+			<Name lang="EN">Brela</Name>
+			<Region lang="EN">Brela</Region>
+			<Destination lang="EN">Brela, Brela, Croatia</Destination>
+		</City>
+		<City id="17298">
+			<Name lang="EN">Cavtat</Name>
+			<Region lang="EN">Cavtat</Region>
+			<Destination lang="EN">Cavtat, Cavtat, Croatia</Destination>
+		</City>
+		<City id="19080">
+			<Name lang="EN">Dubrovnik</Name>
+			<Region lang="EN">Dubrovnik</Region>
+			<Destination lang="EN">Dubrovnik, Dubrovnik, Croatia</Destination>
+		</City>
+		<City id="8776">
+			<Name lang="EN">Dugopolje</Name>
+			<Region lang="EN">Dugopolje</Region>
+			<Destination lang="EN">Dugopolje, Dugopolje, Croatia</Destination>
+		</City>
+		<City id="24781">
+			<Name lang="EN">Hvar island</Name>
+			<Region lang="EN">Hvar island</Region>
+			<Destination lang="EN">Hvar island, Hvar island, Croatia</Destination>
+		</City>
+		<City id="13268">
+			<Name lang="EN">Korcula</Name>
+			<Region lang="EN">Korcula</Region>
+			<Destination lang="EN">Korcula, Korcula, Croatia</Destination>
+		</City>
+		<City id="13269">
+			<Name lang="EN">Korenica</Name>
+			<Region lang="EN">Korenica</Region>
+			<Destination lang="EN">Korenica, Korenica, Croatia</Destination>
+		</City>
+		<City id="13992">
+			<Name lang="EN">Krk Island</Name>
+			<Region lang="EN">Krk Island</Region>
+			<Destination lang="EN">Krk Island, Krk Island, Croatia</Destination>
+		</City>
+		<City id="20652">
+			<Name lang="EN">Lumbarda</Name>
+			<Region lang="EN">Lumbarda</Region>
+			<Destination lang="EN">Lumbarda, Lumbarda, Croatia</Destination>
+		</City>
+		<City id="12696">
+			<Name lang="EN">Mali Losinj</Name>
+			<Region lang="EN">Mali Losinj</Region>
+			<Destination lang="EN">Mali Losinj, Mali Losinj, Croatia</Destination>
+		</City>
+		<City id="24138">
+			<Name lang="EN">Medulin</Name>
+			<Region lang="EN">Medulin</Region>
+			<Destination lang="EN">Medulin, Medulin, Croatia</Destination>
+		</City>
+		<City id="25622">
+			<Name lang="EN">Mlini</Name>
+			<Region lang="EN">Mlini</Region>
+			<Destination lang="EN">Mlini, Mlini, Croatia</Destination>
+		</City>
+		<City id="33608">
+			<Name lang="EN">Mljet Island</Name>
+			<Region lang="EN">Mljet Island</Region>
+			<Destination lang="EN">Mljet Island, Mljet Island, Croatia</Destination>
+		</City>
+		<City id="9768">
+			<Name lang="EN">Novi Vinodolski</Name>
+			<Region lang="EN">Novi Vinodolski</Region>
+			<Destination lang="EN">Novi Vinodolski, Novi Vinodolski, Croatia</Destination>
+		</City>
+		<City id="13089">
+			<Name lang="EN">Omis</Name>
+			<Region lang="EN">Omis</Region>
+			<Destination lang="EN">Omis, Omis, Croatia</Destination>
+		</City>
+		<City id="13857">
+			<Name lang="EN">Opatija</Name>
+			<Region lang="EN">Opatija</Region>
+			<Destination lang="EN">Opatija, Opatija, Croatia</Destination>
+		</City>
+		<City id="13880">
+			<Name lang="EN">Orasac</Name>
+			<Region lang="EN">Orasac</Region>
+			<Destination lang="EN">Orasac, Orasac, Croatia</Destination>
+		</City>
+		<City id="13891">
+			<Name lang="EN">Orebic</Name>
+			<Region lang="EN">Orebic</Region>
+			<Destination lang="EN">Orebic, Orebic, Croatia</Destination>
+		</City>
+		<City id="26629">
+			<Name lang="EN">Osijek</Name>
+			<Region lang="EN">Osijek</Region>
+			<Destination lang="EN">Osijek, Osijek, Croatia</Destination>
+		</City>
+		<City id="18422">
+			<Name lang="EN">Pag Island</Name>
+			<Region lang="EN">Pag Island</Region>
+			<Destination lang="EN">Pag Island, Pag Island, Croatia</Destination>
+		</City>
+		<City id="24423">
+			<Name lang="EN">Plat</Name>
+			<Region lang="EN">Plat</Region>
+			<Destination lang="EN">Plat, Plat, Croatia</Destination>
+		</City>
+		<City id="24481">
+			<Name lang="EN">Plitvice</Name>
+			<Region lang="EN">Plitvice</Region>
+			<Destination lang="EN">Plitvice, Plitvice, Croatia</Destination>
+		</City>
+		<City id="24511">
+			<Name lang="EN">Podstrana</Name>
+			<Region lang="EN">Podstrana</Region>
+			<Destination lang="EN">Podstrana, Podstrana, Croatia</Destination>
+		</City>
+		<City id="35421">
+			<Name lang="EN">Pomena</Name>
+			<Region lang="EN">Pomena</Region>
+			<Destination lang="EN">Pomena, Pomena, Croatia</Destination>
+		</City>
+		<City id="24730">
+			<Name lang="EN">Porec</Name>
+			<Region lang="EN">Porec</Region>
+			<Destination lang="EN">Porec, Porec, Croatia</Destination>
+		</City>
+		<City id="25724">
+			<Name lang="EN">Primosten</Name>
+			<Region lang="EN">Primosten</Region>
+			<Destination lang="EN">Primosten, Primosten, Croatia</Destination>
+		</City>
+		<City id="30110">
+			<Name lang="EN">Pula</Name>
+			<Region lang="EN">Pula</Region>
+			<Destination lang="EN">Pula, Pula, Croatia</Destination>
+		</City>
+		<City id="1517">
+			<Name lang="EN">Punat</Name>
+			<Region lang="EN">Punat</Region>
+			<Destination lang="EN">Punat, Punat, Croatia</Destination>
+		</City>
+		<City id="26276">
+			<Name lang="EN">Rabac</Name>
+			<Region lang="EN">Rabac</Region>
+			<Destination lang="EN">Rabac, Rabac, Croatia</Destination>
+		</City>
+		<City id="30424">
+			<Name lang="EN">Rijeka</Name>
+			<Region lang="EN">Rijeka</Region>
+			<Destination lang="EN">Rijeka, Rijeka, Croatia</Destination>
+		</City>
+		<City id="28070">
+			<Name lang="EN">Rovinj</Name>
+			<Region lang="EN">Rovinj</Region>
+			<Destination lang="EN">Rovinj, Rovinj, Croatia</Destination>
+		</City>
+		<City id="4682">
+			<Name lang="EN">Savudrija</Name>
+			<Region lang="EN">Savudrija</Region>
+			<Destination lang="EN">Savudrija, Savudrija, Croatia</Destination>
+		</City>
+		<City id="5029">
+			<Name lang="EN">Selce</Name>
+			<Region lang="EN">Selce</Region>
+			<Destination lang="EN">Selce, Selce, Croatia</Destination>
+		</City>
+		<City id="4499">
+			<Name lang="EN">Sibenik</Name>
+			<Region lang="EN">Sibenik</Region>
+			<Destination lang="EN">Sibenik, Sibenik, Croatia</Destination>
+		</City>
+		<City id="5375">
+			<Name lang="EN">Solin</Name>
+			<Region lang="EN">Solin</Region>
+			<Destination lang="EN">Solin, Solin, Croatia</Destination>
+		</City>
+		<City id="28902">
+			<Name lang="EN">Split</Name>
+			<Region lang="EN">Split</Region>
+			<Destination lang="EN">Split, Split, Croatia</Destination>
+		</City>
+		<City id="5248">
+			<Name lang="EN">Supetar</Name>
+			<Region lang="EN">Supetar</Region>
+			<Destination lang="EN">Supetar, Supetar, Croatia</Destination>
+		</City>
+		<City id="2656">
+			<Name lang="EN">Tar</Name>
+			<Region lang="EN">Tar</Region>
+			<Destination lang="EN">Tar, Tar, Croatia</Destination>
+		</City>
+		<City id="2750">
+			<Name lang="EN">Trogir</Name>
+			<Region lang="EN">Trogir</Region>
+			<Destination lang="EN">Trogir, Trogir, Croatia</Destination>
+		</City>
+		<City id="3382">
+			<Name lang="EN">Tucepi</Name>
+			<Region lang="EN">Tucepi</Region>
+			<Destination lang="EN">Tucepi, Tucepi, Croatia</Destination>
+		</City>
+		<City id="291">
+			<Name lang="EN">Ubli (Lastovo)</Name>
+			<Region lang="EN">Ubli (Lastovo)</Region>
+			<Destination lang="EN">Ubli (Lastovo), Ubli (Lastovo), Croatia</Destination>
+		</City>
+		<City id="1925">
+			<Name lang="EN">Vodice</Name>
+			<Region lang="EN">Vodice</Region>
+			<Destination lang="EN">Vodice, Vodice, Croatia</Destination>
+		</City>
+		<City id="2079">
+			<Name lang="EN">Vrsar</Name>
+			<Region lang="EN">Vrsar</Region>
+			<Destination lang="EN">Vrsar, Vrsar, Croatia</Destination>
+		</City>
+		<City id="31259">
+			<Name lang="EN">Zadar</Name>
+			<Region lang="EN">Zadar</Region>
+			<Destination lang="EN">Zadar, Zadar, Croatia</Destination>
+		</City>
+		<City id="31260">
+			<Name lang="EN">Zagreb</Name>
+			<Region lang="EN">Zagreb</Region>
+			<Destination lang="EN">Zagreb, Zagreb, Croatia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

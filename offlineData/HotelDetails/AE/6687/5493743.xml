@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493743" resultcode="0" message="" >
+				<Name><![CDATA[YAS VICEROY]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o. Box 131808,]]></Address1>
+					<Address2><![CDATA[00001, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.444023</Latitude>
+					<Longitude>54.418716</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53784_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 6560001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 6560000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

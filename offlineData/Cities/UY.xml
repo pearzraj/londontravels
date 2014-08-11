@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="UY">
+		<City id="21067"> 
+			<Name lang="EN">Colonia del Sacramento</Name>
+			<Region lang="EN">Colonia del Sacramento</Region>
+			<Destination lang="EN">Colonia del Sacramento, Colonia del Sacramento, Uruguay</Destination>
+		</City>
+		<City id="17136">
+			<Name lang="EN">Montevideo</Name>
+			<Region lang="EN">Montevideo</Region>
+			<Destination lang="EN">Montevideo, Montevideo, Uruguay</Destination>
+		</City>
+		<City id="30124">
+			<Name lang="EN">Punta del Este</Name>
+			<Region lang="EN">Punta del Este</Region>
+			<Destination lang="EN">Punta del Este, Punta del Este, Uruguay</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

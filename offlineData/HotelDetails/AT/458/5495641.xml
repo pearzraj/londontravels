@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495641" resultcode="0" message="" >
+				<Name><![CDATA[ACADEMIA HOTEL VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Pfeilgasse, 3A]]></Address1>
+					<Address2><![CDATA[1080, Vienna, Austria]]></Address2>
+					<PostalCode>1080</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20828</Latitude>
+					<Longitude>16.347248</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9128/37259128.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9129/37259129.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02875_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02875_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02875_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02875_1_8.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9116/37259116.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9117/37259117.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9118/37259118.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9119/37259119.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9120/37259120.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9121/37259121.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9122/37259122.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9123/37259123.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9124/37259124.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9125/37259125.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9126/37259126.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9127/37259127.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043-1-4017620]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-1-4017655 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

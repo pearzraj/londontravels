@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334144" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN EXPRESS DUBAI-JUMEIRAH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jumeirah Road,p.o. Box 71256,]]></Address1>
+					<Address2><![CDATA[00000, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.241272</Latitude>
+					<Longitude>55.27052</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/939/37140939.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/940/37140940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/941/37140941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/942/37140942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/943/37140943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/944/37140944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/945/37140945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/946/37140946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/947/37140947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/948/37140948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/935/37140935.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/936/37140936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/949/37140949.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/950/37140950.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/937/37140937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/938/37140938.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08339_12_12.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97144071666]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97144071777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

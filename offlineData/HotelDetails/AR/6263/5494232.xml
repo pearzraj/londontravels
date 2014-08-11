@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494232" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON LIBERTADOR]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Cordoba 690,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.598534</Latitude>
+					<Longitude>-58.37667</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7495/32607495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7496/32607496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7497/32607497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7498/32607498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7499/32607499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7500/32607500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7501/32607501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7502/32607502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7503/32607503.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7504/32607504.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7505/32607505.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7493/32607493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7494/32607494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7506/32607506.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7507/32607507.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7508/32607508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7509/32607509.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7510/32607510.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7511/32607511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7512/32607512.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7513/32607513.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7514/32607514.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4322 9703]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4321 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

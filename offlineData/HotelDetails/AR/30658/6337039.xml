@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337039" resultcode="0" message="" >
+				<Name><![CDATA[VILLA SOFIA RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida de los Pioneros 200,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.144535</Latitude>
+					<Longitude>-71.31809</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9828/37779828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9829/37779829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9802/37779802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9803/37779803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9804/37779804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9805/37779805.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9806/37779806.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9807/37779807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9808/37779808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9827/37779827.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2944 433 909]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2944 433 909 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

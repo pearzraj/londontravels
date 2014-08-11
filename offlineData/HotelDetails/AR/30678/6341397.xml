@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341397" resultcode="0" message="" >
+				<Name><![CDATA[GRAN HOTEL SAN LUIS]]></Name>
+				<Address>
+					<Address1><![CDATA[   Avenida Illia 470,]]></Address1>
+					<Address2><![CDATA[5700, San Luis, Argentina]]></Address2>
+					<PostalCode>5700</PostalCode>
+					<CityCode>83345</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Luis]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.315613</Latitude>
+					<Longitude>-66.34805</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and 24/24 Room-Service  We also have Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and 24/24 Room-Service  We also have Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7183/37127183.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42919_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7185/37127185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7186/37127186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7187/37127187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7188/37127188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7189/37127189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7190/37127190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7191/37127191.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542652425049]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542652425049 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

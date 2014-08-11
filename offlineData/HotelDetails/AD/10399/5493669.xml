@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493669" resultcode="0" message="" >
+				<Name><![CDATA[LA SOLANA APARTAMENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. dels Cortals,s/n]]></Address1>
+					<Address2><![CDATA[AD200, Encamp, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59324</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Encamp]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.53404</Latitude>
+					<Longitude>1.59216</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This hotel, located at the foot of the slopes, offers a fantastic traditional après-ski ambience of mountain hotels. Of particular note are the panoramic views of the mountain. Its 60rooms have been designed to provide a well-deserved rest after a day in the snow. Ski storage area available. We also have Games Room. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Balcony, Central Heating, Bathtub, Wi-Fi and Internet Connection , and among our services and facilities available we have Lifts, Heating, Smoking Area, Cot, Games Machines and Games Room. We also have Airport Shuttle , Ski Room, Wi-Fi, Internet Corner and Garage.  Activities and relax: Skiing, Quads, Rafting, Bicycles, Kayak, Trekking, Horse ride and Archery. Cuisine: . Pets allowed. Credit Cards: American Expres, Euro/Mastercard and Visa.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This hotel, located at the foot of the slopes, offers a fantastic traditional après-ski ambience of mountain hotels. Of particular note are the panoramic views of the mountain. Its 60rooms have been designed to provide a well-deserved rest after a day in the snow. Ski storage area available. We also have Games Room. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Balcony, Central Heating, Bathtub, Wi-Fi and Internet Connection , and among our services and facilities available we have Lifts, Heating, Smoking Area, Cot, Games Machines and Games Room. We also have Airport Shuttle , Ski Room, Wi-Fi, Internet Corner and Garage.  Activities and relax: Skiing, Quads, Rafting, Bicycles, Kayak, Trekking, Horse ride and Archery. Cuisine: . Pets allowed. Credit Cards: American Expres, Euro/Mastercard and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1600</CheckInTime>
+					<CheckOutTime>1000</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Restaurant]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Other Facilities]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Mountain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Latex]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Balcony]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Lounge Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Sofa Bed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Bicycles]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Quads]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Skiing]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Additional Beds]]></Name>
+						<Description><![CDATA[Only for Children]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Horse ride]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Archery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Lounges]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Lift Direct to Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Smoking Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Rafting]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Internet Connection]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ski Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Trekking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Machines]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Shuttle]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Guided Tours]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Kayak]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_12.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2808/32602808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2809/32602809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2810/32602810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2811/32602811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2812/32602812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2813/32602813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2814/32602814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2815/32602815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2816/32602816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2817/32602817.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCLAS_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376875876]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376875875 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

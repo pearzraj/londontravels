@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337327" resultcode="0" message="" >
+				<Name><![CDATA[TIRANA INTERNATIONAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  SCANDERBEG SQUARE, BUILD.8, ENTR.1,]]></Address1>
+					<Address2><![CDATA[1001, Tirana, Albania]]></Address2>
+					<PostalCode>1001</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.329895</Latitude>
+					<Longitude>19.818611</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8279/37148279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8280/37148280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8281/37148281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8282/37148282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8283/37148283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8284/37148284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8285/37148285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8286/37148286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8287/37148287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8288/37148288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8289/37148289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8290/37148290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8291/37148291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8292/37148292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8293/37148293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8294/37148294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8295/37148295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8296/37148296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8297/37148297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8298/37148298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8275/37148275.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8276/37148276.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8277/37148277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8278/37148278.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[3811 8200 760 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

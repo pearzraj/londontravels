@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BZ">
+		<City id="18666"> 
+			<Name lang="EN">Belize City</Name>
+			<Region lang="EN">Belize City</Region>
+			<Destination lang="EN">Belize City, Belize City, Belize</Destination>
+		</City>
+		<City id="7028">
+			<Name lang="EN">Belmopan</Name>
+			<Region lang="EN">Belmopan</Region>
+			<Destination lang="EN">Belmopan, Belmopan, Belize</Destination>
+		</City>
+		<City id="6497">
+			<Name lang="EN">Caye Caulker</Name>
+			<Region lang="EN">Caye Caulker</Region>
+			<Destination lang="EN">Caye Caulker, Caye Caulker, Belize</Destination>
+		</City>
+		<City id="26948">
+			<Name lang="EN">Maskall Village</Name>
+			<Region lang="EN">Maskall Village</Region>
+			<Destination lang="EN">Maskall Village, Maskall Village, Belize</Destination>
+		</City>
+		<City id="29682">
+			<Name lang="EN">Placencia</Name>
+			<Region lang="EN">Placencia</Region>
+			<Destination lang="EN">Placencia, Placencia, Belize</Destination>
+		</City>
+		<City id="30125">
+			<Name lang="EN">Punta Gorda</Name>
+			<Region lang="EN">Punta Gorda</Region>
+			<Destination lang="EN">Punta Gorda, Punta Gorda, Belize</Destination>
+		</City>
+		<City id="26963">
+			<Name lang="EN">San Ignacio</Name>
+			<Region lang="EN">San Ignacio</Region>
+			<Destination lang="EN">San Ignacio, San Ignacio, Belize</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

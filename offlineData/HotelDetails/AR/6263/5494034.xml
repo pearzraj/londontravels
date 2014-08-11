@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494034" resultcode="0" message="" >
+				<Name><![CDATA[SALLES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Cerrito 208 and Pte. Peron, ]]></Address1>
+					<Address2><![CDATA[C1010WAF, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1010WAF</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.605556</Latitude>
+					<Longitude>-58.382496</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4324/37674324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4325/37674325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4314/37674314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4315/37674315.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4316/37674316.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4317/37674317.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4318/37674318.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4319/37674319.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4320/37674320.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4321/37674321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4322/37674322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4323/37674323.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4382 0754]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4382 0090 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

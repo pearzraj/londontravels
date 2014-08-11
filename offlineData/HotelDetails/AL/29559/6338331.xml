@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338331" resultcode="0" message="" >
+				<Name><![CDATA[CITY HOTEL TIRANA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rruga Ismail Qemali, Nr 8/1,]]></Address1>
+					<Address2><![CDATA[355, Tirana, Albania]]></Address2>
+					<PostalCode>355</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.32218</Latitude>
+					<Longitude>19.8242</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2836/37112836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2837/37112837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9042/41119042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9043/41119043.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[35542247799 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

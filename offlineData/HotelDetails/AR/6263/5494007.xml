@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494007" resultcode="0" message="" >
+				<Name><![CDATA[ARGENTINA TANGO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Suipacha 545,]]></Address1>
+					<Address2><![CDATA[1008, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1008</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.601547</Latitude>
+					<Longitude>-58.37933</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4022/37674022.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4023/37674023.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4024/37674024.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4025/37674025.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4026/37674026.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4015/37674015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4016/37674016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4017/37674017.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4018/37674018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4019/37674019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4020/37674020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4021/37674021.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 4327 0437]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 4322 34 34 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

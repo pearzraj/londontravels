@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493958" resultcode="0" message="" >
+				<Name><![CDATA[LE VILLAGE]]></Name>
+				<Address>
+					<Address1><![CDATA[  TTE. GRAL. ROCA 816,]]></Address1>
+					<Address2><![CDATA[8370, San Martin De Los Andes, Argentina]]></Address2>
+					<PostalCode>8370</PostalCode>
+					<CityCode>83348</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Martin De Los Andes]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-40.155834</Latitude>
+					<Longitude>-71.351364</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4909/32604909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4910/32604910.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(02972)427698/427120 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

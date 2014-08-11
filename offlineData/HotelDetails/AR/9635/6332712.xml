@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332712" resultcode="0" message="" >
+				<Name><![CDATA[ESTANCIA LA QUINTA]]></Name>
+				<Address>
+					<Address1><![CDATA[  9301 El Chalten Santa Cruz Patagonia,]]></Address1>
+					<Address2><![CDATA[1, El Chalten, Argentina]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82081</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Chalten]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-49.49132</Latitude>
+					<Longitude>-72.647095</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Library]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7842/37097842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7843/37097843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7844/37097844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7845/37097845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7846/37097846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7847/37097847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7848/37097848.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7849/37097849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7850/37097850.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7851/37097851.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0064]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542962493012 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

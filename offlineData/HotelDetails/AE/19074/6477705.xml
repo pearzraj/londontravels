@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6477705" resultcode="0" message="" >
+				<Name><![CDATA[EWA  HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Khaleej Road; Al Baraha; Deira Dubai,]]></Address1>
+					<Address2><![CDATA[93499, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>93499</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.290512</Latitude>
+					<Longitude>55.325172</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20676_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20676_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 9714-2343423 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

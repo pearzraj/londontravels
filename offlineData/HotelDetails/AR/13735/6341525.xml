@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341525" resultcode="0" message="" >
+				<Name><![CDATA[GRAN HOTEL MIGLIERINA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Belgrano 2367,]]></Address1>
+					<Address2><![CDATA[Mar Del, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>Mar Del</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-38.00202</Latitude>
+					<Longitude>-57.546127</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7981/37127981.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7976/37127976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7977/37127977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7978/37127978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7979/37127979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7980/37127980.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541140320479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541152357238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

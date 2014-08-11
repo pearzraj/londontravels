@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LK">
+		<City id="11689"> 
+			<Name lang="EN">Colombo</Name>
+			<Region lang="EN">Colombo</Region>
+			<Destination lang="EN">Colombo, Colombo, Sri Lanka</Destination>
+		</City>
+		<City id="28281">
+			<Name lang="EN">Negombo</Name>
+			<Region lang="EN">Negombo</Region>
+			<Destination lang="EN">Negombo, Negombo, Sri Lanka</Destination>
+		</City>
+		<City id="3398">
+			<Name lang="EN">Tangalle</Name>
+			<Region lang="EN">Tangalle</Region>
+			<Destination lang="EN">Tangalle, Tangalle, Sri Lanka</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

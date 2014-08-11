@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331440" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL DIPLOMAT  FASHION]]></Name>
+				<Address>
+					<Address1><![CDATA[  RR. IRFAN TOMINI  Albania,]]></Address1>
+					<Address2><![CDATA[Tirana, Tirana, Albania]]></Address2>
+					<PostalCode>Tirana</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.329</Latitude>
+					<Longitude>19.81822</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The HOTEL DIPLOMAT  FASHION in Tirana offers a comfortable setting, always aimed at customer satisfaction.  Fitted with Wi-Fi Internet access. We offer Breakfast Service. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Telephone, TV, Satellite / Cable TV , Balcony, Hifi Unit, Hairdryer, Slippers, Minibar, 24/24 Room-Service , Laundry Service, Wi-Fi, Radio, Room-Service, Selection of Teas and Coffees  and Safe , and among our services and facilities available we have Air Conditioning, Lifts, Smoking Area, Bar Cafeteria and Garden. We also have Multilingual Personnel, Car parker, Wi-Fi and Safe in Reception.  Activities and relax: . Cuisine: . Pets not allowed.  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The HOTEL DIPLOMAT  FASHION in Tirana offers a comfortable setting, always aimed at customer satisfaction.  Fitted with Wi-Fi Internet access. We offer Breakfast Service. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Telephone, TV, Satellite / Cable TV , Balcony, Hifi Unit, Hairdryer, Slippers, Minibar, 24/24 Room-Service , Laundry Service, Wi-Fi, Radio, Room-Service, Selection of Teas and Coffees  and Safe , and among our services and facilities available we have Air Conditioning, Lifts, Smoking Area, Bar Cafeteria and Garden. We also have Multilingual Personnel, Car parker, Wi-Fi and Safe in Reception.  Activities and relax: . Cuisine: . Pets not allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[King Size]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Queen Size]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Latex]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Balcony]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Independent Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Slippers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Desk]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Smoking Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Hifi Unit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Selection of Teas and Coffees ]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets not allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9185/37089185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9186/37089186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9187/37089187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9188/37089188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9189/37089189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9182/37089182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9183/37089183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9184/37089184.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[003554235090 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

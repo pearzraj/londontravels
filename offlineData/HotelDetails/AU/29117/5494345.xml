@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494345" resultcode="0" message="" >
+				<Name><![CDATA[FOUR POINTS BY SHERATON DARLING HARBOUR]]></Name>
+				<Address>
+					<Address1><![CDATA[  161 Sussex Street,]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.869392</Latitude>
+					<Longitude>151.2036</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7941/32607941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7942/32607942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7943/32607943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7944/32607944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7945/32607945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7946/32607946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7947/32607947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7948/32607948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7949/32607949.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7950/32607950.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7951/32607951.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7952/32607952.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7953/32607953.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7954/32607954.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 2 9290 4888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 292 90 4000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

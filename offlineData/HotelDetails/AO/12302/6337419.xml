@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337419" resultcode="0" message="" >
+				<Name><![CDATA[HORIZONTE NOVO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rua do Imbondeiro, 50 Bairro 1º de Maio - Viana,]]></Address1>
+					<Address2><![CDATA[Luanda, Luanda, Angola]]></Address2>
+					<PostalCode>Luanda</PostalCode>
+					<CityCode>82602</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Luanda]]>
+					</CityName>
+					<CountryCode>AO</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Angola]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-8.838333</Latitude>
+					<Longitude>13.234445</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8851/37148851.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8852/37148852.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8853/37148853.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8854/37148854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8855/37148855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8856/37148856.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+244 222295478]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+244 222295548 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

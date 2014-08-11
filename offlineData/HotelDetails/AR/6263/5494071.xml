@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494071" resultcode="0" message="" >
+				<Name><![CDATA[GURDA TANGO BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Defensa 1521,]]></Address1>
+					<Address2><![CDATA[1143, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1143</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.625553</Latitude>
+					<Longitude>-58.371113</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4669/37674669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4670/37674670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4671/37674671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4672/37674672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4663/37674663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4664/37674664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4665/37674665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4666/37674666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4667/37674667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4668/37674668.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 1143073285]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 1143070646 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

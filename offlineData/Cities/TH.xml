@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TH">
+		<City id="31792"> 
+			<Name lang="EN">Ang Thong</Name>
+			<Region lang="EN">Ang Thong</Region>
+			<Destination lang="EN">Ang Thong, Ang Thong, Thailand</Destination>
+		</City>
+		<City id="31844">
+			<Name lang="EN">Ao Nang</Name>
+			<Region lang="EN">Ao Nang</Region>
+			<Destination lang="EN">Ao Nang, Ao Nang, Thailand</Destination>
+		</City>
+		<City id="32158">
+			<Name lang="EN">Ayutthaya</Name>
+			<Region lang="EN">Ayutthaya</Region>
+			<Destination lang="EN">Ayutthaya, Ayutthaya, Thailand</Destination>
+		</City>
+		<City id="32359">
+			<Name lang="EN">Bang Tao Bay</Name>
+			<Region lang="EN">Bang Tao Bay</Region>
+			<Destination lang="EN">Bang Tao Bay, Bang Tao Bay, Thailand</Destination>
+		</City>
+		<City id="6915">
+			<Name lang="EN">Bangkok</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10132">
+			<Name lang="EN">Bo Phut</Name>
+			<Region lang="EN">Bo Phut</Region>
+			<Destination lang="EN">Bo Phut, Bo Phut, Thailand</Destination>
+		</City>
+		<City id="7339">
+			<Name lang="EN">Buri Ram</Name>
+			<Region lang="EN">Buri Ram</Region>
+			<Destination lang="EN">Buri Ram, Buri Ram, Thailand</Destination>
+		</City>
+		<City id="14725">
+			<Name lang="EN">Cape Panwa</Name>
+			<Region lang="EN">Cape Panwa</Region>
+			<Destination lang="EN">Cape Panwa, Cape Panwa, Thailand</Destination>
+		</City>
+		<City id="18268">
+			<Name lang="EN">Cha Am</Name>
+			<Region lang="EN">Cha Am</Region>
+			<Destination lang="EN">Cha Am, Cha Am, Thailand</Destination>
+		</City>
+		<City id="18314">
+			<Name lang="EN">Chanthaburi</Name>
+			<Region lang="EN">Chanthaburi</Region>
+			<Destination lang="EN">Chanthaburi, Chanthaburi, Thailand</Destination>
+		</City>
+		<City id="18349">
+			<Name lang="EN">Chaweng</Name>
+			<Region lang="EN">Chaweng</Region>
+			<Destination lang="EN">Chaweng, Chaweng, Thailand</Destination>
+		</City>
+		<City id="6734">
+			<Name lang="EN">Chiang Mai</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6735">
+			<Name lang="EN">Chiang Rai</Name>
+			<Region lang="EN">Chiang Rai</Region>
+			<Destination lang="EN">Chiang Rai, Chiang Rai, Thailand</Destination>
+		</City>
+		<City id="19319">
+			<Name lang="EN">Choengmon</Name>
+			<Region lang="EN">Choengmon</Region>
+			<Destination lang="EN">Choengmon, Choengmon, Thailand</Destination>
+		</City>
+		<City id="19327">
+			<Name lang="EN">Chonburi</Name>
+			<Region lang="EN">Chonburi</Region>
+			<Destination lang="EN">Chonburi, Chonburi, Thailand</Destination>
+		</City>
+		<City id="10046">
+			<Name lang="EN">Hua Hin</Name>
+			<Region lang="EN">Hua Hin</Region>
+			<Destination lang="EN">Hua Hin, Hua Hin, Thailand</Destination>
+		</City>
+		<City id="8516">
+			<Name lang="EN">Kamala Beach</Name>
+			<Region lang="EN">Kamala Beach</Region>
+			<Destination lang="EN">Kamala Beach, Kamala Beach, Thailand</Destination>
+		</City>
+		<City id="8529">
+			<Name lang="EN">Kamphaeng Phet</Name>
+			<Region lang="EN">Kamphaeng Phet</Region>
+			<Destination lang="EN">Kamphaeng Phet, Kamphaeng Phet, Thailand</Destination>
+		</City>
+		<City id="9018">
+			<Name lang="EN">Kanchanaburi</Name>
+			<Region lang="EN">Kanchanaburi</Region>
+			<Destination lang="EN">Kanchanaburi, Kanchanaburi, Thailand</Destination>
+		</City>
+		<City id="9075">
+			<Name lang="EN">Karon</Name>
+			<Region lang="EN">Karon</Region>
+			<Destination lang="EN">Karon, Karon, Thailand</Destination>
+		</City>
+		<City id="9102">
+			<Name lang="EN">Kata</Name>
+			<Region lang="EN">Kata</Region>
+			<Destination lang="EN">Kata, Kata, Thailand</Destination>
+		</City>
+		<City id="10173">
+			<Name lang="EN">Khao Lak</Name>
+			<Region lang="EN">Khao Lak</Region>
+			<Destination lang="EN">Khao Lak, Khao Lak, Thailand</Destination>
+		</City>
+		<City id="8140">
+			<Name lang="EN">Khon Kaen</Name>
+			<Region lang="EN">Khon Kaen</Region>
+			<Destination lang="EN">Khon Kaen, Khon Kaen, Thailand</Destination>
+		</City>
+		<City id="13194">
+			<Name lang="EN">Koh Chang</Name>
+			<Region lang="EN">Koh Chang</Region>
+			<Destination lang="EN">Koh Chang, Koh Chang, Thailand</Destination>
+		</City>
+		<City id="22482">
+			<Name lang="EN">Koh Hae</Name>
+			<Region lang="EN">Koh Hae</Region>
+			<Destination lang="EN">Koh Hae, Koh Hae, Thailand</Destination>
+		</City>
+		<City id="13196">
+			<Name lang="EN">Koh Khao</Name>
+			<Region lang="EN">Koh Khao</Region>
+			<Destination lang="EN">Koh Khao, Koh Khao, Thailand</Destination>
+		</City>
+		<City id="13198">
+			<Name lang="EN">Koh Kood</Name>
+			<Region lang="EN">Koh Kood</Region>
+			<Destination lang="EN">Koh Kood, Koh Kood, Thailand</Destination>
+		</City>
+		<City id="13199">
+			<Name lang="EN">Koh Kradan</Name>
+			<Region lang="EN">Koh Kradan</Region>
+			<Destination lang="EN">Koh Kradan, Koh Kradan, Thailand</Destination>
+		</City>
+		<City id="27290">
+			<Name lang="EN">Koh Kut</Name>
+			<Region lang="EN">Koh Kut</Region>
+			<Destination lang="EN">Koh Kut, Koh Kut, Thailand</Destination>
+		</City>
+		<City id="13200">
+			<Name lang="EN">Koh Lanta</Name>
+			<Region lang="EN">Koh Lanta</Region>
+			<Destination lang="EN">Koh Lanta, Koh Lanta, Thailand</Destination>
+		</City>
+		<City id="22620">
+			<Name lang="EN">Koh Lipe</Name>
+			<Region lang="EN">Koh Lipe</Region>
+			<Destination lang="EN">Koh Lipe, Koh Lipe, Thailand</Destination>
+		</City>
+		<City id="13201">
+			<Name lang="EN">Koh Lone</Name>
+			<Region lang="EN">Koh Lone</Region>
+			<Destination lang="EN">Koh Lone, Koh Lone, Thailand</Destination>
+		</City>
+		<City id="13202">
+			<Name lang="EN">Koh Maiton</Name>
+			<Region lang="EN">Koh Maiton</Region>
+			<Destination lang="EN">Koh Maiton, Koh Maiton, Thailand</Destination>
+		</City>
+		<City id="27291">
+			<Name lang="EN">Koh Mak</Name>
+			<Region lang="EN">Koh Mak</Region>
+			<Destination lang="EN">Koh Mak, Koh Mak, Thailand</Destination>
+		</City>
+		<City id="27292">
+			<Name lang="EN">Koh Maphrao</Name>
+			<Region lang="EN">Koh Maphrao</Region>
+			<Destination lang="EN">Koh Maphrao, Koh Maphrao, Thailand</Destination>
+		</City>
+		<City id="27293">
+			<Name lang="EN">Koh Mook</Name>
+			<Region lang="EN">Koh Mook</Region>
+			<Destination lang="EN">Koh Mook, Koh Mook, Thailand</Destination>
+		</City>
+		<City id="27294">
+			<Name lang="EN">Koh Nang Yuan</Name>
+			<Region lang="EN">Koh Nang Yuan</Region>
+			<Destination lang="EN">Koh Nang Yuan, Koh Nang Yuan, Thailand</Destination>
+		</City>
+		<City id="27295">
+			<Name lang="EN">Koh Ngai</Name>
+			<Region lang="EN">Koh Ngai</Region>
+			<Destination lang="EN">Koh Ngai, Koh Ngai, Thailand</Destination>
+		</City>
+		<City id="13204">
+			<Name lang="EN">Koh Phangan</Name>
+			<Region lang="EN">Koh Phangan</Region>
+			<Destination lang="EN">Koh Phangan, Koh Phangan, Thailand</Destination>
+		</City>
+		<City id="27296">
+			<Name lang="EN">Koh Racha</Name>
+			<Region lang="EN">Koh Racha</Region>
+			<Destination lang="EN">Koh Racha, Koh Racha, Thailand</Destination>
+		</City>
+		<City id="13205">
+			<Name lang="EN">Koh Samet</Name>
+			<Region lang="EN">Koh Samet</Region>
+			<Destination lang="EN">Koh Samet, Koh Samet, Thailand</Destination>
+		</City>
+		<City id="8710">
+			<Name lang="EN">Koh Samui</Name>
+			<Region lang="EN">Koh Samui</Region>
+			<Destination lang="EN">Koh Samui, Koh Samui, Thailand</Destination>
+		</City>
+		<City id="13208">
+			<Name lang="EN">Koh Tao Island</Name>
+			<Region lang="EN">Koh Tao Island</Region>
+			<Destination lang="EN">Koh Tao Island, Koh Tao Island, Thailand</Destination>
+		</City>
+		<City id="27297">
+			<Name lang="EN">Koh Tarutao</Name>
+			<Region lang="EN">Koh Tarutao</Region>
+			<Destination lang="EN">Koh Tarutao, Koh Tarutao, Thailand</Destination>
+		</City>
+		<City id="13209">
+			<Name lang="EN">Koh Yao</Name>
+			<Region lang="EN">Koh Yao</Region>
+			<Destination lang="EN">Koh Yao, Koh Yao, Thailand</Destination>
+		</City>
+		<City id="9363">
+			<Name lang="EN">Krabi</Name>
+			<Region lang="EN">Krabi</Region>
+			<Destination lang="EN">Krabi, Krabi, Thailand</Destination>
+		</City>
+		<City id="14973">
+			<Name lang="EN">Kui Buri</Name>
+			<Region lang="EN">Kui Buri</Region>
+			<Destination lang="EN">Kui Buri, Kui Buri, Thailand</Destination>
+		</City>
+		<City id="16914">
+			<Name lang="EN">Lamai Beach</Name>
+			<Region lang="EN">Lamai Beach</Region>
+			<Destination lang="EN">Lamai Beach, Lamai Beach, Thailand</Destination>
+		</City>
+		<City id="10492">
+			<Name lang="EN">Lampang</Name>
+			<Region lang="EN">Lampang</Region>
+			<Destination lang="EN">Lampang, Lampang, Thailand</Destination>
+		</City>
+		<City id="16922">
+			<Name lang="EN">Lamphun</Name>
+			<Region lang="EN">Lamphun</Region>
+			<Destination lang="EN">Lamphun, Lamphun, Thailand</Destination>
+		</City>
+		<City id="12243">
+			<Name lang="EN">Loei</Name>
+			<Region lang="EN">Loei</Region>
+			<Destination lang="EN">Loei, Loei, Thailand</Destination>
+		</City>
+		<City id="12285">
+			<Name lang="EN">Lop Buri</Name>
+			<Region lang="EN">Lop Buri</Region>
+			<Destination lang="EN">Lop Buri, Lop Buri, Thailand</Destination>
+		</City>
+		<City id="12631">
+			<Name lang="EN">Mae Hong Son</Name>
+			<Region lang="EN">Mae Hong Son</Region>
+			<Destination lang="EN">Mae Hong Son, Mae Hong Son, Thailand</Destination>
+		</City>
+		<City id="21516">
+			<Name lang="EN">Mae Nam</Name>
+			<Region lang="EN">Mae Nam</Region>
+			<Destination lang="EN">Mae Nam, Mae Nam, Thailand</Destination>
+		</City>
+		<City id="21554">
+			<Name lang="EN">Mai Khao Beach</Name>
+			<Region lang="EN">Mai Khao Beach</Region>
+			<Destination lang="EN">Mai Khao Beach, Mai Khao Beach, Thailand</Destination>
+		</City>
+		<City id="27850">
+			<Name lang="EN">Nai Yang</Name>
+			<Region lang="EN">Nai Yang</Region>
+			<Destination lang="EN">Nai Yang, Nai Yang, Thailand</Destination>
+		</City>
+		<City id="17942">
+			<Name lang="EN">Nakhon Phanom</Name>
+			<Region lang="EN">Nakhon Phanom</Region>
+			<Destination lang="EN">Nakhon Phanom, Nakhon Phanom, Thailand</Destination>
+		</City>
+		<City id="17943">
+			<Name lang="EN">Nakhon Ratchasima</Name>
+			<Region lang="EN">Nakhon Ratchasima</Region>
+			<Destination lang="EN">Nakhon Ratchasima, Nakhon Ratchasima, Thailand</Destination>
+		</City>
+		<City id="28087">
+			<Name lang="EN">Nakhon Sawan</Name>
+			<Region lang="EN">Nakhon Sawan</Region>
+			<Destination lang="EN">Nakhon Sawan, Nakhon Sawan, Thailand</Destination>
+		</City>
+		<City id="17944">
+			<Name lang="EN">Nakhon Si Thammarat</Name>
+			<Region lang="EN">Nakhon Si Thammarat</Region>
+			<Destination lang="EN">Nakhon Si Thammarat, Nakhon Si Thammarat, Thailand</Destination>
+		</City>
+		<City id="28088">
+			<Name lang="EN">Nakorn Pathom</Name>
+			<Region lang="EN">Nakorn Pathom</Region>
+			<Destination lang="EN">Nakorn Pathom, Nakorn Pathom, Thailand</Destination>
+		</City>
+		<City id="20379">
+			<Name lang="EN">Nan</Name>
+			<Region lang="EN">Nan</Region>
+			<Destination lang="EN">Nan, Nan, Thailand</Destination>
+		</City>
+		<City id="17970">
+			<Name lang="EN">Narathiwat</Name>
+			<Region lang="EN">Narathiwat</Region>
+			<Destination lang="EN">Narathiwat, Narathiwat, Thailand</Destination>
+		</City>
+		<City id="9457">
+			<Name lang="EN">Nong Khai</Name>
+			<Region lang="EN">Nong Khai</Region>
+			<Destination lang="EN">Nong Khai, Nong Khai, Thailand</Destination>
+		</City>
+		<City id="9459">
+			<Name lang="EN">Nonthaburi</Name>
+			<Region lang="EN">Nonthaburi</Region>
+			<Destination lang="EN">Nonthaburi, Nonthaburi, Thailand</Destination>
+		</City>
+		<City id="33773">
+			<Name lang="EN">Pai</Name>
+			<Region lang="EN">Pai</Region>
+			<Destination lang="EN">Pai, Pai, Thailand</Destination>
+		</City>
+		<City id="19762">
+			<Name lang="EN">Pansea Beach</Name>
+			<Region lang="EN">Pansea Beach</Region>
+			<Destination lang="EN">Pansea Beach, Pansea Beach, Thailand</Destination>
+		</City>
+		<City id="20800">
+			<Name lang="EN">Pathum Thani</Name>
+			<Region lang="EN">Pathum Thani</Region>
+			<Destination lang="EN">Pathum Thani, Pathum Thani, Thailand</Destination>
+		</City>
+		<City id="29396">
+			<Name lang="EN">Patong Beach</Name>
+			<Region lang="EN">Patong Beach</Region>
+			<Destination lang="EN">Patong Beach, Patong Beach, Thailand</Destination>
+		</City>
+		<City id="29401">
+			<Name lang="EN">Pattaya</Name>
+			<Region lang="EN">Pattaya</Region>
+			<Destination lang="EN">Pattaya, Pattaya, Thailand</Destination>
+		</City>
+		<City id="23101">
+			<Name lang="EN">Petchburi</Name>
+			<Region lang="EN">Petchburi</Region>
+			<Destination lang="EN">Petchburi, Petchburi, Thailand</Destination>
+		</City>
+		<City id="23139">
+			<Name lang="EN">Phang Nga</Name>
+			<Region lang="EN">Phang Nga</Region>
+			<Destination lang="EN">Phang Nga, Phang Nga, Thailand</Destination>
+		</City>
+		<City id="23141">
+			<Name lang="EN">Phayao</Name>
+			<Region lang="EN">Phayao</Region>
+			<Destination lang="EN">Phayao, Phayao, Thailand</Destination>
+		</City>
+		<City id="18739">
+			<Name lang="EN">Phetchabun</Name>
+			<Region lang="EN">Phetchabun</Region>
+			<Destination lang="EN">Phetchabun, Phetchabun, Thailand</Destination>
+		</City>
+		<City id="18740">
+			<Name lang="EN">Phi Phi Island</Name>
+			<Region lang="EN">Phi Phi Island</Region>
+			<Destination lang="EN">Phi Phi Island, Phi Phi Island, Thailand</Destination>
+		</City>
+		<City id="29465">
+			<Name lang="EN">Phitsanulok</Name>
+			<Region lang="EN">Phitsanulok</Region>
+			<Destination lang="EN">Phitsanulok, Phitsanulok, Thailand</Destination>
+		</City>
+		<City id="29471">
+			<Name lang="EN">Phuket</Name>
+			<Region lang="EN">Phuket</Region>
+			<Destination lang="EN">Phuket, Phuket, Thailand</Destination>
+		</City>
+		<City id="25287">
+			<Name lang="EN">Prachinburi</Name>
+			<Region lang="EN">Prachinburi</Region>
+			<Destination lang="EN">Prachinburi, Prachinburi, Thailand</Destination>
+		</City>
+		<City id="25306">
+			<Name lang="EN">Pran Buri</Name>
+			<Region lang="EN">Pran Buri</Region>
+			<Destination lang="EN">Pran Buri, Pran Buri, Thailand</Destination>
+		</City>
+		<City id="27110">
+			<Name lang="EN">Rawai</Name>
+			<Region lang="EN">Rawai</Region>
+			<Destination lang="EN">Rawai, Rawai, Thailand</Destination>
+		</City>
+		<City id="27117">
+			<Name lang="EN">Rayong</Name>
+			<Region lang="EN">Rayong</Region>
+			<Destination lang="EN">Rayong, Rayong, Thailand</Destination>
+		</City>
+		<City id="5901">
+			<Name lang="EN">Samut Songkhram</Name>
+			<Region lang="EN">Samut Songkhram</Region>
+			<Destination lang="EN">Samut Songkhram, Samut Songkhram, Thailand</Destination>
+		</City>
+		<City id="28864">
+			<Name lang="EN">Songkhla</Name>
+			<Region lang="EN">Songkhla</Region>
+			<Destination lang="EN">Songkhla, Songkhla, Thailand</Destination>
+		</City>
+		<City id="130">
+			<Name lang="EN">Tak</Name>
+			<Region lang="EN">Tak</Region>
+			<Destination lang="EN">Tak, Tak, Thailand</Destination>
+		</City>
+		<City id="34205">
+			<Name lang="EN">Taling Ngam</Name>
+			<Region lang="EN">Taling Ngam</Region>
+			<Destination lang="EN">Taling Ngam, Taling Ngam, Thailand</Destination>
+		</City>
+		<City id="375">
+			<Name lang="EN">Trang</Name>
+			<Region lang="EN">Trang</Region>
+			<Destination lang="EN">Trang, Trang, Thailand</Destination>
+		</City>
+		<City id="378">
+			<Name lang="EN">Trat</Name>
+			<Region lang="EN">Trat</Region>
+			<Destination lang="EN">Trat, Trat, Thailand</Destination>
+		</City>
+		<City id="2581">
+			<Name lang="EN">Tri Trang</Name>
+			<Region lang="EN">Tri Trang</Region>
+			<Destination lang="EN">Tri Trang, Tri Trang, Thailand</Destination>
+		</City>
+		<City id="30739">
+			<Name lang="EN">Ubon Ratchathani</Name>
+			<Region lang="EN">Ubon Ratchathani</Region>
+			<Destination lang="EN">Ubon Ratchathani, Ubon Ratchathani, Thailand</Destination>
+		</City>
+		<City id="30746">
+			<Name lang="EN">Udon Thani</Name>
+			<Region lang="EN">Udon Thani</Region>
+			<Destination lang="EN">Udon Thani, Udon Thani, Thailand</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

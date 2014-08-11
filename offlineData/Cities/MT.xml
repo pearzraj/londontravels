@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MT">
+		<City id="32076"> 
+			<Name lang="EN">Attard</Name>
+			<Region lang="EN">Attard</Region>
+			<Destination lang="EN">Attard, Attard, Malta</Destination>
+		</City>
+		<City id="12737">
+			<Name lang="EN">Bugibba</Name>
+			<Region lang="EN">Bugibba</Region>
+			<Destination lang="EN">Bugibba, Bugibba, Malta</Destination>
+		</City>
+		<City id="19381">
+			<Name lang="EN">Cirkewwa</Name>
+			<Region lang="EN">Cirkewwa</Region>
+			<Destination lang="EN">Cirkewwa, Cirkewwa, Malta</Destination>
+		</City>
+		<City id="15274">
+			<Name lang="EN">Floriana</Name>
+			<Region lang="EN">Floriana</Region>
+			<Destination lang="EN">Floriana, Floriana, Malta</Destination>
+		</City>
+		<City id="8553">
+			<Name lang="EN">Gozo</Name>
+			<Region lang="EN">Gozo</Region>
+			<Destination lang="EN">Gozo, Gozo, Malta</Destination>
+		</City>
+		<City id="20828">
+			<Name lang="EN">Gzira</Name>
+			<Region lang="EN">Gzira</Region>
+			<Destination lang="EN">Gzira, Gzira, Malta</Destination>
+		</City>
+		<City id="22673">
+			<Name lang="EN">Marfa</Name>
+			<Region lang="EN">Marfa</Region>
+			<Destination lang="EN">Marfa, Marfa, Malta</Destination>
+		</City>
+		<City id="23743">
+			<Name lang="EN">Mdina</Name>
+			<Region lang="EN">Mdina</Region>
+			<Destination lang="EN">Mdina, Mdina, Malta</Destination>
+		</City>
+		<City id="24166">
+			<Name lang="EN">Mellieha</Name>
+			<Region lang="EN">Mellieha</Region>
+			<Destination lang="EN">Mellieha, Mellieha, Malta</Destination>
+		</City>
+		<City id="26042">
+			<Name lang="EN">Qawra</Name>
+			<Region lang="EN">Qawra</Region>
+			<Destination lang="EN">Qawra, Qawra, Malta</Destination>
+		</City>
+		<City id="5844">
+			<Name lang="EN">Salina</Name>
+			<Region lang="EN">Salina</Region>
+			<Destination lang="EN">Salina, Salina, Malta</Destination>
+		</City>
+		<City id="5910">
+			<Name lang="EN">San Anton</Name>
+			<Region lang="EN">San Anton</Region>
+			<Destination lang="EN">San Anton, San Anton, Malta</Destination>
+		</City>
+		<City id="5996">
+			<Name lang="EN">San Gwann</Name>
+			<Region lang="EN">San Gwann</Region>
+			<Destination lang="EN">San Gwann, San Gwann, Malta</Destination>
+		</City>
+		<City id="6017">
+			<Name lang="EN">San Lawrenz</Name>
+			<Region lang="EN">San Lawrenz</Region>
+			<Destination lang="EN">San Lawrenz, San Lawrenz, Malta</Destination>
+		</City>
+		<City id="6164">
+			<Name lang="EN">Sannat</Name>
+			<Region lang="EN">Sannat</Region>
+			<Destination lang="EN">Sannat, Sannat, Malta</Destination>
+		</City>
+		<City id="5103">
+			<Name lang="EN">Sliema</Name>
+			<Region lang="EN">Sliema</Region>
+			<Destination lang="EN">Sliema, Sliema, Malta</Destination>
+		</City>
+		<City id="4421">
+			<Name lang="EN">St Julians</Name>
+			<Region lang="EN">St Julians</Region>
+			<Destination lang="EN">St Julians, St Julians, Malta</Destination>
+		</City>
+		<City id="4443">
+			<Name lang="EN">St Pauls Bay</Name>
+			<Region lang="EN">St Pauls Bay</Region>
+			<Destination lang="EN">St Pauls Bay, St Pauls Bay, Malta</Destination>
+		</City>
+		<City id="635">
+			<Name lang="EN">Valletta</Name>
+			<Region lang="EN">Valletta</Region>
+			<Destination lang="EN">Valletta, Valletta, Malta</Destination>
+		</City>
+		<City id="3085">
+			<Name lang="EN">Xaghra</Name>
+			<Region lang="EN">Xaghra</Region>
+			<Destination lang="EN">Xaghra, Xaghra, Malta</Destination>
+		</City>
+		<City id="3101">
+			<Name lang="EN">Xlendi</Name>
+			<Region lang="EN">Xlendi</Region>
+			<Destination lang="EN">Xlendi, Xlendi, Malta</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

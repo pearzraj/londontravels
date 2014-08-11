@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495587" resultcode="0" message="" >
+				<Name><![CDATA[DONAUWALZER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ottakringer Straße,5]]></Address1>
+					<Address2><![CDATA[1170, Vienna, Austria]]></Address2>
+					<PostalCode>1170</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.21529</Latitude>
+					<Longitude>16.34029</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We have Cot for children. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar and Shower with Curtain We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Cot for children. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar and Shower with Curtain We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9770/32609770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9771/32609771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9772/32609772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9773/32609773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9774/32609774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9775/32609775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9776/32609776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9777/32609777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9778/32609778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9779/32609779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9780/32609780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9765/32609765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9766/32609766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9767/32609767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9768/32609768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9769/32609769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9781/32609781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9782/32609782.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043-1-4057645999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-1-4057645 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

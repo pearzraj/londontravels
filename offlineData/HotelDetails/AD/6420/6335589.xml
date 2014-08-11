@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335589" resultcode="0" message="" >
+				<Name><![CDATA[L' ISARD HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. Meritxell,36]]></Address1>
+					<Address2><![CDATA[AD500, Andorra La Vella, Andorra]]></Address2>
+					<PostalCode>AD500</PostalCode>
+					<CityCode>59322</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Andorra La Vella]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.5081</Latitude>
+					<Longitude>1.52547</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The L' ISARD HOTEL extends a warm welcome to ski-lovers. A comfortable establishment that has been adapted to the demands of mountain life.  Of particular note are the panoramic views of the mountain. It's61 rooms offer customers a functional and pleasant environment. For families with children, the hotel is able to meet the needs of the very young.  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Independent Heating, Telephone, TV, Central Air Conditioning, Central Heating, Plasma TV , Hairdryer, Bathtub, Laundry Service and Wi-Fi , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Smoking Area, Cot, High Chair, Games Room and Bar Cafeteria. We also have Multilingual Personnel, Airport Shuttle , Ski Room, Use of Plug Adapters, Wi-Fi, Internet Corner, Safe in Reception, Airport Transfer and Garage.   ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The L' ISARD HOTEL extends a warm welcome to ski-lovers. A comfortable establishment that has been adapted to the demands of mountain life.  Of particular note are the panoramic views of the mountain. It's61 rooms offer customers a functional and pleasant environment. For families with children, the hotel is able to meet the needs of the very young.  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Independent Air Conditioning, Independent Heating, Telephone, TV, Central Air Conditioning, Central Heating, Plasma TV , Hairdryer, Bathtub, Laundry Service and Wi-Fi , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Smoking Area, Cot, High Chair, Games Room and Bar Cafeteria. We also have Multilingual Personnel, Airport Shuttle , Ski Room, Use of Plug Adapters, Wi-Fi, Internet Corner, Safe in Reception, Airport Transfer and Garage.  Activities and relax: . Cuisine: International and Children´s Menu. Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4304/37764304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4305/37764305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4306/37764306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4307/37764307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4308/37764308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4309/37764309.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376866695]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376876800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

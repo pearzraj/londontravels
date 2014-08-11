@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335590" resultcode="0" message="" >
+				<Name><![CDATA[RECONQUISTA LUXOR]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ave Roque Saenz Pena 890,]]></Address1>
+					<Address2><![CDATA[C1035AAQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1035AAQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60469</Latitude>
+					<Longitude>-58.378513</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Spa. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Spa. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4332/37764332.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4333/37764333.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4321/37764321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4322/37764322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4323/37764323.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4324/37764324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4325/37764325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4326/37764326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4327/37764327.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4328/37764328.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4329/37764329.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4330/37764330.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4331/37764331.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4310/37764310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4311/37764311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4312/37764312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4313/37764313.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4314/37764314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4315/37764315.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4316/37764316.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4317/37764317.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4318/37764318.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4319/37764319.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4320/37764320.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4328 9445]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4328 9400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

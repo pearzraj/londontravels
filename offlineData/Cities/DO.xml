@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="DO">
+		<City id="32499"> 
+			<Name lang="EN">Bayahibe</Name>
+			<Region lang="EN">Bayahibe</Region>
+			<Destination lang="EN">Bayahibe, Bayahibe, Dominican Republic</Destination>
+		</City>
+		<City id="10138">
+			<Name lang="EN">Boca Chica</Name>
+			<Region lang="EN">Boca Chica</Region>
+			<Destination lang="EN">Boca Chica, Boca Chica, Dominican Republic</Destination>
+		</City>
+		<City id="23224">
+			<Name lang="EN">Higuey</Name>
+			<Region lang="EN">Higuey</Region>
+			<Destination lang="EN">Higuey, Higuey, Dominican Republic</Destination>
+		</City>
+		<City id="26461">
+			<Name lang="EN">Juan Dolio</Name>
+			<Region lang="EN">Juan Dolio</Region>
+			<Destination lang="EN">Juan Dolio, Juan Dolio, Dominican Republic</Destination>
+		</City>
+		<City id="9933">
+			<Name lang="EN">La Romana</Name>
+			<Region lang="EN">La Romana</Region>
+			<Destination lang="EN">La Romana, La Romana, Dominican Republic</Destination>
+		</City>
+		<City id="24457">
+			<Name lang="EN">Playa Dorada</Name>
+			<Region lang="EN">Playa Dorada</Region>
+			<Destination lang="EN">Playa Dorada, Playa Dorada, Dominican Republic</Destination>
+		</City>
+		<City id="30098">
+			<Name lang="EN">Puerto Plata</Name>
+			<Region lang="EN">Puerto Plata</Region>
+			<Destination lang="EN">Puerto Plata, Puerto Plata, Dominican Republic</Destination>
+		</City>
+		<City id="30120">
+			<Name lang="EN">Punta Cana</Name>
+			<Region lang="EN">Punta Cana</Region>
+			<Destination lang="EN">Punta Cana, Punta Cana, Dominican Republic</Destination>
+		</City>
+		<City id="5515">
+			<Name lang="EN">Samana</Name>
+			<Region lang="EN">Samana</Region>
+			<Destination lang="EN">Samana, Samana, Dominican Republic</Destination>
+		</City>
+		<City id="8052">
+			<Name lang="EN">Santiago</Name>
+			<Region lang="EN">Santiago</Region>
+			<Destination lang="EN">Santiago, Santiago, Dominican Republic</Destination>
+		</City>
+		<City id="28530">
+			<Name lang="EN">Santo Domingo</Name>
+			<Region lang="EN">Santo Domingo</Region>
+			<Destination lang="EN">Santo Domingo, Santo Domingo, Dominican Republic</Destination>
+		</City>
+		<City id="6637">
+			<Name lang="EN">Sosua</Name>
+			<Region lang="EN">Sosua</Region>
+			<Destination lang="EN">Sosua, Sosua, Dominican Republic</Destination>
+		</City>
+		<City id="423">
+			<Name lang="EN">Uvero Alto</Name>
+			<Region lang="EN">Uvero Alto</Region>
+			<Destination lang="EN">Uvero Alto, Uvero Alto, Dominican Republic</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

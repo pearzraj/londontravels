@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332251" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL MARSEILLE DES ANGES]]></Name>
+				<Address>
+					<Address1><![CDATA[  ARENALES 1392/4,]]></Address1>
+					<Address2><![CDATA[1061, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1061</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.594616</Latitude>
+					<Longitude>-58.38717</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4777/37094777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4778/37094778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4779/37094779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4780/37094780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4781/37094781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4782/37094782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4783/37094783.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4784/37094784.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4785/37094785.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4786/37094786.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4787/37094787.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4773/37094773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4774/37094774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4775/37094775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4776/37094776.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5219 2526 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495719" resultcode="0" message="" >
+				<Name><![CDATA[HILTON INNSBRUCK]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salurner Strasse,15]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.262486</Latitude>
+					<Longitude>11.395687</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We have Babysitting Service for children. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Multilingual Personnel, Tourist Information and Safe in Reception.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Babysitting Service for children. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Multilingual Personnel, Tourist Information and Safe in Reception.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9514/37259514.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9515/37259515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9516/37259516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9517/37259517.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9518/37259518.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_28.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_28.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02824_12_22.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 512 59 35 220]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 512 59 350]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

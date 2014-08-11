@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495561" resultcode="0" message="" >
+				<Name><![CDATA[ARION HOTEL VIENNA AIRPORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Muhlgasse,30]]></Address1>
+					<Address2><![CDATA[2320, Vienna, Austria]]></Address2>
+					<PostalCode>2320</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.15042</Latitude>
+					<Longitude>16.47687</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9665/32609665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9666/32609666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9667/32609667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9668/32609668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9669/32609669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9670/32609670.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 706 5222]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 (0)17065200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

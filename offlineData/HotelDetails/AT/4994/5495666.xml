@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495666" resultcode="0" message="" >
+				<Name><![CDATA[ASTORIA RELAX AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Geigenbuhel, 185]]></Address1>
+					<Address2><![CDATA[6100, Seefeld, Austria]]></Address2>
+					<PostalCode>6100</PostalCode>
+					<CityCode>65351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Seefeld]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.335583</Latitude>
+					<Longitude>11.187636</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="EE">
+		<City id="20762"> 
+			<Name lang="EN">Parnu</Name>
+			<Region lang="EN">Parnu</Region>
+			<Destination lang="EN">Parnu, Parnu, Estonia</Destination>
+		</City>
+		<City id="149">
+			<Name lang="EN">Tallinn</Name>
+			<Region lang="EN">Tallinn</Region>
+			<Destination lang="EN">Tallinn, Tallinn, Estonia</Destination>
+		</City>
+		<City id="29327">
+			<Name lang="EN">Tartu</Name>
+			<Region lang="EN">Tartu</Region>
+			<Destination lang="EN">Tartu, Tartu, Estonia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

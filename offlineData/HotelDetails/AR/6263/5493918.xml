@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493918" resultcode="0" message="" >
+				<Name><![CDATA[ASPEN TOWERS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Paraguay, 857,]]></Address1>
+					<Address2><![CDATA[C1057AAK, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1057AAK</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.597076</Latitude>
+					<Longitude>-58.378944</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4511/32604511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4512/32604512.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4513/32604513.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4514/32604514.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4515/32604515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4516/32604516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4517/32604517.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4518/32604518.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4313 2662]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5166 1900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

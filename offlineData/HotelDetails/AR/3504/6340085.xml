@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340085" resultcode="0" message="" >
+				<Name><![CDATA[EDENIA PUNTA SOBERANA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Manzana,642]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.343708</Latitude>
+					<Longitude>-72.276306</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42838_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8765/37158765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8766/37158766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8767/37158767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8748/37158748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8749/37158749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8750/37158750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8751/37158751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8752/37158752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8753/37158753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8754/37158754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8755/37158755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8756/37158756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8757/37158757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8758/37158758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8759/37158759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8760/37158760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8761/37158761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8762/37158762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8763/37158763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8764/37158764.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 43281825]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 115-235-7238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

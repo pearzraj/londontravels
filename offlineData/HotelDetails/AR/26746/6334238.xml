@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334238" resultcode="0" message="" >
+				<Name><![CDATA[INTERCONTINENTAL NORDELTA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av del Puerto 240,]]></Address1>
+					<Address2><![CDATA[1670, Tigre, Argentina]]></Address2>
+					<PostalCode>1670</PostalCode>
+					<CityCode>87153</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tigre]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.39101</Latitude>
+					<Longitude>-58.64536</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1495/37141495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1496/37141496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1497/37141497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1498/37141498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1493/37141493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1494/37141494.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 1148711004]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 1148719444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

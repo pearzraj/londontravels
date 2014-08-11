@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493840" resultcode="0" message="" >
+				<Name><![CDATA[NIHAL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  58 Al Makhtoom Street - Deira,]]></Address1>
+					<Address2><![CDATA[14914, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>14914</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.259562</Latitude>
+					<Longitude>55.324768</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3964/32603964.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3965/32603965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3956/32603956.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3957/32603957.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3958/32603958.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3959/32603959.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3960/32603960.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3961/32603961.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3962/32603962.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3963/32603963.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26819_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26819_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26819_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26819_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 295 7676]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 295 7666 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

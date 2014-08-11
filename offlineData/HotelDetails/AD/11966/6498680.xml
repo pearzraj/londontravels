@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498680" resultcode="0" message="" >
+				<Name><![CDATA[COSMOS APARTHOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. de les Escoles,10]]></Address1>
+					<Address2><![CDATA[AD700, Escaldes-Engordany, Andorra]]></Address2>
+					<PostalCode>AD700</PostalCode>
+					<CityCode>59325</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Escaldes-Engordany]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.51027</Latitude>
+					<Longitude>1.54101</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Given their central location, these apartments mean you walk to the main points of interest in ESCALDES-ENGORDANY. Of particular note are the panoramic views of the mountain. Back at the hotel, a swim in the pool will smooth away the tiredness from a long day full of excitement. Amenities include Satellite / Cable TV  and Sofa Bed. Guided tours arranged. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The apartments have Central Heating, TV, Satellite / Cable TV , Lounge-Diner, Lounge, Sofa Bed, Kitchen, American Kitchen, Cooker, Coffee Machine, Refrigerator, Freezer, Microwave, Kitchen Utensils, Crockery, Cutlery, Tablecloths, Table/Chairs, Bathtub, Towels, Sheets and Blankets , and among our services and facilities available we have Bar Pool, Sun beds, Cot and Bar Cafeteria . We also have Multilingual Personnel, 24/24 Reception, Ski Room, Nearby Parking , Internet Corner, Wi-Fi, Tourist  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Given their central location, these apartments mean you walk to the main points of interest in ESCALDES-ENGORDANY. Of particular note are the panoramic views of the mountain. Back at the hotel, a swim in the pool will smooth away the tiredness from a long day full of excitement. Amenities include Satellite / Cable TV  and Sofa Bed. Guided tours arranged. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The apartments have Central Heating, TV, Satellite / Cable TV , Lounge-Diner, Lounge, Sofa Bed, Kitchen, American Kitchen, Cooker, Coffee Machine, Refrigerator, Freezer, Microwave, Kitchen Utensils, Crockery, Cutlery, Tablecloths, Table/Chairs, Bathtub, Towels, Sheets and Blankets , and among our services and facilities available we have Bar Pool, Sun beds, Cot and Bar Cafeteria . We also have Multilingual Personnel, 24/24 Reception, Ski Room, Nearby Parking , Internet Corner, Wi-Fi, Tourist Information, Vending Machines, Garage and Safe in Reception. Pets allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bathrooms]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bathrooms]]></Name>
+						<Description><![CDATA[Independent Toilet]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bar and Restaurants]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bar and Restaurants]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Lounge-Diner]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Kitchen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Nordic Quilts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Microwave]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Kitchen Utensils]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Crockery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Tablecloths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Hotplates]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Sheets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Eiderdowns]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Refrigerator]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Freezer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Cooker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Cutlery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Table/Chairs]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/EXC000/EXCCSM_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/EXC000/EXCCSM_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/EXC000/EXCCSM_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/EXC000/EXCCSM_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376863015]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376870750 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

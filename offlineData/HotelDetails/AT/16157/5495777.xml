@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495777" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE GRAZ MESSE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Waltendorfer Gurtel, 8-10]]></Address1>
+					<Address2><![CDATA[8010, Graz, Austria]]></Address2>
+					<PostalCode>8010</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.063126</Latitude>
+					<Longitude>15.457794</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Car parker, Tourist Information, Safe in Reception and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Car parker, Tourist Information, Safe in Reception and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4107/37664107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4108/37664108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4109/37664109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4110/37664110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4111/37664111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4112/37664112.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4113/37664113.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4098/37664098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4099/37664099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4100/37664100.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4101/37664101.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4102/37664102.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4103/37664103.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4104/37664104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4105/37664105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4106/37664106.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 316 826300630]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 316 826300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338066" resultcode="0" message="" >
+				<Name><![CDATA[SEEHOTEL AM KAISERSTRAND]]></Name>
+				<Address>
+					<Address1><![CDATA[  AM KAISERSTRANSD 1,]]></Address1>
+					<Address2><![CDATA[06911, Lochau, Austria]]></Address2>
+					<PostalCode>06911</PostalCode>
+					<CityCode>65170</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Lochau]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.527233</Latitude>
+					<Longitude>9.744355</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Spa and Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Spa and Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6288/37106288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6289/37106289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6290/37106290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6291/37106291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6292/37106292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6293/37106293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6294/37106294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6277/37106277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6278/37106278.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6279/37106279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6280/37106280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6281/37106281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6282/37106282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6283/37106283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6284/37106284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6285/37106285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6286/37106286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6287/37106287.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43 557458 111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

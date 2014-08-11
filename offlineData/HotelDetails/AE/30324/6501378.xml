@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6501378" resultcode="0" message="" >
+				<Name><![CDATA[AL HAMRA FORT HOTEL AND BEACH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Jazeerah District,]]></Address1>
+					<Address2><![CDATA[1468, Ras Al Khaimah, United Arab Emirates]]></Address2>
+					<PostalCode>1468</PostalCode>
+					<CityCode>87203</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ras Al Khaimah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.690071</Latitude>
+					<Longitude>55.77557</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Health and beauty facilities include Spa and Jacuzzi. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Health and beauty facilities include Spa and Jacuzzi. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19951_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[01197172446677]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97172446666 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

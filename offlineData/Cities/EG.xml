@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="EG">
+		<City id="6689"> 
+			<Name lang="EN">Abu Simbel</Name>
+			<Region lang="EN">Abu Simbel</Region>
+			<Destination lang="EN">Abu Simbel, Abu Simbel, Egypt</Destination>
+		</City>
+		<City id="31461">
+			<Name lang="EN">Ain Soukhna</Name>
+			<Region lang="EN">Ain Soukhna</Region>
+			<Destination lang="EN">Ain Soukhna, Ain Soukhna, Egypt</Destination>
+		</City>
+		<City id="6339">
+			<Name lang="EN">Alexandria</Name>
+			<Region lang="EN">Alexandria</Region>
+			<Destination lang="EN">Alexandria, Alexandria, Egypt</Destination>
+		</City>
+		<City id="15852">
+			<Name lang="EN">Aswan</Name>
+			<Region lang="EN">Aswan</Region>
+			<Destination lang="EN">Aswan, Aswan, Egypt</Destination>
+		</City>
+		<City id="7775">
+			<Name lang="EN">Cairo</Name>
+			<Region lang="EN">Cairo</Region>
+			<Destination lang="EN">Cairo, Cairo, Egypt</Destination>
+		</City>
+		<City id="22884">
+			<Name lang="EN">Dahab</Name>
+			<Region lang="EN">Dahab</Region>
+			<Destination lang="EN">Dahab, Dahab, Egypt</Destination>
+		</City>
+		<City id="9644">
+			<Name lang="EN">El Gouna</Name>
+			<Region lang="EN">El Gouna</Region>
+			<Destination lang="EN">El Gouna, El Gouna, Egypt</Destination>
+		</City>
+		<City id="18063">
+			<Name lang="EN">Giza</Name>
+			<Region lang="EN">Giza</Region>
+			<Destination lang="EN">Giza, Giza, Egypt</Destination>
+		</City>
+		<City id="12436">
+			<Name lang="EN">Hurghada</Name>
+			<Region lang="EN">Hurghada</Region>
+			<Destination lang="EN">Hurghada, Hurghada, Egypt</Destination>
+		</City>
+		<City id="12315">
+			<Name lang="EN">Luxor</Name>
+			<Region lang="EN">Luxor</Region>
+			<Destination lang="EN">Luxor, Luxor, Egypt</Destination>
+		</City>
+		<City id="14633">
+			<Name lang="EN">Marsa Alam</Name>
+			<Region lang="EN">Marsa Alam</Region>
+			<Destination lang="EN">Marsa Alam, Marsa Alam, Egypt</Destination>
+		</City>
+		<City id="10290">
+			<Name lang="EN">Nuweiba</Name>
+			<Region lang="EN">Nuweiba</Region>
+			<Destination lang="EN">Nuweiba, Nuweiba, Egypt</Destination>
+		</City>
+		<City id="26358">
+			<Name lang="EN">Ras El Sudr</Name>
+			<Region lang="EN">Ras El Sudr</Region>
+			<Destination lang="EN">Ras El Sudr, Ras El Sudr, Egypt</Destination>
+		</City>
+		<City id="28269">
+			<Name lang="EN">Safaga</Name>
+			<Region lang="EN">Safaga</Region>
+			<Destination lang="EN">Safaga, Safaga, Egypt</Destination>
+		</City>
+		<City id="28736">
+			<Name lang="EN">Sharm el Sheikh</Name>
+			<Region lang="EN">Sharm el Sheikh</Region>
+			<Destination lang="EN">Sharm el Sheikh, Sharm el Sheikh, Egypt</Destination>
+		</City>
+		<City id="29127">
+			<Name lang="EN">Taba</Name>
+			<Region lang="EN">Taba</Region>
+			<Destination lang="EN">Taba, Taba, Egypt</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

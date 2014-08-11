@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335628" resultcode="0" message="" >
+				<Name><![CDATA[PENINSULA VALDES]]></Name>
+				<Address>
+					<Address1><![CDATA[  AVD JA ROCA 155,]]></Address1>
+					<Address2><![CDATA[9120, Puerto Madryn, Argentina]]></Address2>
+					<PostalCode>9120</PostalCode>
+					<CityCode>83082</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Madryn]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-42.76524</Latitude>
+					<Longitude>-65.034</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4429/37764429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4430/37764430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4431/37764431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4432/37764432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4433/37764433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4452/37764452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4434/37764434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4435/37764435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4436/37764436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4437/37764437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4438/37764438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4439/37764439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4440/37764440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4441/37764441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4442/37764442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4443/37764443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4444/37764444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4445/37764445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4446/37764446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4447/37764447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4448/37764448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4449/37764449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4450/37764450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4451/37764451.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 280 4471292 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

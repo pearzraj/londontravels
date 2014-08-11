@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495693" resultcode="0" message="" >
+				<Name><![CDATA[SACHER SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[   Schwarzstrasse, 5-7]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.80224</Latitude>
+					<Longitude>13.043325</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9370/37259370.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05914_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662 88977551]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 662 889770 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

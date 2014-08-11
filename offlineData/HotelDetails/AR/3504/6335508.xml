@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335508" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA GLACIARES DE LA PATAGONIA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Lago Del Desierto (Ex Calle 403) 194,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.332947</Latitude>
+					<Longitude>-72.25238</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42840_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4105/37764105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4106/37764106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4107/37764107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4108/37764108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4109/37764109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4110/37764110.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542902493920]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542902493920 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493757" resultcode="0" message="" >
+				<Name><![CDATA[METROPOLITAN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.060278</Latitude>
+					<Longitude>55.128334</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pool bar. Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pool bar. Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3456/32603456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3457/32603457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3458/32603458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3459/32603459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3444/32603444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3445/32603445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3446/32603446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3447/32603447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3448/32603448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3449/32603449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3450/32603450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3451/32603451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3452/32603452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3453/32603453.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3454/32603454.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3455/32603455.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 343 1146]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 343 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494982" resultcode="0" message="" >
+				<Name><![CDATA[CENTRAL SKY LOUNGE APARTMENT HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  43 Therry Street,]]></Address1>
+					<Address2><![CDATA[3000, Melbourne, Australia]]></Address2>
+					<PostalCode>3000</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.807</Latitude>
+					<Longitude>144.96046</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8876/32608876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8877/32608877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8878/32608878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8879/32608879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8880/32608880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8881/32608881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8882/32608882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8883/32608883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8884/32608884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8885/32608885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8886/32608886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8875/32608875.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 3 8680 4401]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 3 8680 4400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

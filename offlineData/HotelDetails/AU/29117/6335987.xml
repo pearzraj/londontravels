@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335987" resultcode="0" message="" >
+				<Name><![CDATA[MEDINA EXECUTIVE NORTH RYDE]]></Name>
+				<Address>
+					<Address1><![CDATA[  2 Busaco Road,]]></Address1>
+					<Address2><![CDATA[2113, Sydney, Australia]]></Address2>
+					<PostalCode>2113</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.785744</Latitude>
+					<Longitude>151.1327</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4446/37114446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4447/37114447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4448/37114448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4449/37114449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4450/37114450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4451/37114451.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 2 9876 7099]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 2 9879 7000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

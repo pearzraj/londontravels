@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PE">
+		<City id="6593"> 
+			<Name lang="EN">Arequipa</Name>
+			<Region lang="EN">Arequipa</Region>
+			<Destination lang="EN">Arequipa, Arequipa, Peru</Destination>
+		</City>
+		<City id="7468">
+			<Name lang="EN">Cuzco</Name>
+			<Region lang="EN">Cuzco</Region>
+			<Destination lang="EN">Cuzco, Cuzco, Peru</Destination>
+		</City>
+		<City id="10682">
+			<Name lang="EN">Lima</Name>
+			<Region lang="EN">Lima</Region>
+			<Destination lang="EN">Lima, Lima, Peru</Destination>
+		</City>
+		<City id="15518">
+			<Name lang="EN">Machu Picchu</Name>
+			<Region lang="EN">Machu Picchu</Region>
+			<Destination lang="EN">Machu Picchu, Machu Picchu, Peru</Destination>
+		</City>
+		<City id="20735">
+			<Name lang="EN">Paracas</Name>
+			<Region lang="EN">Paracas</Region>
+			<Destination lang="EN">Paracas, Paracas, Peru</Destination>
+		</City>
+		<City id="26004">
+			<Name lang="EN">Puno</Name>
+			<Region lang="EN">Puno</Region>
+			<Destination lang="EN">Puno, Puno, Peru</Destination>
+		</City>
+		<City id="29833">
+			<Name lang="EN">Trujillo</Name>
+			<Region lang="EN">Trujillo</Region>
+			<Destination lang="EN">Trujillo, Trujillo, Peru</Destination>
+		</City>
+		<City id="391">
+			<Name lang="EN">Urubamba</Name>
+			<Region lang="EN">Urubamba</Region>
+			<Destination lang="EN">Urubamba, Urubamba, Peru</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

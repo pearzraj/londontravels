@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495600" resultcode="0" message="" >
+				<Name><![CDATA[NESTROY WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Rotensterngasse,12]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.217667</Latitude>
+					<Longitude>16.382315</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9834/32609834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9835/32609835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9836/32609836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9837/32609837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9838/32609838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9839/32609839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9840/32609840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9841/32609841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9842/32609842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9843/32609843.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[431211407]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[431211400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

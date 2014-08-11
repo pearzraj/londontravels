@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338380" resultcode="0" message="" >
+				<Name><![CDATA[GHALA HOTEL SALTA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Lerma 184,]]></Address1>
+					<Address2><![CDATA[4400, Salta, Argentina]]></Address2>
+					<PostalCode>4400</PostalCode>
+					<CityCode>83326</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salta]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-24.788765</Latitude>
+					<Longitude>-65.40781</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3163/37113163.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3164/37113164.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3165/37113165.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3166/37113166.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3167/37113167.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3162/37113162.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[5403874212003]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[5403874214141 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

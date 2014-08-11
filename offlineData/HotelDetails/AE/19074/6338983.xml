@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338983" resultcode="0" message="" >
+				<Name><![CDATA[COURTYARD BY MARRIOTT GREEN COMMUNITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Green Community Village,]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.006123</Latitude>
+					<Longitude>55.15595</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9554/37129554.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9555/37129555.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9556/37129556.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9557/37129557.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9558/37129558.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9559/37129559.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9560/37129560.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9561/37129561.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9562/37129562.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9563/37129563.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9564/37129564.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9565/37129565.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9566/37129566.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9567/37129567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9568/37129568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9569/37129569.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13340_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13340_1_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13340_12_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13340_1_23.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[ +971 4 885 2525 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 4 885 2222]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

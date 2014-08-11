@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="JO">
+		<City id="15841"> 
+			<Name lang="EN">Amman</Name>
+			<Region lang="EN">Amman</Region>
+			<Destination lang="EN">Amman, Amman, Jordan</Destination>
+		</City>
+		<City id="13378">
+			<Name lang="EN">Aqaba</Name>
+			<Region lang="EN">Aqaba</Region>
+			<Destination lang="EN">Aqaba, Aqaba, Jordan</Destination>
+		</City>
+		<City id="23426">
+			<Name lang="EN">Dead Sea</Name>
+			<Region lang="EN">Dead Sea</Region>
+			<Destination lang="EN">Dead Sea, Dead Sea, Jordan</Destination>
+		</City>
+		<City id="21489">
+			<Name lang="EN">Madaba</Name>
+			<Region lang="EN">Madaba</Region>
+			<Destination lang="EN">Madaba, Madaba, Jordan</Destination>
+		</City>
+		<City id="23115">
+			<Name lang="EN">Petra</Name>
+			<Region lang="EN">Petra</Region>
+			<Destination lang="EN">Petra, Petra, Jordan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,2656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="FR">
+		<City id="11825"> 
+			<Name lang="EN">Agen</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Agen, Aquitaine, France</Destination>
+		</City>
+		<City id="7596">
+			<Name lang="EN">Aigues Mortes</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Aigues Mortes, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="7602">
+			<Name lang="EN">Aime</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Aime, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11826">
+			<Name lang="EN">Aix en Provence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Aix en Provence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="7609">
+			<Name lang="EN">Aix les Bains</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Aix les Bains, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="6281">
+			<Name lang="EN">Ajaccio</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Ajaccio, Corse, France</Destination>
+		</City>
+		<City id="11827">
+			<Name lang="EN">Albi</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Albi, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="19164">
+			<Name lang="EN">Alencon</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Alencon, Basse-Normandie, France</Destination>
+		</City>
+		<City id="11828">
+			<Name lang="EN">Alpe d'Huez</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Alpe d'Huez, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="20181">
+			<Name lang="EN">Amboise</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Amboise, Centre, France</Destination>
+		</City>
+		<City id="20193">
+			<Name lang="EN">Amiens</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Amiens, Picardie, France</Destination>
+		</City>
+		<City id="20217">
+			<Name lang="EN">Andilly</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Andilly, Ile-de-France, France</Destination>
+		</City>
+		<City id="11830">
+			<Name lang="EN">Angers</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Angers, Pays de la Loire, France</Destination>
+		</City>
+		<City id="11831">
+			<Name lang="EN">Angouleme</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Angouleme, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="11832">
+			<Name lang="EN">Annecy</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Annecy, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="20232">
+			<Name lang="EN">Annemasse</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Annemasse, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="20244">
+			<Name lang="EN">Antibes</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Antibes, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="21773">
+			<Name lang="EN">Apt</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Apt, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="21778">
+			<Name lang="EN">Arbois</Name>
+			<Region lang="EN">Franche-Comté</Region>
+			<Destination lang="EN">Arbois, Franche-Comté, France</Destination>
+		</City>
+		<City id="21783">
+			<Name lang="EN">Arcachon</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Arcachon, Aquitaine, France</Destination>
+		</City>
+		<City id="35558">
+			<Name lang="EN">Arcangues</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Arcangues, Aquitaine, France</Destination>
+		</City>
+		<City id="21788">
+			<Name lang="EN">Arcueil</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Arcueil, Ile-de-France, France</Destination>
+		</City>
+		<City id="21796">
+			<Name lang="EN">Argeles-sur-Mer</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Argeles-sur-Mer, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="21808">
+			<Name lang="EN">Arles</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Arles, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="21810">
+			<Name lang="EN">Armbouts Cappel</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Armbouts Cappel, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="21826">
+			<Name lang="EN">Arras</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Arras, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="21827">
+			<Name lang="EN">Arreau</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Arreau, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="21839">
+			<Name lang="EN">Arzon</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Arzon, Bretagne, France</Destination>
+		</City>
+		<City id="21847">
+			<Name lang="EN">Aspin en Lavedan</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Aspin en Lavedan, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="11834">
+			<Name lang="EN">Aubagne</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Aubagne, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="25050">
+			<Name lang="EN">Aubiere</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Aubiere, Auvergne, France</Destination>
+		</City>
+		<City id="35565">
+			<Name lang="EN">Auribeau sur Siagne</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Auribeau sur Siagne, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="15871">
+			<Name lang="EN">Aurillac</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Aurillac, Auvergne, France</Destination>
+		</City>
+		<City id="25088">
+			<Name lang="EN">Autun</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Autun, Bourgogne, France</Destination>
+		</City>
+		<City id="15872">
+			<Name lang="EN">Auxerre</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Auxerre, Bourgogne, France</Destination>
+		</City>
+		<City id="15874">
+			<Name lang="EN">Avignon</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Avignon, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="15875">
+			<Name lang="EN">Avoriaz</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Avoriaz, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="25109">
+			<Name lang="EN">Avranches</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Avranches, Basse-Normandie, France</Destination>
+		</City>
+		<City id="25113">
+			<Name lang="EN">Ax-les-Thermes</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Ax-les-Thermes, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="13458">
+			<Name lang="EN">Bagnoles de l'Orne</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Bagnoles de l'Orne, Basse-Normandie, France</Destination>
+		</City>
+		<City id="13459">
+			<Name lang="EN">Bagnolet</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Bagnolet, Ile-de-France, France</Destination>
+		</City>
+		<City id="13469">
+			<Name lang="EN">Baillet en France</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Baillet en France, Ile-de-France, France</Destination>
+		</City>
+		<City id="13496">
+			<Name lang="EN">Bandol</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Bandol, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="32397">
+			<Name lang="EN">Barbaste</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Barbaste, Aquitaine, France</Destination>
+		</City>
+		<City id="11819">
+			<Name lang="EN">Bayeux</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Bayeux, Basse-Normandie, France</Destination>
+		</City>
+		<City id="13520">
+			<Name lang="EN">Bayonne</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Bayonne, Aquitaine, France</Destination>
+		</City>
+		<City id="13522">
+			<Name lang="EN">Bazas</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Bazas, Aquitaine, France</Destination>
+		</City>
+		<City id="13530">
+			<Name lang="EN">Beaugency</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Beaugency, Centre, France</Destination>
+		</City>
+		<City id="13534">
+			<Name lang="EN">Beaulieu sur Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Beaulieu sur Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="13537">
+			<Name lang="EN">Beaune</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Beaune, Bourgogne, France</Destination>
+		</City>
+		<City id="13542">
+			<Name lang="EN">Beausoleil</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Beausoleil, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="13544">
+			<Name lang="EN">Beauvais</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Beauvais, Picardie, France</Destination>
+		</City>
+		<City id="13554">
+			<Name lang="EN">Begles</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Begles, Aquitaine, France</Destination>
+		</City>
+		<City id="14319">
+			<Name lang="EN">Belle Plagne</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Belle Plagne, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="14347">
+			<Name lang="EN">Benodet</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Benodet, Bretagne, France</Destination>
+		</City>
+		<City id="12056">
+			<Name lang="EN">Bergerac</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Bergerac, Aquitaine, France</Destination>
+		</City>
+		<City id="14393">
+			<Name lang="EN">Bethune</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Bethune, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="12058">
+			<Name lang="EN">Beziers</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Beziers, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="12059">
+			<Name lang="EN">Biarritz</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Biarritz, Aquitaine, France</Destination>
+		</City>
+		<City id="14801">
+			<Name lang="EN">Biscarrosse</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Biscarrosse, Aquitaine, France</Destination>
+		</City>
+		<City id="14816">
+			<Name lang="EN">Blagnac</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Blagnac, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="14840">
+			<Name lang="EN">Blois</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Blois, Centre, France</Destination>
+		</City>
+		<City id="10978">
+			<Name lang="EN">Bobigny</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Bobigny, Ile-de-France, France</Destination>
+		</City>
+		<City id="10981">
+			<Name lang="EN">Boe</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Boe, Aquitaine, France</Destination>
+		</City>
+		<City id="10988">
+			<Name lang="EN">Bois Colombes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Bois Colombes, Ile-de-France, France</Destination>
+		</City>
+		<City id="10996">
+			<Name lang="EN">Bollene</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Bollene, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11157">
+			<Name lang="EN">Bonifacio</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Bonifacio, Corse, France</Destination>
+		</City>
+		<City id="12121">
+			<Name lang="EN">Bordeaux</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Bordeaux, Aquitaine, France</Destination>
+		</City>
+		<City id="11191">
+			<Name lang="EN">Borgo</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Borgo, Corse, France</Destination>
+		</City>
+		<City id="3427">
+			<Name lang="EN">Bouc Bel Air</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Bouc Bel Air, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="3432">
+			<Name lang="EN">Bougival</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Bougival, Ile-de-France, France</Destination>
+		</City>
+		<City id="3433">
+			<Name lang="EN">Bouguenais</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Bouguenais, Pays de la Loire, France</Destination>
+		</City>
+		<City id="3441">
+			<Name lang="EN">Boulogne Billancourt</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Boulogne Billancourt, Ile-de-France, France</Destination>
+		</City>
+		<City id="3443">
+			<Name lang="EN">Boulogne sur Mer</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Boulogne sur Mer, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="3449">
+			<Name lang="EN">Bourg les Valence</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Bourg les Valence, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="3452">
+			<Name lang="EN">Bourg Saint Maurice</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Bourg Saint Maurice, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="12123">
+			<Name lang="EN">Bourges</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Bourges, Centre, France</Destination>
+		</City>
+		<City id="35590">
+			<Name lang="EN">Bourg-Madame</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Bourg-Madame, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="3455">
+			<Name lang="EN">Bourgoin Jallieu</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Bourgoin Jallieu, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11083">
+			<Name lang="EN">Bouzies</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Bouzies, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="12344">
+			<Name lang="EN">Brantome</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Brantome, Aquitaine, France</Destination>
+		</City>
+		<City id="34505">
+			<Name lang="EN">Branville</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Branville, Basse-Normandie, France</Destination>
+		</City>
+		<City id="12129">
+			<Name lang="EN">Brest</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Brest, Bretagne, France</Destination>
+		</City>
+		<City id="14868">
+			<Name lang="EN">Briancon</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Briancon, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="14873">
+			<Name lang="EN">Brides les Bains</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Brides les Bains, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15931">
+			<Name lang="EN">Brignoles</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Brignoles, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="12130">
+			<Name lang="EN">Brive-la-Gaillarde</Name>
+			<Region lang="EN">Limousin</Region>
+			<Destination lang="EN">Brive-la-Gaillarde, Limousin, France</Destination>
+		</City>
+		<City id="15943">
+			<Name lang="EN">Bron</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Bron, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="7870">
+			<Name lang="EN">Bussy Saint Georges</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Bussy Saint Georges, Ile-de-France, France</Destination>
+		</City>
+		<City id="5450">
+			<Name lang="EN">Cabries</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cabries, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5452">
+			<Name lang="EN">Cachan</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Cachan, Ile-de-France, France</Destination>
+		</City>
+		<City id="15992">
+			<Name lang="EN">Caen</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Caen, Basse-Normandie, France</Destination>
+		</City>
+		<City id="15993">
+			<Name lang="EN">Cahors</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Cahors, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="11080">
+			<Name lang="EN">Calais</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Calais, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="16658">
+			<Name lang="EN">Calvi</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Calvi, Corse, France</Destination>
+		</City>
+		<City id="7924">
+			<Name lang="EN">Cambrai</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Cambrai, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="16697">
+			<Name lang="EN">Cannes</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cannes, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="7936">
+			<Name lang="EN">Cap d'Agde</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Cap d'Agde, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="7937">
+			<Name lang="EN">Cap d'Ail</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cap d'Ail, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="16698">
+			<Name lang="EN">Carcassonne</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Carcassonne, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="24048">
+			<Name lang="EN">Carnac</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Carnac, Bretagne, France</Destination>
+		</City>
+		<City id="34523">
+			<Name lang="EN">Carnon</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Carnon, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="24060">
+			<Name lang="EN">Carrieres sur Seine</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Carrieres sur Seine, Ile-de-France, France</Destination>
+		</City>
+		<City id="24063">
+			<Name lang="EN">Carry le Rouet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Carry le Rouet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="24069">
+			<Name lang="EN">Cassis</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cassis, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="24078">
+			<Name lang="EN">Castelnau le Lez</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Castelnau le Lez, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="24087">
+			<Name lang="EN">Castets</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Castets, Aquitaine, France</Destination>
+		</City>
+		<City id="24089">
+			<Name lang="EN">Castries</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Castries, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="17287">
+			<Name lang="EN">Cavaliere</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cavaliere, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="35622">
+			<Name lang="EN">Cayeux-sur-Mer</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Cayeux-sur-Mer, Picardie, France</Destination>
+		</City>
+		<City id="4233">
+			<Name lang="EN">Ceaux</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Ceaux, Basse-Normandie, France</Destination>
+		</City>
+		<City id="3644">
+			<Name lang="EN">Cergy Pontoise</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Cergy Pontoise, Ile-de-France, France</Destination>
+		</City>
+		<City id="3767">
+			<Name lang="EN">Chalon sur Saone</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Chalon sur Saone, Bourgogne, France</Destination>
+		</City>
+		<City id="16700">
+			<Name lang="EN">Chambery</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Chambery, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="26900">
+			<Name lang="EN">Chambretaud</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Chambretaud, Pays de la Loire, France</Destination>
+		</City>
+		<City id="3781">
+			<Name lang="EN">Chamonix</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Chamonix, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="3800">
+			<Name lang="EN">Chanas</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Chanas, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="18299">
+			<Name lang="EN">Chancelade</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Chancelade, Aquitaine, France</Destination>
+		</City>
+		<City id="3811">
+			<Name lang="EN">Chantilly</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Chantilly, Picardie, France</Destination>
+		</City>
+		<City id="3821">
+			<Name lang="EN">Charenton le Pont</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Charenton le Pont, Ile-de-France, France</Destination>
+		</City>
+		<City id="3834">
+			<Name lang="EN">Chartres</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Chartres, Centre, France</Destination>
+		</City>
+		<City id="3839">
+			<Name lang="EN">Chasseneuil du Poitou</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Chasseneuil du Poitou, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="3960">
+			<Name lang="EN">Chatelguyon</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Chatelguyon, Auvergne, France</Destination>
+		</City>
+		<City id="4011">
+			<Name lang="EN">Chenonceaux</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Chenonceaux, Centre, France</Destination>
+		</City>
+		<City id="4012">
+			<Name lang="EN">Chenove</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Chenove, Bourgogne, France</Destination>
+		</City>
+		<City id="16733">
+			<Name lang="EN">Cherbourg</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Cherbourg, Basse-Normandie, France</Destination>
+		</City>
+		<City id="4030">
+			<Name lang="EN">Chilly-Mazarin</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Chilly-Mazarin, Ile-de-France, France</Destination>
+		</City>
+		<City id="4032">
+			<Name lang="EN">Chinon</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Chinon, Centre, France</Destination>
+		</City>
+		<City id="11567">
+			<Name lang="EN">Chissay en Touraine</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Chissay en Touraine, Centre, France</Destination>
+		</City>
+		<City id="16762">
+			<Name lang="EN">Cholet</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Cholet, Pays de la Loire, France</Destination>
+		</City>
+		<City id="4119">
+			<Name lang="EN">Ciboure</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Ciboure, Aquitaine, France</Destination>
+		</City>
+		<City id="16791">
+			<Name lang="EN">Clermont-Ferrand</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Clermont-Ferrand, Auvergne, France</Destination>
+		</City>
+		<City id="6239">
+			<Name lang="EN">Clichy</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Clichy, Ile-de-France, France</Destination>
+		</City>
+		<City id="6251">
+			<Name lang="EN">Cognac</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Cognac, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="6254">
+			<Name lang="EN">Cogolin</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Cogolin, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11089">
+			<Name lang="EN">Collioure</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Collioure, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="16794">
+			<Name lang="EN">Colmar</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Colmar, Alsace, France</Destination>
+		</City>
+		<City id="11095">
+			<Name lang="EN">Colombes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Colombes, Ile-de-France, France</Destination>
+		</City>
+		<City id="11097">
+			<Name lang="EN">Colomiers</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Colomiers, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="13755">
+			<Name lang="EN">Concarneau</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Concarneau, Bretagne, France</Destination>
+		</City>
+		<City id="13777">
+			<Name lang="EN">Coquelles</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Coquelles, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="21629">
+			<Name lang="EN">Corbeil Essonnes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Corbeil Essonnes, Ile-de-France, France</Destination>
+		</City>
+		<City id="13815">
+			<Name lang="EN">Couiza</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Couiza, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="13820">
+			<Name lang="EN">Courbevoie</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Courbevoie, Ile-de-France, France</Destination>
+		</City>
+		<City id="13822">
+			<Name lang="EN">Courcelles de Touraine</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Courcelles de Touraine, Centre, France</Destination>
+		</City>
+		<City id="16816">
+			<Name lang="EN">Courchevel</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Courchevel, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="13836">
+			<Name lang="EN">Coutances</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Coutances, Basse-Normandie, France</Destination>
+		</City>
+		<City id="13842">
+			<Name lang="EN">Cran Gevrier</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Cran Gevrier, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15627">
+			<Name lang="EN">Craponne</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Craponne, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15638">
+			<Name lang="EN">Creteil</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Creteil, Ile-de-France, France</Destination>
+		</City>
+		<City id="19108">
+			<Name lang="EN">Dardilly</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Dardilly, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="19118">
+			<Name lang="EN">Dax</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Dax, Aquitaine, France</Destination>
+		</City>
+		<City id="15668">
+			<Name lang="EN">Deauville</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Deauville, Basse-Normandie, France</Destination>
+		</City>
+		<City id="35648">
+			<Name lang="EN">Dieffenthal</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Dieffenthal, Alsace, France</Destination>
+		</City>
+		<City id="35291">
+			<Name lang="EN">Digne les Bains</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Digne les Bains, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="15673">
+			<Name lang="EN">Dijon</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Dijon, Bourgogne, France</Destination>
+		</City>
+		<City id="20093">
+			<Name lang="EN">Dinan</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Dinan, Bretagne, France</Destination>
+		</City>
+		<City id="15674">
+			<Name lang="EN">Dinard</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Dinard, Bretagne, France</Destination>
+		</City>
+		<City id="35651">
+			<Name lang="EN">Dives sur Mer</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Dives sur Mer, Basse-Normandie, France</Destination>
+		</City>
+		<City id="20105">
+			<Name lang="EN">Divonne-les-Bains</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Divonne-les-Bains, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="20112">
+			<Name lang="EN">Dol de Bretagne</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Dol de Bretagne, Bretagne, France</Destination>
+		</City>
+		<City id="15676">
+			<Name lang="EN">Dole</Name>
+			<Region lang="EN">Franche-Comté</Region>
+			<Destination lang="EN">Dole, Franche-Comté, France</Destination>
+		</City>
+		<City id="35655">
+			<Name lang="EN">Doue-la-Fontaine</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Doue-la-Fontaine, Pays de la Loire, France</Destination>
+		</City>
+		<City id="20153">
+			<Name lang="EN">Dreux</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Dreux, Centre, France</Destination>
+		</City>
+		<City id="25144">
+			<Name lang="EN">Dunkerque</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Dunkerque, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="25188">
+			<Name lang="EN">Eauze</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Eauze, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="25214">
+			<Name lang="EN">Eguisheim</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Eguisheim, Alsace, France</Destination>
+		</City>
+		<City id="26369">
+			<Name lang="EN">Englos</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Englos, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="26372">
+			<Name lang="EN">Entraigues sur la Sorgue</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Entraigues sur la Sorgue, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="24118">
+			<Name lang="EN">Equemauville</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Equemauville, Basse-Normandie, France</Destination>
+		</City>
+		<City id="14160">
+			<Name lang="EN">Etiolles</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Etiolles, Ile-de-France, France</Destination>
+		</City>
+		<City id="35662">
+			<Name lang="EN">Eu</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Eu, Haute-Normandie, France</Destination>
+		</City>
+		<City id="14174">
+			<Name lang="EN">Evian</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Evian, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="25156">
+			<Name lang="EN">Evreux</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Evreux, Haute-Normandie, France</Destination>
+		</City>
+		<City id="25157">
+			<Name lang="EN">Evry</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Evry, Ile-de-France, France</Destination>
+		</City>
+		<City id="35072">
+			<Name lang="EN">Eze</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Eze, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="15183">
+			<Name lang="EN">Faverges</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Faverges, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15184">
+			<Name lang="EN">Fecamp</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Fecamp, Haute-Normandie, France</Destination>
+		</City>
+		<City id="15196">
+			<Name lang="EN">Ferney Voltaire</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Ferney Voltaire, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15215">
+			<Name lang="EN">Flaine</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Flaine, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="15222">
+			<Name lang="EN">Font Romeu</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Font Romeu, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="15228">
+			<Name lang="EN">Fontenay sous Bois</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Fontenay sous Bois, Ile-de-France, France</Destination>
+		</City>
+		<City id="14458">
+			<Name lang="EN">Fontevraud</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Fontevraud, Pays de la Loire, France</Destination>
+		</City>
+		<City id="35671">
+			<Name lang="EN">Fort Mahon Plage</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Fort Mahon Plage, Picardie, France</Destination>
+		</City>
+		<City id="15234">
+			<Name lang="EN">Fos-sur-Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Fos-sur-Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="15235">
+			<Name lang="EN">Fouesnant</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Fouesnant, Bretagne, France</Destination>
+		</City>
+		<City id="14194">
+			<Name lang="EN">Frejus</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Frejus, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="16132">
+			<Name lang="EN">Fuveau</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Fuveau, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="16175">
+			<Name lang="EN">Gaillard</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Gaillard, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="25227">
+			<Name lang="EN">Gallargues le Montueux</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Gallargues le Montueux, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="16133">
+			<Name lang="EN">Gap (France)</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Gap (France), Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="21694">
+			<Name lang="EN">Garrevaques</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Garrevaques, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="17068">
+			<Name lang="EN">Gassin</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Gassin, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="22596">
+			<Name lang="EN">Gavarnie</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Gavarnie, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="17080">
+			<Name lang="EN">Geispolsheim</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Geispolsheim, Alsace, France</Destination>
+		</City>
+		<City id="17090">
+			<Name lang="EN">Gennevilliers</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Gennevilliers, Ile-de-France, France</Destination>
+		</City>
+		<City id="35673">
+			<Name lang="EN">Germ</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Germ, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="17106">
+			<Name lang="EN">Gerzat</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Gerzat, Auvergne, France</Destination>
+		</City>
+		<City id="22740">
+			<Name lang="EN">Gonesse</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Gonesse, Ile-de-France, France</Destination>
+		</City>
+		<City id="22757">
+			<Name lang="EN">Gourette</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Gourette, Aquitaine, France</Destination>
+		</City>
+		<City id="22760">
+			<Name lang="EN">Goussainville</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Goussainville, Ile-de-France, France</Destination>
+		</City>
+		<City id="22781">
+			<Name lang="EN">Grasse</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Grasse, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="22784">
+			<Name lang="EN">Gravelines</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Gravelines, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="16168">
+			<Name lang="EN">Grenoble</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Grenoble, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="22789">
+			<Name lang="EN">Greoux les Bains</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Greoux les Bains, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="22797">
+			<Name lang="EN">Grimaud</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Grimaud, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="28631">
+			<Name lang="EN">Gruissan</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Gruissan, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="28636">
+			<Name lang="EN">Guebwiller</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Guebwiller, Alsace, France</Destination>
+		</City>
+		<City id="28638">
+			<Name lang="EN">Guerande</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Guerande, Pays de la Loire, France</Destination>
+		</City>
+		<City id="28639">
+			<Name lang="EN">Gueret</Name>
+			<Region lang="EN">Limousin</Region>
+			<Destination lang="EN">Gueret, Limousin, France</Destination>
+		</City>
+		<City id="28651">
+			<Name lang="EN">Guilvinec</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Guilvinec, Bretagne, France</Destination>
+		</City>
+		<City id="28663">
+			<Name lang="EN">Guyancourt</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Guyancourt, Ile-de-France, France</Destination>
+		</City>
+		<City id="33228">
+			<Name lang="EN">Hardelot</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Hardelot, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="34610">
+			<Name lang="EN">Hauteluce</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Hauteluce, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="28974">
+			<Name lang="EN">Herouville Saint Clair</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Herouville Saint Clair, Basse-Normandie, France</Destination>
+		</City>
+		<City id="33246">
+			<Name lang="EN">Hesdin-l'Abbe</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Hesdin-l'Abbe, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="29214">
+			<Name lang="EN">Honfleur</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Honfleur, Basse-Normandie, France</Destination>
+		</City>
+		<City id="29239">
+			<Name lang="EN">Hyeres</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Hyeres, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="29257">
+			<Name lang="EN">Illkirch Graffenstaden</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Illkirch Graffenstaden, Alsace, France</Destination>
+		</City>
+		<City id="29285">
+			<Name lang="EN">Isola</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Isola, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="29581">
+			<Name lang="EN">Issy les Moulineaux</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Issy les Moulineaux, Ile-de-France, France</Destination>
+		</City>
+		<City id="29583">
+			<Name lang="EN">Istres</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Istres, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="29591">
+			<Name lang="EN">Ivry sur Seine</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Ivry sur Seine, Ile-de-France, France</Destination>
+		</City>
+		<City id="25978">
+			<Name lang="EN">Jaunay Clan</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Jaunay Clan, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="72">
+			<Name lang="EN">Jausiers</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Jausiers, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="29662">
+			<Name lang="EN">Joinville le Pont</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Joinville le Pont, Ile-de-France, France</Destination>
+		</City>
+		<City id="29666">
+			<Name lang="EN">Jonzac</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Jonzac, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="29668">
+			<Name lang="EN">Joue les Tours</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Joue les Tours, Centre, France</Destination>
+		</City>
+		<City id="29596">
+			<Name lang="EN">Juan les Pins</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Juan les Pins, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="22621">
+			<Name lang="EN">Kremlin-Bicetre</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Kremlin-Bicetre, Ile-de-France, France</Destination>
+		</City>
+		<City id="30200">
+			<Name lang="EN">La Baule</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">La Baule, Pays de la Loire, France</Destination>
+		</City>
+		<City id="30363">
+			<Name lang="EN">La Chapelle en Serval</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">La Chapelle en Serval, Picardie, France</Destination>
+		</City>
+		<City id="30366">
+			<Name lang="EN">La Ciotat</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">La Ciotat, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="30368">
+			<Name lang="EN">La Clusaz</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">La Clusaz, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11005">
+			<Name lang="EN">La Croix-Valmer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">La Croix-Valmer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11294">
+			<Name lang="EN">La Grande Motte</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">La Grande Motte, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="11300">
+			<Name lang="EN">La Madeleine</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">La Madeleine, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="11302">
+			<Name lang="EN">La Mongie</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">La Mongie, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="16039">
+			<Name lang="EN">La Palmyre</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">La Palmyre, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="30201">
+			<Name lang="EN">La Plagne</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">La Plagne, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="37037">
+			<Name lang="EN">La Roche Posay</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">La Roche Posay, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="30202">
+			<Name lang="EN">La Roche sur Yon</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">La Roche sur Yon, Pays de la Loire, France</Destination>
+		</City>
+		<City id="30203">
+			<Name lang="EN">La Rochelle</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">La Rochelle, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="11321">
+			<Name lang="EN">La Valette du Var</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">La Valette du Var, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="16065">
+			<Name lang="EN">Labege</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Labege, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="11326">
+			<Name lang="EN">Lacanau</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Lacanau, Aquitaine, France</Destination>
+		</City>
+		<City id="30208">
+			<Name lang="EN">Lannion</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Lannion, Bretagne, France</Destination>
+		</City>
+		<City id="35722">
+			<Name lang="EN">Lanslebourg-Mont Cenis</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Lanslebourg-Mont Cenis, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11377">
+			<Name lang="EN">Lattes</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Lattes, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="35724">
+			<Name lang="EN">Le Barcares</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Le Barcares, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="11480">
+			<Name lang="EN">Le Blanc Mesnil</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Le Blanc Mesnil, Ile-de-France, France</Destination>
+		</City>
+		<City id="11481">
+			<Name lang="EN">Le Bois-Plage-en-Re</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Le Bois-Plage-en-Re, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="11484">
+			<Name lang="EN">Le Bourget</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Le Bourget, Ile-de-France, France</Destination>
+		</City>
+		<City id="36571">
+			<Name lang="EN">Le Buisson de Cadouin</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Le Buisson de Cadouin, Aquitaine, France</Destination>
+		</City>
+		<City id="11487">
+			<Name lang="EN">Le Cannet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Le Cannet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="30210">
+			<Name lang="EN">Le Castellet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Le Castellet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11488">
+			<Name lang="EN">Le Creusot</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Le Creusot, Bourgogne, France</Destination>
+		</City>
+		<City id="11490">
+			<Name lang="EN">Le Grand Bornand</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Le Grand Bornand, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11492">
+			<Name lang="EN">Le Grau du Roi</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Le Grau du Roi, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="30211">
+			<Name lang="EN">Le Havre</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Le Havre, Haute-Normandie, France</Destination>
+		</City>
+		<City id="11493">
+			<Name lang="EN">Le Hohwald</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Le Hohwald, Alsace, France</Destination>
+		</City>
+		<City id="33428">
+			<Name lang="EN">Le Lauzet Ubaye</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Le Lauzet Ubaye, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11495">
+			<Name lang="EN">Le Lavandou</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Le Lavandou, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="30212">
+			<Name lang="EN">Le Mans</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Le Mans, Pays de la Loire, France</Destination>
+		</City>
+		<City id="35727">
+			<Name lang="EN">Le Poinconnet</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Le Poinconnet, Centre, France</Destination>
+		</City>
+		<City id="11501">
+			<Name lang="EN">Le Pontet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Le Pontet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="17801">
+			<Name lang="EN">Le Port Marly</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Le Port Marly, Ile-de-France, France</Destination>
+		</City>
+		<City id="30351">
+			<Name lang="EN">Le Puy</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Le Puy, Auvergne, France</Destination>
+		</City>
+		<City id="30352">
+			<Name lang="EN">Le Touquet</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Le Touquet, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="11529">
+			<Name lang="EN">Les Arcs</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Arcs, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11534">
+			<Name lang="EN">Les Carroz d'Araches</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Carroz d'Araches, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11536">
+			<Name lang="EN">Les Deserts</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Deserts, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11537">
+			<Name lang="EN">Les Deux-Alpes</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Deux-Alpes, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11541">
+			<Name lang="EN">Les Houches</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Houches, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11542">
+			<Name lang="EN">Les Issambres</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Les Issambres, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11544">
+			<Name lang="EN">Les Menuires</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Les Menuires, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11546">
+			<Name lang="EN">Les Orres</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Les Orres, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="30355">
+			<Name lang="EN">Les Sables d'Olonne</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Les Sables d'Olonne, Pays de la Loire, France</Destination>
+		</City>
+		<City id="11553">
+			<Name lang="EN">Les Ulis</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Les Ulis, Ile-de-France, France</Destination>
+		</City>
+		<City id="11558">
+			<Name lang="EN">Levallois Perret</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Levallois Perret, Ile-de-France, France</Destination>
+		</City>
+		<City id="11563">
+			<Name lang="EN">Libourne</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Libourne, Aquitaine, France</Destination>
+		</City>
+		<City id="15446">
+			<Name lang="EN">Liguge</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Liguge, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="30356">
+			<Name lang="EN">Lille</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Lille, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="30357">
+			<Name lang="EN">Limoges</Name>
+			<Region lang="EN">Limousin</Region>
+			<Destination lang="EN">Limoges, Limousin, France</Destination>
+		</City>
+		<City id="15457">
+			<Name lang="EN">Lisieux</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Lisieux, Basse-Normandie, France</Destination>
+		</City>
+		<City id="15460">
+			<Name lang="EN">Lissieu</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Lissieu, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1403">
+			<Name lang="EN">Loches</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Loches, Centre, France</Destination>
+		</City>
+		<City id="34709">
+			<Name lang="EN">Longeau-Percey</Name>
+			<Region lang="EN">Champagne-Ardenne</Region>
+			<Destination lang="EN">Longeau-Percey, Champagne-Ardenne, France</Destination>
+		</City>
+		<City id="20549">
+			<Name lang="EN">Longvic</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Longvic, Bourgogne, France</Destination>
+		</City>
+		<City id="20552">
+			<Name lang="EN">Lons le Saunier</Name>
+			<Region lang="EN">Franche-Comté</Region>
+			<Destination lang="EN">Lons le Saunier, Franche-Comté, France</Destination>
+		</City>
+		<City id="35738">
+			<Name lang="EN">Lorgues</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Lorgues, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="30358">
+			<Name lang="EN">Lorient</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Lorient, Bretagne, France</Destination>
+		</City>
+		<City id="35741">
+			<Name lang="EN">Loue</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Loue, Pays de la Loire, France</Destination>
+		</City>
+		<City id="30359">
+			<Name lang="EN">Lourdes/Tarbes</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Lourdes/Tarbes, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="20600">
+			<Name lang="EN">Louveciennes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Louveciennes, Ile-de-France, France</Destination>
+		</City>
+		<City id="15492">
+			<Name lang="EN">Lumbres</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Lumbres, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="15503">
+			<Name lang="EN">Luynes</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Luynes, Centre, France</Destination>
+		</City>
+		<City id="30360">
+			<Name lang="EN">Lyon</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Lyon, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="20725">
+			<Name lang="EN">Macinaggio</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Macinaggio, Corse, France</Destination>
+		</City>
+		<City id="11421">
+			<Name lang="EN">Macon</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Macon, Bourgogne, France</Destination>
+		</City>
+		<City id="11426">
+			<Name lang="EN">Magny le Hongre</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Magny le Hongre, Ile-de-France, France</Destination>
+		</City>
+		<City id="11434">
+			<Name lang="EN">Maisons-Laffite</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Maisons-Laffite, Ile-de-France, France</Destination>
+		</City>
+		<City id="11436">
+			<Name lang="EN">Malakoff</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Malakoff, Ile-de-France, France</Destination>
+		</City>
+		<City id="11439">
+			<Name lang="EN">Mallemort</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Mallemort, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11442">
+			<Name lang="EN">Mandelieu-la-Napoule</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Mandelieu-la-Napoule, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11446">
+			<Name lang="EN">Manosque</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Manosque, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="35751">
+			<Name lang="EN">Marciac</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Marciac, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="11471">
+			<Name lang="EN">Marne la Vallee</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Marne la Vallee, Ile-de-France, France</Destination>
+		</City>
+		<City id="15507">
+			<Name lang="EN">Marseille</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Marseille, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11473">
+			<Name lang="EN">Martigues</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Martigues, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11753">
+			<Name lang="EN">Massieux</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Massieux, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="23684">
+			<Name lang="EN">Massy</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Massy, Ile-de-France, France</Destination>
+		</City>
+		<City id="23717">
+			<Name lang="EN">Mauguio</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Mauguio, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="36386">
+			<Name lang="EN">Maussane Les Alpilles</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Maussane Les Alpilles, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="11769">
+			<Name lang="EN">Mayenne</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Mayenne, Pays de la Loire, France</Destination>
+		</City>
+		<City id="11774">
+			<Name lang="EN">Meaux</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Meaux, Ile-de-France, France</Destination>
+		</City>
+		<City id="15508">
+			<Name lang="EN">Megeve</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Megeve, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11786">
+			<Name lang="EN">Menton</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Menton, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="18196">
+			<Name lang="EN">Meribel</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Meribel, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="23773">
+			<Name lang="EN">Meribel Les Allues</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Meribel Les Allues, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11789">
+			<Name lang="EN">Meribel Mottaret</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Meribel Mottaret, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="11790">
+			<Name lang="EN">Merignac</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Merignac, Aquitaine, France</Destination>
+		</City>
+		<City id="34741">
+			<Name lang="EN">Messanges</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Messanges, Aquitaine, France</Destination>
+		</City>
+		<City id="18197">
+			<Name lang="EN">Metz/Nancy</Name>
+			<Region lang="EN">Lorraine</Region>
+			<Destination lang="EN">Metz/Nancy, Lorraine, France</Destination>
+		</City>
+		<City id="11799">
+			<Name lang="EN">Meudon</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Meudon, Ile-de-France, France</Destination>
+		</City>
+		<City id="11801">
+			<Name lang="EN">Meylan</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Meylan, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="4163">
+			<Name lang="EN">Mignaloux Beauvoir</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Mignaloux Beauvoir, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="14475">
+			<Name lang="EN">Missillac</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Missillac, Pays de la Loire, France</Destination>
+		</City>
+		<City id="19236">
+			<Name lang="EN">Moissac</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Moissac, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="19239">
+			<Name lang="EN">Moliets et Maa</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Moliets et Maa, Aquitaine, France</Destination>
+		</City>
+		<City id="19247">
+			<Name lang="EN">Monflanquin</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Monflanquin, Aquitaine, France</Destination>
+		</City>
+		<City id="19254">
+			<Name lang="EN">Mont Saint Michel</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Mont Saint Michel, Basse-Normandie, France</Destination>
+		</City>
+		<City id="19262">
+			<Name lang="EN">Montauban</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Montauban, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="19264">
+			<Name lang="EN">Montbazon</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Montbazon, Centre, France</Destination>
+		</City>
+		<City id="19271">
+			<Name lang="EN">Montelimar</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Montelimar, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="19275">
+			<Name lang="EN">Montevrain</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Montevrain, Ile-de-France, France</Destination>
+		</City>
+		<City id="19276">
+			<Name lang="EN">Montfavet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Montfavet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="19279">
+			<Name lang="EN">Montigny le Bretonneux</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Montigny le Bretonneux, Ile-de-France, France</Destination>
+		</City>
+		<City id="18198">
+			<Name lang="EN">Montlucon</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Montlucon, Auvergne, France</Destination>
+		</City>
+		<City id="18199">
+			<Name lang="EN">Montpellier</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Montpellier, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="19283">
+			<Name lang="EN">Montreuil</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Montreuil, Ile-de-France, France</Destination>
+		</City>
+		<City id="19285">
+			<Name lang="EN">Montrouge</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Montrouge, Ile-de-France, France</Destination>
+		</City>
+		<City id="19300">
+			<Name lang="EN">Morzine</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Morzine, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="14479">
+			<Name lang="EN">Mosnes</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Mosnes, Centre, France</Destination>
+		</City>
+		<City id="19303">
+			<Name lang="EN">Mouans Sartoux</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Mouans Sartoux, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="19304">
+			<Name lang="EN">Mougins</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Mougins, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="18201">
+			<Name lang="EN">Mulhouse</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Mulhouse, Alsace, France</Destination>
+		</City>
+		<City id="5630">
+			<Name lang="EN">Nancy</Name>
+			<Region lang="EN">Lorraine</Region>
+			<Destination lang="EN">Nancy, Lorraine, France</Destination>
+		</City>
+		<City id="5633">
+			<Name lang="EN">Nanterre</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Nanterre, Ile-de-France, France</Destination>
+		</City>
+		<City id="4166">
+			<Name lang="EN">Nantes</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Nantes, Pays de la Loire, France</Destination>
+		</City>
+		<City id="5637">
+			<Name lang="EN">Narbonne</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Narbonne, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="28308">
+			<Name lang="EN">Neris Les Bains</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Neris Les Bains, Auvergne, France</Destination>
+		</City>
+		<City id="4194">
+			<Name lang="EN">Neuilly sur Seine</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Neuilly sur Seine, Ile-de-France, France</Destination>
+		</City>
+		<City id="4169">
+			<Name lang="EN">Nevers</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Nevers, Bourgogne, France</Destination>
+		</City>
+		<City id="4170">
+			<Name lang="EN">Nice</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Nice, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="20414">
+			<Name lang="EN">Niederbronn les Bains</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Niederbronn les Bains, Alsace, France</Destination>
+		</City>
+		<City id="36625">
+			<Name lang="EN">Nieuil</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Nieuil, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="4171">
+			<Name lang="EN">Nimes</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Nimes, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="20441">
+			<Name lang="EN">Nogent le Rotrou</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Nogent le Rotrou, Centre, France</Destination>
+		</City>
+		<City id="20442">
+			<Name lang="EN">Nogent sur Marne</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Nogent sur Marne, Ile-de-France, France</Destination>
+		</City>
+		<City id="21121">
+			<Name lang="EN">Noisy le Grand</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Noisy le Grand, Ile-de-France, France</Destination>
+		</City>
+		<City id="21151">
+			<Name lang="EN">Nuits-Saint-Georges</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Nuits-Saint-Georges, Bourgogne, France</Destination>
+		</City>
+		<City id="10889">
+			<Name lang="EN">Orange</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Orange, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="10842">
+			<Name lang="EN">Orcieres</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Orcieres, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="21156">
+			<Name lang="EN">Orleans</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Orleans, Centre, France</Destination>
+		</City>
+		<City id="10849">
+			<Name lang="EN">Orly</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Orly, Ile-de-France, France</Destination>
+		</City>
+		<City id="10859">
+			<Name lang="EN">Orthez</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Orthez, Aquitaine, France</Destination>
+		</City>
+		<City id="10864">
+			<Name lang="EN">Orvault</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Orvault, Pays de la Loire, France</Destination>
+		</City>
+		<City id="10899">
+			<Name lang="EN">Ostwald</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Ostwald, Alsace, France</Destination>
+		</City>
+		<City id="1819">
+			<Name lang="EN">Pantin</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Pantin, Ile-de-France, France</Destination>
+		</City>
+		<City id="1850">
+			<Name lang="EN">Paray Le Monial</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Paray Le Monial, Bourgogne, France</Destination>
+		</City>
+		<City id="27515">
+			<Name lang="EN">Paray Vieille Poste</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Paray Vieille Poste, Ile-de-France, France</Destination>
+		</City>
+		<City id="11386">
+			<Name lang="EN">Paris</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Paris, Ile-de-France, France</Destination>
+		</City>
+		<City id="34807">
+			<Name lang="EN">Passy</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Passy, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1854">
+			<Name lang="EN">Pau</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Pau, Aquitaine, France</Destination>
+		</City>
+		<City id="33811">
+			<Name lang="EN">Pentrez</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Pentrez, Bretagne, France</Destination>
+		</City>
+		<City id="1857">
+			<Name lang="EN">Perpignan</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Perpignan, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="3609">
+			<Name lang="EN">Perros-Guirec</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Perros-Guirec, Bretagne, France</Destination>
+		</City>
+		<City id="3614">
+			<Name lang="EN">Pessac</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Pessac, Aquitaine, France</Destination>
+		</City>
+		<City id="1337">
+			<Name lang="EN">Plailly</Name>
+			<Region lang="EN">Picardie</Region>
+			<Destination lang="EN">Plailly, Picardie, France</Destination>
+		</City>
+		<City id="17344">
+			<Name lang="EN">Plouescat</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Plouescat, Bretagne, France</Destination>
+		</City>
+		<City id="1557">
+			<Name lang="EN">Poissy</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Poissy, Ile-de-France, France</Destination>
+		</City>
+		<City id="1859">
+			<Name lang="EN">Poitiers</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Poitiers, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="1563">
+			<Name lang="EN">Pont Audemer</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Pont Audemer, Haute-Normandie, France</Destination>
+		</City>
+		<City id="1565">
+			<Name lang="EN">Pont L'Abbe</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Pont L'Abbe, Bretagne, France</Destination>
+		</City>
+		<City id="33864">
+			<Name lang="EN">Pontacq</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Pontacq, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="1496">
+			<Name lang="EN">Pontault-Combault</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Pontault-Combault, Ile-de-France, France</Destination>
+		</City>
+		<City id="1507">
+			<Name lang="EN">Pontorson</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Pontorson, Basse-Normandie, France</Destination>
+		</City>
+		<City id="1509">
+			<Name lang="EN">Pornichet</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Pornichet, Pays de la Loire, France</Destination>
+		</City>
+		<City id="33872">
+			<Name lang="EN">Port en Bessin</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Port en Bessin, Basse-Normandie, France</Destination>
+		</City>
+		<City id="35813">
+			<Name lang="EN">Port-la-Nouvelle</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Port-la-Nouvelle, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="1281">
+			<Name lang="EN">Porto Vecchio</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Porto Vecchio, Corse, France</Destination>
+		</City>
+		<City id="1284">
+			<Name lang="EN">Pouilly en Auxois</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Pouilly en Auxois, Bourgogne, France</Destination>
+		</City>
+		<City id="1300">
+			<Name lang="EN">Pralognan la Vanoise</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Pralognan la Vanoise, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1305">
+			<Name lang="EN">Praz sur Arly</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Praz sur Arly, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1861">
+			<Name lang="EN">Propriano</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Propriano, Corse, France</Destination>
+		</City>
+		<City id="25989">
+			<Name lang="EN">Puilboreau</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Puilboreau, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="1520">
+			<Name lang="EN">Puteaux</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Puteaux, Ile-de-France, France</Destination>
+		</City>
+		<City id="1522">
+			<Name lang="EN">Puy St Vincent</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Puy St Vincent, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="1524">
+			<Name lang="EN">Quimper</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Quimper, Bretagne, France</Destination>
+		</City>
+		<City id="1539">
+			<Name lang="EN">Quimperle</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Quimperle, Bretagne, France</Destination>
+		</City>
+		<City id="157">
+			<Name lang="EN">Ramonville Saint Agne</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Ramonville Saint Agne, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="1548">
+			<Name lang="EN">Reims</Name>
+			<Region lang="EN">Champagne-Ardenne</Region>
+			<Destination lang="EN">Reims, Champagne-Ardenne, France</Destination>
+		</City>
+		<City id="1549">
+			<Name lang="EN">Rennes</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Rennes, Bretagne, France</Destination>
+		</City>
+		<City id="5679">
+			<Name lang="EN">Richelieu</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Richelieu, Centre, France</Destination>
+		</City>
+		<City id="1769">
+			<Name lang="EN">Roanne</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Roanne, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1770">
+			<Name lang="EN">Rochefort</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Rochefort, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="1771">
+			<Name lang="EN">Rodez</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Rodez, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="5705">
+			<Name lang="EN">Roiffe</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Roiffe, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="5706">
+			<Name lang="EN">Roissy en France</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Roissy en France, Ile-de-France, France</Destination>
+		</City>
+		<City id="5711">
+			<Name lang="EN">Roquebrune-Cap-Martin</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Roquebrune-Cap-Martin, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5712">
+			<Name lang="EN">Roquefort les Pins</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Roquefort les Pins, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5714">
+			<Name lang="EN">Roscoff</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Roscoff, Bretagne, France</Destination>
+		</City>
+		<City id="5716">
+			<Name lang="EN">Rosny sous Bois</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Rosny sous Bois, Ile-de-France, France</Destination>
+		</City>
+		<City id="8826">
+			<Name lang="EN">Roubaix</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Roubaix, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="1773">
+			<Name lang="EN">Rouen</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Rouen, Haute-Normandie, France</Destination>
+		</City>
+		<City id="8827">
+			<Name lang="EN">Rouffach</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Rouffach, Alsace, France</Destination>
+		</City>
+		<City id="28054">
+			<Name lang="EN">Rouffiac</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Rouffiac, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="1774">
+			<Name lang="EN">Royan</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Royan, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="8831">
+			<Name lang="EN">Rueil Malmaison</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Rueil Malmaison, Ile-de-France, France</Destination>
+		</City>
+		<City id="8835">
+			<Name lang="EN">Rungis</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Rungis, Ile-de-France, France</Destination>
+		</City>
+		<City id="34869">
+			<Name lang="EN">Saint Andre des Eaux</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Andre des Eaux, Pays de la Loire, France</Destination>
+		</City>
+		<City id="5743">
+			<Name lang="EN">Saint Avertin</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Saint Avertin, Centre, France</Destination>
+		</City>
+		<City id="8842">
+			<Name lang="EN">Saint Brieuc</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Saint Brieuc, Bretagne, France</Destination>
+		</City>
+		<City id="5753">
+			<Name lang="EN">Saint Cloud</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Saint Cloud, Ile-de-France, France</Destination>
+		</City>
+		<City id="34006">
+			<Name lang="EN">Saint Cyr l'Ecole</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Saint Cyr l'Ecole, Ile-de-France, France</Destination>
+		</City>
+		<City id="35443">
+			<Name lang="EN">Saint Cyr sur Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Cyr sur Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5755">
+			<Name lang="EN">Saint Denis</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Saint Denis, Ile-de-France, France</Destination>
+		</City>
+		<City id="5790">
+			<Name lang="EN">Saint Emilion</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Saint Emilion, Aquitaine, France</Destination>
+		</City>
+		<City id="8845">
+			<Name lang="EN">Saint Etienne</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Etienne, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="5792">
+			<Name lang="EN">Saint Etienne en Devoluy</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Etienne en Devoluy, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="28418">
+			<Name lang="EN">Saint Florent</Name>
+			<Region lang="EN">Corse</Region>
+			<Destination lang="EN">Saint Florent, Corse, France</Destination>
+		</City>
+		<City id="5796">
+			<Name lang="EN">Saint Francois Longchamp</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Francois Longchamp, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="5803">
+			<Name lang="EN">Saint Gervais la Foret</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Saint Gervais la Foret, Centre, France</Destination>
+		</City>
+		<City id="14130">
+			<Name lang="EN">Saint Gervais les Bains</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Gervais les Bains, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="5805">
+			<Name lang="EN">Saint Gilles Croix de Vie</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Gilles Croix de Vie, Pays de la Loire, France</Destination>
+		</City>
+		<City id="5806">
+			<Name lang="EN">Saint Herblain</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Herblain, Pays de la Loire, France</Destination>
+		</City>
+		<City id="35843">
+			<Name lang="EN">Saint Hilaire de Riez</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Hilaire de Riez, Pays de la Loire, France</Destination>
+		</City>
+		<City id="5807">
+			<Name lang="EN">Saint Jean Cap Ferrat</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Jean Cap Ferrat, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5808">
+			<Name lang="EN">Saint Jean d'Arves</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Jean d'Arves, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="5809">
+			<Name lang="EN">Saint Jean de Luz</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Saint Jean de Luz, Aquitaine, France</Destination>
+		</City>
+		<City id="22128">
+			<Name lang="EN">Saint Jean de Monts</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Jean de Monts, Pays de la Loire, France</Destination>
+		</City>
+		<City id="28441">
+			<Name lang="EN">Saint Jean de Vedas</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Saint Jean de Vedas, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="28457">
+			<Name lang="EN">Saint Lary Soulan</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Saint Lary Soulan, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="5813">
+			<Name lang="EN">Saint Laurent de Mure</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Laurent de Mure, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="5814">
+			<Name lang="EN">Saint Laurent du Var</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Laurent du Var, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5817">
+			<Name lang="EN">Saint Malo</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Saint Malo, Bretagne, France</Destination>
+		</City>
+		<City id="5820">
+			<Name lang="EN">Saint Martin aux Chartrains</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Saint Martin aux Chartrains, Basse-Normandie, France</Destination>
+		</City>
+		<City id="34014">
+			<Name lang="EN">Saint Martin de Belleville</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Martin de Belleville, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="34877">
+			<Name lang="EN">Saint Martin de Re</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Saint Martin de Re, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="23066">
+			<Name lang="EN">Saint Martin du Vivier</Name>
+			<Region lang="EN">Haute-Normandie</Region>
+			<Destination lang="EN">Saint Martin du Vivier, Haute-Normandie, France</Destination>
+		</City>
+		<City id="23067">
+			<Name lang="EN">Saint Maurice de Beynost</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Saint Maurice de Beynost, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="8846">
+			<Name lang="EN">Saint Nazaire</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saint Nazaire, Pays de la Loire, France</Destination>
+		</City>
+		<City id="5825">
+			<Name lang="EN">Saint Omer</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Saint Omer, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="5826">
+			<Name lang="EN">Saint Ouen</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Saint Ouen, Ile-de-France, France</Destination>
+		</City>
+		<City id="35845">
+			<Name lang="EN">Saint Ouen les Vignes</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Saint Ouen les Vignes, Centre, France</Destination>
+		</City>
+		<City id="5829">
+			<Name lang="EN">Saint Paul de Vence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Paul de Vence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="184">
+			<Name lang="EN">Saint Quentin en Yvelines</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Saint Quentin en Yvelines, Ile-de-France, France</Destination>
+		</City>
+		<City id="35848">
+			<Name lang="EN">Saint Quentin sur le Homme</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Saint Quentin sur le Homme, Basse-Normandie, France</Destination>
+		</City>
+		<City id="185">
+			<Name lang="EN">Saint Raphael</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Raphael, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="36680">
+			<Name lang="EN">Saint Remy De Provence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saint Remy De Provence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="187">
+			<Name lang="EN">Saint Symphorien le Chateau</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Saint Symphorien le Chateau, Centre, France</Destination>
+		</City>
+		<City id="34026">
+			<Name lang="EN">Sainte Foy Tarentaise</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Sainte Foy Tarentaise, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="499">
+			<Name lang="EN">Sainte Maxime</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Sainte Maxime, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="504">
+			<Name lang="EN">Saintes</Name>
+			<Region lang="EN">Poitou-Charentes</Region>
+			<Destination lang="EN">Saintes, Poitou-Charentes, France</Destination>
+		</City>
+		<City id="35852">
+			<Name lang="EN">Saintes Maries de la Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saintes Maries de la Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5841">
+			<Name lang="EN">Salies-de-Bearn</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Salies-de-Bearn, Aquitaine, France</Destination>
+		</City>
+		<City id="5860">
+			<Name lang="EN">Salon de Provence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Salon de Provence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="6121">
+			<Name lang="EN">Sanary sur Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Sanary sur Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="4347">
+			<Name lang="EN">Sarlat-la-Caneda</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Sarlat-la-Caneda, Aquitaine, France</Destination>
+		</City>
+		<City id="34906">
+			<Name lang="EN">Saumane de Vaucluse</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Saumane de Vaucluse, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="4391">
+			<Name lang="EN">Saumur</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Saumur, Pays de la Loire, France</Destination>
+		</City>
+		<City id="4981">
+			<Name lang="EN">Seclin</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Seclin, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="4985">
+			<Name lang="EN">Sedan</Name>
+			<Region lang="EN">Champagne-Ardenne</Region>
+			<Destination lang="EN">Sedan, Champagne-Ardenne, France</Destination>
+		</City>
+		<City id="5294">
+			<Name lang="EN">Serris</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Serris, Ile-de-France, France</Destination>
+		</City>
+		<City id="5316">
+			<Name lang="EN">Sete</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Sete, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="4493">
+			<Name lang="EN">Sevran</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Sevran, Ile-de-France, France</Destination>
+		</City>
+		<City id="4917">
+			<Name lang="EN">Six Fours Les Plages</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Six Fours Les Plages, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5355">
+			<Name lang="EN">Solaize</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Solaize, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="182">
+			<Name lang="EN">Sophia Antipolis</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="6644">
+			<Name lang="EN">Souillac</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Souillac, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="34938">
+			<Name lang="EN">Soulac sur Mer</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Soulac sur Mer, Aquitaine, France</Destination>
+		</City>
+		<City id="4423">
+			<Name lang="EN">St Junien</Name>
+			<Region lang="EN">Limousin</Region>
+			<Destination lang="EN">St Junien, Limousin, France</Destination>
+		</City>
+		<City id="4450">
+			<Name lang="EN">St Remy-de-Provence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">St Remy-de-Provence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5726">
+			<Name lang="EN">St Tropez</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">St Tropez, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="5729">
+			<Name lang="EN">Strasbourg</Name>
+			<Region lang="EN">Alsace</Region>
+			<Destination lang="EN">Strasbourg, Alsace, France</Destination>
+		</City>
+		<City id="5245">
+			<Name lang="EN">Super-Besse</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Super-Besse, Auvergne, France</Destination>
+		</City>
+		<City id="5252">
+			<Name lang="EN">Suresnes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Suresnes, Ile-de-France, France</Destination>
+		</City>
+		<City id="739">
+			<Name lang="EN">Talmont-St-Hilaire</Name>
+			<Region lang="EN">Pays de la Loire</Region>
+			<Destination lang="EN">Talmont-St-Hilaire, Pays de la Loire, France</Destination>
+		</City>
+		<City id="2664">
+			<Name lang="EN">Tarbes</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Tarbes, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="769">
+			<Name lang="EN">Theoule sur Mer</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Theoule sur Mer, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="790">
+			<Name lang="EN">Thoiry</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Thoiry, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="2596">
+			<Name lang="EN">Tignes</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Tignes, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="34254">
+			<Name lang="EN">Tilques</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Tilques, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="2699">
+			<Name lang="EN">Tinqueux</Name>
+			<Region lang="EN">Champagne-Ardenne</Region>
+			<Destination lang="EN">Tinqueux, Champagne-Ardenne, France</Destination>
+		</City>
+		<City id="2172">
+			<Name lang="EN">Torcy</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Torcy, Ile-de-France, France</Destination>
+		</City>
+		<City id="2597">
+			<Name lang="EN">Toulon</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Toulon, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="2598">
+			<Name lang="EN">Toulouse</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Toulouse, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="2599">
+			<Name lang="EN">Tours</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Tours, Centre, France</Destination>
+		</City>
+		<City id="36326">
+			<Name lang="EN">Trebas-les-Bains</Name>
+			<Region lang="EN">Midi-Pyrénées</Region>
+			<Destination lang="EN">Trebas-les-Bains, Midi-Pyrénées, France</Destination>
+		</City>
+		<City id="2771">
+			<Name lang="EN">Trouville sur Mer</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Trouville sur Mer, Basse-Normandie, France</Destination>
+		</City>
+		<City id="2778">
+			<Name lang="EN">Troyes</Name>
+			<Region lang="EN">Champagne-Ardenne</Region>
+			<Destination lang="EN">Troyes, Champagne-Ardenne, France</Destination>
+		</City>
+		<City id="389">
+			<Name lang="EN">Urrugne</Name>
+			<Region lang="EN">Aquitaine</Region>
+			<Destination lang="EN">Urrugne, Aquitaine, France</Destination>
+		</City>
+		<City id="432">
+			<Name lang="EN">Uzes</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Uzes, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="434">
+			<Name lang="EN">Val d'Isere</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Val d'Isere, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="590">
+			<Name lang="EN">Val Thorens</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Val Thorens, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="593">
+			<Name lang="EN">Valbonne</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Valbonne, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="614">
+			<Name lang="EN">Valenciennes</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Valenciennes, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="620">
+			<Name lang="EN">Valfrejus</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Valfrejus, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="642">
+			<Name lang="EN">Valloire</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Valloire, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="648">
+			<Name lang="EN">Valmeinier</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Valmeinier, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="651">
+			<Name lang="EN">Valmorel</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Valmorel, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="436">
+			<Name lang="EN">Vannes</Name>
+			<Region lang="EN">Bretagne</Region>
+			<Destination lang="EN">Vannes, Bretagne, France</Destination>
+		</City>
+		<City id="963">
+			<Name lang="EN">Vanves</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Vanves, Ile-de-France, France</Destination>
+		</City>
+		<City id="1014">
+			<Name lang="EN">Veigy Foncenex</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Veigy Foncenex, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="1145">
+			<Name lang="EN">Vence</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Vence, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="2921">
+			<Name lang="EN">Versailles</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Versailles, Ile-de-France, France</Destination>
+		</City>
+		<City id="463">
+			<Name lang="EN">Vichy</Name>
+			<Region lang="EN">Auvergne</Region>
+			<Destination lang="EN">Vichy, Auvergne, France</Destination>
+		</City>
+		<City id="1692">
+			<Name lang="EN">Villandry</Name>
+			<Region lang="EN">Centre</Region>
+			<Destination lang="EN">Villandry, Centre, France</Destination>
+		</City>
+		<City id="1726">
+			<Name lang="EN">Villejuif</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Villejuif, Ile-de-France, France</Destination>
+		</City>
+		<City id="1729">
+			<Name lang="EN">Villeneuve d'Ascq</Name>
+			<Region lang="EN">Nord-Pas de Calais</Region>
+			<Destination lang="EN">Villeneuve d'Ascq, Nord-Pas de Calais, France</Destination>
+		</City>
+		<City id="23625">
+			<Name lang="EN">Villeneuve les Avignon</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Villeneuve les Avignon, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="1730">
+			<Name lang="EN">Villeneuve les Beziers</Name>
+			<Region lang="EN">Languedoc-Roussillon</Region>
+			<Destination lang="EN">Villeneuve les Beziers, Languedoc-Roussillon, France</Destination>
+		</City>
+		<City id="1731">
+			<Name lang="EN">Villeneuve Loubet</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Villeneuve Loubet, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="34989">
+			<Name lang="EN">Villers sur Mer</Name>
+			<Region lang="EN">Basse-Normandie</Region>
+			<Destination lang="EN">Villers sur Mer, Basse-Normandie, France</Destination>
+		</City>
+		<City id="1741">
+			<Name lang="EN">Villiers-le-Mahieu</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Villiers-le-Mahieu, Ile-de-France, France</Destination>
+		</City>
+		<City id="1756">
+			<Name lang="EN">Vincennes</Name>
+			<Region lang="EN">Ile-de-France</Region>
+			<Destination lang="EN">Vincennes, Ile-de-France, France</Destination>
+		</City>
+		<City id="1898">
+			<Name lang="EN">Vitrolles</Name>
+			<Region lang="EN">Provence-Alpes-Côte d'Azur</Region>
+			<Destination lang="EN">Vitrolles, Provence-Alpes-Côte d'Azur, France</Destination>
+		</City>
+		<City id="1908">
+			<Name lang="EN">Viviers du Lac</Name>
+			<Region lang="EN">Rhône-Alpes</Region>
+			<Destination lang="EN">Viviers du Lac, Rhône-Alpes, France</Destination>
+		</City>
+		<City id="2062">
+			<Name lang="EN">Vougeot</Name>
+			<Region lang="EN">Bourgogne</Region>
+			<Destination lang="EN">Vougeot, Bourgogne, France</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

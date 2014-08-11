@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338679" resultcode="0" message="" >
+				<Name><![CDATA[ROCHESTER BARILOCHE]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV.BUSTILLO 6700,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.119633</Latitude>
+					<Longitude>-71.383995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4366/37784366.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4367/37784367.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4368/37784368.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6560/37306560.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4353/37784353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4354/37784354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4355/37784355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4356/37784356.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4357/37784357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4358/37784358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4359/37784359.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4360/37784360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4361/37784361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4362/37784362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4363/37784363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4364/37784364.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 944 4326 6076 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

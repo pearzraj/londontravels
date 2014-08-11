@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339829" resultcode="0" message="" >
+				<Name><![CDATA[SIMPLE AND CHARMING HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Paraguay 5035,]]></Address1>
+					<Address2><![CDATA[1425, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1425</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.580585</Latitude>
+					<Longitude>58.429306</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2818/37152818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2819/37152819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2820/37152820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2821/37152821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2822/37152822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2823/37152823.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4702 6197]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4702 6197 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

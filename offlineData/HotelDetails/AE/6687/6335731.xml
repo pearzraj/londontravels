@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335731" resultcode="0" message="" >
+				<Name><![CDATA[AL MAHA ARJAAN BY ROTANA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Hamdan Street P.O. Box 5946 Abu Dhabi, U.A.E.,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.488667</Latitude>
+					<Longitude>54.363617</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7881/37107881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7882/37107882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7883/37107883.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03679_11_1.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7885/37107885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7886/37107886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7887/37107887.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[01197126106777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 6106666 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

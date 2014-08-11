@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337852" resultcode="0" message="" >
+				<Name><![CDATA[AYRES PORTENOS HOSTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Peru 708,]]></Address1>
+					<Address2><![CDATA[1068, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1068</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.61616</Latitude>
+					<Longitude>-58.374508</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Wi-Fi, Tourist Information, Shops, Safe in Reception, Airport Transfer and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Wi-Fi, Tourist Information, Shops, Safe in Reception, Airport Transfer and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5901/37305901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5902/37305902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5903/37305903.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5904/37305904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5905/37305905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5906/37305906.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143008711]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541143007314 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

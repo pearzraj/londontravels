@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495770" resultcode="0" message="" >
+				<Name><![CDATA[EUROSTARS EMBASSY]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Landstrasse,120]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.196503</Latitude>
+					<Longitude>16.395786</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4080/37664080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4081/37664081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4082/37664082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4071/37664071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4072/37664072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4073/37664073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4074/37664074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4075/37664075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4076/37664076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4077/37664077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4078/37664078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4079/37664079.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 715 18 58 911]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 01 715 1858900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="DE">
+		<City id="11824"> 
+			<Name lang="EN">Aachen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Aachen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15876">
+			<Name lang="EN">Aalen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Aalen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="15915">
+			<Name lang="EN">Achim</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Achim, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="18152">
+			<Name lang="EN">Aiterhofen</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Aiterhofen, Bavaria, Germany</Destination>
+		</City>
+		<City id="20239">
+			<Name lang="EN">Ansbach</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Ansbach, Bavaria, Germany</Destination>
+		</City>
+		<City id="21844">
+			<Name lang="EN">Aschheim</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Aschheim, Bavaria, Germany</Destination>
+		</City>
+		<City id="21851">
+			<Name lang="EN">Assmannshausen</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Assmannshausen, Hesse, Germany</Destination>
+		</City>
+		<City id="15870">
+			<Name lang="EN">Augsburg</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Augsburg, Bavaria, Germany</Destination>
+		</City>
+		<City id="13389">
+			<Name lang="EN">Bad Aibling</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Bad Aibling, Bavaria, Germany</Destination>
+		</City>
+		<City id="13400">
+			<Name lang="EN">Bad Bramstedt</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Bad Bramstedt, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="13410">
+			<Name lang="EN">Bad Herrenalb</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Bad Herrenalb, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="13432">
+			<Name lang="EN">Bad Oldesloe</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Bad Oldesloe, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="13436">
+			<Name lang="EN">Bad Reichenhall</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Bad Reichenhall, Bavaria, Germany</Destination>
+		</City>
+		<City id="13444">
+			<Name lang="EN">Bad Soden am Taunus</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Bad Soden am Taunus, Hesse, Germany</Destination>
+		</City>
+		<City id="26675">
+			<Name lang="EN">Baden-Baden</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Baden-Baden, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="11813">
+			<Name lang="EN">Bautzen</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Bautzen, Saxony, Germany</Destination>
+		</City>
+		<City id="12053">
+			<Name lang="EN">Bayreuth</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Bayreuth, Bavaria, Germany</Destination>
+		</City>
+		<City id="14348">
+			<Name lang="EN">Bensheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Bensheim, Hesse, Germany</Destination>
+		</City>
+		<City id="14349">
+			<Name lang="EN">Berchtesgaden</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Berchtesgaden, Bavaria, Germany</Destination>
+		</City>
+		<City id="14354">
+			<Name lang="EN">Bergisch Gladbach</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Bergisch Gladbach, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="12057">
+			<Name lang="EN">Berlin</Name>
+			<Region lang="EN">Berlin</Region>
+			<Destination lang="EN">Berlin, Berlin, Germany</Destination>
+		</City>
+		<City id="14400">
+			<Name lang="EN">Beverungen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Beverungen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="12060">
+			<Name lang="EN">Bielefeld</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Bielefeld, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="14796">
+			<Name lang="EN">Bingen am Rhein</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Bingen am Rhein, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="12062">
+			<Name lang="EN">Bochum</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Bochum, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="12063">
+			<Name lang="EN">Boeblingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Boeblingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="12120">
+			<Name lang="EN">Bonn</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Bonn, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="3415">
+			<Name lang="EN">Boppard</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Boppard, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="3469">
+			<Name lang="EN">Braunlage</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Braunlage, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="14857">
+			<Name lang="EN">Breitnau</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Breitnau, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="12127">
+			<Name lang="EN">Bremen</Name>
+			<Region lang="EN">Bremen</Region>
+			<Destination lang="EN">Bremen, Bremen, Germany</Destination>
+		</City>
+		<City id="14860">
+			<Name lang="EN">Bretten</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Bretten, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="12577">
+			<Name lang="EN">Bruehl</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Bruehl, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15968">
+			<Name lang="EN">Buchholz in der Nordheide</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Buchholz in der Nordheide, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="3632">
+			<Name lang="EN">Celle</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Celle, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="16732">
+			<Name lang="EN">Chemnitz</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Chemnitz, Saxony, Germany</Destination>
+		</City>
+		<City id="6247">
+			<Name lang="EN">Coburg</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Coburg, Bavaria, Germany</Destination>
+		</City>
+		<City id="16795">
+			<Name lang="EN">Cologne</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Cologne, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="16815">
+			<Name lang="EN">Cottbus</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Cottbus, Brandenburg, Germany</Destination>
+		</City>
+		<City id="19109">
+			<Name lang="EN">Darmstadt</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Darmstadt, Hesse, Germany</Destination>
+		</City>
+		<City id="19123">
+			<Name lang="EN">Deggendorf</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Deggendorf, Bavaria, Germany</Destination>
+		</City>
+		<City id="15669">
+			<Name lang="EN">Dessau</Name>
+			<Region lang="EN">Saxony-Anhalt</Region>
+			<Destination lang="EN">Dessau, Saxony-Anhalt, Germany</Destination>
+		</City>
+		<City id="20125">
+			<Name lang="EN">Donaueschingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Donaueschingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="15677">
+			<Name lang="EN">Dortmund</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Dortmund, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15678">
+			<Name lang="EN">Dresden</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Dresden, Saxony, Germany</Destination>
+		</City>
+		<City id="25143">
+			<Name lang="EN">Duisburg</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Duisburg, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="18568">
+			<Name lang="EN">Dulmen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Dulmen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15679">
+			<Name lang="EN">Dusseldorf</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Dusseldorf, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="25151">
+			<Name lang="EN">Eisenach</Name>
+			<Region lang="EN">Thuringia</Region>
+			<Destination lang="EN">Eisenach, Thuringia, Germany</Destination>
+		</City>
+		<City id="10805">
+			<Name lang="EN">Erding</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Erding, Bavaria, Germany</Destination>
+		</City>
+		<City id="25154">
+			<Name lang="EN">Erfurt</Name>
+			<Region lang="EN">Thuringia</Region>
+			<Destination lang="EN">Erfurt, Thuringia, Germany</Destination>
+		</City>
+		<City id="10810">
+			<Name lang="EN">Erlangen</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Erlangen, Bavaria, Germany</Destination>
+		</City>
+		<City id="10821">
+			<Name lang="EN">Eschborn</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Eschborn, Hesse, Germany</Destination>
+		</City>
+		<City id="25155">
+			<Name lang="EN">Essen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Essen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15241">
+			<Name lang="EN">Frankenthal</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Frankenthal, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="14192">
+			<Name lang="EN">Frankfurt</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Frankfurt, Hesse, Germany</Destination>
+		</City>
+		<City id="15250">
+			<Name lang="EN">Freiburg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Freiburg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="16105">
+			<Name lang="EN">Freising</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Freising, Bavaria, Germany</Destination>
+		</City>
+		<City id="16111">
+			<Name lang="EN">Freudenstadt</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Freudenstadt, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="16113">
+			<Name lang="EN">Friedrichsdorf</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Friedrichsdorf, Hesse, Germany</Destination>
+		</City>
+		<City id="16123">
+			<Name lang="EN">Fulda</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Fulda, Hesse, Germany</Destination>
+		</City>
+		<City id="16128">
+			<Name lang="EN">Furth</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Furth, Bavaria, Germany</Destination>
+		</City>
+		<City id="16131">
+			<Name lang="EN">Fussen</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Fussen, Bavaria, Germany</Destination>
+		</City>
+		<City id="16134">
+			<Name lang="EN">Garmisch Partenkirchen</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Garmisch Partenkirchen, Bavaria, Germany</Destination>
+		</City>
+		<City id="17081">
+			<Name lang="EN">Gelsenkirchen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Gelsenkirchen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="7953">
+			<Name lang="EN">Gengenbach</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Gengenbach, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="22748">
+			<Name lang="EN">Goslar</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Goslar, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="16141">
+			<Name lang="EN">Gotha</Name>
+			<Region lang="EN">Thuringia</Region>
+			<Destination lang="EN">Gotha, Thuringia, Germany</Destination>
+		</City>
+		<City id="22751">
+			<Name lang="EN">Gottingen</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Gottingen, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="22780">
+			<Name lang="EN">Grassau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Grassau, Bavaria, Germany</Destination>
+		</City>
+		<City id="28626">
+			<Name lang="EN">Gross Wittensee</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Gross Wittensee, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="28658">
+			<Name lang="EN">Gummersbach</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Gummersbach, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="16171">
+			<Name lang="EN">Gutersloh</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Gutersloh, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="28702">
+			<Name lang="EN">Haar</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Haar, Bavaria, Germany</Destination>
+		</City>
+		<City id="28710">
+			<Name lang="EN">Hahnenklee</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Hahnenklee, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="28913">
+			<Name lang="EN">Halle</Name>
+			<Region lang="EN">Saxony-Anhalt</Region>
+			<Destination lang="EN">Halle, Saxony-Anhalt, Germany</Destination>
+		</City>
+		<City id="28666">
+			<Name lang="EN">Hamburg</Name>
+			<Region lang="EN">Hamburg</Region>
+			<Destination lang="EN">Hamburg, Hamburg, Germany</Destination>
+		</City>
+		<City id="36408">
+			<Name lang="EN">Hannover</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Hannover, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="33234">
+			<Name lang="EN">Hattersheim am Main</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Hattersheim am Main, Hesse, Germany</Destination>
+		</City>
+		<City id="28670">
+			<Name lang="EN">Heidelberg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Heidelberg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="28944">
+			<Name lang="EN">Heidenheim</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Heidenheim, Bavaria, Germany</Destination>
+		</City>
+		<City id="26419">
+			<Name lang="EN">Heilbad Heiligenstadt</Name>
+			<Region lang="EN">Thuringia</Region>
+			<Destination lang="EN">Heilbad Heiligenstadt, Thuringia, Germany</Destination>
+		</City>
+		<City id="28963">
+			<Name lang="EN">Hennigsdorf</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Hennigsdorf, Brandenburg, Germany</Destination>
+		</City>
+		<City id="28671">
+			<Name lang="EN">Heringsdorf</Name>
+			<Region lang="EN">Mecklenburg-Vorpommern</Region>
+			<Destination lang="EN">Heringsdorf, Mecklenburg-Vorpommern, Germany</Destination>
+		</City>
+		<City id="28975">
+			<Name lang="EN">Herrenberg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Herrenberg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="28979">
+			<Name lang="EN">Hersbruck</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Hersbruck, Bavaria, Germany</Destination>
+		</City>
+		<City id="29198">
+			<Name lang="EN">Hockenheim</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Hockenheim, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="29207">
+			<Name lang="EN">Hohenschwangau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Hohenschwangau, Bavaria, Germany</Destination>
+		</City>
+		<City id="29217">
+			<Name lang="EN">Hoppegarten</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Hoppegarten, Brandenburg, Germany</Destination>
+		</City>
+		<City id="29221">
+			<Name lang="EN">Horstel</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Horstel, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="29229">
+			<Name lang="EN">Hoyerswerda</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Hoyerswerda, Saxony, Germany</Destination>
+		</City>
+		<City id="29235">
+			<Name lang="EN">Hunfeld</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Hunfeld, Hesse, Germany</Destination>
+		</City>
+		<City id="29237">
+			<Name lang="EN">Hurth</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Hurth, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="29267">
+			<Name lang="EN">Ingolstadt</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Ingolstadt, Bavaria, Germany</Destination>
+		</City>
+		<City id="29589">
+			<Name lang="EN">Itzehoe</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Itzehoe, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="30001">
+			<Name lang="EN">Kaarst</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Kaarst, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="29966">
+			<Name lang="EN">Kaiserslautern</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Kaiserslautern, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="30043">
+			<Name lang="EN">Karlsruhe</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Karlsruhe, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="29996">
+			<Name lang="EN">Kassel</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Kassel, Hesse, Germany</Destination>
+		</City>
+		<City id="29997">
+			<Name lang="EN">Kelsterbach</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Kelsterbach, Hesse, Germany</Destination>
+		</City>
+		<City id="29998">
+			<Name lang="EN">Kiel</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Kiel, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="30159">
+			<Name lang="EN">Kleinmachnow</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Kleinmachnow, Brandenburg, Germany</Destination>
+		</City>
+		<City id="30165">
+			<Name lang="EN">Koblenz</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Koblenz, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="30171">
+			<Name lang="EN">Konstanz</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Konstanz, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="30191">
+			<Name lang="EN">Kulmbach</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Kulmbach, Bavaria, Germany</Destination>
+		</City>
+		<City id="11328">
+			<Name lang="EN">Ladenburg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Ladenburg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="11347">
+			<Name lang="EN">Lampertheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Lampertheim, Hesse, Germany</Destination>
+		</City>
+		<City id="11358">
+			<Name lang="EN">Langen</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Langen, Hesse, Germany</Destination>
+		</City>
+		<City id="11361">
+			<Name lang="EN">Langenhagen</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Langenhagen, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="11514">
+			<Name lang="EN">Leinfelden-Echterdingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Leinfelden-Echterdingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="30353">
+			<Name lang="EN">Leipzig</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Leipzig, Saxony, Germany</Destination>
+		</City>
+		<City id="11559">
+			<Name lang="EN">Leverkusen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Leverkusen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="18540">
+			<Name lang="EN">Liebenwalde</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Liebenwalde, Brandenburg, Germany</Destination>
+		</City>
+		<City id="15451">
+			<Name lang="EN">Lindau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Lindau, Bavaria, Germany</Destination>
+		</City>
+		<City id="15456">
+			<Name lang="EN">Lippstadt</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Lippstadt, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15482">
+			<Name lang="EN">Lubeck</Name>
+			<Region lang="EN">Schleswig-Holstein</Region>
+			<Destination lang="EN">Lubeck, Schleswig-Holstein, Germany</Destination>
+		</City>
+		<City id="15486">
+			<Name lang="EN">Ludenscheid</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Ludenscheid, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="15488">
+			<Name lang="EN">Ludwigsburg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Ludwigsburg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="15490">
+			<Name lang="EN">Ludwigshafen</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Ludwigshafen, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="11425">
+			<Name lang="EN">Magdeburg</Name>
+			<Region lang="EN">Saxony-Anhalt</Region>
+			<Destination lang="EN">Magdeburg, Saxony-Anhalt, Germany</Destination>
+		</City>
+		<City id="11431">
+			<Name lang="EN">Mainz</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Mainz, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="15506">
+			<Name lang="EN">Mannheim</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Mannheim, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="11791">
+			<Name lang="EN">Merseburg</Name>
+			<Region lang="EN">Saxony-Anhalt</Region>
+			<Destination lang="EN">Merseburg, Saxony-Anhalt, Germany</Destination>
+		</City>
+		<City id="18260">
+			<Name lang="EN">Minden</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Minden, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="19230">
+			<Name lang="EN">Moenchengladbach</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Moenchengladbach, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="19292">
+			<Name lang="EN">Morfelden</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Morfelden, Hesse, Germany</Destination>
+		</City>
+		<City id="19293">
+			<Name lang="EN">Morfelden-Walldorf</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Morfelden-Walldorf, Hesse, Germany</Destination>
+		</City>
+		<City id="18202">
+			<Name lang="EN">Munich</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Munich, Bavaria, Germany</Destination>
+		</City>
+		<City id="18203">
+			<Name lang="EN">Munster</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Munster, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="7974">
+			<Name lang="EN">Nesselwang</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Nesselwang, Bavaria, Germany</Destination>
+		</City>
+		<City id="4182">
+			<Name lang="EN">Neufahrn bei Freising</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Neufahrn bei Freising, Bavaria, Germany</Destination>
+		</City>
+		<City id="28334">
+			<Name lang="EN">Neunkirchen</Name>
+			<Region lang="EN">Saarland</Region>
+			<Destination lang="EN">Neunkirchen, Saarland, Germany</Destination>
+		</City>
+		<City id="4201">
+			<Name lang="EN">Neuss</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Neuss, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="4203">
+			<Name lang="EN">Neustadt a. d. Weinstrasse</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Neustadt a. d. Weinstrasse, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="20419">
+			<Name lang="EN">Niedernhausen</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Niedernhausen, Hesse, Germany</Destination>
+		</City>
+		<City id="21131">
+			<Name lang="EN">Nordlingen</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Nordlingen, Bavaria, Germany</Destination>
+		</City>
+		<City id="4177">
+			<Name lang="EN">Nuremberg</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Nuremberg, Bavaria, Germany</Destination>
+		</City>
+		<City id="26638">
+			<Name lang="EN">Oberammergau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Oberammergau, Bavaria, Germany</Destination>
+		</City>
+		<City id="26642">
+			<Name lang="EN">Oberhausen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Oberhausen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="4215">
+			<Name lang="EN">Offenbach</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Offenbach, Hesse, Germany</Destination>
+		</City>
+		<City id="4216">
+			<Name lang="EN">Offenburg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Offenburg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="11382">
+			<Name lang="EN">Overath</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Overath, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="3582">
+			<Name lang="EN">Passau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Passau, Bavaria, Germany</Destination>
+		</City>
+		<City id="3622">
+			<Name lang="EN">Pfronten</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Pfronten, Bavaria, Germany</Destination>
+		</City>
+		<City id="1343">
+			<Name lang="EN">Plauen</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Plauen, Saxony, Germany</Destination>
+		</City>
+		<City id="1283">
+			<Name lang="EN">Potsdam</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Potsdam, Brandenburg, Germany</Destination>
+		</City>
+		<City id="1779">
+			<Name lang="EN">Radefeld</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Radefeld, Saxony, Germany</Destination>
+		</City>
+		<City id="167">
+			<Name lang="EN">Ratingen</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Ratingen, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="168">
+			<Name lang="EN">Raunheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Raunheim, Hesse, Germany</Destination>
+		</City>
+		<City id="5653">
+			<Name lang="EN">Regensburg</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Regensburg, Bavaria, Germany</Destination>
+		</City>
+		<City id="33931">
+			<Name lang="EN">Reilingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Reilingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="5660">
+			<Name lang="EN">Remscheid</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Remscheid, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="1772">
+			<Name lang="EN">Rostock-Laage</Name>
+			<Region lang="EN">Mecklenburg-Vorpommern</Region>
+			<Destination lang="EN">Rostock-Laage, Mecklenburg-Vorpommern, Germany</Destination>
+		</City>
+		<City id="5721">
+			<Name lang="EN">Rothenburg ob der Tauber</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Rothenburg ob der Tauber, Bavaria, Germany</Destination>
+		</City>
+		<City id="8830">
+			<Name lang="EN">Rudesheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Rudesheim, Hesse, Germany</Destination>
+		</City>
+		<City id="8836">
+			<Name lang="EN">Russelsheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Russelsheim, Hesse, Germany</Destination>
+		</City>
+		<City id="8840">
+			<Name lang="EN">Saarbrucken</Name>
+			<Region lang="EN">Saarland</Region>
+			<Destination lang="EN">Saarbrucken, Saarland, Germany</Destination>
+		</City>
+		<City id="4740">
+			<Name lang="EN">Schwabach</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Schwabach, Bavaria, Germany</Destination>
+		</City>
+		<City id="4745">
+			<Name lang="EN">Schwaig-Oberding</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Schwaig-Oberding, Bavaria, Germany</Destination>
+		</City>
+		<City id="4749">
+			<Name lang="EN">Schwangau</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Schwangau, Bavaria, Germany</Destination>
+		</City>
+		<City id="4752">
+			<Name lang="EN">Schwarzheide</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Schwarzheide, Brandenburg, Germany</Destination>
+		</City>
+		<City id="175">
+			<Name lang="EN">Schwerin</Name>
+			<Region lang="EN">Mecklenburg-Vorpommern</Region>
+			<Destination lang="EN">Schwerin, Mecklenburg-Vorpommern, Germany</Destination>
+		</City>
+		<City id="4758">
+			<Name lang="EN">Schwetzingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Schwetzingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="4869">
+			<Name lang="EN">Sindelfingen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Sindelfingen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="4876">
+			<Name lang="EN">Singen</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Singen, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="4404">
+			<Name lang="EN">St Goar</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">St Goar, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="5728">
+			<Name lang="EN">Stralsund</Name>
+			<Region lang="EN">Mecklenburg-Vorpommern</Region>
+			<Destination lang="EN">Stralsund, Mecklenburg-Vorpommern, Germany</Destination>
+		</City>
+		<City id="5731">
+			<Name lang="EN">Stuttgart</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Stuttgart, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="203">
+			<Name lang="EN">Teltow</Name>
+			<Region lang="EN">Brandenburg</Region>
+			<Destination lang="EN">Teltow, Brandenburg, Germany</Destination>
+		</City>
+		<City id="2718">
+			<Name lang="EN">Titisee</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Titisee, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="2584">
+			<Name lang="EN">Triberg</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Triberg, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="2590">
+			<Name lang="EN">Trier</Name>
+			<Region lang="EN">Rhineland-Palatinate</Region>
+			<Destination lang="EN">Trier, Rhineland-Palatinate, Germany</Destination>
+		</City>
+		<City id="2756">
+			<Name lang="EN">Troisdorf</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Troisdorf, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="325">
+			<Name lang="EN">Ulm</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Ulm, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="2870">
+			<Name lang="EN">Unterhaching</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Unterhaching, Bavaria, Germany</Destination>
+		</City>
+		<City id="2873">
+			<Name lang="EN">Unterschleissheim</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Unterschleissheim, Bavaria, Germany</Destination>
+		</City>
+		<City id="1209">
+			<Name lang="EN">Viernheim</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Viernheim, Hesse, Germany</Destination>
+		</City>
+		<City id="2253">
+			<Name lang="EN">Walldorf</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Walldorf, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="2265">
+			<Name lang="EN">Walsrode</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Walsrode, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="2364">
+			<Name lang="EN">Weimar</Name>
+			<Region lang="EN">Thuringia</Region>
+			<Destination lang="EN">Weimar, Thuringia, Germany</Destination>
+		</City>
+		<City id="2366">
+			<Name lang="EN">Weinheim</Name>
+			<Region lang="EN">Baden-Württemberg</Region>
+			<Destination lang="EN">Weinheim, Baden-Württemberg, Germany</Destination>
+		</City>
+		<City id="2394">
+			<Name lang="EN">Wemding</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Wemding, Bavaria, Germany</Destination>
+		</City>
+		<City id="1074">
+			<Name lang="EN">Wiesbaden</Name>
+			<Region lang="EN">Hesse</Region>
+			<Destination lang="EN">Wiesbaden, Hesse, Germany</Destination>
+		</City>
+		<City id="1077">
+			<Name lang="EN">Wismar</Name>
+			<Region lang="EN">Mecklenburg-Vorpommern</Region>
+			<Destination lang="EN">Wismar, Mecklenburg-Vorpommern, Germany</Destination>
+		</City>
+		<City id="3014">
+			<Name lang="EN">Wolfsburg</Name>
+			<Region lang="EN">Lower Saxony</Region>
+			<Destination lang="EN">Wolfsburg, Lower Saxony, Germany</Destination>
+		</City>
+		<City id="3068">
+			<Name lang="EN">Wuppertal</Name>
+			<Region lang="EN">North Rhine-Westphalia</Region>
+			<Destination lang="EN">Wuppertal, North Rhine-Westphalia, Germany</Destination>
+		</City>
+		<City id="3069">
+			<Name lang="EN">Wurzburg</Name>
+			<Region lang="EN">Bavaria</Region>
+			<Destination lang="EN">Wurzburg, Bavaria, Germany</Destination>
+		</City>
+		<City id="3357">
+			<Name lang="EN">Zwickau</Name>
+			<Region lang="EN">Saxony</Region>
+			<Destination lang="EN">Zwickau, Saxony, Germany</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

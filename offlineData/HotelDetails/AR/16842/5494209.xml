@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494209" resultcode="0" message="" >
+				<Name><![CDATA[NH PANORAMA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Marcelo T. De Alvear (La Canada), 251,]]></Address1>
+					<Address2><![CDATA[05000, Cordoba, Argentina]]></Address2>
+					<PostalCode>05000</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.4035</Latitude>
+					<Longitude>-64.18575</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. Pets not allowed. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. Pets not allowed. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7263/32607263.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7264/32607264.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7265/32607265.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7266/32607266.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7267/32607267.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7268/32607268.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7269/32607269.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7270/32607270.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7271/32607271.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7272/32607272.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7273/32607273.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7251/32607251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7252/32607252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7253/32607253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7254/32607254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7255/32607255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7256/32607256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7257/32607257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7258/32607258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7259/32607259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7260/32607260.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7261/32607261.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7262/32607262.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7280/32607280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7274/32607274.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7275/32607275.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7276/32607276.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7277/32607277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7278/32607278.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7279/32607279.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 351 4103950]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 351 4103900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

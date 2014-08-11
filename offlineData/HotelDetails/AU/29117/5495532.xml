@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495532" resultcode="0" message="" >
+				<Name><![CDATA[GREAT SOUTHERN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  George Street,717]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.880928</Latitude>
+					<Longitude>151.20464</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Shops and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Shops and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9616/32609616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9617/32609617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9618/32609618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9619/32609619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9620/32609620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9621/32609621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9622/32609622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9623/32609623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9624/32609624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9625/32609625.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061292815118]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0061292894400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334218" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN SUNSPREE ARUBA]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.E. Irausquin Boulevard 230,]]></Address1>
+					<Address2><![CDATA[1, Palm Beach, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82931</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Palm Beach]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.575009</Latitude>
+					<Longitude>-70.04459</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Tourist Information, Shops, Safe in Reception, Garage, Business Centre and Cash Dispenser.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Tourist Information, Shops, Safe in Reception, Garage, Business Centre and Cash Dispenser.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1339/37141339.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1340/37141340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1341/37141341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1342/37141342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1343/37141343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1344/37141344.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 586 5165]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 586 3600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

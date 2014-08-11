@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6500172" resultcode="0" message="" >
+				<Name><![CDATA[QASR AL SARAB DESERT RESORT BY ANANTARA]]></Name>
+				<Address>
+					<Address1><![CDATA[  1 Qasr Al Sarab Road,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>23.513626</Latitude>
+					<Longitude>54.36035</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 5***** establishment is the perfect choice whatever the reason for your visit. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 5***** establishment is the perfect choice whatever the reason for your visit. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13298_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 2 886 2086]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 886 2088 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

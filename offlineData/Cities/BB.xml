@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BB">
+		<City id="6937"> 
+			<Name lang="EN">Barbados</Name>
+			<Region lang="EN">Barbados</Region>
+			<Destination lang="EN">Barbados, Barbados, Barbados</Destination>
+		</City>
+		<City id="19333">
+			<Name lang="EN">Christ Church</Name>
+			<Region lang="EN">Christ Church</Region>
+			<Destination lang="EN">Christ Church, Christ Church, Barbados</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

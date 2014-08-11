@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493979" resultcode="0" message="" >
+				<Name><![CDATA[DAZZLER TOWER MAIPU]]></Name>
+				<Address>
+					<Address1><![CDATA[  Maipu 856,]]></Address1>
+					<Address2><![CDATA[1006, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1006</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59773</Latitude>
+					<Longitude>-58.37696</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5080/32605080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5081/32605081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5082/32605082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5083/32605083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5084/32605084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5085/32605085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5086/32605086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5087/32605087.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5088/32605088.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5079/32605079.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 52175777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 52175777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

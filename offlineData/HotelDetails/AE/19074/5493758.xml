@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493758" resultcode="0" message="" >
+				<Name><![CDATA[SAVOY CREST]]></Name>
+				<Address>
+					<Address1><![CDATA[  Off Bank street, ]]></Address1>
+					<Address2><![CDATA[49519, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>49519</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Jacuzzi. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3468/32603468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3469/32603469.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3460/32603460.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3461/32603461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3462/32603462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3463/32603463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3464/32603464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3465/32603465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3466/32603466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3467/32603467.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09750_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09750_1_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143512343]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143554488 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

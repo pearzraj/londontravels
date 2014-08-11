@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494893" resultcode="0" message="" >
+				<Name><![CDATA[RENDEZVOUS STAFFORD HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  75 Harrington Street, ]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.860172</Latitude>
+					<Longitude>151.2078</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Car parker, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Car parker, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8753/32608753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8754/32608754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8755/32608755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8756/32608756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8757/32608757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8758/32608758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8759/32608759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8760/32608760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8761/32608761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8762/32608762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8763/32608763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8750/32608750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8751/32608751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8752/32608752.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[61292513458]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[61292516711 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

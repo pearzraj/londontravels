@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495648" resultcode="0" message="" >
+				<Name><![CDATA[SCHERER HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Plainstrasse,37]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.813183</Latitude>
+					<Longitude>13.04045</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9142/37259142.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9143/37259143.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9144/37259144.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9145/37259145.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9146/37259146.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9147/37259147.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9132/37259132.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9133/37259133.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9134/37259134.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9135/37259135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9136/37259136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9137/37259137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9138/37259138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9139/37259139.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9140/37259140.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9141/37259141.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 662 876568]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 662 871706 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331919" resultcode="0" message="" >
+				<Name><![CDATA[TALK OF THE TOWN HOTEL AND BEACH CLUB]]></Name>
+				<Address>
+					<Address1><![CDATA[  L.G.Smith Boulevard 2 A,]]></Address1>
+					<Address2><![CDATA[1, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.509927</Latitude>
+					<Longitude>-70.02784</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2430/37092430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2431/37092431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2432/37092432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2433/37092433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2434/37092434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2435/37092435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2436/37092436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2437/37092437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2438/37092438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2439/37092439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2440/37092440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2441/37092441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2442/37092442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2443/37092443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2444/37092444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2445/37092445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2446/37092446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2447/37092447.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 5820327]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 5823380 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

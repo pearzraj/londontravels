@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494124" resultcode="0" message="" >
+				<Name><![CDATA[MARCOPOLO SUITES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta 12 Kilometro 3.5,]]></Address1>
+					<Address2><![CDATA[3370, Iguazu, Argentina]]></Address2>
+					<PostalCode>3370</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.605297</Latitude>
+					<Longitude>-54.575695</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9915/37679915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9916/37679916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9917/37679917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9918/37679918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9919/37679919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9920/37679920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9921/37679921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9922/37679922.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143007993]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541154213323 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

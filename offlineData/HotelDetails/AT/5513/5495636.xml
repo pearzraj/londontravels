@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495636" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN SALZBURG CITY (X CD CITY ART)]]></Name>
+				<Address>
+					<Address1><![CDATA[  Stemeckstr.,21]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.808876</Latitude>
+					<Longitude>13.053947</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9096/37259096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9097/37259097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9098/37259098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9099/37259099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9100/37259100.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9101/37259101.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9102/37259102.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06776_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06776_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662871805]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043662870408 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="" resultcode="0" message="" >
+				<Name><![CDATA[]]></Name>
+				<Address>
+					<Address1><![CDATA[]]></Address1>
+					<Address2><![CDATA[]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode></CityCode>
+					<CityName lang="EN">
+						<![CDATA[]]>
+					</CityName>
+					<CountryCode></CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude></Latitude>
+					<Longitude></Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime></CheckInTime>
+					<CheckOutTime></CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

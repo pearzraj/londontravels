@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341913" resultcode="0" message="" >
+				<Name><![CDATA[DESIGN SUITES SALTA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Belgrano 770,]]></Address1>
+					<Address2><![CDATA[4400, Salta, Argentina]]></Address2>
+					<PostalCode>4400</PostalCode>
+					<CityCode>83326</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salta]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-24.787148</Latitude>
+					<Longitude>-65.413185</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6641/37136641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6642/37136642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6643/37136643.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6655/37136655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6644/37136644.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6645/37136645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6646/37136646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6647/37136647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6648/37136648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6649/37136649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6650/37136650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6638/37136638.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6639/37136639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6640/37136640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6651/37136651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6652/37136652.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6653/37136653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6654/37136654.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 387 422 4466 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

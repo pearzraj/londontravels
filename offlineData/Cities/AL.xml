@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AL">
+		<City id="9118"> 
+			<Name lang="EN">Durres</Name>
+			<Region lang="EN">Durres</Region>
+			<Destination lang="EN">Durres, Durres, Albania</Destination>
+		</City>
+		<City id="36499">
+			<Name lang="EN">Elbasan</Name>
+			<Region lang="EN">Elbasan</Region>
+			<Destination lang="EN">Elbasan, Elbasan, Albania</Destination>
+		</City>
+		<City id="1649">
+			<Name lang="EN">Gjirokaster</Name>
+			<Region lang="EN">Gjirokaster</Region>
+			<Destination lang="EN">Gjirokaster, Gjirokaster, Albania</Destination>
+		</City>
+		<City id="36579">
+			<Name lang="EN">Lezhe</Name>
+			<Region lang="EN">Lezhe</Region>
+			<Destination lang="EN">Lezhe, Lezhe, Albania</Destination>
+		</City>
+		<City id="36648">
+			<Name lang="EN">Permet</Name>
+			<Region lang="EN">Permet</Region>
+			<Destination lang="EN">Permet, Permet, Albania</Destination>
+		</City>
+		<City id="33861">
+			<Name lang="EN">Pogradec</Name>
+			<Region lang="EN">Pogradec</Region>
+			<Destination lang="EN">Pogradec, Pogradec, Albania</Destination>
+		</City>
+		<City id="4328">
+			<Name lang="EN">Sarande</Name>
+			<Region lang="EN">Sarande</Region>
+			<Destination lang="EN">Sarande, Sarande, Albania</Destination>
+		</City>
+		<City id="29559">
+			<Name lang="EN">Tirana</Name>
+			<Region lang="EN">Tirana</Region>
+			<Destination lang="EN">Tirana, Tirana, Albania</Destination>
+		</City>
+		<City id="1919">
+			<Name lang="EN">Vlore</Name>
+			<Region lang="EN">Vlore</Region>
+			<Destination lang="EN">Vlore, Vlore, Albania</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495694" resultcode="0" message="" >
+				<Name><![CDATA[KONGRESS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hauptplatz,1]]></Address1>
+					<Address2><![CDATA[8700, Leoben, Austria]]></Address2>
+					<PostalCode>8700</PostalCode>
+					<CityCode>64888</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Leoben]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.3805</Latitude>
+					<Longitude>15.095152</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335399" resultcode="0" message="" >
+				<Name><![CDATA[WILTON PALACE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Av Callao 1162,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.595226</Latitude>
+					<Longitude>-58.39324</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9708/37759708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9709/37759709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9710/37759710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9711/37759711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9712/37759712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9713/37759713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9714/37759714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9715/37759715.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9716/37759716.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42637_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9705/37759705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9706/37759706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9707/37759707.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541148164633]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541148111818 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

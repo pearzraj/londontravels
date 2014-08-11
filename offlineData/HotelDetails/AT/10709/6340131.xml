@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340131" resultcode="0" message="" >
+				<Name><![CDATA[STEIGENBERGER HOTEL LINZ]]></Name>
+				<Address>
+					<Address1><![CDATA[   Am Winterhofen,13]]></Address1>
+					<Address2><![CDATA[4020, Linz, Austria]]></Address2>
+					<PostalCode>4020</PostalCode>
+					<CityCode>64890</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Linz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.31905</Latitude>
+					<Longitude>14.302981</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9080/37159080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9081/37159081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9082/37159082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9083/37159083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9084/37159084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9085/37159085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9086/37159086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9087/37159087.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9067/37159067.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9068/37159068.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9069/37159069.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9070/37159070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9071/37159071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9072/37159072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9073/37159073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9074/37159074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9075/37159075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9076/37159076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9077/37159077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9078/37159078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9079/37159079.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043732 789999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043732 78990 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

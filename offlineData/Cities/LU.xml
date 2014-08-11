@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LU">
+		<City id="11968"> 
+			<Name lang="EN">Esch-sur-Alzette</Name>
+			<Region lang="EN">Esch-sur-Alzette</Region>
+			<Destination lang="EN">Esch-sur-Alzette, Esch-sur-Alzette, Luxembourg</Destination>
+		</City>
+		<City id="1072">
+			<Name lang="EN">Luxembourg</Name>
+			<Region lang="EN">Luxembourg</Region>
+			<Destination lang="EN">Luxembourg, Luxembourg, Luxembourg</Destination>
+		</City>
+		<City id="34758">
+			<Name lang="EN">Mondorf les Bains</Name>
+			<Region lang="EN">Mondorf les Bains</Region>
+			<Destination lang="EN">Mondorf les Bains, Mondorf les Bains, Luxembourg</Destination>
+		</City>
+		<City id="4712">
+			<Name lang="EN">Schengen</Name>
+			<Region lang="EN">Schengen</Region>
+			<Destination lang="EN">Schengen, Schengen, Luxembourg</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

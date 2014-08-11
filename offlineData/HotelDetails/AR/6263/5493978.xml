@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493978" resultcode="0" message="" >
+				<Name><![CDATA[NH FLORIDA]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 839,]]></Address1>
+					<Address2><![CDATA[C1004AAQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1004AAQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59772</Latitude>
+					<Longitude>-58.373913</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5055/32605055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5056/32605056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5057/32605057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5075/32605075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5076/32605076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5077/32605077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5078/32605078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5058/32605058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5059/32605059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5060/32605060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5061/32605061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5065/32605065.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5066/32605066.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5067/32605067.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5068/32605068.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5069/32605069.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5070/32605070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5071/32605071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5072/32605072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5073/32605073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5074/32605074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5062/32605062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5063/32605063.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5064/32605064.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 43219875]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 43219850 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

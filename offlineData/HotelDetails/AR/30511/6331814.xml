@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331814" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN EXPRESS ROSARIO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salta 1950,]]></Address1>
+					<Address2><![CDATA[02000, Rosario, Argentina]]></Address2>
+					<PostalCode>02000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.9373</Latitude>
+					<Longitude>-60.6482</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1833/37091833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6909/37296909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6910/37296910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6911/37296911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6912/37296912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6913/37296913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6914/37296914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6915/37296915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6916/37296916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6917/37296917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6918/37296918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6919/37296919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6920/37296920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6921/37296921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6922/37296922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6923/37296923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1827/37091827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1828/37091828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1829/37091829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1830/37091830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1831/37091831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1832/37091832.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 341 4100 100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 341 4100 100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335986" resultcode="0" message="" >
+				<Name><![CDATA[LAS BAYAS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Alvear 985,]]></Address1>
+					<Address2><![CDATA[9200, Esquel, Argentina]]></Address2>
+					<PostalCode>9200</PostalCode>
+					<CityCode>87020</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Esquel]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-42.912933</Latitude>
+					<Longitude>-71.323</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4440/37114440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4441/37114441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4442/37114442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4443/37114443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4444/37114444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4445/37114445.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 294556800]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2945455800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

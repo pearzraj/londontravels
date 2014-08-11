@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KW">
+		<City id="9897"> 
+			<Name lang="EN">Kuwait</Name>
+			<Region lang="EN">Kuwait</Region>
+			<Destination lang="EN">Kuwait, Kuwait, Kuwait</Destination>
+		</City>
+		<City id="25473">
+			<Name lang="EN">Salmiya</Name>
+			<Region lang="EN">Salmiya</Region>
+			<Destination lang="EN">Salmiya, Salmiya, Kuwait</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

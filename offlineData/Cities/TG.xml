@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TG">
+		<City id="12250"> 
+			<Name lang="EN">Lome</Name>
+			<Region lang="EN">Lome</Region>
+			<Destination lang="EN">Lome, Lome, Togo</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

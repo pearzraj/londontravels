@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493999" resultcode="0" message="" >
+				<Name><![CDATA[ABASTO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Corrientes,  3190,]]></Address1>
+					<Address2><![CDATA[C1193AAQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1193AAQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.603973</Latitude>
+					<Longitude>-58.410027</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5307/32605307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5308/32605308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5309/32605309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5310/32605310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5289/32605289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5290/32605290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5291/32605291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5292/32605292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5293/32605293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5294/32605294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5295/32605295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5296/32605296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5297/32605297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5298/32605298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5299/32605299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5300/32605300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5301/32605301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5302/32605302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5303/32605303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5304/32605304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5305/32605305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5306/32605306.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 6311 4465]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 6311 4460 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

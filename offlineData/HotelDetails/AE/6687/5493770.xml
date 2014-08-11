@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493770" resultcode="0" message="" >
+				<Name><![CDATA[FAIRMONT BAB AL BAHR]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o. Box 114304 Between The Bridges,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.414524</Latitude>
+					<Longitude>54.490128</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3562/32603562.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3563/32603563.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3564/32603564.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3565/32603565.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3566/32603566.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3567/32603567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3568/32603568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3569/32603569.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3570/32603570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3571/32603571.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 654 3322]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 654 3333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

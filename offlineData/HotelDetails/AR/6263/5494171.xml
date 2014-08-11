@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494171" resultcode="0" message="" >
+				<Name><![CDATA[ETOILE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Pte. M. Ortiz, 1835]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.58961</Latitude>
+					<Longitude>-58.422947</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6924/32606924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6925/32606925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6926/32606926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6927/32606927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6928/32606928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6929/32606929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6930/32606930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6931/32606931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6932/32606932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6919/32606919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6920/32606920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6921/32606921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6922/32606922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6923/32606923.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4805 3613]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 4805 2626 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

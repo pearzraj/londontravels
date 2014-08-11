@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341787" resultcode="0" message="" >
+				<Name><![CDATA[CENTRO ROTANA AL BARSHA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Road 329, Al Barsha 1, P.O box 115060,]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.113146</Latitude>
+					<Longitude>55.195095</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5767/37135767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5768/37135768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5769/37135769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5770/37135770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5771/37135771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5772/37135772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5773/37135773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5774/37135774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5775/37135775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5776/37135776.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 4 399 0111]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 4 704 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

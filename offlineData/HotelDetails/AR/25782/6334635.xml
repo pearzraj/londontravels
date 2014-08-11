@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334635" resultcode="0" message="" >
+				<Name><![CDATA[AMERIAN PORTAL DEL IGUAZU]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV TRES FRONTERAS 780 Y AV EDUARDO ARRABAL,]]></Address1>
+					<Address2><![CDATA[03370, Puerto Iguazu, Argentina]]></Address2>
+					<PostalCode>03370</PostalCode>
+					<CityCode>87105</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.595867</Latitude>
+					<Longitude>-54.589428</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Hairdressers. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Laundry Service Activities and relax: Sauna, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna and Hairdressers. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Laundry Service Activities and relax: Sauna, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/227/37150227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/228/37150228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/229/37150229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/230/37150230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/231/37150231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/232/37150232.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/233/37150233.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/234/37150234.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/235/37150235.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/236/37150236.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/237/37150237.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/238/37150238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/239/37150239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/240/37150240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/241/37150241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/242/37150242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/243/37150243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/244/37150244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/245/37150245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/246/37150246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/247/37150247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/248/37150248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/249/37150249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/250/37150250.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00 54 3757 498 200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

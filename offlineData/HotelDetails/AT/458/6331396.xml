@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331396" resultcode="0" message="" >
+				<Name><![CDATA[ADAGIO WIEN CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Uraniastrasse,2]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.211056</Latitude>
+					<Longitude>16.383728</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The ADAGIO WIEN CITY enjoys an unbeatable location right in the centre of VIENNA, a stone¿s throw from top-flight tourist attractions. The establishment has apartments of bedrooms. We offer Breakfast Service. The Business Centre has everything guests require to work. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The apartments have Sofa Bed, Independent Air Conditioning, Telephone, LCD TV , Lounge, Kitchen, Kitchenette, Bathtub, Hairdryer, Coffee Machine, Refrigerator, Microwave, Kitchen Utensils, Crockery, Dishwasher, Table/Chairs, Internet Connection and Ironing Board , and among our services and facilities available we have Lifts and Air Conditioning. We also have Multilingual Personnel, Luggage compartment, Nearby Parking , Tourist Information and Business Centre. Activities and relax: Sauna and  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The ADAGIO WIEN CITY enjoys an unbeatable location right in the centre of VIENNA, a stone¿s throw from top-flight tourist attractions. The establishment has apartments of bedrooms. We offer Breakfast Service. The Business Centre has everything guests require to work. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The apartments have Sofa Bed, Independent Air Conditioning, Telephone, LCD TV , Lounge, Kitchen, Kitchenette, Bathtub, Hairdryer, Coffee Machine, Refrigerator, Microwave, Kitchen Utensils, Crockery, Dishwasher, Table/Chairs, Internet Connection and Ironing Board , and among our services and facilities available we have Lifts and Air Conditioning. We also have Multilingual Personnel, Luggage compartment, Nearby Parking , Tourist Information and Business Centre. Activities and relax: Sauna and De 1 a 4 Máquinas. Credit Cards: American Expres, Visa, Euro/Mastercard and Diners Club. Cuisine: . Pets allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431908303910]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431908303 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

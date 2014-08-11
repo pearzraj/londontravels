@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494108" resultcode="0" message="" >
+				<Name><![CDATA[REGENTE PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Suipacha 964,]]></Address1>
+					<Address2><![CDATA[C1008AAT, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1008AAT</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59653</Latitude>
+					<Longitude>-58.379868</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9734/37679734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9735/37679735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9736/37679736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9737/37679737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9738/37679738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9739/37679739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9740/37679740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9719/37679719.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9720/37679720.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9721/37679721.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9722/37679722.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9723/37679723.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9724/37679724.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9725/37679725.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9726/37679726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9727/37679727.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9728/37679728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9729/37679729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9730/37679730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9731/37679731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9732/37679732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9733/37679733.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5411 4328 7460]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 5411 4328 6800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

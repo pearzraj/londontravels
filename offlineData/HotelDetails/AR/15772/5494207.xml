@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494207" resultcode="0" message="" >
+				<Name><![CDATA[EL AGUAMIEL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 4 y Anchoren s/n Lunlunta, Maipú,]]></Address1>
+					<Address2><![CDATA[5515, Mendoza, Argentina]]></Address2>
+					<PostalCode>5515</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.029785</Latitude>
+					<Longitude>-68.83204</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7241/32607241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7242/32607242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7243/32607243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7244/32607244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7237/32607237.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7238/32607238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7239/32607239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7240/32607240.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542614975788]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542614975788 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

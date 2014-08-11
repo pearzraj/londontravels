@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495345" resultcode="0" message="" >
+				<Name><![CDATA[MANTRA CIRCLE ON CAVILL]]></Name>
+				<Address>
+					<Address1><![CDATA[  9 Ferny Avenue,]]></Address1>
+					<Address2><![CDATA[Surfers Paradise, Australia]]></Address2>
+					<PostalCode>  </PostalCode>
+					<CityCode>86392</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Surfers Paradise]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-28.001354</Latitude>
+					<Longitude>153.42683</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9331/32609331.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9332/32609332.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9325/32609325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9326/32609326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9327/32609327.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9328/32609328.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9329/32609329.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9330/32609330.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 7 5582 2020]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 7 5582 2000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

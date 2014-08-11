@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494738" resultcode="0" message="" >
+				<Name><![CDATA[RICHARDSON HOTEL AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  32 Richardson Street,]]></Address1>
+					<Address2><![CDATA[7000, Perth, Australia]]></Address2>
+					<PostalCode>7000</PostalCode>
+					<CityCode>84456</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Perth]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.948156</Latitude>
+					<Longitude>115.83761</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8577/32608577.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8578/32608578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8573/32608573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8574/32608574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8575/32608575.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8576/32608576.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 618 9214 3931]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+618 9217 8888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

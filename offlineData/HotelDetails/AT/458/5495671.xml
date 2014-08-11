@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495671" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND PARK ROYAL PALACE VIENA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Schlossallee,8]]></Address1>
+					<Address2><![CDATA[1140, Vienna, Austria]]></Address2>
+					<PostalCode>1140</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.189247</Latitude>
+					<Longitude>16.314552</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05667_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 58800888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 89110 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

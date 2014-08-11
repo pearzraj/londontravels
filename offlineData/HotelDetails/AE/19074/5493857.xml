@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493857" resultcode="0" message="" >
+				<Name><![CDATA[HYATT REGENCY DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o. Box 5588 Dubai, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.278801</Latitude>
+					<Longitude>55.304134</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4051/32604051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4052/32604052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4053/32604053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4054/32604054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4055/32604055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4056/32604056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4057/32604057.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05140_12_12.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4058/32604058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4059/32604059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4060/32604060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4061/32604061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4062/32604062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4063/32604063.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4064/32604064.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4047/32604047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4048/32604048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4049/32604049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4050/32604050.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 209 6662]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 209 1234 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

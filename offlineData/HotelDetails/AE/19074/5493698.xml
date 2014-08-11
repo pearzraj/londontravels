@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493698" resultcode="0" message="" >
+				<Name><![CDATA[PANORAMA BUR DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[   Al Mankhod Rd Dubai Po Box 14703,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.25446</Latitude>
+					<Longitude>55.293354</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3070/32603070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3071/32603071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3072/32603072.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01490_1_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 351 8028]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143518518 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

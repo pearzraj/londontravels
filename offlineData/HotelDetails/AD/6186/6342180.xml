@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342180" resultcode="0" message="" >
+				<Name><![CDATA[SOL PARK]]></Name>
+				<Address>
+					<Address1><![CDATA[  CTA FONTANEDA S/N,]]></Address1>
+					<Address2><![CDATA[0000, Sant Julia De Loria, Andorra]]></Address2>
+					<PostalCode>0000</PostalCode>
+					<CityCode>59328</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sant Julia De Loria]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.453117</Latitude>
+					<Longitude>1.468893</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4491/37144491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4492/37144492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4493/37144493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4494/37144494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4495/37144495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4478/37144478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4479/37144479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4480/37144480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4481/37144481.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4482/37144482.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4483/37144483.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4484/37144484.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4485/37144485.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4486/37144486.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4487/37144487.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4488/37144488.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4489/37144489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4490/37144490.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376841043 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

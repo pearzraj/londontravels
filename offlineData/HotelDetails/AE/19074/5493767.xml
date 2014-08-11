@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493767" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA FESTIVAL CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dubai Festival City P.O Box 45777,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.22487</Latitude>
+					<Longitude>55.349583</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3526/32603526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3527/32603527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3528/32603528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3529/32603529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3530/32603530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3531/32603531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3532/32603532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3533/32603533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3534/32603534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3535/32603535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3536/32603536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3537/32603537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3538/32603538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3539/32603539.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3540/32603540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3541/32603541.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06771_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 4 232 9095]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097147012222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

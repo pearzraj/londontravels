@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335058" resultcode="0" message="" >
+				<Name><![CDATA[GRAND MILLENNIUM DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  PO Box 212422, Sheikh Zayed Road,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.10301</Latitude>
+					<Longitude>55.168533</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1905/37301905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1906/37301906.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1907/37301907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1908/37301908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1909/37301909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8591/37758591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8592/37758592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8593/37758593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8594/37758594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8595/37758595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8596/37758596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8597/37758597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8598/37758598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8599/37758599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8600/37758600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8601/37758601.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 374 3777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 429 9999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

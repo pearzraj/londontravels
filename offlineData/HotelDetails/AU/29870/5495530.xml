@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495530" resultcode="0" message="" >
+				<Name><![CDATA[LATITUDE 16 DRIFTWOOD MANTARAY HOLIDAY]]></Name>
+				<Address>
+					<Address1><![CDATA[  65 Macrossan Street Port Douglas, Queensland, ]]></Address1>
+					<Address2><![CDATA[Port Douglas, Australia]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>83033</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Port Douglas]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.48532</Latitude>
+					<Longitude>145.46706</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60249_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

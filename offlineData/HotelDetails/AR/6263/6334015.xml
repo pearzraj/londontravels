@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334015" resultcode="0" message="" >
+				<Name><![CDATA[DUOMI PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  BARTOLOME MITRE 1480,]]></Address1>
+					<Address2><![CDATA[1037, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1037</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.6072</Latitude>
+					<Longitude>-58.387444</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, Laundry Service and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, Laundry Service and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4009/37134009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4010/37134010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4011/37134011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4012/37134012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4013/37134013.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4014/37134014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4015/37134015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4016/37134016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4017/37134017.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4018/37134018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4019/37134019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4004/37134004.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4005/37134005.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4006/37134006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4007/37134007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4008/37134008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4020/37134020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4021/37134021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4022/37134022.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1160913866 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

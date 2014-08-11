@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339561" resultcode="0" message="" >
+				<Name><![CDATA[HILTON GARDEN INN TUCUMAN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Miguel Lillo 365,]]></Address1>
+					<Address2><![CDATA[4000, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>4000</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.832228</Latitude>
+					<Longitude>-65.22203</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Currency Exchange.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Currency Exchange.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5812/37145812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5813/37145813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5814/37145814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5815/37145815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5816/37145816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5817/37145817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5818/37145818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5819/37145819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5820/37145820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5821/37145821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5822/37145822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5823/37145823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5824/37145824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5825/37145825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5826/37145826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5827/37145827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5828/37145828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5829/37145829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5830/37145830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5831/37145831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5832/37145832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5833/37145833.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 381 453 2000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333598" resultcode="0" message="" >
+				<Name><![CDATA[LOI SUITES IGUAZU]]></Name>
+				<Address>
+					<Address1><![CDATA[  Reserva Iryapu,]]></Address1>
+					<Address2><![CDATA[00001, Iguazu, Argentina]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.605297</Latitude>
+					<Longitude>-54.575695</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5027/37125027.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5028/37125028.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5029/37125029.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5030/37125030.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5031/37125031.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5032/37125032.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5018/37125018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5019/37125019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5020/37125020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5021/37125021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5022/37125022.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5023/37125023.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5024/37125024.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5025/37125025.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5026/37125026.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[543757498300]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00543757498300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

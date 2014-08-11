@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495218" resultcode="0" message="" >
+				<Name><![CDATA[BEST WESTERN DARWIN AIRPORT GATEWAY]]></Name>
+				<Address>
+					<Address1><![CDATA[  225 Mcmillans Road, Jingili Darwin, Northern Terr,]]></Address1>
+					<Address2><![CDATA[0812, Darwin, Australia]]></Address2>
+					<PostalCode>0812</PostalCode>
+					<CityCode>82023</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Darwin]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-12.39477</Latitude>
+					<Longitude>130.87692</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T59000/T59789_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

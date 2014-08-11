@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337967" resultcode="0" message="" >
+				<Name><![CDATA[JUJUY IN SUITE APART HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jujuy 1946,]]></Address1>
+					<Address2><![CDATA[2000, Rosario, Argentina]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.9361</Latitude>
+					<Longitude>-60.647884</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5646/37105646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5647/37105647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5648/37105648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5649/37105649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5650/37105650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5651/37105651.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 3414499677]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 3414496260 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494540" resultcode="0" message="" >
+				<Name><![CDATA[MEDINA GRAND MELBOURNE]]></Name>
+				<Address>
+					<Address1><![CDATA[  189 Queen Street,]]></Address1>
+					<Address2><![CDATA[3000, Melbourne, Australia]]></Address2>
+					<PostalCode>3000</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.81421</Latitude>
+					<Longitude>144.96034</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8279/32608279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8280/32608280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8281/32608281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8282/32608282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8283/32608283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8284/32608284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8285/32608285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8286/32608286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8287/32608287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8288/32608288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8289/32608289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8290/32608290.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 3 9602 1186]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 3 9934 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PH">
+		<City id="31794"> 
+			<Name lang="EN">Angeles City</Name>
+			<Region lang="EN">Angeles City</Region>
+			<Destination lang="EN">Angeles City, Angeles City, Philippines</Destination>
+		</City>
+		<City id="6871">
+			<Name lang="EN">Bacolod</Name>
+			<Region lang="EN">Bacolod</Region>
+			<Destination lang="EN">Bacolod, Bacolod, Philippines</Destination>
+		</City>
+		<City id="10591">
+			<Name lang="EN">Baguio</Name>
+			<Region lang="EN">Baguio</Region>
+			<Destination lang="EN">Baguio, Baguio, Philippines</Destination>
+		</City>
+		<City id="32473">
+			<Name lang="EN">Batangas</Name>
+			<Region lang="EN">Batangas</Region>
+			<Destination lang="EN">Batangas, Batangas, Philippines</Destination>
+		</City>
+		<City id="11171">
+			<Name lang="EN">Boracay</Name>
+			<Region lang="EN">Boracay</Region>
+			<Destination lang="EN">Boracay, Boracay, Philippines</Destination>
+		</City>
+		<City id="7356">
+			<Name lang="EN">Busuanga</Name>
+			<Region lang="EN">Busuanga</Region>
+			<Destination lang="EN">Busuanga, Busuanga, Philippines</Destination>
+		</City>
+		<City id="7382">
+			<Name lang="EN">Cagayan de Oro</Name>
+			<Region lang="EN">Cagayan de Oro</Region>
+			<Destination lang="EN">Cagayan de Oro, Cagayan de Oro, Philippines</Destination>
+		</City>
+		<City id="6504">
+			<Name lang="EN">Cebu</Name>
+			<Region lang="EN">Cebu</Region>
+			<Destination lang="EN">Cebu, Cebu, Philippines</Destination>
+		</City>
+		<City id="7530">
+			<Name lang="EN">Davao</Name>
+			<Region lang="EN">Davao</Region>
+			<Destination lang="EN">Davao, Davao, Philippines</Destination>
+		</City>
+		<City id="12499">
+			<Name lang="EN">Iloilo</Name>
+			<Region lang="EN">Iloilo</Region>
+			<Destination lang="EN">Iloilo, Iloilo, Philippines</Destination>
+		</City>
+		<City id="30226">
+			<Name lang="EN">Laoag</Name>
+			<Region lang="EN">Laoag</Region>
+			<Destination lang="EN">Laoag, Laoag, Philippines</Destination>
+		</City>
+		<City id="10530">
+			<Name lang="EN">Legaspi</Name>
+			<Region lang="EN">Legaspi</Region>
+			<Destination lang="EN">Legaspi, Legaspi, Philippines</Destination>
+		</City>
+		<City id="15527">
+			<Name lang="EN">Mactan Island</Name>
+			<Region lang="EN">Mactan Island</Region>
+			<Destination lang="EN">Mactan Island, Mactan Island, Philippines</Destination>
+		</City>
+		<City id="21579">
+			<Name lang="EN">Makati City</Name>
+			<Region lang="EN">Makati City</Region>
+			<Destination lang="EN">Makati City, Makati City, Philippines</Destination>
+		</City>
+		<City id="13694">
+			<Name lang="EN">Manila</Name>
+			<Region lang="EN">Manila</Region>
+			<Destination lang="EN">Manila, Manila, Philippines</Destination>
+		</City>
+		<City id="19753">
+			<Name lang="EN">Panglao Island</Name>
+			<Region lang="EN">Panglao Island</Region>
+			<Destination lang="EN">Panglao Island, Panglao Island, Philippines</Destination>
+		</City>
+		<City id="20781">
+			<Name lang="EN">Pasig City</Name>
+			<Region lang="EN">Pasig City</Region>
+			<Destination lang="EN">Pasig City, Pasig City, Philippines</Destination>
+		</City>
+		<City id="30099">
+			<Name lang="EN">Puerto Princesa</Name>
+			<Region lang="EN">Puerto Princesa</Region>
+			<Destination lang="EN">Puerto Princesa, Puerto Princesa, Philippines</Destination>
+		</City>
+		<City id="5883">
+			<Name lang="EN">Samal Island</Name>
+			<Region lang="EN">Samal Island</Region>
+			<Destination lang="EN">Samal Island, Samal Island, Philippines</Destination>
+		</City>
+		<City id="5155">
+			<Name lang="EN">Sogod</Name>
+			<Region lang="EN">Sogod</Region>
+			<Destination lang="EN">Sogod, Sogod, Philippines</Destination>
+		</City>
+		<City id="29079">
+			<Name lang="EN">Subic Bay</Name>
+			<Region lang="EN">Subic Bay</Region>
+			<Destination lang="EN">Subic Bay, Subic Bay, Philippines</Destination>
+		</City>
+		<City id="5206">
+			<Name lang="EN">Sumilon Island</Name>
+			<Region lang="EN">Sumilon Island</Region>
+			<Destination lang="EN">Sumilon Island, Sumilon Island, Philippines</Destination>
+		</City>
+		<City id="706">
+			<Name lang="EN">Tagaytay</Name>
+			<Region lang="EN">Tagaytay</Region>
+			<Destination lang="EN">Tagaytay, Tagaytay, Philippines</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

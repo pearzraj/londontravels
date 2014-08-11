@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341120" resultcode="0" message="" >
+				<Name><![CDATA[ONZE BOUTIQUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  ECUADOR 1644,]]></Address1>
+					<Address2><![CDATA[00000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.5915</Latitude>
+					<Longitude>-58.4027</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The communal areas are ideal for relaxing with friends. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The communal areas are ideal for relaxing with friends. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9279/37119279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9280/37119280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9281/37119281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9282/37119282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9283/37119283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9284/37119284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9285/37119285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9286/37119286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9271/37119271.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9272/37119272.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9273/37119273.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9274/37119274.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9275/37119275.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9287/37119287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9288/37119288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9289/37119289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9276/37119276.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9277/37119277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9278/37119278.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1148212873 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

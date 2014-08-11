@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493783" resultcode="0" message="" >
+				<Name><![CDATA[MILLENNIUM AIRPORT HOTEL ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Garhoud Road Dubai, Uae Po Box 13018,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.249432</Latitude>
+					<Longitude>55.34406</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3628/32603628.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3629/32603629.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3630/32603630.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3631/32603631.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3632/32603632.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3633/32603633.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3634/32603634.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02920_1_10.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3625/32603625.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3626/32603626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3627/32603627.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 282 0627]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 702 8888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

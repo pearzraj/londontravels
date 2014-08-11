@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493889" resultcode="0" message="" >
+				<Name><![CDATA[GRAN HOTEL CRISTAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Entre Rios,]]></Address1>
+					<Address2><![CDATA[5000, Cordoba, Argentina]]></Address2>
+					<PostalCode>5000</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.4035</Latitude>
+					<Longitude>-64.18575</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4270/32604270.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4259/32604259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4260/32604260.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4261/32604261.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4262/32604262.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4263/32604263.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4264/32604264.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4265/32604265.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4266/32604266.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4267/32604267.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4268/32604268.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4269/32604269.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5235 7238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

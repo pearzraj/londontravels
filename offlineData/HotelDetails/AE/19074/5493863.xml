@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493863" resultcode="0" message="" >
+				<Name><![CDATA[HABTOOR GRAND RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[A/P Al Soufouh RD, PO Box 24454,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.264359</Latitude>
+					<Longitude>55.311657</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01067_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 399 4207]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 408 4444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

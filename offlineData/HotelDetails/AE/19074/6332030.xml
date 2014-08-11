@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332030" resultcode="0" message="" >
+				<Name><![CDATA[RAMEE INTERNATIONAL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Nasser Square P.O.Box 26941,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3245/37093245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3246/37093246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3247/37093247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3248/37093248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3249/37093249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3250/37093250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3251/37093251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3252/37093252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3253/37093253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3254/37093254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3255/37093255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3256/37093256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3257/37093257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3258/37093258.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 224 0221]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 224 0222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

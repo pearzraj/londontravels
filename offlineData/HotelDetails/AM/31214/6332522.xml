@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332522" resultcode="0" message="" >
+				<Name><![CDATA[HRAZDAN HOTEL YEREVAN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dzorapi Street,72]]></Address1>
+					<Address2><![CDATA[375015, Yerevan, Armenia]]></Address2>
+					<PostalCode>375015</PostalCode>
+					<CityCode>63735</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Yerevan]]>
+					</CityName>
+					<CountryCode>AM</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Armenia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>40.18456</Latitude>
+					<Longitude>44.501003</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6707/37096707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6708/37096708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6709/37096709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6710/37096710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6711/37096711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6712/37096712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6713/37096713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6714/37096714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6691/37096691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6692/37096692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6693/37096693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6694/37096694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6695/37096695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6696/37096696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6697/37096697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6715/37096715.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6716/37096716.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6698/37096698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6699/37096699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6700/37096700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6701/37096701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6702/37096702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6703/37096703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6704/37096704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6705/37096705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6706/37096706.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[003811 8200 760 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

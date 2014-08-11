@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494372" resultcode="0" message="" >
+				<Name><![CDATA[RADISSON ON FLAGSTAFF GARDENS]]></Name>
+				<Address>
+					<Address1><![CDATA[  380 William Street,]]></Address1>
+					<Address2><![CDATA[3000, Melbourne, Australia]]></Address2>
+					<PostalCode>3000</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.810352</Latitude>
+					<Longitude>144.95583</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Wi-Fi, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Wi-Fi, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Skin Cleaning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8006/32608006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8007/32608007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8008/32608008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8009/32608009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8010/32608010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8011/32608011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8012/32608012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8013/32608013.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 3 9322 8080]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 3 9322 8000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494215" resultcode="0" message="" >
+				<Name><![CDATA[TRYP BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 474,]]></Address1>
+					<Address2><![CDATA[C1004AAJ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1004AAJ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60236</Latitude>
+					<Longitude>-58.373936</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Multilingual Personnel, Car parker and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Multilingual Personnel, Car parker and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7373/32607373.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7374/32607374.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7375/32607375.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7376/32607376.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7377/32607377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7378/32607378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7379/32607379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7380/32607380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7381/32607381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7382/32607382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7383/32607383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7384/32607384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7385/32607385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7386/32607386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7387/32607387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7388/32607388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7389/32607389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7390/32607390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7371/32607371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7372/32607372.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5222 9609]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5222 9600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

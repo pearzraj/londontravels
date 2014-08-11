@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498510" resultcode="0" message="" >
+				<Name><![CDATA[HERITAGE HOTEL HALLSTATT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Landungsplatz 101,]]></Address1>
+					<Address2><![CDATA[4830, Salzburg, Austria]]></Address2>
+					<PostalCode>4830</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.56297</Latitude>
+					<Longitude>13.649081</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Added to the many attractions of Salzburg, are the comfortable facilities offered by this warm and welcoming hotel. At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Added to the many attractions of Salzburg, are the comfortable facilities offered by this warm and welcoming hotel. At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13642_1_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 613 420 042]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 613 420 036 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

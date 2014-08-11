@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338619" resultcode="0" message="" >
+				<Name><![CDATA[ARGENTINO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Entre Rios 60,]]></Address1>
+					<Address2><![CDATA[X5000AJB, Cordoba, Argentina]]></Address2>
+					<PostalCode>X5000AJB</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.87474</Latitude>
+					<Longitude>-68.86196</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4144/37784144.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4145/37784145.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

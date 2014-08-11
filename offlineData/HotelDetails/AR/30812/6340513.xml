@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340513" resultcode="0" message="" >
+				<Name><![CDATA[LENNOX HOTEL USHUAIA]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 776,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.791508</Latitude>
+					<Longitude>-68.29729</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4215/37104215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4216/37104216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4217/37104217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4218/37104218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4219/37104219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4220/37104220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4221/37104221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4222/37104222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4205/37104205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4206/37104206.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4207/37104207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4208/37104208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4209/37104209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4210/37104210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4211/37104211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4212/37104212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4213/37104213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4214/37104214.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4342 4050]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4342 4050 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

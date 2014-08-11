@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6500353" resultcode="0" message="" >
+				<Name><![CDATA[SCHILLERPARK]]></Name>
+				<Address>
+					<Address1><![CDATA[   Rainerstrasse, 2-4]]></Address1>
+					<Address2><![CDATA[4020, Linz, Austria]]></Address2>
+					<PostalCode>4020</PostalCode>
+					<CityCode>64890</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Linz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.2969</Latitude>
+					<Longitude>14.291</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe We also have Garage.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe We also have Garage.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Internet Connection]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_11_1.gif</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43906_12_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4373269509]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[4373269500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

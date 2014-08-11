@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493713" resultcode="0" message="" >
+				<Name><![CDATA[TULIP INN SHARJAH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Jawazat Road 24227, ]]></Address1>
+					<Address2><![CDATA[24227, Sharjah, United Arab Emirates]]></Address2>
+					<PostalCode>24227</PostalCode>
+					<CityCode>78899</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sharjah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.345976</Latitude>
+					<Longitude>55.399586</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3168/32603168.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3169/32603169.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3170/32603170.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3171/32603171.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3172/32603172.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3173/32603173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3174/32603174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3175/32603175.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3176/32603176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3177/32603177.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09786_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09786_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 6 573 4916]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 6 577 7206 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

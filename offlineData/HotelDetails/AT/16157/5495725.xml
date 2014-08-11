@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495725" resultcode="0" message="" >
+				<Name><![CDATA[ACADEMIA GRAZ HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Untere Schönbrunngasse,7-11]]></Address1>
+					<Address2><![CDATA[8043, Graz, Austria]]></Address2>
+					<PostalCode>8043</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.087044</Latitude>
+					<Longitude>15.457828</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01658_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043316323558352]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043316 323558 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

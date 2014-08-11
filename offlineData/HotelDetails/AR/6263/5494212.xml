@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494212" resultcode="0" message="" >
+				<Name><![CDATA[SAVOY HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av Callao 181,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.607</Latitude>
+					<Longitude>-58.39207</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7324/32607324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7325/32607325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7326/32607326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7327/32607327.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7328/32607328.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7329/32607329.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7333/32607333.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7334/32607334.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7335/32607335.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7336/32607336.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7337/32607337.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7338/32607338.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7315/32607315.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7316/32607316.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7317/32607317.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7318/32607318.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7330/32607330.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7331/32607331.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7332/32607332.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7319/32607319.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7320/32607320.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7321/32607321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7322/32607322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7323/32607323.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4370 8020]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4370 8000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

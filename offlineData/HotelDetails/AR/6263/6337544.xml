@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337544" resultcode="0" message="" >
+				<Name><![CDATA[APARTAMENTOS COINCA]]></Name>
+				<Address>
+					<Address1><![CDATA[  AVDA CORRIENTES Nº 3112,]]></Address1>
+					<Address2><![CDATA[1193, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1193</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.604176</Latitude>
+					<Longitude>-58.40909</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4924/37154924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4925/37154925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4926/37154926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4927/37154927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4928/37154928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4929/37154929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4930/37154930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4931/37154931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4932/37154932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4933/37154933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4920/37154920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4921/37154921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4922/37154922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4923/37154923.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 48494851 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

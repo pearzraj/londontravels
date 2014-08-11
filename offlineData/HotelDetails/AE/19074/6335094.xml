@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335094" resultcode="0" message="" >
+				<Name><![CDATA[TOWERS ROTANA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed road, Trade Center,1]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.213247</Latitude>
+					<Longitude>55.275475</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/992/37160992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/993/37160993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/994/37160994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/995/37160995.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/996/37160996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/997/37160997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/998/37160998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/999/37160999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1000/37161000.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/990/37160990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/991/37160991.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143435111]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143438000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

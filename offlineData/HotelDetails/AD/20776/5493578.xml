@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493578" resultcode="0" message="" >
+				<Name><![CDATA[CRES PAS APARTAMENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ La Solana,52]]></Address1>
+					<Address2><![CDATA[AD200, Pas De La Casa, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59331</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pas De La Casa]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.54056</Latitude>
+					<Longitude>1.7298619</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

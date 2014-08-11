@@ -1,0 +1,3756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IT">
+		<City id="31327"> 
+			<Name lang="EN">Abano Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31330">
+			<Name lang="EN">Abbiategrasso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31339">
+			<Name lang="EN">Abetone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15917">
+			<Name lang="EN">Aci Castello</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Aci Castello, Sicily, Italy</Destination>
+		</City>
+		<City id="31363">
+			<Name lang="EN">Acireale</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Acireale, Sicily, Italy</Destination>
+		</City>
+		<City id="31391">
+			<Name lang="EN">Affi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31441">
+			<Name lang="EN">Agrigento</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Agrigento, Sicily, Italy</Destination>
+		</City>
+		<City id="31525">
+			<Name lang="EN">Alassio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31527">
+			<Name lang="EN">Alba</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31528">
+			<Name lang="EN">Alba Adriatica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31529">
+			<Name lang="EN">Alba di Canazei</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31538">
+			<Name lang="EN">Albavilla</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31544">
+			<Name lang="EN">Alberobello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31565">
+			<Name lang="EN">Alcamo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Alcamo, Sicily, Italy</Destination>
+		</City>
+		<City id="31593">
+			<Name lang="EN">Alessandria</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6345">
+			<Name lang="EN">Alghero</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Alghero, Sardinia, Italy</Destination>
+		</City>
+		<City id="31710">
+			<Name lang="EN">Altopascio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31731">
+			<Name lang="EN">Amalfi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31733">
+			<Name lang="EN">Amantea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31769">
+			<Name lang="EN">Anacapri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6409">
+			<Name lang="EN">Ancona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31779">
+			<Name lang="EN">Andalo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31841">
+			<Name lang="EN">Anzio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13365">
+			<Name lang="EN">Aosta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31859">
+			<Name lang="EN">Aprica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11619">
+			<Name lang="EN">Arbatax</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Arbatax, Sardinia, Italy</Destination>
+		</City>
+		<City id="31881">
+			<Name lang="EN">Arborea</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Arborea, Sardinia, Italy</Destination>
+		</City>
+		<City id="31891">
+			<Name lang="EN">Arcidosso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31892">
+			<Name lang="EN">Arco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31898">
+			<Name lang="EN">Arcugnano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31916">
+			<Name lang="EN">Arenzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31918">
+			<Name lang="EN">Arezzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31949">
+			<Name lang="EN">Arma di Taggia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31997">
+			<Name lang="EN">Arzachena</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Arzachena, Sardinia, Italy</Destination>
+		</City>
+		<City id="32008">
+			<Name lang="EN">Asciano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32044">
+			<Name lang="EN">Assago</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32048">
+			<Name lang="EN">Assisi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15399">
+			<Name lang="EN">Atrani</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32192">
+			<Name lang="EN">Badesi</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Badesi, Sardinia, Italy</Destination>
+		</City>
+		<City id="32198">
+			<Name lang="EN">Badolato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32219">
+			<Name lang="EN">Bagno a Ripoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32243">
+			<Name lang="EN">Baia Domizia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32244">
+			<Name lang="EN">Baia Sardinia</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Baia Sardinia, Sardinia, Italy</Destination>
+		</City>
+		<City id="32288">
+			<Name lang="EN">Balestrate</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Balestrate, Sicily, Italy</Destination>
+		</City>
+		<City id="22901">
+			<Name lang="EN">Barano d'Ischia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32410">
+			<Name lang="EN">Bardolino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32411">
+			<Name lang="EN">Bardonecchia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32415">
+			<Name lang="EN">Barga</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6946">
+			<Name lang="EN">Bari</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32417">
+			<Name lang="EN">Bari Sardo</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Bari Sardo, Sardinia, Italy</Destination>
+		</City>
+		<City id="32462">
+			<Name lang="EN">Bassano del Grappa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32467">
+			<Name lang="EN">Bastia Umbra</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32492">
+			<Name lang="EN">Baveno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8388">
+			<Name lang="EN">Belcastro Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8395">
+			<Name lang="EN">Belgirate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8401">
+			<Name lang="EN">Bellagio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8403">
+			<Name lang="EN">Bellaria</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8942">
+			<Name lang="EN">Bentivoglio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8957">
+			<Name lang="EN">Bergamo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9004">
+			<Name lang="EN">Bettona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9522">
+			<Name lang="EN">Bibbona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9523">
+			<Name lang="EN">Bibione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9564">
+			<Name lang="EN">Binasco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10063">
+			<Name lang="EN">Bisceglie</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10076">
+			<Name lang="EN">Bivigliano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15426">
+			<Name lang="EN">Boario Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7160">
+			<Name lang="EN">Bologna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7163">
+			<Name lang="EN">Bolzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11175">
+			<Name lang="EN">Borca di Cadore</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11180">
+			<Name lang="EN">Bordighera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11186">
+			<Name lang="EN">Borgaro Torinese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11197">
+			<Name lang="EN">Borgo San Lorenzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12141">
+			<Name lang="EN">Bormio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12158">
+			<Name lang="EN">Bosa</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Bosa, Sardinia, Italy</Destination>
+		</City>
+		<City id="12331">
+			<Name lang="EN">Brancaleone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12386">
+			<Name lang="EN">Brescia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12390">
+			<Name lang="EN">Bresso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12393">
+			<Name lang="EN">Breuil - Cervinia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12401">
+			<Name lang="EN">Briatico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7261">
+			<Name lang="EN">Brindisi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12546">
+			<Name lang="EN">Brolo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Brolo, Sicily, Italy</Destination>
+		</City>
+		<City id="12576">
+			<Name lang="EN">Brucoli</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Brucoli, Sicily, Italy</Destination>
+		</City>
+		<City id="12727">
+			<Name lang="EN">Budoni</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Budoni, Sardinia, Italy</Destination>
+		</City>
+		<City id="12809">
+			<Name lang="EN">Bussolengo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12814">
+			<Name lang="EN">Butera</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Butera, Sicily, Italy</Destination>
+		</City>
+		<City id="36455">
+			<Name lang="EN">Cabras</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cabras, Sardinia, Italy</Destination>
+		</City>
+		<City id="7384">
+			<Name lang="EN">Cagliari</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cagliari, Sardinia, Italy</Destination>
+		</City>
+		<City id="33175">
+			<Name lang="EN">Cala di Volpe</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cala di Volpe, Sardinia, Italy</Destination>
+		</City>
+		<City id="13125">
+			<Name lang="EN">Cala Gonone</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cala Gonone, Sardinia, Italy</Destination>
+		</City>
+		<City id="33178">
+			<Name lang="EN">Calambrone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12935">
+			<Name lang="EN">Calasetta</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Calasetta, Sardinia, Italy</Destination>
+		</City>
+		<City id="22101">
+			<Name lang="EN">Calatabiano</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Calatabiano, Sicily, Italy</Destination>
+		</City>
+		<City id="5470">
+			<Name lang="EN">Caldiero</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12952">
+			<Name lang="EN">Calenzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12969">
+			<Name lang="EN">Caltagirone</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Caltagirone, Sicily, Italy</Destination>
+		</City>
+		<City id="5472">
+			<Name lang="EN">Caltanissetta</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Caltanissetta, Sicily, Italy</Destination>
+		</City>
+		<City id="12989">
+			<Name lang="EN">Cambiago</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14227">
+			<Name lang="EN">Camerino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14234">
+			<Name lang="EN">Camogli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22555">
+			<Name lang="EN">Campertogno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14252">
+			<Name lang="EN">Campi Bisenzio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14258">
+			<Name lang="EN">Campitello di Fassa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22917">
+			<Name lang="EN">Campogalliano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14270">
+			<Name lang="EN">Campomarino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14287">
+			<Name lang="EN">Canazei</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22557">
+			<Name lang="EN">Candeli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14689">
+			<Name lang="EN">Cannigione</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cannigione, Sardinia, Italy</Destination>
+		</City>
+		<City id="14707">
+			<Name lang="EN">Caorle</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14740">
+			<Name lang="EN">Capo Vaticano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14743">
+			<Name lang="EN">Capoliveri</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Capoliveri, Elba, Italy</Destination>
+		</City>
+		<City id="6427">
+			<Name lang="EN">Capri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14762">
+			<Name lang="EN">Carbonia</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Carbonia, Sardinia, Italy</Destination>
+		</City>
+		<City id="14766">
+			<Name lang="EN">Cardano al Campo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14776">
+			<Name lang="EN">Cariati Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25566">
+			<Name lang="EN">Carimate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15537">
+			<Name lang="EN">Carloforte</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Carloforte, Sardinia, Italy</Destination>
+		</City>
+		<City id="15541">
+			<Name lang="EN">Carmagnola</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15561">
+			<Name lang="EN">Carovigno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15564">
+			<Name lang="EN">Carpi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15597">
+			<Name lang="EN">Casale Monferrato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15609">
+			<Name lang="EN">Casamicciola Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32560">
+			<Name lang="EN">Casanova Pansarine</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15619">
+			<Name lang="EN">Cascia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15620">
+			<Name lang="EN">Casciana Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15621">
+			<Name lang="EN">Cascina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15625">
+			<Name lang="EN">Caselle di Sommacampagna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16382">
+			<Name lang="EN">Caserta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32565">
+			<Name lang="EN">Cassano allo Ionio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16412">
+			<Name lang="EN">Castel di Tusa</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Castel di Tusa, Sicily, Italy</Destination>
+		</City>
+		<City id="16414">
+			<Name lang="EN">Castel Maggiore</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16419">
+			<Name lang="EN">Castel San Pietro Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16421">
+			<Name lang="EN">Castel Volturno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16434">
+			<Name lang="EN">Castellammare del Golfo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Castellammare del Golfo, Sicily, Italy</Destination>
+		</City>
+		<City id="16435">
+			<Name lang="EN">Castellammare di Stabia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16437">
+			<Name lang="EN">Castellana Grotte</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16439">
+			<Name lang="EN">Castellaneta Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16443">
+			<Name lang="EN">Castellaro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13343">
+			<Name lang="EN">Castelnuovo Berardenga</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16463">
+			<Name lang="EN">Castelnuovo del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17228">
+			<Name lang="EN">Castelsardo</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Castelsardo, Sardinia, Italy</Destination>
+		</City>
+		<City id="17230">
+			<Name lang="EN">Castelvetrano</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Castelvetrano, Sicily, Italy</Destination>
+		</City>
+		<City id="32570">
+			<Name lang="EN">Castiadas</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Castiadas, Sardinia, Italy</Destination>
+		</City>
+		<City id="17236">
+			<Name lang="EN">Castiglioncello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17239">
+			<Name lang="EN">Castiglione del Lago</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16218">
+			<Name lang="EN">Castiglione di Sicilia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Castiglione di Sicilia, Sicily, Italy</Destination>
+		</City>
+		<City id="17264">
+			<Name lang="EN">Castrocaro Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6487">
+			<Name lang="EN">Catania</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Catania, Sicily, Italy</Destination>
+		</City>
+		<City id="17271">
+			<Name lang="EN">Catanzaro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17280">
+			<Name lang="EN">Cattolica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17285">
+			<Name lang="EN">Cavaion Veronese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17286">
+			<Name lang="EN">Cavalese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17297">
+			<Name lang="EN">Cavriglia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17696">
+			<Name lang="EN">Cecina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17702">
+			<Name lang="EN">Cefalu</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Cefalu, Sicily, Italy</Destination>
+		</City>
+		<City id="17713">
+			<Name lang="EN">Celle Ligure</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17739">
+			<Name lang="EN">Ceriale</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17747">
+			<Name lang="EN">Cernobbio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17755">
+			<Name lang="EN">Cerro Maggiore</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17756">
+			<Name lang="EN">Certaldo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17762">
+			<Name lang="EN">Cervia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17765">
+			<Name lang="EN">Cesana Torinese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17766">
+			<Name lang="EN">Cesano Maderno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17768">
+			<Name lang="EN">Cesena</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17769">
+			<Name lang="EN">Cesenatico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17782">
+			<Name lang="EN">Cetraro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18294">
+			<Name lang="EN">Champoluc</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18845">
+			<Name lang="EN">Cherasco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18874">
+			<Name lang="EN">Chianciano Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18880">
+			<Name lang="EN">Chiavari</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18899">
+			<Name lang="EN">Chieti</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19312">
+			<Name lang="EN">Chiusi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19354">
+			<Name lang="EN">Ciampino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19370">
+			<Name lang="EN">Cinisello Balsamo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19374">
+			<Name lang="EN">Cinquale</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19391">
+			<Name lang="EN">Citta della Pieve</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19392">
+			<Name lang="EN">Citta di Castello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19394">
+			<Name lang="EN">Cittadella</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19977">
+			<Name lang="EN">Civitanova Marche</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19978">
+			<Name lang="EN">Civitavecchia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32621">
+			<Name lang="EN">Civitella Paganico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21044">
+			<Name lang="EN">Colle di Val d'Elsa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21065">
+			<Name lang="EN">Colombare di Sirmione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11695">
+			<Name lang="EN">Comiso</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Comiso, Sicily, Italy</Destination>
+		</City>
+		<City id="21089">
+			<Name lang="EN">Como</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21105">
+			<Name lang="EN">Conegliano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21626">
+			<Name lang="EN">Corato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21648">
+			<Name lang="EN">Corigliano Calabro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21674">
+			<Name lang="EN">Correggio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7410">
+			<Name lang="EN">Cortina d'Ampezzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22253">
+			<Name lang="EN">Cortona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22255">
+			<Name lang="EN">Corvara in Badia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22260">
+			<Name lang="EN">Cosenza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22278">
+			<Name lang="EN">Costa Paradiso</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Costa Paradiso, Sardinia, Italy</Destination>
+		</City>
+		<City id="22279">
+			<Name lang="EN">Costa Rei</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Costa Rei, Sardinia, Italy</Destination>
+		</City>
+		<City id="22296">
+			<Name lang="EN">Courmayeur</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22327">
+			<Name lang="EN">Creazzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22332">
+			<Name lang="EN">Cremona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22817">
+			<Name lang="EN">Cropani Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7434">
+			<Name lang="EN">Crotone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="35639">
+			<Name lang="EN">Cugnana</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Cugnana, Sardinia, Italy</Destination>
+		</City>
+		<City id="7456">
+			<Name lang="EN">Cuneo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22863">
+			<Name lang="EN">Cusago</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22869">
+			<Name lang="EN">Cutro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22899">
+			<Name lang="EN">Dalmine</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23874">
+			<Name lang="EN">Desenzano del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23902">
+			<Name lang="EN">Diano Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23921">
+			<Name lang="EN">Dimaro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8306">
+			<Name lang="EN">Domus de Maria</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Domus de Maria, Sardinia, Italy</Destination>
+		</City>
+		<City id="32728">
+			<Name lang="EN">Donnalucata</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Donnalucata, Sicily, Italy</Destination>
+		</City>
+		<City id="8314">
+			<Name lang="EN">Donnini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8323">
+			<Name lang="EN">Dorgali</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Dorgali, Sardinia, Italy</Destination>
+		</City>
+		<City id="3531">
+			<Name lang="EN">Elba Island</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Elba Island, Elba, Italy</Destination>
+		</City>
+		<City id="10362">
+			<Name lang="EN">Ellera di Corciano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10439">
+			<Name lang="EN">Ercolano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11941">
+			<Name lang="EN">Erice</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Erice, Sicily, Italy</Destination>
+		</City>
+		<City id="13573">
+			<Name lang="EN">Fabriano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13575">
+			<Name lang="EN">Faenza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13601">
+			<Name lang="EN">Falcade</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32900">
+			<Name lang="EN">Falconara Marittima</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13626">
+			<Name lang="EN">Fano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13648">
+			<Name lang="EN">Fasano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14519">
+			<Name lang="EN">Fermo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14525">
+			<Name lang="EN">Ferrara</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14536">
+			<Name lang="EN">Fiano Romano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14541">
+			<Name lang="EN">Fiera di Primiero</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14542">
+			<Name lang="EN">Fiesole</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14557">
+			<Name lang="EN">Finale Ligure</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14584">
+			<Name lang="EN">Fiuggi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32919">
+			<Name lang="EN">Fiumefreddo di Sicilia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Fiumefreddo di Sicilia, Sicily, Italy</Destination>
+		</City>
+		<City id="14586">
+			<Name lang="EN">Fiumicino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="3884">
+			<Name lang="EN">Florence</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="35668">
+			<Name lang="EN">Floridia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Floridia, Sicily, Italy</Destination>
+		</City>
+		<City id="3893">
+			<Name lang="EN">Foggia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15293">
+			<Name lang="EN">Folgaria</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15294">
+			<Name lang="EN">Folgarida</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15297">
+			<Name lang="EN">Foligno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15300">
+			<Name lang="EN">Follonica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21011">
+			<Name lang="EN">Fondachello di Mascali</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Fondachello di Mascali, Sicily, Italy</Destination>
+		</City>
+		<City id="33029">
+			<Name lang="EN">Forio d'Ischia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="3904">
+			<Name lang="EN">Forli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15329">
+			<Name lang="EN">Formia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16301">
+			<Name lang="EN">Forte dei Marmi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16326">
+			<Name lang="EN">Francavilla al Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16327">
+			<Name lang="EN">Francavilla di Sicilia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Francavilla di Sicilia, Sicily, Italy</Destination>
+		</City>
+		<City id="16340">
+			<Name lang="EN">Frascati</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16974">
+			<Name lang="EN">Furnari</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Furnari, Sicily, Italy</Destination>
+		</City>
+		<City id="16985">
+			<Name lang="EN">Gabicce Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16989">
+			<Name lang="EN">Gaeta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16998">
+			<Name lang="EN">Gaiole in Chianti</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17017">
+			<Name lang="EN">Gallipoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17410">
+			<Name lang="EN">Garbagnate Monastero</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17412">
+			<Name lang="EN">Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17419">
+			<Name lang="EN">Gardone Riviera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17424">
+			<Name lang="EN">Gargnano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17444">
+			<Name lang="EN">Gatteo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7864">
+			<Name lang="EN">Genoa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17493">
+			<Name lang="EN">Genzano di Roma</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17987">
+			<Name lang="EN">Gerenzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18016">
+			<Name lang="EN">Giardini Naxos</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Giardini Naxos, Sicily, Italy</Destination>
+		</City>
+		<City id="18049">
+			<Name lang="EN">Gioiosa Marea</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Gioiosa Marea, Sicily, Italy</Destination>
+		</City>
+		<City id="18050">
+			<Name lang="EN">Giovinazzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18058">
+			<Name lang="EN">Giulianova</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="35314">
+			<Name lang="EN">Golfo Aranci</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Golfo Aranci, Sardinia, Italy</Destination>
+		</City>
+		<City id="18818">
+			<Name lang="EN">Golfo di Cugnana</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Golfo di Cugnana, Sardinia, Italy</Destination>
+		</City>
+		<City id="18819">
+			<Name lang="EN">Golfo di Marinella</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Golfo di Marinella, Sardinia, Italy</Destination>
+		</City>
+		<City id="19416">
+			<Name lang="EN">Gorizia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19452">
+			<Name lang="EN">Grado</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19793">
+			<Name lang="EN">Grassobbio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19838">
+			<Name lang="EN">Gressoney La Trinité</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1655">
+			<Name lang="EN">Griante Cadenabbia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17042">
+			<Name lang="EN">Grosseto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19868">
+			<Name lang="EN">Grottaferrata</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19869">
+			<Name lang="EN">Grottammare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20475">
+			<Name lang="EN">Guardistallo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20485">
+			<Name lang="EN">Gubbio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20527">
+			<Name lang="EN">Guspini</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Guspini, Sardinia, Italy</Destination>
+		</City>
+		<City id="24806">
+			<Name lang="EN">Igea Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24841">
+			<Name lang="EN">Impruneta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24860">
+			<Name lang="EN">Induno Olona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15129">
+			<Name lang="EN">Ischia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1958">
+			<Name lang="EN">Ischia Porto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25042">
+			<Name lang="EN">Isola di Capo Rizzuto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25887">
+			<Name lang="EN">Ispica</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Ispica, Sicily, Italy</Destination>
+		</City>
+		<City id="25888">
+			<Name lang="EN">Ispra</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25905">
+			<Name lang="EN">Ivrea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16020">
+			<Name lang="EN">La Maddalena</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">La Maddalena, Sardinia, Italy</Destination>
+		</City>
+		<City id="16056">
+			<Name lang="EN">La Spezia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11271">
+			<Name lang="EN">Lacco Ameno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16093">
+			<Name lang="EN">Ladispoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16912">
+			<Name lang="EN">Lallio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10490">
+			<Name lang="EN">Lamezia Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10493">
+			<Name lang="EN">Lampedusa</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Lampedusa, Sicily, Italy</Destination>
+		</City>
+		<City id="17623">
+			<Name lang="EN">L'Aquila</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17663">
+			<Name lang="EN">Latina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21983">
+			<Name lang="EN">Lazise</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10525">
+			<Name lang="EN">Lecce</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17814">
+			<Name lang="EN">Lecco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18480">
+			<Name lang="EN">Letojanni</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Letojanni, Sicily, Italy</Destination>
+		</City>
+		<City id="26571">
+			<Name lang="EN">Lettere</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18488">
+			<Name lang="EN">Levanto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33442">
+			<Name lang="EN">Levico Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18523">
+			<Name lang="EN">Licata</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Licata, Sicily, Italy</Destination>
+		</City>
+		<City id="18531">
+			<Name lang="EN">Lido di Camaiore</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18533">
+			<Name lang="EN">Lido di Jesolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18534">
+			<Name lang="EN">Lido di Savio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25466">
+			<Name lang="EN">Lignano Pineta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18550">
+			<Name lang="EN">Lignano Sabbiadoro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19511">
+			<Name lang="EN">Limbiate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19521">
+			<Name lang="EN">Limone sul Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19545">
+			<Name lang="EN">Lipari island</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19558">
+			<Name lang="EN">Lissone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19583">
+			<Name lang="EN">Livigno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19875">
+			<Name lang="EN">Livorno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19878">
+			<Name lang="EN">Lizzano in Belvedere</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19905">
+			<Name lang="EN">Loano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19923">
+			<Name lang="EN">Lodi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19949">
+			<Name lang="EN">Lomazzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="12310">
+			<Name lang="EN">Lucca</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15483">
+			<Name lang="EN">Lucera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20668">
+			<Name lang="EN">Luni Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20720">
+			<Name lang="EN">Macerata</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21510">
+			<Name lang="EN">Madonna di Campiglio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33498">
+			<Name lang="EN">Maggio di Cremeno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21538">
+			<Name lang="EN">Maglie</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21564">
+			<Name lang="EN">Maiori</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22170">
+			<Name lang="EN">Malcesine</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25472">
+			<Name lang="EN">Mancaversa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33512">
+			<Name lang="EN">Mandatoriccio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22226">
+			<Name lang="EN">Manerba del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22228">
+			<Name lang="EN">Manfredonia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22631">
+			<Name lang="EN">Mantova</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33522">
+			<Name lang="EN">Maracalagonis</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Maracalagonis, Sardinia, Italy</Destination>
+		</City>
+		<City id="22649">
+			<Name lang="EN">Maranello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22654">
+			<Name lang="EN">Maratea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22667">
+			<Name lang="EN">Marciana Marina</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Marciana Marina, Elba, Italy</Destination>
+		</City>
+		<City id="22669">
+			<Name lang="EN">Marcon</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33526">
+			<Name lang="EN">Marebello di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22676">
+			<Name lang="EN">Marghera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11460">
+			<Name lang="EN">Marigliano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22699">
+			<Name lang="EN">Marina di Ascea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22701">
+			<Name lang="EN">Marina di Camerota</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22702">
+			<Name lang="EN">Marina di Campo</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Marina di Campo, Elba, Italy</Destination>
+		</City>
+		<City id="22703">
+			<Name lang="EN">Marina di Capitana</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Marina di Capitana, Sardinia, Italy</Destination>
+		</City>
+		<City id="22706">
+			<Name lang="EN">Marina di Casalvelino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="16605">
+			<Name lang="EN">Marina di Castagneto Carducci</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22708">
+			<Name lang="EN">Marina di Fuscaldo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22709">
+			<Name lang="EN">Marina di Ginosa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22712">
+			<Name lang="EN">Marina di Mandatoriccio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14610">
+			<Name lang="EN">Marina di Massa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23276">
+			<Name lang="EN">Marina di Nova Siri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23280">
+			<Name lang="EN">Marina di Pietrasanta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23281">
+			<Name lang="EN">Marina di Pisa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23282">
+			<Name lang="EN">Marina di Pisticci</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="11462">
+			<Name lang="EN">Marina di Ragusa</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Marina di Ragusa, Sicily, Italy</Destination>
+		</City>
+		<City id="23285">
+			<Name lang="EN">Marina di Ravenna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23287">
+			<Name lang="EN">Marina di Sorso</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Marina di Sorso, Sardinia, Italy</Destination>
+		</City>
+		<City id="23288">
+			<Name lang="EN">Marina di Ugento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14040">
+			<Name lang="EN">Marina Romea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23290">
+			<Name lang="EN">Marinella di Cutro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14041">
+			<Name lang="EN">Marinella di Selinunte</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Marinella di Selinunte, Sicily, Italy</Destination>
+		</City>
+		<City id="23291">
+			<Name lang="EN">Marino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23321">
+			<Name lang="EN">Marostica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23324">
+			<Name lang="EN">Marsala</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Marsala, Sicily, Italy</Destination>
+		</City>
+		<City id="23338">
+			<Name lang="EN">Martina Franca</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23360">
+			<Name lang="EN">Mascali</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mascali, Sicily, Italy</Destination>
+		</City>
+		<City id="23669">
+			<Name lang="EN">Massa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23673">
+			<Name lang="EN">Massa Lombarda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23674">
+			<Name lang="EN">Massa Lubrense</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23698">
+			<Name lang="EN">Matera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23714">
+			<Name lang="EN">Mattinata</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23728">
+			<Name lang="EN">Mazara del Vallo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mazara del Vallo, Sicily, Italy</Destination>
+		</City>
+		<City id="34734">
+			<Name lang="EN">Mazzarino</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mazzarino, Sicily, Italy</Destination>
+		</City>
+		<City id="14046">
+			<Name lang="EN">Mazzaro</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mazzaro, Sicily, Italy</Destination>
+		</City>
+		<City id="11772">
+			<Name lang="EN">Mazzeo - Taormina</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mazzeo - Taormina, Sicily, Italy</Destination>
+		</City>
+		<City id="23731">
+			<Name lang="EN">Mazzin di Fassa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24150">
+			<Name lang="EN">Meina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24160">
+			<Name lang="EN">Melendugno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="26950">
+			<Name lang="EN">Mentana</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15777">
+			<Name lang="EN">Merano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24314">
+			<Name lang="EN">Merine di Lizzanello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24330">
+			<Name lang="EN">Mesagne</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24333">
+			<Name lang="EN">Messina</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Messina, Sicily, Italy</Destination>
+		</City>
+		<City id="24335">
+			<Name lang="EN">Mestre</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22511">
+			<Name lang="EN">Meta di Sorrento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33573">
+			<Name lang="EN">Metaponto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24352">
+			<Name lang="EN">Mezzana</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15802">
+			<Name lang="EN">Milan</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25336">
+			<Name lang="EN">Milano Marittima</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25339">
+			<Name lang="EN">Milazzo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Milazzo, Sicily, Italy</Destination>
+		</City>
+		<City id="25394">
+			<Name lang="EN">Minori</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25397">
+			<Name lang="EN">Minturno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25398">
+			<Name lang="EN">Mira</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33599">
+			<Name lang="EN">Miramare di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25407">
+			<Name lang="EN">Mirano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25410">
+			<Name lang="EN">Misano Adriatico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25422">
+			<Name lang="EN">Misurina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25630">
+			<Name lang="EN">Modena</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25631">
+			<Name lang="EN">Modica</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Modica, Sicily, Italy</Destination>
+		</City>
+		<City id="25638">
+			<Name lang="EN">Moena</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21396">
+			<Name lang="EN">Mogliano Veneto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33612">
+			<Name lang="EN">Mola di Bari</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14052">
+			<Name lang="EN">Moltrasio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25680">
+			<Name lang="EN">Monastier di Treviso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25681">
+			<Name lang="EN">Moncalieri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25688">
+			<Name lang="EN">Mondello</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Mondello, Sicily, Italy</Destination>
+		</City>
+		<City id="25701">
+			<Name lang="EN">Moniga del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25706">
+			<Name lang="EN">Monopoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25707">
+			<Name lang="EN">Monreale</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Monreale, Sicily, Italy</Destination>
+		</City>
+		<City id="25824">
+			<Name lang="EN">Montaione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25825">
+			<Name lang="EN">Montalbano Elicona</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Montalbano Elicona, Sicily, Italy</Destination>
+		</City>
+		<City id="25826">
+			<Name lang="EN">Montalcino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19259">
+			<Name lang="EN">Montano Lucino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25836">
+			<Name lang="EN">Monte Bondone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25841">
+			<Name lang="EN">Monte Porzio Catone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25844">
+			<Name lang="EN">Monte Sant'Angelo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33626">
+			<Name lang="EN">Montecampione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25850">
+			<Name lang="EN">Montecatini Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25853">
+			<Name lang="EN">Montecchio Emilia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25863">
+			<Name lang="EN">Montegrotto Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14054">
+			<Name lang="EN">Montepaone Lido</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25877">
+			<Name lang="EN">Montepulciano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25879">
+			<Name lang="EN">Monteriggioni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25882">
+			<Name lang="EN">Monterosso al Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25883">
+			<Name lang="EN">Monterotondo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25885">
+			<Name lang="EN">Montesilvano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27205">
+			<Name lang="EN">Monticiano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27223">
+			<Name lang="EN">Monza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27642">
+			<Name lang="EN">Mozzate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27644">
+			<Name lang="EN">Mozzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="32635">
+			<Name lang="EN">Naples</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33676">
+			<Name lang="EN">Narbolia</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Narbolia, Sardinia, Italy</Destination>
+		</City>
+		<City id="28305">
+			<Name lang="EN">Nerano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28329">
+			<Name lang="EN">Nettuno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8905">
+			<Name lang="EN">Nichelino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33704">
+			<Name lang="EN">Nicotera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9442">
+			<Name lang="EN">Noci</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33714">
+			<Name lang="EN">Noicattaro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9452">
+			<Name lang="EN">Nola</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9733">
+			<Name lang="EN">Noto</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Noto, Sicily, Italy</Destination>
+		</City>
+		<City id="33726">
+			<Name lang="EN">Nova Siri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9752">
+			<Name lang="EN">Novara</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="9763">
+			<Name lang="EN">Noventa di Piave</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10276">
+			<Name lang="EN">Numana</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10282">
+			<Name lang="EN">Nuoro</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Nuoro, Sardinia, Italy</Destination>
+		</City>
+		<City id="27010">
+			<Name lang="EN">Olbia</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Olbia, Sardinia, Italy</Destination>
+		</City>
+		<City id="13046">
+			<Name lang="EN">Oleggio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33741">
+			<Name lang="EN">Oliena</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Oliena, Sardinia, Italy</Destination>
+		</City>
+		<City id="13861">
+			<Name lang="EN">Opera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13884">
+			<Name lang="EN">Orbetello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13914">
+			<Name lang="EN">Orio Al Serio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13917">
+			<Name lang="EN">Oristano</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Oristano, Sardinia, Italy</Destination>
+		</City>
+		<City id="13943">
+			<Name lang="EN">Orosei</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Orosei, Sardinia, Italy</Destination>
+		</City>
+		<City id="14893">
+			<Name lang="EN">Orvieto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14948">
+			<Name lang="EN">Ostuni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14963">
+			<Name lang="EN">Otranto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18411">
+			<Name lang="EN">Padenghe sul Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18415">
+			<Name lang="EN">Padova</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18420">
+			<Name lang="EN">Paestum</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19690">
+			<Name lang="EN">Palau</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Palau, Sardinia, Italy</Destination>
+		</City>
+		<City id="27416">
+			<Name lang="EN">Palermo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Palermo, Sicily, Italy</Destination>
+		</City>
+		<City id="19703">
+			<Name lang="EN">Palestrina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19706">
+			<Name lang="EN">Palinuro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19757">
+			<Name lang="EN">Panicale</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27430">
+			<Name lang="EN">Pantelleria</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Pantelleria, Sicily, Italy</Destination>
+		</City>
+		<City id="19778">
+			<Name lang="EN">Paola</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20748">
+			<Name lang="EN">Paratico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20755">
+			<Name lang="EN">Parghelia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27462">
+			<Name lang="EN">Parma</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20787">
+			<Name lang="EN">Passignano sul Trasimeno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33795">
+			<Name lang="EN">Passo del Tonale</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="20812">
+			<Name lang="EN">Pavia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33800">
+			<Name lang="EN">Peccioli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21923">
+			<Name lang="EN">Penia di Canazei</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21931">
+			<Name lang="EN">Pera di Fassa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="29460">
+			<Name lang="EN">Perugia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="21961">
+			<Name lang="EN">Pesaro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="18720">
+			<Name lang="EN">Pescara</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23088">
+			<Name lang="EN">Peschici</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23089">
+			<Name lang="EN">Peschiera Borromeo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23090">
+			<Name lang="EN">Peschiera del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23126">
+			<Name lang="EN">Petrosino</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Petrosino, Sicily, Italy</Destination>
+		</City>
+		<City id="23154">
+			<Name lang="EN">Piacenza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="35805">
+			<Name lang="EN">Piana degli Albanesi</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Piana degli Albanesi, Sicily, Italy</Destination>
+		</City>
+		<City id="23156">
+			<Name lang="EN">Piancavallo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="14098">
+			<Name lang="EN">Piano di Sorrento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23169">
+			<Name lang="EN">Piazza Armerina</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Piazza Armerina, Sicily, Italy</Destination>
+		</City>
+		<City id="24219">
+			<Name lang="EN">Pienza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24225">
+			<Name lang="EN">Pietra Ligure</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24227">
+			<Name lang="EN">Pietrasanta</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24230">
+			<Name lang="EN">Pieve di Cento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24233">
+			<Name lang="EN">Pieve Emanuele</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="13353">
+			<Name lang="EN">Pigna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24262">
+			<Name lang="EN">Pinerolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24263">
+			<Name lang="EN">Pineto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33842">
+			<Name lang="EN">Pinzolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24276">
+			<Name lang="EN">Piombino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24287">
+			<Name lang="EN">Piraino</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Piraino, Sicily, Italy</Destination>
+		</City>
+		<City id="1842">
+			<Name lang="EN">Pisa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24298">
+			<Name lang="EN">Pistoia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24310">
+			<Name lang="EN">Pizzo Calabro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24510">
+			<Name lang="EN">Podenzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24512">
+			<Name lang="EN">Poggibonsi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22995">
+			<Name lang="EN">Poggio a Caiano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24553">
+			<Name lang="EN">Policoro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33862">
+			<Name lang="EN">Polignano a Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24571">
+			<Name lang="EN">Pomezia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24575">
+			<Name lang="EN">Pompei</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24585">
+			<Name lang="EN">Pontassieve</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33865">
+			<Name lang="EN">Ponte di Legno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24714">
+			<Name lang="EN">Ponza Island</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24716">
+			<Name lang="EN">Ponzano Romano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24717">
+			<Name lang="EN">Ponzano Veneto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24729">
+			<Name lang="EN">Pordenone</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24909">
+			<Name lang="EN">Porto Azzurro</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Porto Azzurro, Elba, Italy</Destination>
+		</City>
+		<City id="24912">
+			<Name lang="EN">Porto Cervo</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Porto Cervo, Sardinia, Italy</Destination>
+		</City>
+		<City id="24913">
+			<Name lang="EN">Porto Cesareo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24936">
+			<Name lang="EN">Porto Ottiolu</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Porto Ottiolu, Sardinia, Italy</Destination>
+		</City>
+		<City id="24940">
+			<Name lang="EN">Porto Recanati</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24942">
+			<Name lang="EN">Porto Rotondo</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Porto Rotondo, Sardinia, Italy</Destination>
+		</City>
+		<City id="24944">
+			<Name lang="EN">Porto San Paolo</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Porto San Paolo, Sardinia, Italy</Destination>
+		</City>
+		<City id="24946">
+			<Name lang="EN">Porto Santo Stefano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="24952">
+			<Name lang="EN">Portoferraio</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Portoferraio, Elba, Italy</Destination>
+		</City>
+		<City id="24953">
+			<Name lang="EN">Portofino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="35814">
+			<Name lang="EN">Portopalo di Capo Passero</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Portopalo di Capo Passero, Sicily, Italy</Destination>
+		</City>
+		<City id="25253">
+			<Name lang="EN">Positano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25282">
+			<Name lang="EN">Pozza di Fassa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25283">
+			<Name lang="EN">Pozzolengo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25285">
+			<Name lang="EN">Pozzuoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25290">
+			<Name lang="EN">Pradamano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25295">
+			<Name lang="EN">Pragelato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25305">
+			<Name lang="EN">Praiano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25310">
+			<Name lang="EN">Prato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25313">
+			<Name lang="EN">Pratolino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25321">
+			<Name lang="EN">Predazzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25323">
+			<Name lang="EN">Preganziol</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25329">
+			<Name lang="EN">Presezzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25735">
+			<Name lang="EN">Procchio</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Procchio, Elba, Italy</Destination>
+		</City>
+		<City id="26059">
+			<Name lang="EN">Quarto d'Altino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23043">
+			<Name lang="EN">Quartu Sant'Elena</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Quartu Sant'Elena, Sardinia, Italy</Destination>
+		</City>
+		<City id="26283">
+			<Name lang="EN">Radda in Chianti</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="26305">
+			<Name lang="EN">Ragusa</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Ragusa, Sicily, Italy</Destination>
+		</City>
+		<City id="26354">
+			<Name lang="EN">Rapallo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27105">
+			<Name lang="EN">Ravello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="30333">
+			<Name lang="EN">Ravenna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27146">
+			<Name lang="EN">Reggello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1568">
+			<Name lang="EN">Reggio Calabria</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1569">
+			<Name lang="EN">Reggio Nell'Emilia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27162">
+			<Name lang="EN">Rende</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27667">
+			<Name lang="EN">Rho</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27678">
+			<Name lang="EN">Riccione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27709">
+			<Name lang="EN">Rignano sull'Arno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27715">
+			<Name lang="EN">Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27730">
+			<Name lang="EN">Rio Marina</Name>
+			<Region lang="EN">Elba</Region>
+			<Destination lang="EN">Rio Marina, Elba, Italy</Destination>
+		</City>
+		<City id="27749">
+			<Name lang="EN">Riva del Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33956">
+			<Name lang="EN">Rivabella di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27752">
+			<Name lang="EN">Rivalta di Torino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33957">
+			<Name lang="EN">Rivazzurra di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="33965">
+			<Name lang="EN">Roccella Jonica</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27957">
+			<Name lang="EN">Rodi Garganico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="27982">
+			<Name lang="EN">Romano Canavese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="30498">
+			<Name lang="EN">Rome</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17364">
+			<Name lang="EN">Ronchi dei Legionari</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28024">
+			<Name lang="EN">Roseto degli Abruzzi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28031">
+			<Name lang="EN">Rosignano Marittimo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34861">
+			<Name lang="EN">Rosignano Monferrato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28036">
+			<Name lang="EN">Rosolina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28038">
+			<Name lang="EN">Rossano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28067">
+			<Name lang="EN">Rovereto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28068">
+			<Name lang="EN">Rovigo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28219">
+			<Name lang="EN">Russi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28250">
+			<Name lang="EN">Sabaudia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28264">
+			<Name lang="EN">Sacrofano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="8849">
+			<Name lang="EN">Salerno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5843">
+			<Name lang="EN">Salina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5865">
+			<Name lang="EN">Salsomaggiore</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5921">
+			<Name lang="EN">San Benedetto del Tronto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5927">
+			<Name lang="EN">San Bonifacio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5937">
+			<Name lang="EN">San Casciano Val di Pesa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5941">
+			<Name lang="EN">San Cipriano Picentino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5954">
+			<Name lang="EN">San Felice Circeo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34045">
+			<Name lang="EN">San Felice del Benaco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34049">
+			<Name lang="EN">San Francesco al Campo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5973">
+			<Name lang="EN">San Gimignano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5988">
+			<Name lang="EN">San Giovanni la Punta</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">San Giovanni la Punta, Sicily, Italy</Destination>
+		</City>
+		<City id="5535">
+			<Name lang="EN">San Giovanni Rotondo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5991">
+			<Name lang="EN">San Giovanni Valdarno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5992">
+			<Name lang="EN">San Giuliano di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5994">
+			<Name lang="EN">San Giuliano Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6022">
+			<Name lang="EN">San Leone</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">San Leone, Sicily, Italy</Destination>
+		</City>
+		<City id="6026">
+			<Name lang="EN">San Lorenzo in Banale</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6035">
+			<Name lang="EN">San Martino Buon Albergo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6037">
+			<Name lang="EN">San Martino di Castrozza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="22130">
+			<Name lang="EN">San Mauro Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34054">
+			<Name lang="EN">San Menaio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6092">
+			<Name lang="EN">San Remo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6106">
+			<Name lang="EN">San Teodoro</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">San Teodoro, Sardinia, Italy</Destination>
+		</City>
+		<City id="6117">
+			<Name lang="EN">San Vittore Olona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="17378">
+			<Name lang="EN">San Zeno di Montagna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6141">
+			<Name lang="EN">Sandrigo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6170">
+			<Name lang="EN">Sansepolcro</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34073">
+			<Name lang="EN">Santa Caterina di Pittinuri</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Santa Caterina di Pittinuri, Sardinia, Italy</Destination>
+		</City>
+		<City id="6196">
+			<Name lang="EN">Santa Cesarea Terme</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10544">
+			<Name lang="EN">Santa Flavia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Santa Flavia, Sicily, Italy</Destination>
+		</City>
+		<City id="10550">
+			<Name lang="EN">Santa Margherita di Pula</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Santa Margherita di Pula, Sardinia, Italy</Destination>
+		</City>
+		<City id="10551">
+			<Name lang="EN">Santa Margherita Ligure</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10557">
+			<Name lang="EN">Santa Maria degli Angeli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10561">
+			<Name lang="EN">Santa Maria di Leuca</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10562">
+			<Name lang="EN">Santa Maria di Sala</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10578">
+			<Name lang="EN">Santa Teresa di Gallura</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Santa Teresa di Gallura, Sardinia, Italy</Destination>
+		</City>
+		<City id="10584">
+			<Name lang="EN">Sant'Agata sui due Golfi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10585">
+			<Name lang="EN">Sant'Agnello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="533">
+			<Name lang="EN">Sant'Alessio Siculo</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Sant'Alessio Siculo, Sicily, Italy</Destination>
+		</City>
+		<City id="34080">
+			<Name lang="EN">Sant'Andrea Apostolo dello Ionio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="23829">
+			<Name lang="EN">Sant'Angelo d'Ischia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="546">
+			<Name lang="EN">Sant'Antonio Abate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="547">
+			<Name lang="EN">Sant'Antonio di Gallura</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Sant'Antonio di Gallura, Sardinia, Italy</Destination>
+		</City>
+		<City id="563">
+			<Name lang="EN">Sant'Ilario d'Enza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="25475">
+			<Name lang="EN">Santo Stefano al Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4351">
+			<Name lang="EN">Saronno</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4363">
+			<Name lang="EN">Sarzana</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4368">
+			<Name lang="EN">Sassari</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Sassari, Sardinia, Italy</Destination>
+		</City>
+		<City id="4371">
+			<Name lang="EN">Sassuolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4394">
+			<Name lang="EN">Sauze d'Oulx</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4401">
+			<Name lang="EN">Savona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4688">
+			<Name lang="EN">Scalea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4693">
+			<Name lang="EN">Scandicci</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4695">
+			<Name lang="EN">Scanzano Jonico</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4759">
+			<Name lang="EN">Sciacca</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Sciacca, Sicily, Italy</Destination>
+		</City>
+		<City id="4760">
+			<Name lang="EN">Scicli</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Scicli, Sicily, Italy</Destination>
+		</City>
+		<City id="5009">
+			<Name lang="EN">Segrate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5013">
+			<Name lang="EN">Seiano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5033">
+			<Name lang="EN">Selinunte</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Selinunte, Sicily, Italy</Destination>
+		</City>
+		<City id="5040">
+			<Name lang="EN">Sellia Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5046">
+			<Name lang="EN">Selva di Fasano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5047">
+			<Name lang="EN">Selva di Val Gardena</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5256">
+			<Name lang="EN">Senigallia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5289">
+			<Name lang="EN">Serralunga d'Alba</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5309">
+			<Name lang="EN">Sesto Fiorentino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5311">
+			<Name lang="EN">Sesto San Giovanni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5312">
+			<Name lang="EN">Sestri Levante</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5313">
+			<Name lang="EN">Sestriere</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4498">
+			<Name lang="EN">Sibari</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="7950">
+			<Name lang="EN">Siculiana</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Siculiana, Sicily, Italy</Destination>
+		</City>
+		<City id="116">
+			<Name lang="EN">Siena</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4534">
+			<Name lang="EN">Signa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4568">
+			<Name lang="EN">Silvi Marina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4899">
+			<Name lang="EN">Sirmione</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34134">
+			<Name lang="EN">Sirolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4913">
+			<Name lang="EN">Siusi allo Sciliar</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5138">
+			<Name lang="EN">Soave</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5364">
+			<Name lang="EN">Solbiate Olona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5406">
+			<Name lang="EN">Somma Lombardo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="5438">
+			<Name lang="EN">Sorano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28872">
+			<Name lang="EN">Sorrento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4262">
+			<Name lang="EN">Soverato</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4278">
+			<Name lang="EN">Spello</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4279">
+			<Name lang="EN">Sperlonga</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1226">
+			<Name lang="EN">Spinetta Marengo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1232">
+			<Name lang="EN">Spoleto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4665">
+			<Name lang="EN">Stezzano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4666">
+			<Name lang="EN">Stia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="4674">
+			<Name lang="EN">Stintino</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Stintino, Sardinia, Italy</Destination>
+		</City>
+		<City id="4848">
+			<Name lang="EN">Stresa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34183">
+			<Name lang="EN">Stromboli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10748">
+			<Name lang="EN">Syracuse</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Syracuse, Sicily, Italy</Destination>
+		</City>
+		<City id="2650">
+			<Name lang="EN">Taormina</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Taormina, Sicily, Italy</Destination>
+		</City>
+		<City id="29311">
+			<Name lang="EN">Taranto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="39">
+			<Name lang="EN">Tavagnacco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="40">
+			<Name lang="EN">Tavarnelle Val di Pesa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="15362">
+			<Name lang="EN">Tempio Pausania</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Tempio Pausania, Sardinia, Italy</Destination>
+		</City>
+		<City id="238">
+			<Name lang="EN">Termini Imerese</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Termini Imerese, Sicily, Italy</Destination>
+		</City>
+		<City id="241">
+			<Name lang="EN">Ternate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="243">
+			<Name lang="EN">Terni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="247">
+			<Name lang="EN">Terracina</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="250">
+			<Name lang="EN">Terrasini</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Terrasini, Sicily, Italy</Destination>
+		</City>
+		<City id="260">
+			<Name lang="EN">Tesero</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34237">
+			<Name lang="EN">Teulada</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Teulada, Sardinia, Italy</Destination>
+		</City>
+		<City id="2689">
+			<Name lang="EN">Tindari</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Tindari, Sicily, Italy</Destination>
+		</City>
+		<City id="2712">
+			<Name lang="EN">Tirrenia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2723">
+			<Name lang="EN">Tivoli</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2013">
+			<Name lang="EN">Todi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2169">
+			<Name lang="EN">Torbole sul Garda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2176">
+			<Name lang="EN">Torgiano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2190">
+			<Name lang="EN">Torre Canne</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2196">
+			<Name lang="EN">Torre del Greco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2198">
+			<Name lang="EN">Torre dell 'Orso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2199">
+			<Name lang="EN">Torre delle Stelle</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Torre delle Stelle, Sardinia, Italy</Destination>
+		</City>
+		<City id="34263">
+			<Name lang="EN">Torre Ovo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2205">
+			<Name lang="EN">Torre Pedrera</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2206">
+			<Name lang="EN">Torre Rinalda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2208">
+			<Name lang="EN">Torre San Giovanni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2209">
+			<Name lang="EN">Torre Vado</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2232">
+			<Name lang="EN">Torri del Benaco</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2438">
+			<Name lang="EN">Tortoreto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2487">
+			<Name lang="EN">Trabia</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Trabia, Sicily, Italy</Destination>
+		</City>
+		<City id="376">
+			<Name lang="EN">Trapani</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Trapani, Sicily, Italy</Destination>
+		</City>
+		<City id="2545">
+			<Name lang="EN">Tremezzo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2553">
+			<Name lang="EN">Trento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2571">
+			<Name lang="EN">Trevi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34268">
+			<Name lang="EN">Trevignano Romano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2574">
+			<Name lang="EN">Treviolo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2575">
+			<Name lang="EN">Treviso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2578">
+			<Name lang="EN">Trezzano Rosa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2579">
+			<Name lang="EN">Trezzano sul Naviglio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2580">
+			<Name lang="EN">Trezzo sull'Adda</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="663">
+			<Name lang="EN">Trieste</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2764">
+			<Name lang="EN">Tropea</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="29863">
+			<Name lang="EN">Turin</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="30744">
+			<Name lang="EN">Udine</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="303">
+			<Name lang="EN">Ugento</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2891">
+			<Name lang="EN">Urbino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="399">
+			<Name lang="EN">Usmate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="408">
+			<Name lang="EN">Ustica</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Ustica, Sicily, Italy</Destination>
+		</City>
+		<City id="601">
+			<Name lang="EN">Valderice</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Valderice, Sicily, Italy</Destination>
+		</City>
+		<City id="609">
+			<Name lang="EN">Valeggio sul Mincio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="623">
+			<Name lang="EN">Valiano di Montepulciano</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="632">
+			<Name lang="EN">Valledoria</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Valledoria, Sardinia, Italy</Destination>
+		</City>
+		<City id="971">
+			<Name lang="EN">Varano Island</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="973">
+			<Name lang="EN">Varazze</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="979">
+			<Name lang="EN">Varese</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="996">
+			<Name lang="EN">Vasto</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1136">
+			<Name lang="EN">Velletri</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="30888">
+			<Name lang="EN">Venice</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1171">
+			<Name lang="EN">Verbania</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="437">
+			<Name lang="EN">Verona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1173">
+			<Name lang="EN">Viareggio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1174">
+			<Name lang="EN">Vibo Valentia</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="441">
+			<Name lang="EN">Vicenza</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="461">
+			<Name lang="EN">Vieste</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1212">
+			<Name lang="EN">Vietri sul Mare</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1217">
+			<Name lang="EN">Vigasio</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1412">
+			<Name lang="EN">Vignola</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1414">
+			<Name lang="EN">Vigo di Fassa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1482">
+			<Name lang="EN">Villa San Giovanni</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1681">
+			<Name lang="EN">Villafranca di Verona</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="34328">
+			<Name lang="EN">Villagrande Strisaili</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Villagrande Strisaili, Sardinia, Italy</Destination>
+		</City>
+		<City id="34329">
+			<Name lang="EN">Villagrazia di Carini</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Villagrazia di Carini, Sicily, Italy</Destination>
+		</City>
+		<City id="1697">
+			<Name lang="EN">Villanova di Castenaso</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1715">
+			<Name lang="EN">Villasimius</Name>
+			<Region lang="EN">Sardinia</Region>
+			<Destination lang="EN">Villasimius, Sardinia, Italy</Destination>
+		</City>
+		<City id="1745">
+			<Name lang="EN">Villorba</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1749">
+			<Name lang="EN">Vimercate</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1881">
+			<Name lang="EN">Viserba di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1882">
+			<Name lang="EN">Viserbella di Rimini</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1891">
+			<Name lang="EN">Viterbo</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="26769">
+			<Name lang="EN">Vizzola Ticino</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1931">
+			<Name lang="EN">Vogogna</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="1951">
+			<Name lang="EN">Volterra</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="2087">
+			<Name lang="EN">Vulcano Island</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Vulcano Island, Sicily, Italy</Destination>
+		</City>
+		<City id="3218">
+			<Name lang="EN">Zafferana Etnea</Name>
+			<Region lang="EN">Sicily</Region>
+			<Destination lang="EN">Zafferana Etnea, Sicily, Italy</Destination>
+		</City>
+		<City id="3333">
+			<Name lang="EN">Zola Predosa</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

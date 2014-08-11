@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495779" resultcode="0" message="" >
+				<Name><![CDATA[TREND EUROPA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Bahnhofsgurtel, 89]]></Address1>
+					<Address2><![CDATA[08020, Graz, Austria]]></Address2>
+					<PostalCode>08020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.07184</Latitude>
+					<Longitude>15.419301</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_6.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4114/37664114.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05135_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043316 7076606]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[004331670760 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

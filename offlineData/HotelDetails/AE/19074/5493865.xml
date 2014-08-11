@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493865" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN EXPRESS DUBAI AIRPORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Opposite Dubai Airport - Terminal 3 PO BOX 35257, ]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.248638</Latitude>
+					<Longitude>55.35407</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4109/32604109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4110/32604110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4111/32604111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4112/32604112.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09720_1_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 3415276]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 3415657 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

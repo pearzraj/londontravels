@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="OM">
+		<City id="14661"> 
+			<Name lang="EN">Masirah</Name>
+			<Region lang="EN">Masirah</Region>
+			<Destination lang="EN">Masirah, Masirah, Oman</Destination>
+		</City>
+		<City id="17920">
+			<Name lang="EN">Muscat</Name>
+			<Region lang="EN">Muscat</Region>
+			<Destination lang="EN">Muscat, Muscat, Oman</Destination>
+		</City>
+		<City id="30628">
+			<Name lang="EN">Salalah</Name>
+			<Region lang="EN">Salalah</Region>
+			<Destination lang="EN">Salalah, Salalah, Oman</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

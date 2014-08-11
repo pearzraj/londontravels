@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332947" resultcode="0" message="" >
+				<Name><![CDATA[HAWKSBILL BY REX RESORT ALL INCLUSIVE]]></Name>
+				<Address>
+					<Address1><![CDATA[  PO Box 108, Hawksbill Beach,]]></Address1>
+					<Address2><![CDATA[Antigua, Saint John'S, Antigua And Barbuda]]></Address2>
+					<PostalCode>Antigua</PostalCode>
+					<CityCode>64816</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Saint John'S]]>
+					</CityName>
+					<CountryCode>AG</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Antigua and Barbuda]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>17.1217</Latitude>
+					<Longitude>-61.8441</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9450/37099450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9451/37099451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9452/37099452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9443/37099443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9444/37099444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9445/37099445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9446/37099446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9447/37099447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9448/37099448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9449/37099449.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 305 471 9547]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 305 471 6170 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

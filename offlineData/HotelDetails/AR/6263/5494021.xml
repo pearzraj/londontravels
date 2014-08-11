@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494021" resultcode="0" message="" >
+				<Name><![CDATA[DAZZLER TOWER SAN MARTIN]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 920,]]></Address1>
+					<Address2><![CDATA[C1012AAT, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1012AAT</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59674</Latitude>
+					<Longitude>-58.37419</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4207/37674207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4208/37674208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4209/37674209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4210/37674210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4191/37674191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4192/37674192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4193/37674193.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4194/37674194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4195/37674195.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4196/37674196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4197/37674197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4198/37674198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4199/37674199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4200/37674200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4201/37674201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4189/37674189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4190/37674190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4202/37674202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4203/37674203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4204/37674204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4205/37674205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4206/37674206.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 115 217 5700]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 115 217 5700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

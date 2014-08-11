@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493828" resultcode="0" message="" >
+				<Name><![CDATA[REGENT PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Khalifa Zayed strret, P.O. Box 26816,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.24399</Latitude>
+					<Longitude>55.298195</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3879/32603879.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T21000/T21221_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143964080]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143963888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

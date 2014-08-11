@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495789" resultcode="0" message="" >
+				<Name><![CDATA[AMBASSADOR VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Kaerntner Strasse  Neuer Markt 5,22]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20557</Latitude>
+					<Longitude>16.37106</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4127/37664127.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05906_1_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043196161613]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043196161611 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494099" resultcode="0" message="" >
+				<Name><![CDATA[ESPLENDOR BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 780,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.6</Latitude>
+					<Longitude>-58.37389</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9602/37679602.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9603/37679603.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9604/37679604.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9605/37679605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9606/37679606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9607/37679607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9608/37679608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9609/37679609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9610/37679610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9611/37679611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9612/37679612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9597/37679597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9598/37679598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9599/37679599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9600/37679600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9601/37679601.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5256 8801]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5256 8800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

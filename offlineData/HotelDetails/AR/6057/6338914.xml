@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338914" resultcode="0" message="" >
+				<Name><![CDATA[AMERIAN TUCUMAN APART AND SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Santiago 425,]]></Address1>
+					<Address2><![CDATA[4000, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>4000</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.824522</Latitude>
+					<Longitude>-65.201836</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9057/37129057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9058/37129058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9041/37129041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9042/37129042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9043/37129043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9044/37129044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9045/37129045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9046/37129046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9047/37129047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9048/37129048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9049/37129049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9052/37129052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9053/37129053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9054/37129054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9055/37129055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9056/37129056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9050/37129050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9051/37129051.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 03814300100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 03814300100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

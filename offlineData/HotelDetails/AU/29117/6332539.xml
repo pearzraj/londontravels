@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332539" resultcode="0" message="" >
+				<Name><![CDATA[Y HOTEL CITY SOUTH]]></Name>
+				<Address>
+					<Address1><![CDATA[   179 Cleveland Street,]]></Address1>
+					<Address2><![CDATA[2008, Sydney, Australia]]></Address2>
+					<PostalCode>2008</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.888973</Latitude>
+					<Longitude>151.20082</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6815/37096815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6816/37096816.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43089_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6807/37096807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6808/37096808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6809/37096809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6810/37096810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6811/37096811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6812/37096812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6813/37096813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6814/37096814.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 02 8303 1300]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[61283031303 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

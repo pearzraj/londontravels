@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494113" resultcode="0" message="" >
+				<Name><![CDATA[NH LANCASTER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Cordoba 405,]]></Address1>
+					<Address2><![CDATA[C1054AAD, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1054AAD</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.597897</Latitude>
+					<Longitude>-58.37284</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Sauna and Massages. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Currency Exchange, Car parker, Wi-Fi, Airport Transfer, Garage and Business Centre.  Activities and relax: Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Sauna and Massages. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Currency Exchange, Car parker, Wi-Fi, Airport Transfer, Garage and Business Centre.  Activities and relax: Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9764/37679764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9765/37679765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9766/37679766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9767/37679767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9768/37679768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9755/37679755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9756/37679756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9757/37679757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9758/37679758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9759/37679759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9760/37679760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9761/37679761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9762/37679762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9763/37679763.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 4131 6450]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4131 6464 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

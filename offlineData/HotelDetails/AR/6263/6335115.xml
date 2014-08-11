@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335115" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE ART ELEGANCE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Pueyrredon 1940,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.58834</Latitude>
+					<Longitude>-58.399254</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8839/37758839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8840/37758840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8841/37758841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8842/37758842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8843/37758843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8844/37758844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8845/37758845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8846/37758846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8847/37758847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8848/37758848.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8849/37758849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8850/37758850.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8851/37758851.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8852/37758852.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541167770530]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541167770500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

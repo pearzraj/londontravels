@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="VG">
+		<City id="30918"> 
+			<Name lang="EN">Virgin Gorda</Name>
+			<Region lang="EN">Virgin Gorda</Region>
+			<Destination lang="EN">Virgin Gorda, Virgin Gorda, Virgin Islands, UK</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

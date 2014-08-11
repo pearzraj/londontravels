@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494061" resultcode="0" message="" >
+				<Name><![CDATA[LIBERTY HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Corrientes 632,]]></Address1>
+					<Address2><![CDATA[1043, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1043</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.603363</Latitude>
+					<Longitude>-58.375664</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4567/37674567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4568/37674568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4569/37674569.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4570/37674570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4571/37674571.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4572/37674572.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4573/37674573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4574/37674574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4575/37674575.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4576/37674576.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4577/37674577.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4578/37674578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4579/37674579.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4580/37674580.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 5279 0000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 5279 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

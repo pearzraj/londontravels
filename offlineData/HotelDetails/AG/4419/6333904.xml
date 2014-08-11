@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333904" resultcode="0" message="" >
+				<Name><![CDATA[BLUE WATERS]]></Name>
+				<Address>
+					<Address1><![CDATA[  PO Box 256,]]></Address1>
+					<Address2><![CDATA[Antigua, Saint John'S, Antigua And Barbuda]]></Address2>
+					<PostalCode>Antigua</PostalCode>
+					<CityCode>64816</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Saint John'S]]>
+					</CityName>
+					<CountryCode>AG</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Antigua and Barbuda]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>17.17019</Latitude>
+					<Longitude>-61.837353</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+268 462 0293]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+268 462 0290 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

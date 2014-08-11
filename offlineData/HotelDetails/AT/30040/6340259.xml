@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340259" resultcode="0" message="" >
+				<Name><![CDATA[STEIGENBERGER ALPENHOTEL KAPRUN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Schlossstrasse, 2]]></Address1>
+					<Address2><![CDATA[5710, Kaprun, Austria]]></Address2>
+					<PostalCode>5710</PostalCode>
+					<CityCode>64951</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Kaprun]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.272606</Latitude>
+					<Longitude>12.759875</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Luggage compartment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9820/37159820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9821/37159821.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05923_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05923_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05923_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05923_12_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00436547 7680]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 6547 7647 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

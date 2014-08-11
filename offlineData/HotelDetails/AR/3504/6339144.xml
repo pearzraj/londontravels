@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339144" resultcode="0" message="" >
+				<Name><![CDATA[LUPAMA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Calle  992 -19,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.28062</Latitude>
+					<Longitude>-72.0528</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42844_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42844_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42844_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4978/37784978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4979/37784979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4980/37784980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4981/37784981.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4982/37784982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4983/37784983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4984/37784984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4985/37784985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4986/37784986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4987/37784987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4988/37784988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4989/37784989.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0295]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542902491591 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

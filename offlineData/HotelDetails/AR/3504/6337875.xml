@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337875" resultcode="0" message="" >
+				<Name><![CDATA[ALTO CALAFATE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 2000, Nº 141, Villa Parque Los Glaciares,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.31982</Latitude>
+					<Longitude>-72.26944</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Wi-Fi and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Wi-Fi and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6023/37306023.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6024/37306024.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6025/37306025.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6008/37306008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6009/37306009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6010/37306010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6011/37306011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6012/37306012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6013/37306013.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6014/37306014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6015/37306015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6016/37306016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6017/37306017.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6018/37306018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6019/37306019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6020/37306020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6021/37306021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6022/37306022.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T45000/T45267_11_1.gif</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143263833]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542902494110 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332843" resultcode="0" message="" >
+				<Name><![CDATA[GRAND CRUCERO IGUAZU HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  RUTA 12 KM 3.5,]]></Address1>
+					<Address2><![CDATA[3370, Puerto Iguazu, Argentina]]></Address2>
+					<PostalCode>3370</PostalCode>
+					<CityCode>87105</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.611568</Latitude>
+					<Longitude>-54.562744</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Vehicle Rental, Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8776/37098776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8777/37098777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8778/37098778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8779/37098779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8780/37098780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8781/37098781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8772/37098772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8773/37098773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8774/37098774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8775/37098775.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 3757493100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

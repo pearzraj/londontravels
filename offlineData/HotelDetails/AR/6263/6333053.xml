@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333053" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON BUENOS AIRES AND CONVENTION CENTER]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin 1225,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.592678</Latitude>
+					<Longitude>-58.372913</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Jacuzzi and Laundry Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Jacuzzi and Laundry Service We also have Wi-Fi, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42627_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4893/37744893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4894/37744894.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4895/37744895.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4896/37744896.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4875/37744875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4876/37744876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4877/37744877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4878/37744878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4879/37744879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4880/37744880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4881/37744881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4882/37744882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4883/37744883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4884/37744884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4885/37744885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4886/37744886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4887/37744887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4888/37744888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4889/37744889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4890/37744890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4891/37744891.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4892/37744892.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143189346]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4318 9000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493707" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON DEIRA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Muteena Street, Deira, P.o. Box 5722,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.073685</Latitude>
+					<Longitude>55.12888</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Airport Transfer and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3121/32603121.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3122/32603122.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3123/32603123.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3127/32603127.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3128/32603128.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3129/32603129.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3130/32603130.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3131/32603131.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3132/32603132.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3133/32603133.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3134/32603134.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04556_1_11.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3135/32603135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3136/32603136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3137/32603137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3138/32603138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3139/32603139.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3140/32603140.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3141/32603141.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3142/32603142.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3124/32603124.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3125/32603125.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3126/32603126.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097142689772]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142688888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

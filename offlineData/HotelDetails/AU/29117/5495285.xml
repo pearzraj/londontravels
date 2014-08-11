@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495285" resultcode="0" message="" >
+				<Name><![CDATA[TRAVELODGE WYNYARD ]]></Name>
+				<Address>
+					<Address1><![CDATA[  York Street,7-9]]></Address1>
+					<Address2><![CDATA[2000, Sydney, Australia]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.86493</Latitude>
+					<Longitude>151.20534</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Dry Cleaning Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Dry Cleaning Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9249/32609249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9250/32609250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9251/32609251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9252/32609252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9253/32609253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9254/32609254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9255/32609255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9256/32609256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9257/32609257.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061292741274]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0061292741222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334372" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND ANATOL]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Webgasse,26]]></Address1>
+					<Address2><![CDATA[01060, Vienna, Austria]]></Address2>
+					<PostalCode>01060</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.194885</Latitude>
+					<Longitude>16.34624</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2434/37142434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2435/37142435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2436/37142436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2437/37142437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2438/37142438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2439/37142439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2440/37142440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2441/37142441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2442/37142442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2443/37142443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2430/37142430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2431/37142431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2432/37142432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2433/37142433.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 (1) 599 96-55]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043159996 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

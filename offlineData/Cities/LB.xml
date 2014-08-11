@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LB">
+		<City id="18655"> 
+			<Name lang="EN">Beirut</Name>
+			<Region lang="EN">Beirut</Region>
+			<Destination lang="EN">Beirut, Beirut, Lebanon</Destination>
+		</City>
+		<City id="12569">
+			<Name lang="EN">Broummana</Name>
+			<Region lang="EN">Broummana</Region>
+			<Destination lang="EN">Broummana, Broummana, Lebanon</Destination>
+		</City>
+		<City id="16199">
+			<Name lang="EN">Byblos</Name>
+			<Region lang="EN">Byblos</Region>
+			<Destination lang="EN">Byblos, Byblos, Lebanon</Destination>
+		</City>
+		<City id="35603">
+			<Name lang="EN">Bzommar</Name>
+			<Region lang="EN">Bzommar</Region>
+			<Destination lang="EN">Bzommar, Bzommar, Lebanon</Destination>
+		</City>
+		<City id="19341">
+			<Name lang="EN">Chtaura</Name>
+			<Region lang="EN">Chtaura</Region>
+			<Destination lang="EN">Chtaura, Chtaura, Lebanon</Destination>
+		</City>
+		<City id="32716">
+			<Name lang="EN">Dhour el Choueir</Name>
+			<Region lang="EN">Dhour el Choueir</Region>
+			<Destination lang="EN">Dhour el Choueir, Dhour el Choueir, Lebanon</Destination>
+		</City>
+		<City id="35678">
+			<Name lang="EN">Hammana</Name>
+			<Region lang="EN">Hammana</Region>
+			<Destination lang="EN">Hammana, Hammana, Lebanon</Destination>
+		</City>
+		<City id="26166">
+			<Name lang="EN">Jounieh</Name>
+			<Region lang="EN">Jounieh</Region>
+			<Destination lang="EN">Jounieh, Jounieh, Lebanon</Destination>
+		</City>
+		<City id="35772">
+			<Name lang="EN">Mzaar</Name>
+			<Region lang="EN">Mzaar</Region>
+			<Destination lang="EN">Mzaar, Mzaar, Lebanon</Destination>
+		</City>
+		<City id="670">
+			<Name lang="EN">Tripoli</Name>
+			<Region lang="EN">Tripoli</Region>
+			<Destination lang="EN">Tripoli, Tripoli, Lebanon</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335073" resultcode="0" message="" >
+				<Name><![CDATA[DESIGN SUITES BARILOCHE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Av Bustillo Km 2,5,]]></Address1>
+					<Address2><![CDATA[R8402AAX, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>R8402AAX</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.15339</Latitude>
+					<Longitude>-71.30552</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Jacuzzi We also have Currency Exchange, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Jacuzzi We also have Currency Exchange, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42883_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1970/37301970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1971/37301971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1972/37301972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1973/37301973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1974/37301974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1975/37301975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1976/37301976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1977/37301977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1978/37301978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1979/37301979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1980/37301980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1981/37301981.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1982/37301982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1983/37301983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1984/37301984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1985/37301985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1986/37301986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1987/37301987.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542944457000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00542944457000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

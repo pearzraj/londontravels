@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498933" resultcode="0" message="" >
+				<Name><![CDATA[MELIA DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Kuwait Street 23, Port Rashid  P O Box 116656,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.255293</Latitude>
+					<Longitude>55.285633</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This establishment in DUBAI adapts to the needs of the customers, whatever the reason for their visit. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This establishment in DUBAI adapts to the needs of the customers, whatever the reason for their visit. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13342_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 386 8222]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 386 8111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493659" resultcode="0" message="" >
+				<Name><![CDATA[FONT HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. del ravell,s/n]]></Address1>
+					<Address2><![CDATA[AD400, Massana, La, Andorra]]></Address2>
+					<PostalCode>AD400</PostalCode>
+					<CityCode>59326</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Massana, La]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.54757</Latitude>
+					<Longitude>1.51338</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have TV, Central Heating and Bathtub , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Cot and High Chair. We also have Multilingual Personnel, Nearby Parking  and Tourist Information.  Activities and relax: Skiing. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Visitors wishing to discover the most authentic part of LA MASSANA have a definite date with the FONT HOTEL, situated right in the city centre. Of particular note are the panoramic views of the mountain. Its 36rooms have been designed to provide a well-deserved rest after a day in the snow. We have Cot and High Chair for children. Facilities include Air Conditioning and Heating. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Visitors wishing to discover the most authentic part of LA MASSANA have a definite date with the FONT HOTEL, situated right in the city centre. Of particular note are the panoramic views of the mountain. Its 36rooms have been designed to provide a well-deserved rest after a day in the snow. We have Cot and High Chair for children. Facilities include Air Conditioning and Heating. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have TV, Central Heating and Bathtub , and among our services and facilities available we have Air Conditioning, Lifts, Heating, Cot and High Chair. We also have Multilingual Personnel, Nearby Parking  and Tourist Information.  Activities and relax: Skiing. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Mountain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Hand soap]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Skiing]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Snowboard]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shampoo]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Bath Gel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Nearby Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Restaurant Bookings]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[High Chair]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Manual Lock]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2728/32602728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2729/32602729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2730/32602730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2731/32602731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2732/32602732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2733/32602733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2734/32602734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2735/32602735.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/MAS000/MASFON_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376838664]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376838444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

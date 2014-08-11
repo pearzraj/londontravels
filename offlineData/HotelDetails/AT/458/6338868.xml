@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338868" resultcode="0" message="" >
+				<Name><![CDATA[JOHANN STRAUSS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Favoritenstrasse,12]]></Address1>
+					<Address2><![CDATA[1040, Vienna, Austria]]></Address2>
+					<PostalCode>1040</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.19504</Latitude>
+					<Longitude>16.36947</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6511/41126511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6512/41126512.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07519_1_14.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 5057628]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00434044670 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

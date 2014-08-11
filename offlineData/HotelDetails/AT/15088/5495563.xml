@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495563" resultcode="0" message="" >
+				<Name><![CDATA[ALPINPARK]]></Name>
+				<Address>
+					<Address1><![CDATA[   Pradlerstrasse,28]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.269073</Latitude>
+					<Longitude>11.407918</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9677/32609677.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05918_1_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043512 364172]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043512 348600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

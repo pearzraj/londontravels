@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495728" resultcode="0" message="" >
+				<Name><![CDATA[IBIS LINZ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Kamtner Strasse, 18-20]]></Address1>
+					<Address2><![CDATA[4020, Linz, Austria]]></Address2>
+					<PostalCode>4020</PostalCode>
+					<CityCode>64890</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Linz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.58904</Latitude>
+					<Longitude>14.139995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9604/37259604.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9605/37259605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9606/37259606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9607/37259607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9608/37259608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9609/37259609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9610/37259610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9611/37259611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9597/37259597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9598/37259598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9599/37259599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9600/37259600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9601/37259601.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9602/37259602.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9603/37259603.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 732 694019]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 732 69401 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341851" resultcode="0" message="" >
+				<Name><![CDATA[COMFORT BAIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  VIAMONTE 1501,CIUDAD AUTONOMA,]]></Address1>
+					<Address2><![CDATA[09000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>09000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.600628</Latitude>
+					<Longitude>-58.38811</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6233/37136233.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6234/37136234.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6235/37136235.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6236/37136236.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6237/37136237.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6238/37136238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6239/37136239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6240/37136240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6241/37136241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6242/37136242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6243/37136243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6244/37136244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6245/37136245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6246/37136246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6247/37136247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6248/37136248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6249/37136249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6250/37136250.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 114814 4917 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

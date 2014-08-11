@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331920" resultcode="0" message="" >
+				<Name><![CDATA[BELLA VISTA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Cabo De Hornos 4018,]]></Address1>
+					<Address2><![CDATA[V9410FWF, Ushuaia, Argentina]]></Address2>
+					<PostalCode>V9410FWF</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.821014</Latitude>
+					<Longitude>-68.35286</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Currency Exchange. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange and Vehicle Rental.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Currency Exchange. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange and Vehicle Rental.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2462/37092462.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42874_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2464/37092464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2465/37092465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2466/37092466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2467/37092467.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2468/37092468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2448/37092448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2449/37092449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2450/37092450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2451/37092451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2452/37092452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2453/37092453.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2454/37092454.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2455/37092455.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2456/37092456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2457/37092457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2458/37092458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2459/37092459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2460/37092460.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2461/37092461.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542901443510]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542901445976 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

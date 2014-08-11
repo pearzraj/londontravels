@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336608" resultcode="0" message="" >
+				<Name><![CDATA[RENAISSANCE ARUBA RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  L.G. Smith Boulevard 82,]]></Address1>
+					<Address2><![CDATA[1000, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1000</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.515278</Latitude>
+					<Longitude>-70.03649</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1185/37131185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1186/37131186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1187/37131187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1188/37131188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1189/37131189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1190/37131190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1191/37131191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1192/37131192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1210/37131210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1211/37131211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1212/37131212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1193/37131193.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1194/37131194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1195/37131195.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1196/37131196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1197/37131197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1198/37131198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1199/37131199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1200/37131200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1201/37131201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1202/37131202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1203/37131203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1204/37131204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1205/37131205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1206/37131206.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1207/37131207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1208/37131208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1209/37131209.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 582 8453]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 583 6000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

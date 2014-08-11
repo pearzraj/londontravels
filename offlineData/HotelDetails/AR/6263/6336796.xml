@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336796" resultcode="0" message="" >
+				<Name><![CDATA[ASPEN SQUARE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Thames 2313,]]></Address1>
+					<Address2><![CDATA[C1425FIG, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1425FIG</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.58293</Latitude>
+					<Longitude>-58.42386</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 4**** establishment is the perfect choice whatever the reason for your visit. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 4**** establishment is the perfect choice whatever the reason for your visit. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9668/37779668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9669/37779669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9670/37779670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9671/37779671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9648/37779648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9649/37779649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9650/37779650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9651/37779651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9652/37779652.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9653/37779653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9654/37779654.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9655/37779655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9656/37779656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9657/37779657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9658/37779658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9659/37779659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9660/37779660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9661/37779661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9662/37779662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9663/37779663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9664/37779664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9665/37779665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9666/37779666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9667/37779667.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4776 1711]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4776 1711 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494114" resultcode="0" message="" >
+				<Name><![CDATA[CASTELAR HOTEL AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida De Mayo 1152,]]></Address1>
+					<Address2><![CDATA[1085ABO, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1085ABO</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60942</Latitude>
+					<Longitude>-58.382656</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Shops and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Shops and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9788/37679788.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9789/37679789.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9790/37679790.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9791/37679791.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9792/37679792.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9793/37679793.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9794/37679794.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9795/37679795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9796/37679796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9777/37679777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9778/37679778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9779/37679779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9780/37679780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9781/37679781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9782/37679782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9783/37679783.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9784/37679784.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9785/37679785.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9786/37679786.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9787/37679787.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9769/37679769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9770/37679770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9771/37679771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9772/37679772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9773/37679773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9774/37679774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9775/37679775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9776/37679776.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4383 8388]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4383 5000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

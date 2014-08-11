@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337377" resultcode="0" message="" >
+				<Name><![CDATA[ROCHESTER CALAFATE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Libertador 3614,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.336433</Latitude>
+					<Longitude>-72.306175</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Wi-Fi, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Wi-Fi, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8626/37148626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8627/37148627.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8610/37148610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8611/37148611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8612/37148612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8613/37148613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8614/37148614.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8615/37148615.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8616/37148616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8617/37148617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8618/37148618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8619/37148619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8620/37148620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8621/37148621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8622/37148622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8623/37148623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8624/37148624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8625/37148625.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4322 2222]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4322 2222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

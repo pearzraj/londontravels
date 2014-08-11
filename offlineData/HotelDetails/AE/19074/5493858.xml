@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493858" resultcode="0" message="" >
+				<Name><![CDATA[DHOW PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Kuwait Street Bur Dubai,P.o. Box 121545,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.2796</Latitude>
+					<Longitude>55.3694</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4073/32604073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4074/32604074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4075/32604075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4076/32604076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4077/32604077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4078/32604078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4079/32604079.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4080/32604080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4081/32604081.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26833_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26833_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26833_12_9.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4065/32604065.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4066/32604066.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4067/32604067.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4068/32604068.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4069/32604069.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4070/32604070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4071/32604071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4072/32604072.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 359 9292]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143599992 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494545" resultcode="0" message="" >
+				<Name><![CDATA[THE CROSSLEY HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Little Bourke Street Melbourne, Victoria, 51]]></Address1>
+					<Address2><![CDATA[3004, Melbourne, Australia]]></Address2>
+					<PostalCode>3004</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.81086</Latitude>
+					<Longitude>144.97096</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8301/32608301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8302/32608302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8303/32608303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8304/32608304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8295/32608295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8296/32608296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8297/32608297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8298/32608298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8299/32608299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8300/32608300.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061396390566]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[006139639169]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

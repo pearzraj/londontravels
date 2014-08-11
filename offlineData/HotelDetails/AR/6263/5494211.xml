@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494211" resultcode="0" message="" >
+				<Name><![CDATA[ZENTRA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tucuman 2057,]]></Address1>
+					<Address2><![CDATA[C1050AAO, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1050AAO</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60152</Latitude>
+					<Longitude>-58.396023</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7309/32607309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7310/32607310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7311/32607311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7312/32607312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7313/32607313.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7314/32607314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7295/32607295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7296/32607296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7297/32607297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7298/32607298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7299/32607299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7300/32607300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7301/32607301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7302/32607302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7303/32607303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7304/32607304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7305/32607305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7306/32607306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7307/32607307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7308/32607308.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 52381868]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5238 1868 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

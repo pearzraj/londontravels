@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338808" resultcode="0" message="" >
+				<Name><![CDATA[ALL SEASONS HOTEL LINZ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Wankmullerhofstr, 37]]></Address1>
+					<Address2><![CDATA[4020, Linz, Austria]]></Address2>
+					<PostalCode>4020</PostalCode>
+					<CityCode>64890</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Linz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.28054</Latitude>
+					<Longitude>14.30459</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. The multilingual staff at reception will be happy to assist you. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Wi-Fi and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. The multilingual staff at reception will be happy to assist you. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Wi-Fi and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Children´s Park]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4731/37784731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4732/37784732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4733/37784733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4734/37784734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4735/37784735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4736/37784736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4737/37784737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4738/37784738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4739/37784739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4730/37784730.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0011 43 732 349 335]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0011 43 732 347 281 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

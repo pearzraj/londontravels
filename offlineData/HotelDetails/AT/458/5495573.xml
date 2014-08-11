@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495573" resultcode="0" message="" >
+				<Name><![CDATA[NH ATTERSEEHAUS SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Mariahilfer Strasse,78]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.197803</Latitude>
+					<Longitude>16.348698</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9728/32609728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9729/32609729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9730/32609730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9731/32609731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9732/32609732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9733/32609733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9734/32609734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9735/32609735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9736/32609736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9737/32609737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9718/32609718.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9719/32609719.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9720/32609720.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9721/32609721.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9722/32609722.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9723/32609723.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9724/32609724.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9725/32609725.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9726/32609726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9727/32609727.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 524560015]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 52456000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

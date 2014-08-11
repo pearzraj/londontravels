@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NP">
+		<City id="29722"> 
+			<Name lang="EN">Pokhara</Name>
+			<Region lang="EN">Pokhara</Region>
+			<Destination lang="EN">Pokhara, Pokhara, Nepal</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

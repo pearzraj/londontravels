@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336655" resultcode="0" message="" >
+				<Name><![CDATA[HOSTEL INN TANGO CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piedras 680,]]></Address1>
+					<Address2><![CDATA[1070, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.61604</Latitude>
+					<Longitude>-58.377434</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9360/37779360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9361/37779361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9362/37779362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9363/37779363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9358/37779358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9359/37779359.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 43007993]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 43005764 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

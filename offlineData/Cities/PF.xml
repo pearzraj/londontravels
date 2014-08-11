@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PF">
+		<City id="31993"> 
+			<Name lang="EN">Arue</Name>
+			<Region lang="EN">Arue</Region>
+			<Destination lang="EN">Arue, Arue, French Polynesia</Destination>
+		</City>
+		<City id="7180">
+			<Name lang="EN">Bora Bora</Name>
+			<Region lang="EN">Society Islands</Region>
+			<Destination lang="EN">Bora Bora, Society Islands, French Polynesia</Destination>
+		</City>
+		<City id="17152">
+			<Name lang="EN">Moorea</Name>
+			<Region lang="EN">Society Islands</Region>
+			<Destination lang="EN">Moorea, Society Islands, French Polynesia</Destination>
+		</City>
+		<City id="27435">
+			<Name lang="EN">Papeete</Name>
+			<Region lang="EN">Tahiti</Region>
+			<Destination lang="EN">Papeete, Tahiti, French Polynesia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

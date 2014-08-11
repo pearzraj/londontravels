@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493896" resultcode="0" message="" >
+				<Name><![CDATA[EMBAJADOR HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Carlos Pellegrini 1185,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59412</Latitude>
+					<Longitude>-58.381218</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4343/32604343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4344/32604344.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4345/32604345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4346/32604346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4347/32604347.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4348/32604348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4349/32604349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4350/32604350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4335/32604335.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4336/32604336.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4337/32604337.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4338/32604338.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4339/32604339.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4340/32604340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4341/32604341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4342/32604342.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4326 5302]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 525 46835 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

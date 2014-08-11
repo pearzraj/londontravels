@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493818" resultcode="0" message="" >
+				<Name><![CDATA[RAFFLES DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Rashid Road, Wafi Dubai, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.2278</Latitude>
+					<Longitude>55.3207</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Library]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3832/32603832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3833/32603833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3834/32603834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3835/32603835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3847/32603847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3836/32603836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3837/32603837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3838/32603838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3839/32603839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3840/32603840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3841/32603841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3842/32603842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3843/32603843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3844/32603844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3845/32603845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3846/32603846.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53815_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 4 324 6000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 4 324 8888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

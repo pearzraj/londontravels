@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341381" resultcode="0" message="" >
+				<Name><![CDATA[COCOS HOTEL ALL INCLUSIVE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Valley Church,]]></Address1>
+					<Address2><![CDATA[00001, Saint John'S, Antigua And Barbuda]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>64816</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Saint John'S]]>
+					</CityName>
+					<CountryCode>AG</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Antigua and Barbuda]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>17.1217</Latitude>
+					<Longitude>-61.8441</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Catering Services]]></Name>
+						<Description><![CDATA[Wedding Menu]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7070/37127070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7071/37127071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7072/37127072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7073/37127073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7074/37127074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7075/37127075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7076/37127076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7077/37127077.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 268 462 97 07]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 268 460 26 26 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495751" resultcode="0" message="" >
+				<Name><![CDATA[GRAND HOTEL EUROPA (EX EUROPA TYROL)]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sudtiroler Platz, 2]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.264618</Latitude>
+					<Longitude>11.399826</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[A luxury establishment where architecture, gastronomy and service combine to offer its guests an exclusive setting. It's  rooms  offer a pleasant environment in which to rest after a day full of excitement. The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Minibar, Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[A luxury establishment where architecture, gastronomy and service combine to offer its guests an exclusive setting. It's  rooms  offer a pleasant environment in which to rest after a day full of excitement. The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Minibar, Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9770/37259770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9771/37259771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9772/37259772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9773/37259773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9774/37259774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9775/37259775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9776/37259776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9777/37259777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9778/37259778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9779/37259779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9780/37259780.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02034_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02034_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02034_1_8.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9781/37259781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9782/37259782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9783/37259783.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043512587800]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00435125931 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

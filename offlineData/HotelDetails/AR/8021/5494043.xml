@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494043" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL CORRIENTES]]></Name>
+				<Address>
+					<Address1><![CDATA[  CORRIENTES 2520,]]></Address1>
+					<Address2><![CDATA[9405, Santa Fe, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>87140</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Santa Fe]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.653795</Latitude>
+					<Longitude>-60.707882</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4385/37674385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4386/37674386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4387/37674387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4388/37674388.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0342-4592126 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

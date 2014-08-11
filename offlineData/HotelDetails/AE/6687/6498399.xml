@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498399" resultcode="0" message="" >
+				<Name><![CDATA[THE ROYAL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salam Street,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.489574</Latitude>
+					<Longitude>54.378895</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The THE ROYAL HOTEL is the perfect destination for spending a few days visiting the city.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The THE ROYAL HOTEL is the perfect destination for spending a few days visiting the city.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13313_12_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 2 650 4505]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 2 815 2222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

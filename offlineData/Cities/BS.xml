@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BS">
+		<City id="9674"> 
+			<Name lang="EN">Eleuthera</Name>
+			<Region lang="EN">Eleuthera</Region>
+			<Destination lang="EN">Eleuthera, Eleuthera, Bahamas</Destination>
+		</City>
+		<City id="15169">
+			<Name lang="EN">Freeport</Name>
+			<Region lang="EN">Freeport</Region>
+			<Destination lang="EN">Freeport, Freeport, Bahamas</Destination>
+		</City>
+		<City id="8154">
+			<Name lang="EN">George Town</Name>
+			<Region lang="EN">George Town</Region>
+			<Destination lang="EN">George Town, George Town, Bahamas</Destination>
+		</City>
+		<City id="19970">
+			<Name lang="EN">Long Island</Name>
+			<Region lang="EN">Long Island</Region>
+			<Destination lang="EN">Long Island, Long Island, Bahamas</Destination>
+		</City>
+		<City id="14636">
+			<Name lang="EN">Marsh Harbour</Name>
+			<Region lang="EN">Marsh Harbour</Region>
+			<Destination lang="EN">Marsh Harbour, Marsh Harbour, Bahamas</Destination>
+		</City>
+		<City id="18934">
+			<Name lang="EN">Nassau</Name>
+			<Region lang="EN">Nassau</Region>
+			<Destination lang="EN">Nassau, Nassau, Bahamas</Destination>
+		</City>
+		<City id="20738">
+			<Name lang="EN">Paradise Island</Name>
+			<Region lang="EN">Paradise Island</Region>
+			<Destination lang="EN">Paradise Island, Paradise Island, Bahamas</Destination>
+		</City>
+		<City id="380">
+			<Name lang="EN">Treasure Cay</Name>
+			<Region lang="EN">Treasure Cay</Region>
+			<Destination lang="EN">Treasure Cay, Treasure Cay, Bahamas</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

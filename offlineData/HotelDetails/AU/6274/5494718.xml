@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494718" resultcode="0" message="" >
+				<Name><![CDATA[CORAL SEA RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  25 Ocean View Avenue,]]></Address1>
+					<Address2><![CDATA[4802, Airlie Beach, Australia]]></Address2>
+					<PostalCode>4802</PostalCode>
+					<CityCode>86148</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Airlie Beach]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-20.263214</Latitude>
+					<Longitude>148.71577</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Vehicle Rental, Tourist Information, Shops, Garage and Business Centre.  Activities and relax: Night time Entertainment, Hairdressers and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Currency Exchange, Vehicle Rental, Tourist Information, Shops, Garage and Business Centre.  Activities and relax: Night time Entertainment, Hairdressers and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Catering Services]]></Name>
+						<Description><![CDATA[Wedding Menu]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8540/32608540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8541/32608541.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8542/32608542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8543/32608543.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8544/32608544.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8545/32608545.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8546/32608546.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8547/32608547.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8548/32608548.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8549/32608549.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 749 466 516]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 749 641 300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332625" resultcode="0" message="" >
+				<Name><![CDATA[KAUYEKEN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta Nacional N 3 Km 3040,]]></Address1>
+					<Address2><![CDATA[V9410NEA, Ushuaia, Argentina]]></Address2>
+					<PostalCode>V9410NEA</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.791508</Latitude>
+					<Longitude>-68.29729</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7294/37097294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7295/37097295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7296/37097296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7297/37097297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7298/37097298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7299/37097299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7300/37097300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7301/37097301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7302/37097302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7287/37097287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7288/37097288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7289/37097289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7290/37097290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7291/37097291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7292/37097292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7293/37097293.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143223888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541191433041 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

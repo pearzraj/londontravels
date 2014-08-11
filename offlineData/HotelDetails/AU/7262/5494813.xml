@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494813" resultcode="0" message="" >
+				<Name><![CDATA[COMFORT INN AND SUITES NORTHGATE AIRPORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  186 Toombul Road Northgate, Brisbane,]]></Address1>
+					<Address2><![CDATA[QLD 4000, Brisbane, Australia]]></Address2>
+					<PostalCode>QLD 4000</PostalCode>
+					<CityCode>81753</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Brisbane]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-27.392775</Latitude>
+					<Longitude>153.07286</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T59000/T59928_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

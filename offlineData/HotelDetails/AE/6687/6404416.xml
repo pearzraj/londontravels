@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404416" resultcode="0" message="" >
+				<Name><![CDATA[CRISTAL SALAM HOTEL ABU DHABI]]></Name>
+				<Address>
+					<Address1><![CDATA[  PO BOX 72898  Abu Dhabi,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.466667</Latitude>
+					<Longitude>54.366665</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18390_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[26520000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

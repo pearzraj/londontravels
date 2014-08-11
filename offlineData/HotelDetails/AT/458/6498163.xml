@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498163" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND APPARTEMENTHOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  HINTSCHIGGASSE 1,]]></Address1>
+					<Address2><![CDATA[01100, Vienna, Austria]]></Address2>
+					<PostalCode>01100</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.158543</Latitude>
+					<Longitude>16.344864</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E09000/E09512_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43 1 661061111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

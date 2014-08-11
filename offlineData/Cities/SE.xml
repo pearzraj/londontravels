@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SE">
+		<City id="22148"> 
+			<Name lang="EN">Arjang</Name>
+			<Region lang="EN">Arjang</Region>
+			<Destination lang="EN">Arjang, Arjang, Sweden</Destination>
+		</City>
+		<City id="36445">
+			<Name lang="EN">Bjorkliden</Name>
+			<Region lang="EN">Bjorkliden</Region>
+			<Destination lang="EN">Bjorkliden, Bjorkliden, Sweden</Destination>
+		</City>
+		<City id="11133">
+			<Name lang="EN">Bollnas</Name>
+			<Region lang="EN">Bollnas</Region>
+			<Destination lang="EN">Bollnas, Bollnas, Sweden</Destination>
+		</City>
+		<City id="18330">
+			<Name lang="EN">Charlottenberg</Name>
+			<Region lang="EN">Charlottenberg</Region>
+			<Destination lang="EN">Charlottenberg, Charlottenberg, Sweden</Destination>
+		</City>
+		<City id="10418">
+			<Name lang="EN">Enkoping</Name>
+			<Region lang="EN">Enkoping</Region>
+			<Destination lang="EN">Enkoping, Enkoping, Sweden</Destination>
+		</City>
+		<City id="8543">
+			<Name lang="EN">Gothenburg</Name>
+			<Region lang="EN">Gothenburg</Region>
+			<Destination lang="EN">Gothenburg, Gothenburg, Sweden</Destination>
+		</City>
+		<City id="9241">
+			<Name lang="EN">Halmstad</Name>
+			<Region lang="EN">Halmstad</Region>
+			<Destination lang="EN">Halmstad, Halmstad, Sweden</Destination>
+		</City>
+		<City id="21209">
+			<Name lang="EN">Haninge</Name>
+			<Region lang="EN">Haninge</Region>
+			<Destination lang="EN">Haninge, Haninge, Sweden</Destination>
+		</City>
+		<City id="22401">
+			<Name lang="EN">Helsingborg</Name>
+			<Region lang="EN">Helsingborg</Region>
+			<Destination lang="EN">Helsingborg, Helsingborg, Sweden</Destination>
+		</City>
+		<City id="26149">
+			<Name lang="EN">Jokkmokk</Name>
+			<Region lang="EN">Jokkmokk</Region>
+			<Destination lang="EN">Jokkmokk, Jokkmokk, Sweden</Destination>
+		</City>
+		<City id="17558">
+			<Name lang="EN">Jonkoping</Name>
+			<Region lang="EN">Jonkoping</Region>
+			<Destination lang="EN">Jonkoping, Jonkoping, Sweden</Destination>
+		</City>
+		<City id="7660">
+			<Name lang="EN">Kalmar</Name>
+			<Region lang="EN">Kalmar</Region>
+			<Destination lang="EN">Kalmar, Kalmar, Sweden</Destination>
+		</City>
+		<City id="9071">
+			<Name lang="EN">Karlskrona</Name>
+			<Region lang="EN">Karlskrona</Region>
+			<Destination lang="EN">Karlskrona, Karlskrona, Sweden</Destination>
+		</City>
+		<City id="29993">
+			<Name lang="EN">Karlstad</Name>
+			<Region lang="EN">Karlstad</Region>
+			<Destination lang="EN">Karlstad, Karlstad, Sweden</Destination>
+		</City>
+		<City id="8662">
+			<Name lang="EN">Kiruna</Name>
+			<Region lang="EN">Kiruna</Region>
+			<Destination lang="EN">Kiruna, Kiruna, Sweden</Destination>
+		</City>
+		<City id="10704">
+			<Name lang="EN">Linkoping</Name>
+			<Region lang="EN">Linkoping</Region>
+			<Destination lang="EN">Linkoping, Linkoping, Sweden</Destination>
+		</City>
+		<City id="20659">
+			<Name lang="EN">Lund</Name>
+			<Region lang="EN">Lund</Region>
+			<Destination lang="EN">Lund, Lund, Sweden</Destination>
+		</City>
+		<City id="12700">
+			<Name lang="EN">Malmo</Name>
+			<Region lang="EN">Malmo</Region>
+			<Destination lang="EN">Malmo, Malmo, Sweden</Destination>
+		</City>
+		<City id="19659">
+			<Name lang="EN">Norrkoping</Name>
+			<Region lang="EN">Norrkoping</Region>
+			<Destination lang="EN">Norrkoping, Norrkoping, Sweden</Destination>
+		</City>
+		<City id="10299">
+			<Name lang="EN">Nykoping</Name>
+			<Region lang="EN">Nykoping</Region>
+			<Destination lang="EN">Nykoping, Nykoping, Sweden</Destination>
+		</City>
+		<City id="27041">
+			<Name lang="EN">Orebro</Name>
+			<Region lang="EN">Orebro</Region>
+			<Destination lang="EN">Orebro, Orebro, Sweden</Destination>
+		</City>
+		<City id="27053">
+			<Name lang="EN">Ostersund</Name>
+			<Region lang="EN">Ostersund</Region>
+			<Destination lang="EN">Ostersund, Ostersund, Sweden</Destination>
+		</City>
+		<City id="5725">
+			<Name lang="EN">Skelleftea</Name>
+			<Region lang="EN">Skelleftea</Region>
+			<Destination lang="EN">Skelleftea, Skelleftea, Sweden</Destination>
+		</City>
+		<City id="28815">
+			<Name lang="EN">Skovde</Name>
+			<Region lang="EN">Skovde</Region>
+			<Destination lang="EN">Skovde, Skovde, Sweden</Destination>
+		</City>
+		<City id="28845">
+			<Name lang="EN">Sodertalje</Name>
+			<Region lang="EN">Sodertalje</Region>
+			<Destination lang="EN">Sodertalje, Sodertalje, Sweden</Destination>
+		</City>
+		<City id="29043">
+			<Name lang="EN">Stockholm</Name>
+			<Region lang="EN">Stockholm</Region>
+			<Destination lang="EN">Stockholm, Stockholm, Sweden</Destination>
+		</City>
+		<City id="29085">
+			<Name lang="EN">Sundsvall</Name>
+			<Region lang="EN">Sundsvall</Region>
+			<Destination lang="EN">Sundsvall, Sundsvall, Sweden</Destination>
+		</City>
+		<City id="30770">
+			<Name lang="EN">Umea</Name>
+			<Region lang="EN">Umea</Region>
+			<Destination lang="EN">Umea, Umea, Sweden</Destination>
+		</City>
+		<City id="2886">
+			<Name lang="EN">Uppsala</Name>
+			<Region lang="EN">Uppsala</Region>
+			<Destination lang="EN">Uppsala, Uppsala, Sweden</Destination>
+		</City>
+		<City id="957">
+			<Name lang="EN">Vanersborg</Name>
+			<Region lang="EN">Vanersborg</Region>
+			<Destination lang="EN">Vanersborg, Vanersborg, Sweden</Destination>
+		</City>
+		<City id="30877">
+			<Name lang="EN">Vasteras</Name>
+			<Region lang="EN">Vasteras</Region>
+			<Destination lang="EN">Vasteras, Vasteras, Sweden</Destination>
+		</City>
+		<City id="30883">
+			<Name lang="EN">Vaxjo</Name>
+			<Region lang="EN">Vaxjo</Region>
+			<Destination lang="EN">Vaxjo, Vaxjo, Sweden</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

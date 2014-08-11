@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495585" resultcode="0" message="" >
+				<Name><![CDATA[ALL YOU NEED HOTEL SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[  Glockengasse, 4b]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.804955</Latitude>
+					<Longitude>13.0519085</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9748/32609748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9749/32609749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9750/32609750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9751/32609751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9752/32609752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9753/32609753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9754/32609754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9755/32609755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9756/32609756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9757/32609757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9758/32609758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9747/32609747.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9759/32609759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9760/32609760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9761/32609761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9762/32609762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9763/32609763.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662875159404]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 662 875159 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

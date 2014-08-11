@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495678" resultcode="0" message="" >
+				<Name><![CDATA[NH WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Mariahilfer Strasse, 32-34]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.200394</Latitude>
+					<Longitude>16.355103</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_1_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9296/37259296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9297/37259297.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43872_1_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9288/37259288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9289/37259289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9290/37259290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9291/37259291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9292/37259292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9293/37259293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9294/37259294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9295/37259295.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4315217215]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[431521720 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

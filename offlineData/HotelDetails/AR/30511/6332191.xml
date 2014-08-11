@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332191" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN ROSARIO]]></Name>
+				<Address>
+					<Address1><![CDATA[   Dorrego 450,]]></Address1>
+					<Address2><![CDATA[2000, Rosario, Argentina]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.93759</Latitude>
+					<Longitude>-60.663944</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4352/37094352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4353/37094353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4354/37094354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4355/37094355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4356/37094356.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4357/37094357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4358/37094358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4359/37094359.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4360/37094360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4361/37094361.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 341 410 0009]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[543414100000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340350" resultcode="0" message="" >
+				<Name><![CDATA[RAMADA INNSBRUCK TIVOLI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Olympiastrasse 41,]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.258904</Latitude>
+					<Longitude>11.410265</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7825/37787825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7826/37787826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7827/37787827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7828/37787828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7829/37787829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7830/37787830.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07515_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 512 890404 3140]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 512 890404 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

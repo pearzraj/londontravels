@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335874" resultcode="0" message="" >
+				<Name><![CDATA[ALMA DEL LAGO]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV BUSTILLO KM 1.15,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.131527</Latitude>
+					<Longitude>-71.3246</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8809/37108809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8810/37108810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8791/37108791.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8792/37108792.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8793/37108793.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8794/37108794.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8795/37108795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8796/37108796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8797/37108797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8798/37108798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8799/37108799.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8800/37108800.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8801/37108801.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8802/37108802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8803/37108803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8804/37108804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8805/37108805.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8806/37108806.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8807/37108807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8808/37108808.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 294 4521500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

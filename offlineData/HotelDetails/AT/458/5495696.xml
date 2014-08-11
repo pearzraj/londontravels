@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495696" resultcode="0" message="" >
+				<Name><![CDATA[HOFFINGER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Schuppengasse,19-21]]></Address1>
+					<Address2><![CDATA[1230, Vienna, Austria]]></Address2>
+					<PostalCode>1230</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.15</Latitude>
+					<Longitude>16.324</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Jacuzzi We also have Vehicle Rental and Safe in Reception.  Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Jacuzzi We also have Vehicle Rental and Safe in Reception.  Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9398/37259398.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9399/37259399.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9400/37259400.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9401/37259401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9402/37259402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9403/37259403.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9404/37259404.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9405/37259405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9406/37259406.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9391/37259391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9392/37259392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9393/37259393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9394/37259394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9395/37259395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9396/37259396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9397/37259397.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431661020 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

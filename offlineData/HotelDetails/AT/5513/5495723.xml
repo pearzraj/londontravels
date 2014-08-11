@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495723" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Auersbergstrasse,4]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.807487</Latitude>
+					<Longitude>13.042029</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Reception personnel will advise customers with tourist information about the area. Piano bar. Health and beauty facilities include Spa. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Tourist Information and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Reception personnel will advise customers with tourist information about the area. Piano bar. Health and beauty facilities include Spa. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Tourist Information and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Piano Bar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9563/37259563.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9564/37259564.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9565/37259565.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9566/37259566.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9567/37259567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9568/37259568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9569/37259569.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9570/37259570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9571/37259571.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9572/37259572.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9573/37259573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9574/37259574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9575/37259575.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9576/37259576.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9577/37259577.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9578/37259578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9579/37259579.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9580/37259580.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9581/37259581.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9582/37259582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9583/37259583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9584/37259584.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06774_12_17.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 881776]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 889990 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

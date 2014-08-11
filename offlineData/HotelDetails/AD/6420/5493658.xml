@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493658" resultcode="0" message="" >
+				<Name><![CDATA[SANT JORDI HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Princep Benlloch,45]]></Address1>
+					<Address2><![CDATA[AD500, Andorra La Vella, Andorra]]></Address2>
+					<PostalCode>AD500</PostalCode>
+					<CityCode>59322</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Andorra La Vella]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.50652</Latitude>
+					<Longitude>1.51844</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The SANT JORDI HOTEL is situated in a central part of ANDORRA LA VELLA, perfect for discovering hidden corners and places with charm. It's30 rooms offer customers a functional and pleasant environment. Ski monitors will advise customers during the courses on offer. Guided tours arranged. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Central Heating, Bathtub and Shower with Curtain , and among our services and facilities available we have . We also have Nearby Parking , Tourist Information and Garage.  Activities and relax: Skiing. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard and Visa.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The SANT JORDI HOTEL is situated in a central part of ANDORRA LA VELLA, perfect for discovering hidden corners and places with charm. It's30 rooms offer customers a functional and pleasant environment. Ski monitors will advise customers during the courses on offer. Guided tours arranged. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Central Heating, Bathtub and Shower with Curtain , and among our services and facilities available we have . We also have Nearby Parking , Tourist Information and Garage.  Activities and relax: Skiing. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Other Facilities]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[TV5]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Skiing]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Snowboard]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Desk]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Facade]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Screen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Tve]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[CNN]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Nearby Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2716/32602716.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2717/32602717.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2718/32602718.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2719/32602719.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2720/32602720.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2721/32602721.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDSAN_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDSAN_12_1.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2722/32602722.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2723/32602723.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2724/32602724.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2725/32602725.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2726/32602726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2727/32602727.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376861414]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376876200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332480" resultcode="0" message="" >
+				<Name><![CDATA[BOCA BY DESIGN SUITES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tacuari 243,]]></Address1>
+					<Address2><![CDATA[1071, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1071</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.610943</Latitude>
+					<Longitude>-58.379105</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6468/37096468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6447/37096447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6448/37096448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6449/37096449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6450/37096450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6451/37096451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6452/37096452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6453/37096453.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6454/37096454.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6455/37096455.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6456/37096456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6457/37096457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6458/37096458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6459/37096459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6460/37096460.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6461/37096461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6462/37096462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6463/37096463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6464/37096464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6465/37096465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6466/37096466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6467/37096467.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5199 7460]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 37 24 0700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494216" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL IMPALA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Libertad 1215,]]></Address1>
+					<Address2><![CDATA[C1012AAY, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1012AAY</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.594173</Latitude>
+					<Longitude>-58.3844</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7395/32607395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7396/32607396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7397/32607397.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7398/32607398.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7399/32607399.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7400/32607400.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7401/32607401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7402/32607402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7403/32607403.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7404/32607404.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7405/32607405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7406/32607406.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7391/32607391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7392/32607392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7393/32607393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7394/32607394.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4816 0430]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 525 46835 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

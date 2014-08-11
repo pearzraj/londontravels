@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493702" resultcode="0" message="" >
+				<Name><![CDATA[KARAMA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o.box 116945 Dubai, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.238379</Latitude>
+					<Longitude>55.30069</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26789_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 334 1661]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 336 6607 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

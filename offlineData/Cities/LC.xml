@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LC">
+		<City id="17259"> 
+			<Name lang="EN">Castries</Name>
+			<Region lang="EN">Castries</Region>
+			<Destination lang="EN">Castries, Castries, St. Lucia</Destination>
+		</City>
+		<City id="19865">
+			<Name lang="EN">Gros Islet</Name>
+			<Region lang="EN">Gros Islet</Region>
+			<Destination lang="EN">Gros Islet, Gros Islet, St. Lucia</Destination>
+		</City>
+		<City id="30622">
+			<Name lang="EN">Saint Lucia</Name>
+			<Region lang="EN">Windward Islands</Region>
+			<Destination lang="EN">Saint Lucia, Windward Islands, St. Lucia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

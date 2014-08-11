@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PY">
+		<City id="15851"> 
+			<Name lang="EN">Asuncion</Name>
+			<Region lang="EN">Asuncion</Region>
+			<Destination lang="EN">Asuncion, Asuncion, Paraguay</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

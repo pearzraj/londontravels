@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495674" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL AM KONZERTHAUS - MGALLERY COLLECTION]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Am Heumarkt,35-37]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.199856</Latitude>
+					<Longitude>16.377241</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Wi-Fi, Safe in Reception, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker, Wi-Fi, Safe in Reception, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9257/37259257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9258/37259258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9259/37259259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9260/37259260.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9261/37259261.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9262/37259262.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9263/37259263.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9264/37259264.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9265/37259265.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9266/37259266.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9267/37259267.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9268/37259268.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9269/37259269.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9270/37259270.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60825_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60825_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60825_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60825_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[004311 43 171616844]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 716160 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

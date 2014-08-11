@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494119" resultcode="0" message="" >
+				<Name><![CDATA[NH JOUSTEN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avda. Corrientes 280,]]></Address1>
+					<Address2><![CDATA[C1043AAP, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1043AAP</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.602764</Latitude>
+					<Longitude>-58.370735</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Currency Exchange. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Currency Exchange and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Currency Exchange. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Currency Exchange and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9875/37679875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9876/37679876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9877/37679877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9878/37679878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9879/37679879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9880/37679880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9857/37679857.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9858/37679858.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9859/37679859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9860/37679860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9861/37679861.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9862/37679862.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9863/37679863.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9864/37679864.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9865/37679865.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9866/37679866.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9867/37679867.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9868/37679868.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9869/37679869.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9870/37679870.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9871/37679871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9872/37679872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9873/37679873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9874/37679874.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4321 6775]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4321 6750 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

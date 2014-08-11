@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BH">
+		<City id="22207"> 
+			<Name lang="EN">Manama</Name>
+			<Region lang="EN">Manama</Region>
+			<Destination lang="EN">Manama, Manama, Bahrain</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494160" resultcode="0" message="" >
+				<Name><![CDATA[EL PORTAL SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Necochea,  661,]]></Address1>
+					<Address2><![CDATA[5500, Mendoza, Argentina]]></Address2>
+					<PostalCode>5500</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.897724</Latitude>
+					<Longitude>-68.82927</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6812/32606812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6813/32606813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6814/32606814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6815/32606815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6816/32606816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6817/32606817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6818/32606818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6807/32606807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6808/32606808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6809/32606809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6810/32606810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6811/32606811.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 114 032 0479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 115 235 7238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

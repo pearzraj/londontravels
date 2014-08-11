@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498844" resultcode="0" message="" >
+				<Name><![CDATA[ZUR TENNE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Vorderstadt Po Box 46,8-10]]></Address1>
+					<Address2><![CDATA[6370, Kitzbuhel, Austria]]></Address2>
+					<PostalCode>6370</PostalCode>
+					<CityCode>64882</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Kitzbuhel]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.44687</Latitude>
+					<Longitude>12.390604</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Luggage compartment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01850_1_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[5356 6480356]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[5356 64444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

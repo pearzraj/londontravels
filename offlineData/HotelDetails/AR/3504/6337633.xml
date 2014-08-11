@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337633" resultcode="0" message="" >
+				<Name><![CDATA[XELENA DELUXE SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dr Rene  Favaloro 3500,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.283634</Latitude>
+					<Longitude>-72.52281</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer and Room-Service Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer and Room-Service Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5581/37155581.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5582/37155582.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42768_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5584/37155584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5585/37155585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5586/37155586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5587/37155587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5588/37155588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5589/37155589.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4393-4322]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00542902496201 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494648" resultcode="0" message="" >
+				<Name><![CDATA[SEBEL LAUNCESTON]]></Name>
+				<Address>
+					<Address1><![CDATA[  Cnr St John and William Streets,]]></Address1>
+					<Address2><![CDATA[Launceston, Australia]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>84460</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Launceston]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.434185</Latitude>
+					<Longitude>147.1359</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8440/32608440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8441/32608441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8442/32608442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8443/32608443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8444/32608444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8445/32608445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8446/32608446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8447/32608447.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 363 337 559]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 363 337 555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

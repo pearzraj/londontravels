@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6501010" resultcode="0" message="" >
+				<Name><![CDATA[HILTON RAS AL KHAIMAH HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Iben Dhaher Street, Al Nakheel Area,]]></Address1>
+					<Address2><![CDATA[Ras Al, Ras Al Khaimah, United Arab Emirates]]></Address2>
+					<PostalCode>Ras Al </PostalCode>
+					<CityCode>87203</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ras Al Khaimah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.793829</Latitude>
+					<Longitude>55.967575</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_33.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_25.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_25.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_33.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_12_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19952_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[01197172288886]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97172288888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

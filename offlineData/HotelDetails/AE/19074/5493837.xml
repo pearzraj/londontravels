@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493837" resultcode="0" message="" >
+				<Name><![CDATA[GRAND HYATT DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o. Box 7978 Dubai, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.228725</Latitude>
+					<Longitude>55.32794</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_15.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3950/32603950.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3951/32603951.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3952/32603952.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3953/32603953.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3936/32603936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3937/32603937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3938/32603938.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3939/32603939.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3940/32603940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3941/32603941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3942/32603942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3943/32603943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3944/32603944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3945/32603945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3946/32603946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3947/32603947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3948/32603948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3949/32603949.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05303_12_12.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 317 1235]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 317 1234 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

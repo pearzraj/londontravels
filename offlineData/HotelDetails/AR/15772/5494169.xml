@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494169" resultcode="0" message="" >
+				<Name><![CDATA[CONDOR SUITES APART HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Leonidas Aguirre 90,]]></Address1>
+					<Address2><![CDATA[5500, Mendoza, Argentina]]></Address2>
+					<PostalCode>5500</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.890976</Latitude>
+					<Longitude>-68.828316</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6883/32606883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6884/32606884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6885/32606885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6886/32606886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6887/32606887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6888/32606888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6889/32606889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6890/32606890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6868/32606868.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6869/32606869.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6870/32606870.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6871/32606871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6872/32606872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6873/32606873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6874/32606874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6875/32606875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6876/32606876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6877/32606877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6878/32606878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6865/32606865.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6866/32606866.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6867/32606867.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6879/32606879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6880/32606880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6881/32606881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6882/32606882.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 0261 4054440]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 0261 4054440 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

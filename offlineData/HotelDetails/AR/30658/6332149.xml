@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332149" resultcode="0" message="" >
+				<Name><![CDATA[HOSTEL INN BARILOCHE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salta 308,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.142776</Latitude>
+					<Longitude>-71.31186</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4029/37094029.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4030/37094030.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4031/37094031.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4032/37094032.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4033/37094033.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4034/37094034.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 43007993]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 029 444 26084 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

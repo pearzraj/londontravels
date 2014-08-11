@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332885" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA CHALP]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenue Alem 1839,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.80607</Latitude>
+					<Longitude>-68.32846</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8960/37098960.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8961/37098961.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8962/37098962.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8963/37098963.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8964/37098964.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8965/37098965.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2901 434136]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2901 434011 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

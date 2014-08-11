@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KE">
+		<City id="12698"> 
+			<Name lang="EN">Malindi</Name>
+			<Region lang="EN">Malindi</Region>
+			<Destination lang="EN">Malindi, Malindi, Kenya</Destination>
+		</City>
+		<City id="18228">
+			<Name lang="EN">Mombasa</Name>
+			<Region lang="EN">Mombasa</Region>
+			<Destination lang="EN">Mombasa, Mombasa, Kenya</Destination>
+		</City>
+		<City id="17938">
+			<Name lang="EN">Nairobi</Name>
+			<Region lang="EN">Nairobi</Region>
+			<Destination lang="EN">Nairobi, Nairobi, Kenya</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494327" resultcode="0" message="" >
+				<Name><![CDATA[AARONS PERTH HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  70 Pier Street,]]></Address1>
+					<Address2><![CDATA[WA6000, Perth, Australia]]></Address2>
+					<PostalCode>WA6000</PostalCode>
+					<CityCode>84456</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Perth]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.954433</Latitude>
+					<Longitude>115.86288</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7910/32607910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7911/32607911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7912/32607912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7913/32607913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7914/32607914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7915/32607915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7916/32607916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7917/32607917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7918/32607918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7909/32607909.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 8 9221 2936]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 8 9325 2133 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

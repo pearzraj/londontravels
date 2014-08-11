@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498068" resultcode="0" message="" >
+				<Name><![CDATA[ATLANTA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Währingerstrasse,33]]></Address1>
+					<Address2><![CDATA[1090, Vienna, Austria]]></Address2>
+					<PostalCode>1090</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48</Latitude>
+					<Longitude>16</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car the external car park. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car the external car park. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_11_1.gif</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43837_1_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4314055375]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[4314051239 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

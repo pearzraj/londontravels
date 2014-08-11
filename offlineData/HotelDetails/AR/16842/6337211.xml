@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337211" resultcode="0" message="" >
+				<Name><![CDATA[ESTANCIA SAN PEDRO VIEJO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta Provincial 18 S/N. Camino Real.,]]></Address1>
+					<Address2><![CDATA[5220, Cordoba, Argentina]]></Address2>
+					<PostalCode>5220</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.4035</Latitude>
+					<Longitude>-64.18575</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Garage.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7507/37147507.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7508/37147508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7509/37147509.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7510/37147510.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7511/37147511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7512/37147512.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 93521431797]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 93521431797 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

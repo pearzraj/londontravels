@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340170" resultcode="0" message="" >
+				<Name><![CDATA[DIVI VILLAGE GOLF AND BEACH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.E. Irausquin Boulevard 93,]]></Address1>
+					<Address2><![CDATA[1, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.53709</Latitude>
+					<Longitude>-70.058205</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9304/37159304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9305/37159305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9306/37159306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9307/37159307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9308/37159308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9309/37159309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9310/37159310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9299/37159299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9300/37159300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9301/37159301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9302/37159302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9303/37159303.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 582 0501 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 583 5000]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

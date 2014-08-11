@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="QA">
+		<City id="19055"> 
+			<Name lang="EN">Doha</Name>
+			<Region lang="EN">Doha</Region>
+			<Destination lang="EN">Doha, Doha, Qatar</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

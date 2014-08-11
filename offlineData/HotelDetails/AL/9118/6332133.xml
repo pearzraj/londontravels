@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332133" resultcode="0" message="" >
+				<Name><![CDATA[ARVI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rruga Taulantia, Durres, Albania,]]></Address1>
+					<Address2><![CDATA[., Durres, Albania]]></Address2>
+					<PostalCode>.</PostalCode>
+					<CityCode>64797</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Durres]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.31053</Latitude>
+					<Longitude>19.4434</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[0.00]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car the external car park. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car the external car park. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer, Minibar, Radio and Safe  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7072/37737072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7073/37737073.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02362_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02362_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[35542269053 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341524" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL TUDEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  PZA COPRÍNCEPS, 8,]]></Address1>
+					<Address2><![CDATA[AD700, Escaldes-Engordany, Andorra]]></Address2>
+					<PostalCode>AD700</PostalCode>
+					<CityCode>59325</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Escaldes-Engordany]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.509216</Latitude>
+					<Longitude>1.539309</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Wi-Fi and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Wi-Fi and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7970/37127970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7971/37127971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7972/37127972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7973/37127973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7974/37127974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7975/37127975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7965/37127965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7966/37127966.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7967/37127967.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7968/37127968.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7969/37127969.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376820563 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

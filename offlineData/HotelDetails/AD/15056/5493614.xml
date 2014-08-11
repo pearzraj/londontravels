@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493614" resultcode="0" message="" >
+				<Name><![CDATA[SOMRIU HOTEL ANTIC]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General D'Ordino-Arcalis,]]></Address1>
+					<Address2><![CDATA[AD300, La Cortinada, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>82466</CityCode>
+					<CityName lang="EN">
+						<![CDATA[La Cortinada]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.58185</Latitude>
+					<Longitude>1.5189</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the SOMRIU HOTEL ANTIC, guests can enjoy a few days chilling out, surrounded by a harmonious combination of tradition and comfort. It's rooms offer customers a functional and pleasant environment. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the SOMRIU HOTEL ANTIC, guests can enjoy a few days chilling out, surrounded by a harmonious combination of tradition and comfort. It's rooms offer customers a functional and pleasant environment. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376850788]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376850988 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

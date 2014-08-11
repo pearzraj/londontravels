@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495596" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN VIENNA CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Margaretenstrasse, 53]]></Address1>
+					<Address2><![CDATA[1050, Vienna, Austria]]></Address2>
+					<PostalCode>1050</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.193596</Latitude>
+					<Longitude>16.361542</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Free daily newspapers available. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Free daily newspapers available. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9829/32609829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9830/32609830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9831/32609831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9822/32609822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9823/32609823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9824/32609824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9825/32609825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9826/32609826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9827/32609827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9828/32609828.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05903_12_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 58850 899]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 58850 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493750" resultcode="0" message="" >
+				<Name><![CDATA[AL SHARQ HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Ghuwair St., Rolla Square,10]]></Address1>
+					<Address2><![CDATA[20201, Sharjah, United Arab Emirates]]></Address2>
+					<PostalCode>20201</PostalCode>
+					<CityCode>78899</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sharjah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.349722</Latitude>
+					<Longitude>55.36639</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. The following services are offered Currency Exchange and Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. The following services are offered Currency Exchange and Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3411/32603411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3412/32603412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3413/32603413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3414/32603414.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3415/32603415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3416/32603416.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3417/32603417.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3418/32603418.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3419/32603419.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3420/32603420.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09785_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09785_1_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097165620011]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097165620000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

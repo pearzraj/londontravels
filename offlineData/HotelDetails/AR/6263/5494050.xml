@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494050" resultcode="0" message="" >
+				<Name><![CDATA[MANSION DANDI ROYAL TANGO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piedras 922/936, ]]></Address1>
+					<Address2><![CDATA[C1070AAT, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1070AAT</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.618786</Latitude>
+					<Longitude>-58.377296</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4437/37674437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4438/37674438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4439/37674439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4440/37674440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4441/37674441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4442/37674442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4443/37674443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4444/37674444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4433/37674433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4434/37674434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4435/37674435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4436/37674436.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5411 43616021]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[005411 43077623 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

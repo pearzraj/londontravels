@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495687" resultcode="0" message="" >
+				<Name><![CDATA[ROMANTIK POST]]></Name>
+				<Address>
+					<Address1><![CDATA[   Hauptplatz, 26]]></Address1>
+					<Address2><![CDATA[9500, Villach, Austria]]></Address2>
+					<PostalCode>9500</PostalCode>
+					<CityCode>64917</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Villach]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>46.613647</Latitude>
+					<Longitude>13.846228</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9317/37259317.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05301_1_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043424226101420]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00434242261010 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

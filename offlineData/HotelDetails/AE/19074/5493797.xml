@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493797" resultcode="0" message="" >
+				<Name><![CDATA[IBIS WORLD TRADE CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road Dubai Po Box 9544,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.22288</Latitude>
+					<Longitude>55.285908</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3711/32603711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3712/32603712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3713/32603713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3714/32603714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3715/32603715.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3716/32603716.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3717/32603717.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3718/32603718.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3704/32603704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3705/32603705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3706/32603706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3707/32603707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3708/32603708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3709/32603709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3710/32603710.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26862_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 318 7100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 318 7000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

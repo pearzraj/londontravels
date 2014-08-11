@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340904" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE EXECUTIVE CENTRAL]]></Name>
+				<Address>
+					<Address1><![CDATA[   Diagonal Roque Saenz Peña 1174,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.602615</Latitude>
+					<Longitude>-58.383152</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3212/37303212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3213/37303213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3214/37303214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3215/37303215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3216/37303216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3217/37303217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3218/37303218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3219/37303219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3220/37303220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3221/37303221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3222/37303222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3223/37303223.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3224/37303224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3225/37303225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3226/37303226.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3227/37303227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3228/37303228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3229/37303229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3230/37303230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3231/37303231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3245/37303245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3246/37303246.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541167770330]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541167770300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

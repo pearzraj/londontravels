@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495619" resultcode="0" message="" >
+				<Name><![CDATA[ART HOTEL VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Brandmayergesse 7-9,]]></Address1>
+					<Address2><![CDATA[1050, Vienna, Austria]]></Address2>
+					<PostalCode>1050</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.185078</Latitude>
+					<Longitude>16.352158</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9989/32609989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9990/32609990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9991/32609991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9992/32609992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9993/32609993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9994/32609994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9985/32609985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9986/32609986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9987/32609987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9988/32609988.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10448_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10448_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 544510810]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 5445108 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493708" resultcode="0" message="" >
+				<Name><![CDATA[COUNTRY CLUB HOTEL BUR DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Behind New Gold Souk - Port Rashid Road,]]></Address1>
+					<Address2><![CDATA[118094, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>118094</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.249083</Latitude>
+					<Longitude>55.283176</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We have Babysitting Service for children. Health and beauty facilities include Sauna and Jacuzzi. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Shops, Safe in Reception and Garage.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Babysitting Service for children. Health and beauty facilities include Sauna and Jacuzzi. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Shops, Safe in Reception and Garage.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3147/32603147.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3148/32603148.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3149/32603149.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3150/32603150.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09749_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09749_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3143/32603143.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3144/32603144.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3145/32603145.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3146/32603146.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 398 5352]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143988840 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

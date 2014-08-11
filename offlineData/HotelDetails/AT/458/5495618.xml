@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495618" resultcode="0" message="" >
+				<Name><![CDATA[MOZART HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Julius-Tandler-Platz,4]]></Address1>
+					<Address2><![CDATA[1090, Vienna, Austria]]></Address2>
+					<PostalCode>1090</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.226418</Latitude>
+					<Longitude>16.362513</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Radio and Shower with Curtain  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Radio and Shower with Curtain  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_1_5.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9977/32609977.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9978/32609978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9979/32609979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9980/32609980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9981/32609981.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9982/32609982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9983/32609983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9984/32609984.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43784_1_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1317 2477]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1317 1537 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

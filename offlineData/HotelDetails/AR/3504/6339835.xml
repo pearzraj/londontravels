@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339835" resultcode="0" message="" >
+				<Name><![CDATA[APART HOTEL LIBERTADOR]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Libertador 1150,]]></Address1>
+					<Address2><![CDATA[Z9405AHW, El Calafate, Argentina]]></Address2>
+					<PostalCode>Z9405AHW</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.34457</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Kettle]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2854/37152854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2855/37152855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2856/37152856.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2857/37152857.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2858/37152858.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2859/37152859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2860/37152860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2861/37152861.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2862/37152862.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2863/37152863.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5235 7238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

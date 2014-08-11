@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495739" resultcode="0" message="" >
+				<Name><![CDATA[NH VIENNA AIRPORT HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hotelstrasse,1]]></Address1>
+					<Address2><![CDATA[1300, Vienna, Austria]]></Address2>
+					<PostalCode>1300</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.121525</Latitude>
+					<Longitude>16.561552</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Wi-Fi, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Wi-Fi, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Library]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9738/37259738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9739/37259739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9740/37259740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9741/37259741.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9727/37259727.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9728/37259728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9729/37259729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9730/37259730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9731/37259731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9732/37259732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9733/37259733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9734/37259734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9735/37259735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9736/37259736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9737/37259737.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04045_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04045_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04045_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 701519571]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 701510]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

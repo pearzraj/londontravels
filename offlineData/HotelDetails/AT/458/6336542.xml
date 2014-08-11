@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336542" resultcode="0" message="" >
+				<Name><![CDATA[GRAF STADION]]></Name>
+				<Address>
+					<Address1><![CDATA[  Buchfeldgasse 5,]]></Address1>
+					<Address2><![CDATA[A1080, Vienna, Austria]]></Address2>
+					<PostalCode>A1080</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.209885</Latitude>
+					<Longitude>16.353523</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Vehicle Rental, Safe in Reception and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Vehicle Rental, Safe in Reception and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9085/37779085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9086/37779086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9067/37779067.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9068/37779068.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9069/37779069.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9070/37779070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9071/37779071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9072/37779072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9073/37779073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9074/37779074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9075/37779075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9076/37779076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9077/37779077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9078/37779078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9079/37779079.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9080/37779080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9081/37779081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9082/37779082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9083/37779083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9084/37779084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9065/37779065.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9066/37779066.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 4055 284 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493965" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN CORDOBA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Fray Luis Beltran y Cardenosa; CENTRO COMERCIAL L,]]></Address1>
+					<Address2><![CDATA[5008, Cordoba, Argentina]]></Address2>
+					<PostalCode>5008</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.4035</Latitude>
+					<Longitude>-64.18575</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4972/32604972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4973/32604973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4974/32604974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4955/32604955.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4956/32604956.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4957/32604957.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4958/32604958.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4959/32604959.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4960/32604960.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4961/32604961.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4962/32604962.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4963/32604963.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4964/32604964.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4965/32604965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4966/32604966.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4967/32604967.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4968/32604968.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4969/32604969.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4970/32604970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4971/32604971.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 351 477 9101]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 351 477 9100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

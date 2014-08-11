@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341256" resultcode="0" message="" >
+				<Name><![CDATA[STEIGENBERGER HOTEL AND SPA KREMS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Am Goldberg 2,]]></Address1>
+					<Address2><![CDATA[3500, Krems, Austria]]></Address2>
+					<PostalCode>3500</PostalCode>
+					<CityCode>64884</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Krems]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.409332</Latitude>
+					<Longitude>15.581671</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07517_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4327327101050]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 2732 71010 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

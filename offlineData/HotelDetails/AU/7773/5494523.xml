@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494523" resultcode="0" message="" >
+				<Name><![CDATA[AGINCOURT BEACHFRONT APARTMENTS]]></Name>
+				<Address>
+					<Address1><![CDATA[  69-73 Arlington Esplanade,]]></Address1>
+					<Address2><![CDATA[4879, Cairns, Australia]]></Address2>
+					<PostalCode>4879</PostalCode>
+					<CityCode>81791</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cairns]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.76901</Latitude>
+					<Longitude>145.67792</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8255/32608255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8256/32608256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8257/32608257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8258/32608258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8259/32608259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8260/32608260.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8261/32608261.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8262/32608262.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 740 553 628]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 740 553 500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

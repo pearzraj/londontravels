@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493898" resultcode="0" message="" >
+				<Name><![CDATA[MERIT GRAN HOTEL VICTORIA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Peatonal 25 de Mayo 240,]]></Address1>
+					<Address2><![CDATA[5000, Cordoba, Argentina]]></Address2>
+					<PostalCode>5000</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.415783</Latitude>
+					<Longitude>-64.180405</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4357/32604357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4358/32604358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4359/32604359.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4360/32604360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4361/32604361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4362/32604362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4363/32604363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4364/32604364.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 03514 290 8984 40]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 0351 4290 898 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495699" resultcode="0" message="" >
+				<Name><![CDATA[ALEXANDER HOTEL WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Augasse 15,]]></Address1>
+					<Address2><![CDATA[1090, Vienna, Austria]]></Address2>
+					<PostalCode>1090</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.23136</Latitude>
+					<Longitude>16.357204</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9425/37259425.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9426/37259426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9427/37259427.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9428/37259428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9429/37259429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9430/37259430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9431/37259431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9432/37259432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9433/37259433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9434/37259434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9435/37259435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9436/37259436.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43740_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431317150882]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[004313171508 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

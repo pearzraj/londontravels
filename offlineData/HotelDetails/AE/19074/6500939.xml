@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6500939" resultcode="0" message="" >
+				<Name><![CDATA[ASCOTT PARK PLACE DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.224033</Latitude>
+					<Longitude>55.282837</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The ASCOTT PARK PLACE DUBAI in DUBAI offers a comfortable setting, always aimed at customer satisfaction.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The ASCOTT PARK PLACE DUBAI in DUBAI offers a comfortable setting, always aimed at customer satisfaction.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13306_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 329 79 98]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 310 85 55 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

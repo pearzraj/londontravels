@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495705" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL DAS WEITZER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Grieskai 12-14,]]></Address1>
+					<Address2><![CDATA[8020, Graz, Austria]]></Address2>
+					<PostalCode>8020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.069374</Latitude>
+					<Longitude>15.434391</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9440/37259440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9441/37259441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9442/37259442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9443/37259443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9444/37259444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9445/37259445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9446/37259446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9447/37259447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9448/37259448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9449/37259449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9450/37259450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9451/37259451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9452/37259452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9453/37259453.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05921_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9439/37259439.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 316 703 88]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 316 7030 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

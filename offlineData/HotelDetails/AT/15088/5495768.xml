@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495768" resultcode="0" message="" >
+				<Name><![CDATA[SAILER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Adamgasse, 8]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.263557</Latitude>
+					<Longitude>11.397951</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  and Room-Service We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  and Room-Service We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4039/37664039.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4040/37664040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4041/37664041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4042/37664042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4043/37664043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4044/37664044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4045/37664045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4046/37664046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4047/37664047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4048/37664048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4049/37664049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4050/37664050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4051/37664051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4052/37664052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4053/37664053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4054/37664054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4055/37664055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4056/37664056.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43849_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43849_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43849_1_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43-512-53637]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-512-5363 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

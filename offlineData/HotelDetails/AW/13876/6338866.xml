@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338866" resultcode="0" message="" >
+				<Name><![CDATA[AMSTERDAM MANOR BEACH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.E. Irausquin Boulevard 252 / P.O. Box 1302,]]></Address1>
+					<Address2><![CDATA[1, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.525072</Latitude>
+					<Longitude>-70.030975</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and 1 We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and 1 We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8764/37128764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8765/37128765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8766/37128766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8767/37128767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8768/37128768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8769/37128769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8770/37128770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8771/37128771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8772/37128772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8773/37128773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8774/37128774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8775/37128775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8776/37128776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8777/37128777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8778/37128778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8779/37128779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8780/37128780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8781/37128781.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 527 1112]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 527 1100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

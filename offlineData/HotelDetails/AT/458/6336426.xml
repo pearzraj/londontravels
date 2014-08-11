@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336426" resultcode="0" message="" >
+				<Name><![CDATA[DELTA HOTEL VIENA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sonnwendgasse,8]]></Address1>
+					<Address2><![CDATA[1100, Vienna, Austria]]></Address2>
+					<PostalCode>1100</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.183422</Latitude>
+					<Longitude>16.376337</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3688/37123688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3689/37123689.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3690/37123690.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3691/37123691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3692/37123692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3693/37123693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3694/37123694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3695/37123695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3696/37123696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3697/37123697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3698/37123698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3685/37123685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3686/37123686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3687/37123687.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4319616400950]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 19616400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

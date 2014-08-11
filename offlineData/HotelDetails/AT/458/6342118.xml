@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342118" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND HOTEL RATHAUSPARK]]></Name>
+				<Address>
+					<Address1><![CDATA[   Rathausstrasse,17]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.213413</Latitude>
+					<Longitude>16.356905</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4057/37144057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4058/37144058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4059/37144059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4060/37144060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4043/37144043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4044/37144044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4045/37144045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4046/37144046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4047/37144047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4048/37144048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4049/37144049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4050/37144050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4051/37144051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4052/37144052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4053/37144053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4054/37144054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4055/37144055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4056/37144056.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03484_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03484_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03484_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03484_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 40412761]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 (1) 40 412 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

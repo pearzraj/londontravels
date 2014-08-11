@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495737" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND HOTEL LASSALLE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Engerthstrasse, 173 - 175]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.22722</Latitude>
+					<Longitude>16.39998</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43842_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9709/37259709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9710/37259710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9711/37259711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9712/37259712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9713/37259713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9700/37259700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9701/37259701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9702/37259702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9703/37259703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9704/37259704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9705/37259705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9706/37259706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9707/37259707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9708/37259708.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43121315100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 2131515 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

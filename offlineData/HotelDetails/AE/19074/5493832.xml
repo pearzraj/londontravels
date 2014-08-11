@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493832" resultcode="0" message="" >
+				<Name><![CDATA[PALACE THE OLD TOWN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  The Old Town Island Downtown Burj Dubai,]]></Address1>
+					<Address2><![CDATA[9770, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>9770</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Car parker, Wi-Fi and Garage.  Activities and relax: Jacuzzi, Sauna, Hammam and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Hammam, Jacuzzi and Massages. Fitted with Wi-Fi Internet access. Pool bar. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Hammam, Jacuzzi and Massages. Fitted with Wi-Fi Internet access. Pool bar. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service, 1 and Room-Service We also have Car parker, Wi-Fi and Garage.  Activities and relax: Jacuzzi, Sauna, Hammam and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hammam]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Catering Services]]></Name>
+						<Description><![CDATA[Wedding Menu]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3915/32603915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3904/32603904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3905/32603905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3906/32603906.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3907/32603907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3908/32603908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3909/32603909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3910/32603910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3911/32603911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3912/32603912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3913/32603913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3914/32603914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3900/32603900.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3901/32603901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3902/32603902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3903/32603903.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09757_1_11.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 4 428 7999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 4 428 7888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493877" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON DUBAI CREEK HOTEL AND TOWERS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Baniyas 35 Street/Creek Road, P.O. Box 4250,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.241396</Latitude>
+					<Longitude>55.365707</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Jacuzzi and Massages. The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Vehicle Rental and Business Centre.  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Jacuzzi and Massages. The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Vehicle Rental and Business Centre.  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4186/32604186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4187/32604187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4188/32604188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4189/32604189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4180/32604180.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4181/32604181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4182/32604182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4183/32604183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4184/32604184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4185/32604185.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03227_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03227_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03227_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03227_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097112243468]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142281111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

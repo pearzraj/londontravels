@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331593" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND BOCK]]></Name>
+				<Address>
+					<Address1><![CDATA[  Wiener Strasse, 196]]></Address1>
+					<Address2><![CDATA[02345, Brunn Am Gebirge, Austria]]></Address2>
+					<PostalCode>02345</PostalCode>
+					<CityCode>65265</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Brunn Am Gebirge]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.11358</Latitude>
+					<Longitude>16.308968</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6444/37296444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6445/37296445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6446/37296446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6447/37296447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6431/37296431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6432/37296432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6433/37296433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6434/37296434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6435/37296435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6436/37296436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6437/37296437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6438/37296438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6442/37296442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6443/37296443.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 (2236) 313 14-555]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 (2236) 313 13-0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

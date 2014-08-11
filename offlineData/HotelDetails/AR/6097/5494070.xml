@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494070" resultcode="0" message="" >
+				<Name><![CDATA[HOWARD JOHNSON PLAZA JUJUY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Guemes 864,]]></Address1>
+					<Address2><![CDATA[4600, San Salvador De Jujuy, Argentina]]></Address2>
+					<PostalCode>4600</PostalCode>
+					<CityCode>83355</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Salvador De Jujuy]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-24.183025</Latitude>
+					<Longitude>-65.30516</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4658/37674658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4659/37674659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4660/37674660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4661/37674661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4662/37674662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4655/37674655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4656/37674656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4657/37674657.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495749" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE SALZBURG CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Bayerhamerstrasse, 14a]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.809776</Latitude>
+					<Longitude>13.050975</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9758/37259758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9759/37259759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9760/37259760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9761/37259761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9762/37259762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9763/37259763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9764/37259764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9765/37259765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9766/37259766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9767/37259767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9768/37259768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9752/37259752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9753/37259753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9754/37259754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9755/37259755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9756/37259756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9757/37259757.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01009_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01009_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01009_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01009_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0011 43 662 871 111 411]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0011 43 62 881 4380 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

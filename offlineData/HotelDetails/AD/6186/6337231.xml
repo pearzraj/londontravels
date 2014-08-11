@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337231" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL POL]]></Name>
+				<Address>
+					<Address1><![CDATA[  VERGE DE CANOLICH, 52,]]></Address1>
+					<Address2><![CDATA[AD600, Sant Julia De Loria, Andorra]]></Address2>
+					<PostalCode>AD600</PostalCode>
+					<CityCode>59328</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sant Julia De Loria]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.465496</Latitude>
+					<Longitude>1.491555</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7656/37147656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7657/37147657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7658/37147658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7659/37147659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7660/37147660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7661/37147661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7662/37147662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7663/37147663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7664/37147664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7665/37147665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7666/37147666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7649/37147649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7650/37147650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7651/37147651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7652/37147652.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7653/37147653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7654/37147654.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7655/37147655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7667/37147667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7668/37147668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7669/37147669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7670/37147670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7671/37147671.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376841122 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

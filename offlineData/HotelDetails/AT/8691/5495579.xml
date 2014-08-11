@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495579" resultcode="0" message="" >
+				<Name><![CDATA[SANDWIRT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Penhartgasse,9]]></Address1>
+					<Address2><![CDATA[9020, Klagenfurt, Austria]]></Address2>
+					<PostalCode>9020</PostalCode>
+					<CityCode>64883</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Klagenfurt]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>46.62361</Latitude>
+					<Longitude>14.30467</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60864_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 463 514322]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 463 56209 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495676" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA SALZBURG THE PITTER]]></Name>
+				<Address>
+					<Address1><![CDATA[   Rainerstr., 6-8]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.807823</Latitude>
+					<Longitude>13.04195</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01584_12_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662 878893]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 889 78 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

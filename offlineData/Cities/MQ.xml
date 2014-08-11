@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MQ">
+		<City id="491"> 
+			<Name lang="EN">Sainte Luce</Name>
+			<Region lang="EN">Sainte Luce</Region>
+			<Destination lang="EN">Sainte Luce, Sainte Luce, Martinique</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

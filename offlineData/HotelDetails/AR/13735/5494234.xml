@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494234" resultcode="0" message="" >
+				<Name><![CDATA[IRUNA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Juan Bautista Alberdi 2270,]]></Address1>
+					<Address2><![CDATA[B7600GYB, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>B7600GYB</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.994865</Latitude>
+					<Longitude>-57.5669</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7525/32607525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7526/32607526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7527/32607527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7528/32607528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7529/32607529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7530/32607530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7531/32607531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7532/32607532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7533/32607533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7534/32607534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7535/32607535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7536/32607536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7537/32607537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7538/32607538.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542234911991]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542234911060 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

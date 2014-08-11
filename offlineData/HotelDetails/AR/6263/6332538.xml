@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332538" resultcode="0" message="" >
+				<Name><![CDATA[EMPERADOR]]></Name>
+				<Address>
+					<Address1><![CDATA[   Av Libertador 420,]]></Address1>
+					<Address2><![CDATA[C1001ABR, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1001ABR</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.589996</Latitude>
+					<Longitude>-58.379616</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, 24/24 Room-Service  and Laundry Service We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, 24/24 Room-Service  and Laundry Service We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42665_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6802/37096802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6803/37096803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6804/37096804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6805/37096805.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6797/37096797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6798/37096798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6799/37096799.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6800/37096800.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541141313910]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541141314000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337420" resultcode="0" message="" >
+				<Name><![CDATA[DOLLINGER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dollinger 37, ]]></Address1>
+					<Address2><![CDATA[6464, Imst, Austria]]></Address2>
+					<PostalCode>6464</PostalCode>
+					<CityCode>65025</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Imst]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.278004</Latitude>
+					<Longitude>10.794484</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07514_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 5412 64686]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 5412 64686 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

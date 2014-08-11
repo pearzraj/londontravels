@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495564" resultcode="0" message="" >
+				<Name><![CDATA[HILTON VIENNA DANUBE ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Handelskai, 269]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.214096</Latitude>
+					<Longitude>16.421074</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9678/32609678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9679/32609679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9680/32609680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9681/32609681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9682/32609682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9683/32609683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9684/32609684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9685/32609685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9686/32609686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9687/32609687.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9688/32609688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9689/32609689.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_40.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_39.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_29.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_47.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_29.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_47.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_40.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_1_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05510_12_39.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 7277 782200 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-1-727770 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

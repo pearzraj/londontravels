@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IE">
+		<City id="32300"> 
+			<Name lang="EN">Ballina</Name>
+			<Region lang="EN">Ballina</Region>
+			<Destination lang="EN">Ballina, Ballina, Ireland</Destination>
+		</City>
+		<City id="32302">
+			<Name lang="EN">Ballinasloe</Name>
+			<Region lang="EN">Ballinasloe</Region>
+			<Destination lang="EN">Ballinasloe, Ballinasloe, Ireland</Destination>
+		</City>
+		<City id="13489">
+			<Name lang="EN">Ballincollig</Name>
+			<Region lang="EN">Ballincollig</Region>
+			<Destination lang="EN">Ballincollig, Ballincollig, Ireland</Destination>
+		</City>
+		<City id="35633">
+			<Name lang="EN">Clare Island</Name>
+			<Region lang="EN">Clare Island</Region>
+			<Destination lang="EN">Clare Island, Clare Island, Ireland</Destination>
+		</City>
+		<City id="19990">
+			<Name lang="EN">Claremorris</Name>
+			<Region lang="EN">Claremorris</Region>
+			<Destination lang="EN">Claremorris, Claremorris, Ireland</Destination>
+		</City>
+		<City id="21108">
+			<Name lang="EN">Cong</Name>
+			<Region lang="EN">Cong</Region>
+			<Destination lang="EN">Cong, Cong, Ireland</Destination>
+		</City>
+		<City id="7389">
+			<Name lang="EN">Cork</Name>
+			<Region lang="EN">Cork</Region>
+			<Destination lang="EN">Cork, Cork, Ireland</Destination>
+		</City>
+		<City id="23928">
+			<Name lang="EN">Dingle</Name>
+			<Region lang="EN">Dingle</Region>
+			<Destination lang="EN">Dingle, Dingle, Ireland</Destination>
+		</City>
+		<City id="19063">
+			<Name lang="EN">Donegal</Name>
+			<Region lang="EN">Donegal</Region>
+			<Destination lang="EN">Donegal, Donegal, Ireland</Destination>
+		</City>
+		<City id="19077">
+			<Name lang="EN">Dublin</Name>
+			<Region lang="EN">Dublin</Region>
+			<Destination lang="EN">Dublin, Dublin, Ireland</Destination>
+		</City>
+		<City id="8797">
+			<Name lang="EN">Dundalk</Name>
+			<Region lang="EN">Dundalk</Region>
+			<Destination lang="EN">Dundalk, Dundalk, Ireland</Destination>
+		</City>
+		<City id="10420">
+			<Name lang="EN">Ennis</Name>
+			<Region lang="EN">Ennis</Region>
+			<Destination lang="EN">Ennis, Ennis, Ireland</Destination>
+		</City>
+		<City id="10423">
+			<Name lang="EN">Enniskerry</Name>
+			<Region lang="EN">Enniskerry</Region>
+			<Destination lang="EN">Enniskerry, Enniskerry, Ireland</Destination>
+		</City>
+		<City id="10968">
+			<Name lang="EN">Galway</Name>
+			<Region lang="EN">Galway</Region>
+			<Destination lang="EN">Galway, Galway, Ireland</Destination>
+		</City>
+		<City id="8115">
+			<Name lang="EN">Kerry County</Name>
+			<Region lang="EN">Kerry County</Region>
+			<Destination lang="EN">Kerry County, Kerry County, Ireland</Destination>
+		</City>
+		<City id="10203">
+			<Name lang="EN">Kildare</Name>
+			<Region lang="EN">Kildare</Region>
+			<Destination lang="EN">Kildare, Kildare, Ireland</Destination>
+		</City>
+		<City id="30029">
+			<Name lang="EN">Kilkenny</Name>
+			<Region lang="EN">Kilkenny</Region>
+			<Destination lang="EN">Kilkenny, Kilkenny, Ireland</Destination>
+		</City>
+		<City id="10213">
+			<Name lang="EN">Killarney</Name>
+			<Region lang="EN">Killarney</Region>
+			<Destination lang="EN">Killarney, Killarney, Ireland</Destination>
+		</City>
+		<City id="10236">
+			<Name lang="EN">Kingscourt</Name>
+			<Region lang="EN">Kingscourt</Region>
+			<Destination lang="EN">Kingscourt, Kingscourt, Ireland</Destination>
+		</City>
+		<City id="10251">
+			<Name lang="EN">Kinsale</Name>
+			<Region lang="EN">Kinsale</Region>
+			<Destination lang="EN">Kinsale, Kinsale, Ireland</Destination>
+		</City>
+		<City id="17849">
+			<Name lang="EN">Leitrim Village</Name>
+			<Region lang="EN">Leitrim Village</Region>
+			<Destination lang="EN">Leitrim Village, Leitrim Village, Ireland</Destination>
+		</City>
+		<City id="10652">
+			<Name lang="EN">Letterkenny</Name>
+			<Region lang="EN">Letterkenny</Region>
+			<Destination lang="EN">Letterkenny, Letterkenny, Ireland</Destination>
+		</City>
+		<City id="19515">
+			<Name lang="EN">Limerick</Name>
+			<Region lang="EN">Limerick</Region>
+			<Destination lang="EN">Limerick, Limerick, Ireland</Destination>
+		</City>
+		<City id="19551">
+			<Name lang="EN">Lisdoonvarna</Name>
+			<Region lang="EN">Lisdoonvarna</Region>
+			<Destination lang="EN">Lisdoonvarna, Lisdoonvarna, Ireland</Destination>
+		</City>
+		<City id="23726">
+			<Name lang="EN">Mayo</Name>
+			<Region lang="EN">Mayo</Region>
+			<Destination lang="EN">Mayo, Mayo, Ireland</Destination>
+		</City>
+		<City id="27638">
+			<Name lang="EN">Moville</Name>
+			<Region lang="EN">Moville</Region>
+			<Destination lang="EN">Moville, Moville, Ireland</Destination>
+		</City>
+		<City id="16654">
+			<Name lang="EN">Newcastle</Name>
+			<Region lang="EN">Newcastle</Region>
+			<Destination lang="EN">Newcastle, Newcastle, Ireland</Destination>
+		</City>
+		<City id="24904">
+			<Name lang="EN">Portlaoise</Name>
+			<Region lang="EN">Portlaoise</Region>
+			<Destination lang="EN">Portlaoise, Portlaoise, Ireland</Destination>
+		</City>
+		<City id="28042">
+			<Name lang="EN">Rosslare</Name>
+			<Region lang="EN">Rosslare</Region>
+			<Destination lang="EN">Rosslare, Rosslare, Ireland</Destination>
+		</City>
+		<City id="5872">
+			<Name lang="EN">Salthill</Name>
+			<Region lang="EN">Salthill</Region>
+			<Destination lang="EN">Salthill, Salthill, Ireland</Destination>
+		</City>
+		<City id="28729">
+			<Name lang="EN">Shannon</Name>
+			<Region lang="EN">Shannon</Region>
+			<Destination lang="EN">Shannon, Shannon, Ireland</Destination>
+		</City>
+		<City id="28822">
+			<Name lang="EN">Sligo</Name>
+			<Region lang="EN">Sligo</Region>
+			<Destination lang="EN">Sligo, Sligo, Ireland</Destination>
+		</City>
+		<City id="2705">
+			<Name lang="EN">Tipperary</Name>
+			<Region lang="EN">Tipperary</Region>
+			<Destination lang="EN">Tipperary, Tipperary, Ireland</Destination>
+		</City>
+		<City id="2495">
+			<Name lang="EN">Tralee</Name>
+			<Region lang="EN">Tralee</Region>
+			<Destination lang="EN">Tralee, Tralee, Ireland</Destination>
+		</City>
+		<City id="31027">
+			<Name lang="EN">Waterford</Name>
+			<Region lang="EN">Waterford</Region>
+			<Destination lang="EN">Waterford, Waterford, Ireland</Destination>
+		</City>
+		<City id="4064">
+			<Name lang="EN">Westport</Name>
+			<Region lang="EN">Westport</Region>
+			<Destination lang="EN">Westport, Westport, Ireland</Destination>
+		</City>
+		<City id="31059">
+			<Name lang="EN">Wexford</Name>
+			<Region lang="EN">Wexford</Region>
+			<Destination lang="EN">Wexford, Wexford, Ireland</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

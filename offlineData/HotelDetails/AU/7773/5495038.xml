@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495038" resultcode="0" message="" >
+				<Name><![CDATA[NOVOTEL CAIRNS OASIS RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  122 Lake Street, ]]></Address1>
+					<Address2><![CDATA[4870 QLD, Cairns, Australia]]></Address2>
+					<PostalCode>4870 QLD</PostalCode>
+					<CityCode>81791</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cairns]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.91845</Latitude>
+					<Longitude>145.77264</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8945/32608945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8946/32608946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8947/32608947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8948/32608948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8949/32608949.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8940/32608940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8941/32608941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8942/32608942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8943/32608943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8944/32608944.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

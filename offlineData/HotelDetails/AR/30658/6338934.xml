@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338934" resultcode="0" message="" >
+				<Name><![CDATA[KENTON PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Morales 338,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.134945</Latitude>
+					<Longitude>-71.31007</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9148/37129148.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9149/37129149.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9150/37129150.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9151/37129151.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9152/37129152.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9153/37129153.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9154/37129154.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9155/37129155.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9156/37129156.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9157/37129157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9158/37129158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9159/37129159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9160/37129160.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9161/37129161.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9162/37129162.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9163/37129163.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2944456654]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2944456654 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

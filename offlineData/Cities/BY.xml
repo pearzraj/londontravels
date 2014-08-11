@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BY">
+		<City id="7251"> 
+			<Name lang="EN">Brest</Name>
+			<Region lang="EN">Brest</Region>
+			<Destination lang="EN">Brest, Brest, Belarus</Destination>
+		</City>
+		<City id="8233">
+			<Name lang="EN">Gomel</Name>
+			<Region lang="EN">Gomel</Region>
+			<Destination lang="EN">Gomel, Gomel, Belarus</Destination>
+		</City>
+		<City id="17037">
+			<Name lang="EN">Grodno</Name>
+			<Region lang="EN">Grodno</Region>
+			<Destination lang="EN">Grodno, Grodno, Belarus</Destination>
+		</City>
+		<City id="16490">
+			<Name lang="EN">Minsk</Name>
+			<Region lang="EN">Minsk</Region>
+			<Destination lang="EN">Minsk, Minsk, Belarus</Destination>
+		</City>
+		<City id="30923">
+			<Name lang="EN">Vitebsk</Name>
+			<Region lang="EN">Vitebsk</Region>
+			<Destination lang="EN">Vitebsk, Vitebsk, Belarus</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

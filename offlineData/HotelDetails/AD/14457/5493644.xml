@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493644" resultcode="0" message="" >
+				<Name><![CDATA[BRINGUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General de Ordino,3]]></Address1>
+					<Address2><![CDATA[AD300, Serrat, El, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>63941</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Serrat, El]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.61886</Latitude>
+					<Longitude>1.53938</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The BRINGUE HOTEL has everything it needs to establish itself as one of the most enchanting hotels in EL SERRAT.  Therooms at the hotel have been designed to make customers as relaxed as possible during their stay. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The BRINGUE HOTEL has everything it needs to establish itself as one of the most enchanting hotels in EL SERRAT.  Therooms at the hotel have been designed to make customers as relaxed as possible during their stay. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Restaurant]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Disabled Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets not allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2508/32602508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2509/32602509.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2510/32602510.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2511/32602511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2512/32602512.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2513/32602513.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2514/32602514.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2515/32602515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2516/32602516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2517/32602517.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376850773]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376736999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

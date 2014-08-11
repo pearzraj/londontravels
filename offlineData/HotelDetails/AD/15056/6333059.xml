@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333059" resultcode="0" message="" >
+				<Name><![CDATA[MU BY PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV. LA CORTINADA S/N,]]></Address1>
+					<Address2><![CDATA[AD300, La Cortinada, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>82466</CityCode>
+					<CityName lang="EN">
+						<![CDATA[La Cortinada]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.57164</Latitude>
+					<Longitude>1.520286</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  Customers can park their car in the hotel garage. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Turkish Bath and Golf. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  Customers can park their car in the hotel garage. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Turkish Bath and Golf. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4929/37744929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4930/37744930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4931/37744931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4932/37744932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4911/37744911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4912/37744912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4913/37744913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4914/37744914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4915/37744915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4916/37744916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4917/37744917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4918/37744918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4919/37744919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4920/37744920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4921/37744921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4922/37744922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4923/37744923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4924/37744924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4925/37744925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4926/37744926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4927/37744927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4928/37744928.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+376 749020 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

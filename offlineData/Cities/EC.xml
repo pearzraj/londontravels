@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="EC">
+		<City id="7446"> 
+			<Name lang="EN">Cuenca</Name>
+			<Region lang="EN">Cuenca</Region>
+			<Destination lang="EN">Cuenca, Cuenca, Ecuador</Destination>
+		</City>
+		<City id="8604">
+			<Name lang="EN">Guayaquil</Name>
+			<Region lang="EN">Guayaquil</Region>
+			<Destination lang="EN">Guayaquil, Guayaquil, Ecuador</Destination>
+		</City>
+		<City id="13718">
+			<Name lang="EN">Manta</Name>
+			<Region lang="EN">Manta</Region>
+			<Destination lang="EN">Manta, Manta, Ecuador</Destination>
+		</City>
+		<City id="30277">
+			<Name lang="EN">Quito</Name>
+			<Region lang="EN">Quito</Region>
+			<Destination lang="EN">Quito, Quito, Ecuador</Destination>
+		</City>
+		<City id="30643">
+			<Name lang="EN">Salinas</Name>
+			<Region lang="EN">Salinas</Region>
+			<Destination lang="EN">Salinas, Salinas, Ecuador</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

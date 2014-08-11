@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337104" resultcode="0" message="" >
+				<Name><![CDATA[POSADA DEL ANGEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida E. Bustillo 12.600,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.120358</Latitude>
+					<Longitude>-71.4113</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9940/37779940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9941/37779941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9942/37779942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9943/37779943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9944/37779944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9945/37779945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9946/37779946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9931/37779931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9932/37779932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9933/37779933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9934/37779934.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9935/37779935.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9936/37779936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9937/37779937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9938/37779938.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9939/37779939.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2944 461263]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2944 461263 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PL">
+		<City id="9516"> 
+			<Name lang="EN">Bialystok</Name>
+			<Region lang="EN">Bialystok</Region>
+			<Destination lang="EN">Bialystok, Bialystok, Poland</Destination>
+		</City>
+		<City id="9537">
+			<Name lang="EN">Bielsko-Biala</Name>
+			<Region lang="EN">Bielsko-Biala</Region>
+			<Destination lang="EN">Bielsko-Biala, Bielsko-Biala, Poland</Destination>
+		</City>
+		<City id="7368">
+			<Name lang="EN">Bydgoszcz</Name>
+			<Region lang="EN">Bydgoszcz</Region>
+			<Destination lang="EN">Bydgoszcz, Bydgoszcz, Poland</Destination>
+		</City>
+		<City id="19329">
+			<Name lang="EN">Chorzow</Name>
+			<Region lang="EN">Chorzow</Region>
+			<Destination lang="EN">Chorzow, Chorzow, Poland</Destination>
+		</City>
+		<City id="19360">
+			<Name lang="EN">Cieszyn</Name>
+			<Region lang="EN">Cieszyn</Region>
+			<Destination lang="EN">Cieszyn, Cieszyn, Poland</Destination>
+		</City>
+		<City id="7469">
+			<Name lang="EN">Czestochowa</Name>
+			<Region lang="EN">Czestochowa</Region>
+			<Destination lang="EN">Czestochowa, Czestochowa, Poland</Destination>
+		</City>
+		<City id="7847">
+			<Name lang="EN">Gdansk</Name>
+			<Region lang="EN">Gdansk</Region>
+			<Destination lang="EN">Gdansk, Gdansk, Poland</Destination>
+		</City>
+		<City id="17461">
+			<Name lang="EN">Gdynia</Name>
+			<Region lang="EN">Gdynia</Region>
+			<Destination lang="EN">Gdynia, Gdynia, Poland</Destination>
+		</City>
+		<City id="8192">
+			<Name lang="EN">Gizycko</Name>
+			<Region lang="EN">Gizycko</Region>
+			<Destination lang="EN">Gizycko, Gizycko, Poland</Destination>
+		</City>
+		<City id="19426">
+			<Name lang="EN">Gorzow Wielkopolski</Name>
+			<Region lang="EN">Gorzow Wielkopolski</Region>
+			<Destination lang="EN">Gorzow Wielkopolski, Gorzow Wielkopolski, Poland</Destination>
+		</City>
+		<City id="26169">
+			<Name lang="EN">Jozefow</Name>
+			<Region lang="EN">Jozefow</Region>
+			<Destination lang="EN">Jozefow, Jozefow, Poland</Destination>
+		</City>
+		<City id="7754">
+			<Name lang="EN">Katowice</Name>
+			<Region lang="EN">Katowice</Region>
+			<Destination lang="EN">Katowice, Katowice, Poland</Destination>
+		</City>
+		<City id="9365">
+			<Name lang="EN">Krakow</Name>
+			<Region lang="EN">Krakow</Region>
+			<Destination lang="EN">Krakow, Krakow, Poland</Destination>
+		</City>
+		<City id="12242">
+			<Name lang="EN">Lodz</Name>
+			<Region lang="EN">Lodz</Region>
+			<Destination lang="EN">Lodz, Lodz, Poland</Destination>
+		</City>
+		<City id="20624">
+			<Name lang="EN">Lublin</Name>
+			<Region lang="EN">Lublin</Region>
+			<Destination lang="EN">Lublin, Lublin, Poland</Destination>
+		</City>
+		<City id="27645">
+			<Name lang="EN">Mragowo</Name>
+			<Region lang="EN">Mragowo</Region>
+			<Destination lang="EN">Mragowo, Mragowo, Poland</Destination>
+		</City>
+		<City id="29949">
+			<Name lang="EN">Poznan</Name>
+			<Region lang="EN">Poznan</Region>
+			<Destination lang="EN">Poznan, Poznan, Poland</Destination>
+		</City>
+		<City id="30564">
+			<Name lang="EN">Rzeszow</Name>
+			<Region lang="EN">Rzeszow</Region>
+			<Destination lang="EN">Rzeszow, Rzeszow, Poland</Destination>
+		</City>
+		<City id="5433">
+			<Name lang="EN">Sopot</Name>
+			<Region lang="EN">Sopot</Region>
+			<Destination lang="EN">Sopot, Sopot, Poland</Destination>
+		</City>
+		<City id="29124">
+			<Name lang="EN">Szczecin</Name>
+			<Region lang="EN">Szczecin</Region>
+			<Destination lang="EN">Szczecin, Szczecin, Poland</Destination>
+		</City>
+		<City id="2441">
+			<Name lang="EN">Torun</Name>
+			<Region lang="EN">Torun</Region>
+			<Destination lang="EN">Torun, Torun, Poland</Destination>
+		</City>
+		<City id="31012">
+			<Name lang="EN">Warsaw</Name>
+			<Region lang="EN">Warsaw</Region>
+			<Destination lang="EN">Warsaw, Warsaw, Poland</Destination>
+		</City>
+		<City id="31135">
+			<Name lang="EN">Wroclaw</Name>
+			<Region lang="EN">Wroclaw</Region>
+			<Destination lang="EN">Wroclaw, Wroclaw, Poland</Destination>
+		</City>
+		<City id="3228">
+			<Name lang="EN">Zakopane</Name>
+			<Region lang="EN">Zakopane</Region>
+			<Destination lang="EN">Zakopane, Zakopane, Poland</Destination>
+		</City>
+		<City id="3237">
+			<Name lang="EN">Zamosc</Name>
+			<Region lang="EN">Zamosc</Region>
+			<Destination lang="EN">Zamosc, Zamosc, Poland</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

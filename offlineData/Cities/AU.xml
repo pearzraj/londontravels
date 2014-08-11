@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AU">
+		<City id="6702"> 
+			<Name lang="EN">Adelaide</Name>
+			<Region lang="EN">South Australia</Region>
+			<Destination lang="EN">Adelaide, South Australia, Australia</Destination>
+		</City>
+		<City id="6274">
+			<Name lang="EN">Airlie Beach</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Airlie Beach, Queensland, Australia</Destination>
+		</City>
+		<City id="6323">
+			<Name lang="EN">Albury</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Albury, New South Wales, Australia</Destination>
+		</City>
+		<City id="6351">
+			<Name lang="EN">Alice Springs</Name>
+			<Region lang="EN">Northern Territory</Region>
+			<Destination lang="EN">Alice Springs, Northern Territory, Australia</Destination>
+		</City>
+		<City id="15837">
+			<Name lang="EN">American River</Name>
+			<Region lang="EN">South Australia</Region>
+			<Destination lang="EN">American River, South Australia, Australia</Destination>
+		</City>
+		<City id="6905">
+			<Name lang="EN">Ballina</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Ballina, New South Wales, Australia</Destination>
+		</City>
+		<City id="12094">
+			<Name lang="EN">Bendigo</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Bendigo, Victoria, Australia</Destination>
+		</City>
+		<City id="7262">
+			<Name lang="EN">Brisbane</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Brisbane, Queensland, Australia</Destination>
+		</City>
+		<City id="7281">
+			<Name lang="EN">Broome</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Broome, Western Australia, Australia</Destination>
+		</City>
+		<City id="7328">
+			<Name lang="EN">Bundaberg</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Bundaberg, Queensland, Australia</Destination>
+		</City>
+		<City id="12827">
+			<Name lang="EN">Byron Bay</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Byron Bay, New South Wales, Australia</Destination>
+		</City>
+		<City id="7773">
+			<Name lang="EN">Cairns</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Cairns, Queensland, Australia</Destination>
+		</City>
+		<City id="16008">
+			<Name lang="EN">Caloundra</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Caloundra, Queensland, Australia</Destination>
+		</City>
+		<City id="33188">
+			<Name lang="EN">Cambridge</Name>
+			<Region lang="EN">Tasmania</Region>
+			<Destination lang="EN">Cambridge, Tasmania, Australia</Destination>
+		</City>
+		<City id="7798">
+			<Name lang="EN">Canberra</Name>
+			<Region lang="EN">Australian Capital Territory</Region>
+			<Destination lang="EN">Canberra, Australian Capital Territory, Australia</Destination>
+		</City>
+		<City id="14727">
+			<Name lang="EN">Cape Tribulation</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Cape Tribulation, Queensland, Australia</Destination>
+		</City>
+		<City id="6472">
+			<Name lang="EN">Casino</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Casino, New South Wales, Australia</Destination>
+		</City>
+		<City id="17757">
+			<Name lang="EN">Cervantes</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Cervantes, Western Australia, Australia</Destination>
+		</City>
+		<City id="16821">
+			<Name lang="EN">Cooktown</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Cooktown, Queensland, Australia</Destination>
+		</City>
+		<City id="21604">
+			<Name lang="EN">Coolangatta</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Coolangatta, Queensland, Australia</Destination>
+		</City>
+		<City id="7401">
+			<Name lang="EN">Corowa</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Corowa, New South Wales, Australia</Destination>
+		</City>
+		<City id="22890">
+			<Name lang="EN">Daintree</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Daintree, Queensland, Australia</Destination>
+		</City>
+		<City id="7520">
+			<Name lang="EN">Darwin</Name>
+			<Region lang="EN">Northern Territory</Region>
+			<Destination lang="EN">Darwin, Northern Territory, Australia</Destination>
+		</City>
+		<City id="7540">
+			<Name lang="EN">Daydream Island</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Daydream Island, Queensland, Australia</Destination>
+		</City>
+		<City id="15720">
+			<Name lang="EN">Devonport</Name>
+			<Region lang="EN">Tasmania</Region>
+			<Destination lang="EN">Devonport, Tasmania, Australia</Destination>
+		</City>
+		<City id="18630">
+			<Name lang="EN">Dunkeld</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Dunkeld, Victoria, Australia</Destination>
+		</City>
+		<City id="9180">
+			<Name lang="EN">Eden</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Eden, New South Wales, Australia</Destination>
+		</City>
+		<City id="3898">
+			<Name lang="EN">Forbes</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Forbes, New South Wales, Australia</Destination>
+		</City>
+		<City id="16336">
+			<Name lang="EN">Frankston</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Frankston, Victoria, Australia</Destination>
+		</City>
+		<City id="16341">
+			<Name lang="EN">Fraser Island</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Fraser Island, Queensland, Australia</Destination>
+		</City>
+		<City id="7851">
+			<Name lang="EN">Geelong</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Geelong, Victoria, Australia</Destination>
+		</City>
+		<City id="8196">
+			<Name lang="EN">Gladstone</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Gladstone, Queensland, Australia</Destination>
+		</City>
+		<City id="8225">
+			<Name lang="EN">Gold Coast</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Gold Coast, Queensland, Australia</Destination>
+		</City>
+		<City id="16191">
+			<Name lang="EN">Griffith</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Griffith, New South Wales, Australia</Destination>
+		</City>
+		<City id="9985">
+			<Name lang="EN">Hobart</Name>
+			<Region lang="EN">Tasmania</Region>
+			<Destination lang="EN">Hobart, Tasmania, Australia</Destination>
+		</City>
+		<City id="26131">
+			<Name lang="EN">Jindabyne</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Jindabyne, New South Wales, Australia</Destination>
+		</City>
+		<City id="26514">
+			<Name lang="EN">Kakadu</Name>
+			<Region lang="EN">Northern Territory</Region>
+			<Destination lang="EN">Kakadu, Northern Territory, Australia</Destination>
+		</City>
+		<City id="7653">
+			<Name lang="EN">Kalgoorlie</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Kalgoorlie, Western Australia, Australia</Destination>
+		</City>
+		<City id="7722">
+			<Name lang="EN">Karratha</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Karratha, Western Australia, Australia</Destination>
+		</City>
+		<City id="7750">
+			<Name lang="EN">Katherine</Name>
+			<Region lang="EN">Northern Territory</Region>
+			<Destination lang="EN">Katherine, Northern Territory, Australia</Destination>
+		</City>
+		<City id="9773">
+			<Name lang="EN">Katoomba</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Katoomba, New South Wales, Australia</Destination>
+		</City>
+		<City id="16902">
+			<Name lang="EN">Lakes Entrance</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Lakes Entrance, Victoria, Australia</Destination>
+		</City>
+		<City id="10521">
+			<Name lang="EN">Launceston</Name>
+			<Region lang="EN">Tasmania</Region>
+			<Destination lang="EN">Launceston, Tasmania, Australia</Destination>
+		</City>
+		<City id="10714">
+			<Name lang="EN">Lismore</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Lismore, New South Wales, Australia</Destination>
+		</City>
+		<City id="15519">
+			<Name lang="EN">Mackay</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Mackay, Queensland, Australia</Destination>
+		</City>
+		<City id="21563">
+			<Name lang="EN">Main Beach</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Main Beach, Queensland, Australia</Destination>
+		</City>
+		<City id="23320">
+			<Name lang="EN">Maroochydore</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Maroochydore, Queensland, Australia</Destination>
+		</City>
+		<City id="18192">
+			<Name lang="EN">Melbourne</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Melbourne, Victoria, Australia</Destination>
+		</City>
+		<City id="15804">
+			<Name lang="EN">Mildura</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Mildura, Victoria, Australia</Destination>
+		</City>
+		<City id="17886">
+			<Name lang="EN">Mudgee</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Mudgee, New South Wales, Australia</Destination>
+		</City>
+		<City id="20366">
+			<Name lang="EN">Nambucca Heads</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Nambucca Heads, New South Wales, Australia</Destination>
+		</City>
+		<City id="17969">
+			<Name lang="EN">Naracoorte</Name>
+			<Region lang="EN">South Australia</Region>
+			<Destination lang="EN">Naracoorte, South Australia, Australia</Destination>
+		</City>
+		<City id="17973">
+			<Name lang="EN">Narrabri</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Narrabri, New South Wales, Australia</Destination>
+		</City>
+		<City id="19000">
+			<Name lang="EN">Newcastle</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Newcastle, New South Wales, Australia</Destination>
+		</City>
+		<City id="26182">
+			<Name lang="EN">Nowra</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Nowra, New South Wales, Australia</Destination>
+		</City>
+		<City id="27032">
+			<Name lang="EN">Orange</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Orange, New South Wales, Australia</Destination>
+		</City>
+		<City id="19714">
+			<Name lang="EN">Palm Cove</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Palm Cove, Queensland, Australia</Destination>
+		</City>
+		<City id="21905">
+			<Name lang="EN">Pemberton</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Pemberton, Western Australia, Australia</Destination>
+		</City>
+		<City id="29457">
+			<Name lang="EN">Perth</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Perth, Western Australia, Australia</Destination>
+		</City>
+		<City id="24744">
+			<Name lang="EN">Port Arthur</Name>
+			<Region lang="EN">Tasmania</Region>
+			<Destination lang="EN">Port Arthur, Tasmania, Australia</Destination>
+		</City>
+		<City id="29870">
+			<Name lang="EN">Port Douglas</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Port Douglas, Queensland, Australia</Destination>
+		</City>
+		<City id="29890">
+			<Name lang="EN">Port Macquarie</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Port Macquarie, New South Wales, Australia</Destination>
+		</City>
+		<City id="26063">
+			<Name lang="EN">Queanbeyan</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Queanbeyan, New South Wales, Australia</Destination>
+		</City>
+		<City id="1575">
+			<Name lang="EN">Renmark</Name>
+			<Region lang="EN">South Australia</Region>
+			<Destination lang="EN">Renmark, South Australia, Australia</Destination>
+		</City>
+		<City id="22091">
+			<Name lang="EN">Richmond</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Richmond, New South Wales, Australia</Destination>
+		</City>
+		<City id="30478">
+			<Name lang="EN">Rockhampton</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Rockhampton, Queensland, Australia</Destination>
+		</City>
+		<City id="30496">
+			<Name lang="EN">Roma</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Roma, Queensland, Australia</Destination>
+		</City>
+		<City id="23479">
+			<Name lang="EN">Rye</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Rye, Victoria, Australia</Destination>
+		</City>
+		<City id="520">
+			<Name lang="EN">Salamander Bay</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Salamander Bay, New South Wales, Australia</Destination>
+		</City>
+		<City id="29027">
+			<Name lang="EN">Stawell</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Stawell, Victoria, Australia</Destination>
+		</City>
+		<City id="29096">
+			<Name lang="EN">Surfers Paradise</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Surfers Paradise, Queensland, Australia</Destination>
+		</City>
+		<City id="29117">
+			<Name lang="EN">Sydney</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Sydney, New South Wales, Australia</Destination>
+		</City>
+		<City id="29320">
+			<Name lang="EN">Taree</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Taree, New South Wales, Australia</Destination>
+		</City>
+		<City id="60">
+			<Name lang="EN">Tea Gardens</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Tea Gardens, New South Wales, Australia</Destination>
+		</City>
+		<City id="758">
+			<Name lang="EN">The Entrance</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">The Entrance, New South Wales, Australia</Destination>
+		</City>
+		<City id="34260">
+			<Name lang="EN">Torbay</Name>
+			<Region lang="EN">Western Australia</Region>
+			<Destination lang="EN">Torbay, Western Australia, Australia</Destination>
+		</City>
+		<City id="2187">
+			<Name lang="EN">Torquay</Name>
+			<Region lang="EN">Victoria</Region>
+			<Destination lang="EN">Torquay, Victoria, Australia</Destination>
+		</City>
+		<City id="29821">
+			<Name lang="EN">Townsville</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Townsville, Queensland, Australia</Destination>
+		</City>
+		<City id="2741">
+			<Name lang="EN">Trinity Beach</Name>
+			<Region lang="EN">Queensland</Region>
+			<Destination lang="EN">Trinity Beach, Queensland, Australia</Destination>
+		</City>
+		<City id="31110">
+			<Name lang="EN">Wollongong</Name>
+			<Region lang="EN">New South Wales</Region>
+			<Destination lang="EN">Wollongong, New South Wales, Australia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336905" resultcode="0" message="" >
+				<Name><![CDATA[POSADA BORRAVINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Medrano 2658,]]></Address1>
+					<Address2><![CDATA[5505, Chacras De Coria, Argentina]]></Address2>
+					<PostalCode>5505</PostalCode>
+					<CityCode>86979</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Chacras De Coria]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.997868</Latitude>
+					<Longitude>-68.89432</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9238/37139238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9239/37139239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9240/37139240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9241/37139241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9242/37139242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9243/37139243.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2614964445]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2614964445 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

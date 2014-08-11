@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494013" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON MAR DEL PLATA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Alem 4221, ]]></Address1>
+					<Address2><![CDATA[7600, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>7600</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-38.03097</Latitude>
+					<Longitude>-57.53936</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4095/37674095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4096/37674096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4097/37674097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4098/37674098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4077/37674077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4078/37674078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4079/37674079.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4080/37674080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4081/37674081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4082/37674082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4083/37674083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4084/37674084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4085/37674085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4086/37674086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4087/37674087.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4088/37674088.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4089/37674089.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4090/37674090.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4091/37674091.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4092/37674092.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4093/37674093.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4094/37674094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4065/37674065.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4066/37674066.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4067/37674067.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4068/37674068.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4069/37674069.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4070/37674070.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4071/37674071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4072/37674072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4073/37674073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4074/37674074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4075/37674075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4076/37674076.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2234140010]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2234140000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

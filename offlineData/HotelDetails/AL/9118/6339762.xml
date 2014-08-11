@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339762" resultcode="0" message="" >
+				<Name><![CDATA[ARAGOSTA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rruga Taulantia Berryli, Currila,]]></Address1>
+					<Address2><![CDATA[1, Durres, Albania]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64797</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Durres]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.31203</Latitude>
+					<Longitude>19.434542</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2294/37152294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2295/37152295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2296/37152296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2297/37152297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2282/37152282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2283/37152283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2284/37152284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2285/37152285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2286/37152286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2287/37152287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2288/37152288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2289/37152289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2290/37152290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2291/37152291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2292/37152292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2293/37152293.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+355 52 226477 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

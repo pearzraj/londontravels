@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337166" resultcode="0" message="" >
+				<Name><![CDATA[HALCYON COVE ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dickenson Bay, PO Box 251,]]></Address1>
+					<Address2><![CDATA[00001, Saint John'S, Antigua And Barbuda]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>64816</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Saint John'S]]>
+					</CityName>
+					<CountryCode>AG</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Antigua and Barbuda]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>17.1605</Latitude>
+					<Longitude>-61.8463</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Catering Services]]></Name>
+						<Description><![CDATA[Wedding Menu]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7246/37147246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7247/37147247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7248/37147248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7249/37147249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7250/37147250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7251/37147251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7252/37147252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7253/37147253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7254/37147254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7239/37147239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7240/37147240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7241/37147241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7242/37147242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7243/37147243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7244/37147244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7245/37147245.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 305 471 9547]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 305 471 6170 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

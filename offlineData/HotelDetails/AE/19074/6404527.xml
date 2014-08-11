@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404527" resultcode="0" message="" >
+				<Name><![CDATA[LANDMARK HOTEL RIQQA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al-Jazeera Street Dubai 28763,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.27114</Latitude>
+					<Longitude>55.307484</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19225_12_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 224 6556]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 294 6677 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

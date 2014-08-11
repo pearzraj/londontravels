@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494011" resultcode="0" message="" >
+				<Name><![CDATA[ROCHESTER CLASSIC HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Esmeralda 542,]]></Address1>
+					<Address2><![CDATA[C1007ABB, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1007ABB</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.601562</Latitude>
+					<Longitude>-58.37801</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4055/37674055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4056/37674056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4057/37674057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4058/37674058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4059/37674059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4060/37674060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4061/37674061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4062/37674062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4037/37674037.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4038/37674038.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4039/37674039.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4040/37674040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4041/37674041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4042/37674042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4043/37674043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4044/37674044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4045/37674045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4046/37674046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4047/37674047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4048/37674048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4049/37674049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4050/37674050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4051/37674051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4052/37674052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4053/37674053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4054/37674054.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 43261063]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 43266076 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

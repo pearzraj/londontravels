@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BE">
+		<City id="13359"> 
+			<Name lang="EN">Antwerp</Name>
+			<Region lang="EN">Antwerp</Region>
+			<Destination lang="EN">Antwerp, Antwerp, Belgium</Destination>
+		</City>
+		<City id="7285">
+			<Name lang="EN">Brugge</Name>
+			<Region lang="EN">Brugge</Region>
+			<Destination lang="EN">Brugge, Brugge, Belgium</Destination>
+		</City>
+		<City id="7292">
+			<Name lang="EN">Brussels</Name>
+			<Region lang="EN">Brussels</Region>
+			<Destination lang="EN">Brussels, Brussels, Belgium</Destination>
+		</City>
+		<City id="6712">
+			<Name lang="EN">Charleroi</Name>
+			<Region lang="EN">Charleroi</Region>
+			<Destination lang="EN">Charleroi, Charleroi, Belgium</Destination>
+		</City>
+		<City id="23910">
+			<Name lang="EN">Diegem</Name>
+			<Region lang="EN">Diegem</Region>
+			<Destination lang="EN">Diegem, Diegem, Belgium</Destination>
+		</City>
+		<City id="23927">
+			<Name lang="EN">Dinant</Name>
+			<Region lang="EN">Dinant</Region>
+			<Destination lang="EN">Dinant, Dinant, Belgium</Destination>
+		</City>
+		<City id="9111">
+			<Name lang="EN">Durbuy</Name>
+			<Region lang="EN">Durbuy</Region>
+			<Destination lang="EN">Durbuy, Durbuy, Belgium</Destination>
+		</City>
+		<City id="17487">
+			<Name lang="EN">Genk</Name>
+			<Region lang="EN">Genk</Region>
+			<Destination lang="EN">Genk, Genk, Belgium</Destination>
+		</City>
+		<City id="17491">
+			<Name lang="EN">Genval</Name>
+			<Region lang="EN">Genval</Region>
+			<Destination lang="EN">Genval, Genval, Belgium</Destination>
+		</City>
+		<City id="18010">
+			<Name lang="EN">Ghent</Name>
+			<Region lang="EN">Ghent</Region>
+			<Destination lang="EN">Ghent, Ghent, Belgium</Destination>
+		</City>
+		<City id="22964">
+			<Name lang="EN">Ghislenghien</Name>
+			<Region lang="EN">Ghislenghien</Region>
+			<Destination lang="EN">Ghislenghien, Ghislenghien, Belgium</Destination>
+		</City>
+		<City id="19863">
+			<Name lang="EN">Groot-Bijgaarden</Name>
+			<Region lang="EN">Groot-Bijgaarden</Region>
+			<Destination lang="EN">Groot-Bijgaarden, Groot-Bijgaarden, Belgium</Destination>
+		</City>
+		<City id="21278">
+			<Name lang="EN">Hasselt</Name>
+			<Region lang="EN">Hasselt</Region>
+			<Destination lang="EN">Hasselt, Hasselt, Belgium</Destination>
+		</City>
+		<City id="24802">
+			<Name lang="EN">Ieper</Name>
+			<Region lang="EN">Ieper</Region>
+			<Destination lang="EN">Ieper, Ieper, Belgium</Destination>
+		</City>
+		<City id="33418">
+			<Name lang="EN">Lanaken</Name>
+			<Region lang="EN">Lanaken</Region>
+			<Destination lang="EN">Lanaken, Lanaken, Belgium</Destination>
+		</City>
+		<City id="18485">
+			<Name lang="EN">Leuven</Name>
+			<Region lang="EN">Leuven</Region>
+			<Destination lang="EN">Leuven, Leuven, Belgium</Destination>
+		</City>
+		<City id="10673">
+			<Name lang="EN">Liege</Name>
+			<Region lang="EN">Liege</Region>
+			<Destination lang="EN">Liege, Liege, Belgium</Destination>
+		</City>
+		<City id="19513">
+			<Name lang="EN">Limelette</Name>
+			<Region lang="EN">Limelette</Region>
+			<Destination lang="EN">Limelette, Limelette, Belgium</Destination>
+		</City>
+		<City id="24121">
+			<Name lang="EN">Mechelen</Name>
+			<Region lang="EN">Mechelen</Region>
+			<Destination lang="EN">Mechelen, Mechelen, Belgium</Destination>
+		</City>
+		<City id="28099">
+			<Name lang="EN">Namur</Name>
+			<Region lang="EN">Namur</Region>
+			<Destination lang="EN">Namur, Namur, Belgium</Destination>
+		</City>
+		<City id="27052">
+			<Name lang="EN">Ostend</Name>
+			<Region lang="EN">Ostend</Region>
+			<Destination lang="EN">Ostend, Ostend, Belgium</Destination>
+		</City>
+		<City id="36309">
+			<Name lang="EN">Sint Denijs Westrem</Name>
+			<Region lang="EN">Sint Denijs Westrem</Region>
+			<Destination lang="EN">Sint Denijs Westrem, Sint Denijs Westrem, Belgium</Destination>
+		</City>
+		<City id="4268">
+			<Name lang="EN">Spa</Name>
+			<Region lang="EN">Spa</Region>
+			<Destination lang="EN">Spa, Spa, Belgium</Destination>
+		</City>
+		<City id="34257">
+			<Name lang="EN">Tongeren</Name>
+			<Region lang="EN">Tongeren</Region>
+			<Destination lang="EN">Tongeren, Tongeren, Belgium</Destination>
+		</City>
+		<City id="2321">
+			<Name lang="EN">Waterloo</Name>
+			<Region lang="EN">Waterloo</Region>
+			<Destination lang="EN">Waterloo, Waterloo, Belgium</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

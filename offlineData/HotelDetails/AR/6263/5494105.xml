@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494105" resultcode="0" message="" >
+				<Name><![CDATA[NAPOLEON HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rivadavia 1364,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.608257</Latitude>
+					<Longitude>-58.38549</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9699/37679699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9700/37679700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9701/37679701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9702/37679702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9703/37679703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9704/37679704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9705/37679705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9706/37679706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9707/37679707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9708/37679708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9709/37679709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9710/37679710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9711/37679711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9712/37679712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9713/37679713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9714/37679714.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 5353 2031]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 5353 2031]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

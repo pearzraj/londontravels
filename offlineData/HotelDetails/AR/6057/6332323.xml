@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332323" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON TUCUMAN]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV SOLDATI Y CALLE HAITI,]]></Address1>
+					<Address2><![CDATA[4000, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>4000</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.825787</Latitude>
+					<Longitude>-65.192764</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Spa. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Spa. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5314/37095314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5301/37095301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5302/37095302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5303/37095303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5304/37095304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5305/37095305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5306/37095306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5307/37095307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5308/37095308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5309/37095309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5310/37095310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5311/37095311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5312/37095312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5313/37095313.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(54)(381) 153 33 900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

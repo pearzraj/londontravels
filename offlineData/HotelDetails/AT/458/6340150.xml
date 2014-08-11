@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340150" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND MESSE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Messestrasse,2]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.215813</Latitude>
+					<Longitude>16.405056</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Currency Exchange, Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Currency Exchange, Wi-Fi and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9209/37159209.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43843_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9211/37159211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9212/37159212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9213/37159213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9214/37159214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9215/37159215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9216/37159216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9217/37159217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9201/37159201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9202/37159202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9203/37159203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9204/37159204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9205/37159205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9206/37159206.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9207/37159207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9208/37159208.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43172727100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043172727172 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

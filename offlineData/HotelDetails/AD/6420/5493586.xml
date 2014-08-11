@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493586" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN ANDORRA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Prat de la Creu,88]]></Address1>
+					<Address2><![CDATA[AD500, Andorra La Vella, Andorra]]></Address2>
+					<PostalCode>AD500</PostalCode>
+					<CityCode>59322</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Andorra La Vella]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.505</Latitude>
+					<Longitude>1.518</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  We have Babysitting Service for children. Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Porters, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  We have Babysitting Service for children. Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi, 24/24 Room-Service  and Laundry Service We also have Porters, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8964/37258964.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8965/37258965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8966/37258966.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8967/37258967.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8968/37258968.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8969/37258969.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8970/37258970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8971/37258971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8972/37258972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8973/37258973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8974/37258974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8975/37258975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8976/37258976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8977/37258977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8978/37258978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8979/37258979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8980/37258980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8981/37258981.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376 874444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SN">
+		<City id="7480"> 
+			<Name lang="EN">Dakar</Name>
+			<Region lang="EN">Dakar</Region>
+			<Destination lang="EN">Dakar, Dakar, Senegal</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

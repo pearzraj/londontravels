@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="JP">
+		<City id="11582"> 
+			<Name lang="EN">Abashiri</Name>
+			<Region lang="EN">Abashiri</Region>
+			<Destination lang="EN">Abashiri, Abashiri, Japan</Destination>
+		</City>
+		<City id="20280">
+			<Name lang="EN">Akaigawa</Name>
+			<Region lang="EN">Akaigawa</Region>
+			<Destination lang="EN">Akaigawa, Akaigawa, Japan</Destination>
+		</City>
+		<City id="6286">
+			<Name lang="EN">Akita</Name>
+			<Region lang="EN">Akita</Region>
+			<Destination lang="EN">Akita, Akita, Japan</Destination>
+		</City>
+		<City id="20295">
+			<Name lang="EN">Amagasaki</Name>
+			<Region lang="EN">Amagasaki</Region>
+			<Destination lang="EN">Amagasaki, Amagasaki, Japan</Destination>
+		</City>
+		<City id="20309">
+			<Name lang="EN">Anjo</Name>
+			<Region lang="EN">Anjo</Region>
+			<Destination lang="EN">Anjo, Anjo, Japan</Destination>
+		</City>
+		<City id="13364">
+			<Name lang="EN">Aomori</Name>
+			<Region lang="EN">Aomori</Region>
+			<Destination lang="EN">Aomori, Aomori, Japan</Destination>
+		</City>
+		<City id="6817">
+			<Name lang="EN">Asahikawa</Name>
+			<Region lang="EN">Asahikawa</Region>
+			<Destination lang="EN">Asahikawa, Asahikawa, Japan</Destination>
+		</City>
+		<City id="32815">
+			<Name lang="EN">Aso</Name>
+			<Region lang="EN">Aso</Region>
+			<Destination lang="EN">Aso, Aso, Japan</Destination>
+		</City>
+		<City id="32054">
+			<Name lang="EN">Atami</Name>
+			<Region lang="EN">Atami</Region>
+			<Destination lang="EN">Atami, Atami, Japan</Destination>
+		</City>
+		<City id="6843">
+			<Name lang="EN">Atsugi</Name>
+			<Region lang="EN">Atsugi</Region>
+			<Destination lang="EN">Atsugi, Atsugi, Japan</Destination>
+		</City>
+		<City id="20337">
+			<Name lang="EN">Azumino</Name>
+			<Region lang="EN">Azumino</Region>
+			<Destination lang="EN">Azumino, Azumino, Japan</Destination>
+		</City>
+		<City id="12110">
+			<Name lang="EN">Beppu</Name>
+			<Region lang="EN">Beppu</Region>
+			<Destination lang="EN">Beppu, Beppu, Japan</Destination>
+		</City>
+		<City id="20949">
+			<Name lang="EN">Chatan</Name>
+			<Region lang="EN">Chatan</Region>
+			<Destination lang="EN">Chatan, Chatan, Japan</Destination>
+		</City>
+		<City id="18883">
+			<Name lang="EN">Chiba</Name>
+			<Region lang="EN">Chiba</Region>
+			<Destination lang="EN">Chiba, Chiba, Japan</Destination>
+		</City>
+		<City id="20958">
+			<Name lang="EN">Chino</Name>
+			<Region lang="EN">Chino</Region>
+			<Destination lang="EN">Chino, Chino, Japan</Destination>
+		</City>
+		<City id="20959">
+			<Name lang="EN">Chiryu</Name>
+			<Region lang="EN">Chiryu</Region>
+			<Destination lang="EN">Chiryu, Chiryu, Japan</Destination>
+		</City>
+		<City id="18926">
+			<Name lang="EN">Chitose</Name>
+			<Region lang="EN">Chitose</Region>
+			<Destination lang="EN">Chitose, Chitose, Japan</Destination>
+		</City>
+		<City id="16949">
+			<Name lang="EN">Fuefuki</Name>
+			<Region lang="EN">Fuefuki</Region>
+			<Destination lang="EN">Fuefuki, Fuefuki, Japan</Destination>
+		</City>
+		<City id="21684">
+			<Name lang="EN">Fujikawaguchiko</Name>
+			<Region lang="EN">Fujikawaguchiko</Region>
+			<Destination lang="EN">Fujikawaguchiko, Fujikawaguchiko, Japan</Destination>
+		</City>
+		<City id="21685">
+			<Name lang="EN">Fujiyoshida</Name>
+			<Region lang="EN">Fujiyoshida</Region>
+			<Destination lang="EN">Fujiyoshida, Fujiyoshida, Japan</Destination>
+		</City>
+		<City id="10927">
+			<Name lang="EN">Fukuoka</Name>
+			<Region lang="EN">Fukuoka</Region>
+			<Destination lang="EN">Fukuoka, Fukuoka, Japan</Destination>
+		</City>
+		<City id="16967">
+			<Name lang="EN">Funabashi</Name>
+			<Region lang="EN">Funabashi</Region>
+			<Destination lang="EN">Funabashi, Funabashi, Japan</Destination>
+		</City>
+		<City id="21690">
+			<Name lang="EN">Gamagori</Name>
+			<Region lang="EN">Gamagori</Region>
+			<Destination lang="EN">Gamagori, Gamagori, Japan</Destination>
+		</City>
+		<City id="17471">
+			<Name lang="EN">Geisei</Name>
+			<Region lang="EN">Geisei</Region>
+			<Destination lang="EN">Geisei, Geisei, Japan</Destination>
+		</City>
+		<City id="21702">
+			<Name lang="EN">Gero</Name>
+			<Region lang="EN">Gero</Region>
+			<Destination lang="EN">Gero, Gero, Japan</Destination>
+		</City>
+		<City id="18024">
+			<Name lang="EN">Gifu</Name>
+			<Region lang="EN">Gifu</Region>
+			<Destination lang="EN">Gifu, Gifu, Japan</Destination>
+		</City>
+		<City id="18045">
+			<Name lang="EN">Ginowan</Name>
+			<Region lang="EN">Ginowan</Region>
+			<Destination lang="EN">Ginowan, Ginowan, Japan</Destination>
+		</City>
+		<City id="20842">
+			<Name lang="EN">Hachioji</Name>
+			<Region lang="EN">Hachioji</Region>
+			<Destination lang="EN">Hachioji, Hachioji, Japan</Destination>
+		</City>
+		<City id="9235">
+			<Name lang="EN">Hakodate</Name>
+			<Region lang="EN">Hakodate</Region>
+			<Destination lang="EN">Hakodate, Hakodate, Japan</Destination>
+		</City>
+		<City id="20875">
+			<Name lang="EN">Hakone</Name>
+			<Region lang="EN">Hakone</Region>
+			<Destination lang="EN">Hakone, Hakone, Japan</Destination>
+		</City>
+		<City id="20876">
+			<Name lang="EN">Hakuba</Name>
+			<Region lang="EN">Hakuba</Region>
+			<Destination lang="EN">Hakuba, Hakuba, Japan</Destination>
+		</City>
+		<City id="20903">
+			<Name lang="EN">Hamamatsu</Name>
+			<Region lang="EN">Hamamatsu</Region>
+			<Destination lang="EN">Hamamatsu, Hamamatsu, Japan</Destination>
+		</City>
+		<City id="26403">
+			<Name lang="EN">Hanamaki</Name>
+			<Region lang="EN">Hanamaki</Region>
+			<Destination lang="EN">Hanamaki, Hanamaki, Japan</Destination>
+		</City>
+		<City id="23213">
+			<Name lang="EN">Higashiizu</Name>
+			<Region lang="EN">Higashiizu</Region>
+			<Destination lang="EN">Higashiizu, Higashiizu, Japan</Destination>
+		</City>
+		<City id="23225">
+			<Name lang="EN">Hiji</Name>
+			<Region lang="EN">Hiji</Region>
+			<Destination lang="EN">Hiji, Hiji, Japan</Destination>
+		</City>
+		<City id="26426">
+			<Name lang="EN">Hikone</Name>
+			<Region lang="EN">Hikone</Region>
+			<Destination lang="EN">Hikone, Hikone, Japan</Destination>
+		</City>
+		<City id="23239">
+			<Name lang="EN">Himeji</Name>
+			<Region lang="EN">Himeji</Region>
+			<Destination lang="EN">Himeji, Himeji, Japan</Destination>
+		</City>
+		<City id="23249">
+			<Name lang="EN">Hirosaki</Name>
+			<Region lang="EN">Hirosaki</Region>
+			<Destination lang="EN">Hirosaki, Hirosaki, Japan</Destination>
+		</City>
+		<City id="9977">
+			<Name lang="EN">Hiroshima</Name>
+			<Region lang="EN">Hiroshima</Region>
+			<Destination lang="EN">Hiroshima, Hiroshima, Japan</Destination>
+		</City>
+		<City id="23954">
+			<Name lang="EN">Hokuto</Name>
+			<Region lang="EN">Hokuto</Region>
+			<Destination lang="EN">Hokuto, Hokuto, Japan</Destination>
+		</City>
+		<City id="1677">
+			<Name lang="EN">Ibusuki</Name>
+			<Region lang="EN">Ibusuki</Region>
+			<Destination lang="EN">Ibusuki, Ibusuki, Japan</Destination>
+		</City>
+		<City id="21734">
+			<Name lang="EN">Inawashiro</Name>
+			<Region lang="EN">Inawashiro</Region>
+			<Destination lang="EN">Inawashiro, Inawashiro, Japan</Destination>
+		</City>
+		<City id="21736">
+			<Name lang="EN">Inzai</Name>
+			<Region lang="EN">Inzai</Region>
+			<Destination lang="EN">Inzai, Inzai, Japan</Destination>
+		</City>
+		<City id="15132">
+			<Name lang="EN">Ishigaki</Name>
+			<Region lang="EN">Ishigaki</Region>
+			<Destination lang="EN">Ishigaki, Ishigaki, Japan</Destination>
+		</City>
+		<City id="29587">
+			<Name lang="EN">Itoman</Name>
+			<Region lang="EN">Itoman</Region>
+			<Destination lang="EN">Itoman, Itoman, Japan</Destination>
+		</City>
+		<City id="21744">
+			<Name lang="EN">Izumisano</Name>
+			<Region lang="EN">Izumisano</Region>
+			<Destination lang="EN">Izumisano, Izumisano, Japan</Destination>
+		</City>
+		<City id="21745">
+			<Name lang="EN">Izunokuni</Name>
+			<Region lang="EN">Izunokuni</Region>
+			<Destination lang="EN">Izunokuni, Izunokuni, Japan</Destination>
+		</City>
+		<City id="26498">
+			<Name lang="EN">Kaga</Name>
+			<Region lang="EN">Kaga</Region>
+			<Destination lang="EN">Kaga, Kaga, Japan</Destination>
+		</City>
+		<City id="20263">
+			<Name lang="EN">Kagoshima</Name>
+			<Region lang="EN">Kagoshima</Region>
+			<Destination lang="EN">Kagoshima, Kagoshima, Japan</Destination>
+		</City>
+		<City id="21761">
+			<Name lang="EN">Kamikawa (Hokkaido)</Name>
+			<Region lang="EN">Kamikawa (Hokkaido)</Region>
+			<Destination lang="EN">Kamikawa (Hokkaido), Kamikawa (Hokkaido), Japan</Destination>
+		</City>
+		<City id="9017">
+			<Name lang="EN">Kanazawa</Name>
+			<Region lang="EN">Kanazawa</Region>
+			<Destination lang="EN">Kanazawa, Kanazawa, Japan</Destination>
+		</City>
+		<City id="9063">
+			<Name lang="EN">Kariya</Name>
+			<Region lang="EN">Kariya</Region>
+			<Destination lang="EN">Kariya, Kariya, Japan</Destination>
+		</City>
+		<City id="9083">
+			<Name lang="EN">Karuizawa</Name>
+			<Region lang="EN">Karuizawa</Region>
+			<Destination lang="EN">Karuizawa, Karuizawa, Japan</Destination>
+		</City>
+		<City id="9090">
+			<Name lang="EN">Kashihara</Name>
+			<Region lang="EN">Kashihara</Region>
+			<Destination lang="EN">Kashihara, Kashihara, Japan</Destination>
+		</City>
+		<City id="9791">
+			<Name lang="EN">Kawasaki</Name>
+			<Region lang="EN">Kawasaki</Region>
+			<Destination lang="EN">Kawasaki, Kawasaki, Japan</Destination>
+		</City>
+		<City id="11845">
+			<Name lang="EN">Kirishima</Name>
+			<Region lang="EN">Kirishima</Region>
+			<Destination lang="EN">Kirishima, Kirishima, Japan</Destination>
+		</City>
+		<City id="11869">
+			<Name lang="EN">Kitakyushu</Name>
+			<Region lang="EN">Kitakyushu</Region>
+			<Destination lang="EN">Kitakyushu, Kitakyushu, Japan</Destination>
+		</City>
+		<City id="8702">
+			<Name lang="EN">Kobe</Name>
+			<Region lang="EN">Kobe</Region>
+			<Destination lang="EN">Kobe, Kobe, Japan</Destination>
+		</City>
+		<City id="8705">
+			<Name lang="EN">Kochi</Name>
+			<Region lang="EN">Kochi</Region>
+			<Destination lang="EN">Kochi, Kochi, Japan</Destination>
+		</City>
+		<City id="27288">
+			<Name lang="EN">Kofu</Name>
+			<Region lang="EN">Kofu</Region>
+			<Destination lang="EN">Kofu, Kofu, Japan</Destination>
+		</City>
+		<City id="9304">
+			<Name lang="EN">Komatsu</Name>
+			<Region lang="EN">Komatsu</Region>
+			<Destination lang="EN">Komatsu, Komatsu, Japan</Destination>
+		</City>
+		<City id="13271">
+			<Name lang="EN">Koriyama</Name>
+			<Region lang="EN">Koriyama</Region>
+			<Destination lang="EN">Koriyama, Koriyama, Japan</Destination>
+		</City>
+		<City id="27302">
+			<Name lang="EN">Kosaka</Name>
+			<Region lang="EN">Kosaka</Region>
+			<Destination lang="EN">Kosaka, Kosaka, Japan</Destination>
+		</City>
+		<City id="27310">
+			<Name lang="EN">Kumagaya</Name>
+			<Region lang="EN">Kumagaya</Region>
+			<Destination lang="EN">Kumagaya, Kumagaya, Japan</Destination>
+		</City>
+		<City id="9393">
+			<Name lang="EN">Kumamoto</Name>
+			<Region lang="EN">Kumamoto</Region>
+			<Destination lang="EN">Kumamoto, Kumamoto, Japan</Destination>
+		</City>
+		<City id="33383">
+			<Name lang="EN">Kunigami</Name>
+			<Region lang="EN">Kunigami</Region>
+			<Destination lang="EN">Kunigami, Kunigami, Japan</Destination>
+		</City>
+		<City id="14995">
+			<Name lang="EN">Kurashiki</Name>
+			<Region lang="EN">Kurashiki</Region>
+			<Destination lang="EN">Kurashiki, Kurashiki, Japan</Destination>
+		</City>
+		<City id="1996">
+			<Name lang="EN">Kurobe</Name>
+			<Region lang="EN">Kurobe</Region>
+			<Destination lang="EN">Kurobe, Kurobe, Japan</Destination>
+		</City>
+		<City id="9892">
+			<Name lang="EN">Kushiro</Name>
+			<Region lang="EN">Kushiro</Region>
+			<Destination lang="EN">Kushiro, Kushiro, Japan</Destination>
+		</City>
+		<City id="9909">
+			<Name lang="EN">Kyoto</Name>
+			<Region lang="EN">Kyoto</Region>
+			<Destination lang="EN">Kyoto, Kyoto, Japan</Destination>
+		</City>
+		<City id="23709">
+			<Name lang="EN">Matsue</Name>
+			<Region lang="EN">Matsue</Region>
+			<Destination lang="EN">Matsue, Matsue, Japan</Destination>
+		</City>
+		<City id="14682">
+			<Name lang="EN">Matsumoto</Name>
+			<Region lang="EN">Matsumoto</Region>
+			<Destination lang="EN">Matsumoto, Matsumoto, Japan</Destination>
+		</City>
+		<City id="14045">
+			<Name lang="EN">Matsushima Islands</Name>
+			<Region lang="EN">Matsushima Islands</Region>
+			<Destination lang="EN">Matsushima Islands, Matsushima Islands, Japan</Destination>
+		</City>
+		<City id="14683">
+			<Name lang="EN">Matsuyama</Name>
+			<Region lang="EN">Matsuyama</Region>
+			<Destination lang="EN">Matsuyama, Matsuyama, Japan</Destination>
+		</City>
+		<City id="27348">
+			<Name lang="EN">Mihara</Name>
+			<Region lang="EN">Mihara</Region>
+			<Destination lang="EN">Mihara, Mihara, Japan</Destination>
+		</City>
+		<City id="27351">
+			<Name lang="EN">Mimasaka</Name>
+			<Region lang="EN">Mimasaka</Region>
+			<Destination lang="EN">Mimasaka, Mimasaka, Japan</Destination>
+		</City>
+		<City id="25372">
+			<Name lang="EN">Minakami</Name>
+			<Region lang="EN">Minakami</Region>
+			<Destination lang="EN">Minakami, Minakami, Japan</Destination>
+		</City>
+		<City id="27357">
+			<Name lang="EN">Minoh</Name>
+			<Region lang="EN">Minoh</Region>
+			<Destination lang="EN">Minoh, Minoh, Japan</Destination>
+		</City>
+		<City id="25424">
+			<Name lang="EN">Mito</Name>
+			<Region lang="EN">Mito</Region>
+			<Destination lang="EN">Mito, Mito, Japan</Destination>
+		</City>
+		<City id="14050">
+			<Name lang="EN">Miyagi</Name>
+			<Region lang="EN">Miyagi</Region>
+			<Destination lang="EN">Miyagi, Miyagi, Japan</Destination>
+		</City>
+		<City id="16523">
+			<Name lang="EN">Miyazaki</Name>
+			<Region lang="EN">Miyazaki</Region>
+			<Destination lang="EN">Miyazaki, Miyazaki, Japan</Destination>
+		</City>
+		<City id="17168">
+			<Name lang="EN">Morioka</Name>
+			<Region lang="EN">Morioka</Region>
+			<Destination lang="EN">Morioka, Morioka, Japan</Destination>
+		</City>
+		<City id="27374">
+			<Name lang="EN">Moriyama</Name>
+			<Region lang="EN">Moriyama</Region>
+			<Destination lang="EN">Moriyama, Moriyama, Japan</Destination>
+		</City>
+		<City id="27488">
+			<Name lang="EN">Musashino</Name>
+			<Region lang="EN">Musashino</Region>
+			<Destination lang="EN">Musashino, Musashino, Japan</Destination>
+		</City>
+		<City id="27840">
+			<Name lang="EN">Nagano</Name>
+			<Region lang="EN">Nagano</Region>
+			<Destination lang="EN">Nagano, Nagano, Japan</Destination>
+		</City>
+		<City id="22033">
+			<Name lang="EN">Nagaoka</Name>
+			<Region lang="EN">Nagaoka</Region>
+			<Destination lang="EN">Nagaoka, Nagaoka, Japan</Destination>
+		</City>
+		<City id="17933">
+			<Name lang="EN">Nagasaki</Name>
+			<Region lang="EN">Nagasaki</Region>
+			<Destination lang="EN">Nagasaki, Nagasaki, Japan</Destination>
+		</City>
+		<City id="27844">
+			<Name lang="EN">Nago</Name>
+			<Region lang="EN">Nago</Region>
+			<Destination lang="EN">Nago, Nago, Japan</Destination>
+		</City>
+		<City id="17934">
+			<Name lang="EN">Nagoya</Name>
+			<Region lang="EN">Nagoya</Region>
+			<Destination lang="EN">Nagoya, Nagoya, Japan</Destination>
+		</City>
+		<City id="27846">
+			<Name lang="EN">Naha</Name>
+			<Region lang="EN">Naha</Region>
+			<Destination lang="EN">Naha, Naha, Japan</Destination>
+		</City>
+		<City id="28102">
+			<Name lang="EN">Nanao</Name>
+			<Region lang="EN">Nanao</Region>
+			<Destination lang="EN">Nanao, Nanao, Japan</Destination>
+		</City>
+		<City id="14065">
+			<Name lang="EN">Narita</Name>
+			<Region lang="EN">Narita</Region>
+			<Destination lang="EN">Narita, Narita, Japan</Destination>
+		</City>
+		<City id="28139">
+			<Name lang="EN">Nasu</Name>
+			<Region lang="EN">Nasu</Region>
+			<Destination lang="EN">Nasu, Nasu, Japan</Destination>
+		</City>
+		<City id="19602">
+			<Name lang="EN">Niigata</Name>
+			<Region lang="EN">Niigata</Region>
+			<Destination lang="EN">Niigata, Niigata, Japan</Destination>
+		</City>
+		<City id="9408">
+			<Name lang="EN">Nikko</Name>
+			<Region lang="EN">Nikko</Region>
+			<Destination lang="EN">Nikko, Nikko, Japan</Destination>
+		</City>
+		<City id="9418">
+			<Name lang="EN">Niseko</Name>
+			<Region lang="EN">Niseko</Region>
+			<Destination lang="EN">Niseko, Niseko, Japan</Destination>
+		</City>
+		<City id="9420">
+			<Name lang="EN">Nishiwaki</Name>
+			<Region lang="EN">Nishiwaki</Region>
+			<Destination lang="EN">Nishiwaki, Nishiwaki, Japan</Destination>
+		</City>
+		<City id="9436">
+			<Name lang="EN">Noboribetsu</Name>
+			<Region lang="EN">Noboribetsu</Region>
+			<Destination lang="EN">Noboribetsu, Noboribetsu, Japan</Destination>
+		</City>
+		<City id="10277">
+			<Name lang="EN">Numazu</Name>
+			<Region lang="EN">Numazu</Region>
+			<Destination lang="EN">Numazu, Numazu, Japan</Destination>
+		</City>
+		<City id="26231">
+			<Name lang="EN">Obihiro</Name>
+			<Region lang="EN">Obihiro</Region>
+			<Destination lang="EN">Obihiro, Obihiro, Japan</Destination>
+		</City>
+		<City id="23021">
+			<Name lang="EN">Odate</Name>
+			<Region lang="EN">Odate</Region>
+			<Destination lang="EN">Odate, Odate, Japan</Destination>
+		</City>
+		<City id="10347">
+			<Name lang="EN">Odawara</Name>
+			<Region lang="EN">Odawara</Region>
+			<Destination lang="EN">Odawara, Odawara, Japan</Destination>
+		</City>
+		<City id="23022">
+			<Name lang="EN">Oga (Japan)</Name>
+			<Region lang="EN">Oga (Japan)</Region>
+			<Destination lang="EN">Oga (Japan), Oga (Japan), Japan</Destination>
+		</City>
+		<City id="23023">
+			<Name lang="EN">Ogaki</Name>
+			<Region lang="EN">Ogaki</Region>
+			<Destination lang="EN">Ogaki, Ogaki, Japan</Destination>
+		</City>
+		<City id="26262">
+			<Name lang="EN">Oita</Name>
+			<Region lang="EN">Oita</Region>
+			<Destination lang="EN">Oita, Oita, Japan</Destination>
+		</City>
+		<City id="23027">
+			<Name lang="EN">Okaya</Name>
+			<Region lang="EN">Okaya</Region>
+			<Destination lang="EN">Okaya, Okaya, Japan</Destination>
+		</City>
+		<City id="26266">
+			<Name lang="EN">Okayama</Name>
+			<Region lang="EN">Okayama</Region>
+			<Destination lang="EN">Okayama, Okayama, Japan</Destination>
+		</City>
+		<City id="26996">
+			<Name lang="EN">Okinawa</Name>
+			<Region lang="EN">Okinawa</Region>
+			<Destination lang="EN">Okinawa, Okinawa, Japan</Destination>
+		</City>
+		<City id="23030">
+			<Name lang="EN">Omachi</Name>
+			<Region lang="EN">Omachi</Region>
+			<Destination lang="EN">Omachi, Omachi, Japan</Destination>
+		</City>
+		<City id="13352">
+			<Name lang="EN">Onna</Name>
+			<Region lang="EN">Onna</Region>
+			<Destination lang="EN">Onna, Onna, Japan</Destination>
+		</City>
+		<City id="21197">
+			<Name lang="EN">Osaka</Name>
+			<Region lang="EN">Osaka</Region>
+			<Destination lang="EN">Osaka, Osaka, Japan</Destination>
+		</City>
+		<City id="14953">
+			<Name lang="EN">Otaru</Name>
+			<Region lang="EN">Otaru</Region>
+			<Destination lang="EN">Otaru, Otaru, Japan</Destination>
+		</City>
+		<City id="14960">
+			<Name lang="EN">Otofuke</Name>
+			<Region lang="EN">Otofuke</Region>
+			<Destination lang="EN">Otofuke, Otofuke, Japan</Destination>
+		</City>
+		<City id="14965">
+			<Name lang="EN">Otsu</Name>
+			<Region lang="EN">Otsu</Region>
+			<Destination lang="EN">Otsu, Otsu, Japan</Destination>
+		</City>
+		<City id="30583">
+			<Name lang="EN">Saga</Name>
+			<Region lang="EN">Saga</Region>
+			<Destination lang="EN">Saga, Saga, Japan</Destination>
+		</City>
+		<City id="506">
+			<Name lang="EN">Sakai</Name>
+			<Region lang="EN">Sakai</Region>
+			<Destination lang="EN">Sakai, Sakai, Japan</Destination>
+		</City>
+		<City id="6128">
+			<Name lang="EN">Sanda</Name>
+			<Region lang="EN">Sanda</Region>
+			<Destination lang="EN">Sanda, Sanda, Japan</Destination>
+		</City>
+		<City id="28553">
+			<Name lang="EN">Sapporo</Name>
+			<Region lang="EN">Sapporo</Region>
+			<Destination lang="EN">Sapporo, Sapporo, Japan</Destination>
+		</City>
+		<City id="4365">
+			<Name lang="EN">Sasebo</Name>
+			<Region lang="EN">Sasebo</Region>
+			<Destination lang="EN">Sasebo, Sasebo, Japan</Destination>
+		</City>
+		<City id="34114">
+			<Name lang="EN">Senboku</Name>
+			<Region lang="EN">Senboku</Region>
+			<Destination lang="EN">Senboku, Senboku, Japan</Destination>
+		</City>
+		<City id="5594">
+			<Name lang="EN">Sendai</Name>
+			<Region lang="EN">Sendai</Region>
+			<Destination lang="EN">Sendai, Sendai, Japan</Destination>
+		</City>
+		<City id="27565">
+			<Name lang="EN">Shari</Name>
+			<Region lang="EN">Shari</Region>
+			<Destination lang="EN">Shari, Shari, Japan</Destination>
+		</City>
+		<City id="902">
+			<Name lang="EN">Shika</Name>
+			<Region lang="EN">Shika</Region>
+			<Destination lang="EN">Shika, Shika, Japan</Destination>
+		</City>
+		<City id="910">
+			<Name lang="EN">Shimonoseki</Name>
+			<Region lang="EN">Shimonoseki</Region>
+			<Destination lang="EN">Shimonoseki, Shimonoseki, Japan</Destination>
+		</City>
+		<City id="27856">
+			<Name lang="EN">Shimukappu</Name>
+			<Region lang="EN">Shimukappu</Region>
+			<Destination lang="EN">Shimukappu, Shimukappu, Japan</Destination>
+		</City>
+		<City id="914">
+			<Name lang="EN">Shirahama</Name>
+			<Region lang="EN">Shirahama</Region>
+			<Destination lang="EN">Shirahama, Shirahama, Japan</Destination>
+		</City>
+		<City id="918">
+			<Name lang="EN">Shizukuishi</Name>
+			<Region lang="EN">Shizukuishi</Region>
+			<Destination lang="EN">Shizukuishi, Shizukuishi, Japan</Destination>
+		</City>
+		<City id="27869">
+			<Name lang="EN">Sobetsu</Name>
+			<Region lang="EN">Sobetsu</Region>
+			<Destination lang="EN">Sobetsu, Sobetsu, Japan</Destination>
+		</City>
+		<City id="5193">
+			<Name lang="EN">Suita</Name>
+			<Region lang="EN">Suita</Region>
+			<Destination lang="EN">Suita, Suita, Japan</Destination>
+		</City>
+		<City id="132">
+			<Name lang="EN">Takamatsu</Name>
+			<Region lang="EN">Takamatsu</Region>
+			<Destination lang="EN">Takamatsu, Takamatsu, Japan</Destination>
+		</City>
+		<City id="23557">
+			<Name lang="EN">Takaoka</Name>
+			<Region lang="EN">Takaoka</Region>
+			<Destination lang="EN">Takaoka, Takaoka, Japan</Destination>
+		</City>
+		<City id="726">
+			<Name lang="EN">Takayama</Name>
+			<Region lang="EN">Takayama</Region>
+			<Destination lang="EN">Takayama, Takayama, Japan</Destination>
+		</City>
+		<City id="23560">
+			<Name lang="EN">Takeo</Name>
+			<Region lang="EN">Takeo</Region>
+			<Destination lang="EN">Takeo, Takeo, Japan</Destination>
+		</City>
+		<City id="23562">
+			<Name lang="EN">Tama</Name>
+			<Region lang="EN">Tama</Region>
+			<Destination lang="EN">Tama, Tama, Japan</Destination>
+		</City>
+		<City id="23575">
+			<Name lang="EN">Tendo</Name>
+			<Region lang="EN">Tendo</Region>
+			<Destination lang="EN">Tendo, Tendo, Japan</Destination>
+		</City>
+		<City id="23585">
+			<Name lang="EN">Tokoname</Name>
+			<Region lang="EN">Tokoname</Region>
+			<Destination lang="EN">Tokoname, Tokoname, Japan</Destination>
+		</City>
+		<City id="29777">
+			<Name lang="EN">Tokushima</Name>
+			<Region lang="EN">Tokushima</Region>
+			<Destination lang="EN">Tokushima, Tokushima, Japan</Destination>
+		</City>
+		<City id="29778">
+			<Name lang="EN">Tokyo</Name>
+			<Region lang="EN">Tokyo</Region>
+			<Destination lang="EN">Tokyo, Tokyo, Japan</Destination>
+		</City>
+		<City id="29815">
+			<Name lang="EN">Tottori</Name>
+			<Region lang="EN">Tottori</Region>
+			<Destination lang="EN">Tottori, Tottori, Japan</Destination>
+		</City>
+		<City id="23593">
+			<Name lang="EN">Toyako</Name>
+			<Region lang="EN">Toyako</Region>
+			<Destination lang="EN">Toyako, Toyako, Japan</Destination>
+		</City>
+		<City id="29822">
+			<Name lang="EN">Toyama</Name>
+			<Region lang="EN">Toyama</Region>
+			<Destination lang="EN">Toyama, Toyama, Japan</Destination>
+		</City>
+		<City id="2484">
+			<Name lang="EN">Toyohashi</Name>
+			<Region lang="EN">Toyohashi</Region>
+			<Destination lang="EN">Toyohashi, Toyohashi, Japan</Destination>
+		</City>
+		<City id="34276">
+			<Name lang="EN">Tsu</Name>
+			<Region lang="EN">Tsu</Region>
+			<Destination lang="EN">Tsu, Tsu, Japan</Destination>
+		</City>
+		<City id="3372">
+			<Name lang="EN">Tsukuba</Name>
+			<Region lang="EN">Tsukuba</Region>
+			<Destination lang="EN">Tsukuba, Tsukuba, Japan</Destination>
+		</City>
+		<City id="23601">
+			<Name lang="EN">Tsumagoi</Name>
+			<Region lang="EN">Tsumagoi</Region>
+			<Destination lang="EN">Tsumagoi, Tsumagoi, Japan</Destination>
+		</City>
+		<City id="30736">
+			<Name lang="EN">Ube (Japan)</Name>
+			<Region lang="EN">Ube (Japan)</Region>
+			<Destination lang="EN">Ube (Japan), Ube (Japan), Japan</Destination>
+		</City>
+		<City id="300">
+			<Name lang="EN">Ueda</Name>
+			<Region lang="EN">Ueda</Region>
+			<Destination lang="EN">Ueda, Ueda, Japan</Destination>
+		</City>
+		<City id="2876">
+			<Name lang="EN">Unzen</Name>
+			<Region lang="EN">Unzen</Region>
+			<Destination lang="EN">Unzen, Unzen, Japan</Destination>
+		</City>
+		<City id="2888">
+			<Name lang="EN">Urayasu</Name>
+			<Region lang="EN">Urayasu</Region>
+			<Destination lang="EN">Urayasu, Urayasu, Japan</Destination>
+		</City>
+		<City id="30974">
+			<Name lang="EN">Wakkanai</Name>
+			<Region lang="EN">Wakkanai</Region>
+			<Destination lang="EN">Wakkanai, Wakkanai, Japan</Destination>
+		</City>
+		<City id="31169">
+			<Name lang="EN">Yakushima</Name>
+			<Region lang="EN">Yakushima</Region>
+			<Destination lang="EN">Yakushima, Yakushima, Japan</Destination>
+		</City>
+		<City id="31177">
+			<Name lang="EN">Yamagata</Name>
+			<Region lang="EN">Yamagata</Region>
+			<Destination lang="EN">Yamagata, Yamagata, Japan</Destination>
+		</City>
+		<City id="23642">
+			<Name lang="EN">Yamanakako</Name>
+			<Region lang="EN">Yamanakako</Region>
+			<Destination lang="EN">Yamanakako, Yamanakako, Japan</Destination>
+		</City>
+		<City id="23644">
+			<Name lang="EN">Yatsushiro</Name>
+			<Region lang="EN">Yatsushiro</Region>
+			<Destination lang="EN">Yatsushiro, Yatsushiro, Japan</Destination>
+		</City>
+		<City id="3163">
+			<Name lang="EN">Yokkaichi</Name>
+			<Region lang="EN">Yokkaichi</Region>
+			<Destination lang="EN">Yokkaichi, Yokkaichi, Japan</Destination>
+		</City>
+		<City id="31226">
+			<Name lang="EN">Yokohama</Name>
+			<Region lang="EN">Yokohama</Region>
+			<Destination lang="EN">Yokohama, Yokohama, Japan</Destination>
+		</City>
+		<City id="3166">
+			<Name lang="EN">Yomitan</Name>
+			<Region lang="EN">Yomitan</Region>
+			<Destination lang="EN">Yomitan, Yomitan, Japan</Destination>
+		</City>
+		<City id="31228">
+			<Name lang="EN">Yonago</Name>
+			<Region lang="EN">Yonago</Region>
+			<Destination lang="EN">Yonago, Yonago, Japan</Destination>
+		</City>
+		<City id="26863">
+			<Name lang="EN">Yubari</Name>
+			<Region lang="EN">Yubari</Region>
+			<Destination lang="EN">Yubari, Yubari, Japan</Destination>
+		</City>
+		<City id="26864">
+			<Name lang="EN">Yufu</Name>
+			<Region lang="EN">Yufu</Region>
+			<Destination lang="EN">Yufu, Yufu, Japan</Destination>
+		</City>
+		<City id="3202">
+			<Name lang="EN">Yuzawa</Name>
+			<Region lang="EN">Yuzawa</Region>
+			<Destination lang="EN">Yuzawa, Yuzawa, Japan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

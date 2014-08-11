@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336522" resultcode="0" message="" >
+				<Name><![CDATA[CACIQUE INACAYAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  JUAN MANUEL DE ROSAS 625,]]></Address1>
+					<Address2><![CDATA[R8400ADG, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>R8400ADG</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.132496</Latitude>
+					<Longitude>-71.31932</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange and Vehicle Rental.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange and Vehicle Rental.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4388/37124388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4389/37124389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4390/37124390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4391/37124391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4392/37124392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4393/37124393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4394/37124394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4395/37124395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4396/37124396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4397/37124397.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4398/37124398.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4399/37124399.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4400/37124400.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4401/37124401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4402/37124402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4403/37124403.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 2944 433888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

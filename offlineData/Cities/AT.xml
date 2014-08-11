@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AT">
+		<City id="25112"> 
+			<Name lang="EN">Axams</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Axams, Tyrol, Austria</Destination>
+		</City>
+		<City id="13407">
+			<Name lang="EN">Bad Gastein</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Bad Gastein, Salzburg, Austria</Destination>
+		</City>
+		<City id="13415">
+			<Name lang="EN">Bad Ischl</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">Bad Ischl, Upper Austria, Austria</Destination>
+		</City>
+		<City id="26673">
+			<Name lang="EN">Baden</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">Baden, Lower Austria, Austria</Destination>
+		</City>
+		<City id="15952">
+			<Name lang="EN">Bruck an der Glocknerstrasse</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Bruck an der Glocknerstrasse, Salzburg, Austria</Destination>
+		</City>
+		<City id="13121">
+			<Name lang="EN">Brunn am Gebirge</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">Brunn am Gebirge, Lower Austria, Austria</Destination>
+		</City>
+		<City id="20157">
+			<Name lang="EN">Duernstein</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">Duernstein, Lower Austria, Austria</Destination>
+		</City>
+		<City id="25219">
+			<Name lang="EN">Eisenstadt</Name>
+			<Region lang="EN">Burgenland</Region>
+			<Destination lang="EN">Eisenstadt, Burgenland, Austria</Destination>
+		</City>
+		<City id="15204">
+			<Name lang="EN">Fieberbrunn</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Fieberbrunn, Tyrol, Austria</Destination>
+		</City>
+		<City id="22747">
+			<Name lang="EN">Gosau</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">Gosau, Upper Austria, Austria</Destination>
+		</City>
+		<City id="16157">
+			<Name lang="EN">Graz</Name>
+			<Region lang="EN">Styria</Region>
+			<Destination lang="EN">Graz, Styria, Austria</Destination>
+		</City>
+		<City id="28916">
+			<Name lang="EN">Hallstatt</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">Hallstatt, Upper Austria, Austria</Destination>
+		</City>
+		<City id="28948">
+			<Name lang="EN">Heiligenblut</Name>
+			<Region lang="EN">Carinthia</Region>
+			<Destination lang="EN">Heiligenblut, Carinthia, Austria</Destination>
+		</City>
+		<City id="29203">
+			<Name lang="EN">Hof bei Salzburg</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Hof bei Salzburg, Salzburg, Austria</Destination>
+		</City>
+		<City id="29262">
+			<Name lang="EN">Imst</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Imst, Tyrol, Austria</Destination>
+		</City>
+		<City id="15088">
+			<Name lang="EN">Innsbruck</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Innsbruck, Tyrol, Austria</Destination>
+		</City>
+		<City id="30040">
+			<Name lang="EN">Kaprun</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Kaprun, Salzburg, Austria</Destination>
+		</City>
+		<City id="1042">
+			<Name lang="EN">Kitzbühel</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Kitzbühel, Tyrol, Austria</Destination>
+		</City>
+		<City id="8691">
+			<Name lang="EN">Klagenfurt</Name>
+			<Region lang="EN">Carinthia</Region>
+			<Destination lang="EN">Klagenfurt, Carinthia, Austria</Destination>
+		</City>
+		<City id="30182">
+			<Name lang="EN">Krems an der Donau</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">Krems an der Donau, Lower Austria, Austria</Destination>
+		</City>
+		<City id="11523">
+			<Name lang="EN">Leoben</Name>
+			<Region lang="EN">Styria</Region>
+			<Destination lang="EN">Leoben, Styria, Austria</Destination>
+		</City>
+		<City id="10709">
+			<Name lang="EN">Linz</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">Linz, Upper Austria, Austria</Destination>
+		</City>
+		<City id="1402">
+			<Name lang="EN">Lochau</Name>
+			<Region lang="EN">Vorarlberg</Region>
+			<Destination lang="EN">Lochau, Vorarlberg, Austria</Destination>
+		</City>
+		<City id="11770">
+			<Name lang="EN">Mayrhofen</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Mayrhofen, Tyrol, Austria</Destination>
+		</City>
+		<City id="19245">
+			<Name lang="EN">MondSee</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">MondSee, Upper Austria, Austria</Destination>
+		</City>
+		<City id="36617">
+			<Name lang="EN">Mutters</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Mutters, Tyrol, Austria</Destination>
+		</City>
+		<City id="26640">
+			<Name lang="EN">Obergurgl</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Obergurgl, Tyrol, Austria</Destination>
+		</City>
+		<City id="1282">
+			<Name lang="EN">Portschach</Name>
+			<Region lang="EN">Carinthia</Region>
+			<Destination lang="EN">Portschach, Carinthia, Austria</Destination>
+		</City>
+		<City id="5513">
+			<Name lang="EN">Salzburg</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Salzburg, Salzburg, Austria</Destination>
+		</City>
+		<City id="4721">
+			<Name lang="EN">Schladming</Name>
+			<Region lang="EN">Styria</Region>
+			<Destination lang="EN">Schladming, Styria, Austria</Destination>
+		</City>
+		<City id="4994">
+			<Name lang="EN">Seefeld</Name>
+			<Region lang="EN">Tyrol</Region>
+			<Destination lang="EN">Seefeld, Tyrol, Austria</Destination>
+		</City>
+		<City id="4449">
+			<Name lang="EN">St Polten</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">St Polten, Lower Austria, Austria</Destination>
+		</City>
+		<City id="26818">
+			<Name lang="EN">St Wolfgang</Name>
+			<Region lang="EN">Upper Austria</Region>
+			<Destination lang="EN">St Wolfgang, Upper Austria, Austria</Destination>
+		</City>
+		<City id="458">
+			<Name lang="EN">Vienna</Name>
+			<Region lang="EN">Vienna</Region>
+			<Destination lang="EN">Vienna, Vienna, Austria</Destination>
+		</City>
+		<City id="1490">
+			<Name lang="EN">Villach</Name>
+			<Region lang="EN">Carinthia</Region>
+			<Destination lang="EN">Villach, Carinthia, Austria</Destination>
+		</City>
+		<City id="2057">
+			<Name lang="EN">Vosendorf</Name>
+			<Region lang="EN">Lower Austria</Region>
+			<Destination lang="EN">Vosendorf, Lower Austria, Austria</Destination>
+		</City>
+		<City id="3274">
+			<Name lang="EN">Zell am See</Name>
+			<Region lang="EN">Salzburg</Region>
+			<Destination lang="EN">Zell am See, Salzburg, Austria</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

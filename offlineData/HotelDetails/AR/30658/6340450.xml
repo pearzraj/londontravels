@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340450" resultcode="0" message="" >
+				<Name><![CDATA[CRANS MONTANA]]></Name>
+				<Address>
+					<Address1><![CDATA[  PALACIOS 140,]]></Address1>
+					<Address2><![CDATA[84000, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>84000</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.13248</Latitude>
+					<Longitude>-71.30406</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3820/37103820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3821/37103821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3822/37103822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3799/37103799.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3800/37103800.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3801/37103801.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3802/37103802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3803/37103803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3804/37103804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3805/37103805.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3806/37103806.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3807/37103807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3808/37103808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3809/37103809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3810/37103810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3811/37103811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3812/37103812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3813/37103813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3814/37103814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3815/37103815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3816/37103816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3817/37103817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3818/37103818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3819/37103819.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(54) 0294 - 4421660 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

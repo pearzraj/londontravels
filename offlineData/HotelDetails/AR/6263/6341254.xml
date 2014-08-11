@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341254" resultcode="0" message="" >
+				<Name><![CDATA[GRAND BOULEVARD HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[   Bernardo De Irigoyen 432,]]></Address1>
+					<Address2><![CDATA[C1072AAJ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1072AAJ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.613396</Latitude>
+					<Longitude>-58.380463</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42671_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3422/37303422.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3423/37303423.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3424/37303424.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3425/37303425.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3426/37303426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3427/37303427.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3428/37303428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3429/37303429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3430/37303430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3431/37303431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3432/37303432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3433/37303433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3434/37303434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3435/37303435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3436/37303436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3437/37303437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3438/37303438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3439/37303439.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541152229010]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541152229000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

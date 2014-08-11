@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334768" resultcode="0" message="" >
+				<Name><![CDATA[FLORIS SUITE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piscadera Bay,]]></Address1>
+					<Address2><![CDATA[1, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.12018</Latitude>
+					<Longitude>-68.95084</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6558/37156558.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6559/37156559.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6560/37156560.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6561/37156561.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6562/37156562.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6563/37156563.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6564/37156564.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6565/37156565.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6566/37156566.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6567/37156567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6568/37156568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6569/37156569.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6570/37156570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6571/37156571.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6572/37156572.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6573/37156573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6574/37156574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6575/37156575.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6576/37156576.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6577/37156577.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6578/37156578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6579/37156579.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6580/37156580.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6581/37156581.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 5999 462 1655]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 5999 462 6111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

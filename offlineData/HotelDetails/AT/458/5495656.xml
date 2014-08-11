@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495656" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE GRAND HOTEL BIEDERMEIER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Landstrasser Hauptstrasse,28]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.203884</Latitude>
+					<Longitude>16.388683</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Multilingual Personnel, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Multilingual Personnel, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9179/37259179.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9180/37259180.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9181/37259181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9182/37259182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9183/37259183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9184/37259184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9185/37259185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9186/37259186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9187/37259187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9188/37259188.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01007_12_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 7167 1503]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 716 710 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340779" resultcode="0" message="" >
+				<Name><![CDATA[MVC EAGLE BEACH ARUBA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Irausquin Boulevard 240,]]></Address1>
+					<Address2><![CDATA[1, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.547191</Latitude>
+					<Longitude>-70.05295</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/755/37110755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/756/37110756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/757/37110757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/748/37110748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/749/37110749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/750/37110750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/751/37110751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/752/37110752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/753/37110753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/754/37110754.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 587 0117]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 587 0110 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

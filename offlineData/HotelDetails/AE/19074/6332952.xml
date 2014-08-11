@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332952" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA DEIRA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salahuddin Road Deira,]]></Address1>
+					<Address2><![CDATA[8668, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>8668</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.26944</Latitude>
+					<Longitude>55.30865</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9471/37099471.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9472/37099472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9473/37099473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9474/37099474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9475/37099475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9476/37099476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9477/37099477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9478/37099478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9479/37099479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9480/37099480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9481/37099481.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9464/37099464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9465/37099465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9466/37099466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9467/37099467.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9468/37099468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9469/37099469.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9470/37099470.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9482/37099482.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9483/37099483.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_40.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07630_1_40.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097142697358]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142625555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494133" resultcode="0" message="" >
+				<Name><![CDATA[URBAN SUITES RECOLETA BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Junin 1727,]]></Address1>
+					<Address2><![CDATA[1113, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1113</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59501</Latitude>
+					<Longitude>-58.39437</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Safe in Reception and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6608/32606608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6609/32606609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6610/32606610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6611/32606611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6612/32606612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6613/32606613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6614/32606614.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9993/37679993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9994/37679994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9995/37679995.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9996/37679996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9997/37679997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9998/37679998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9999/37679999.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4803 2700]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4803 2300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

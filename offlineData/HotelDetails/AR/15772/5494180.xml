@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494180" resultcode="0" message="" >
+				<Name><![CDATA[ACONCAGUA HOTEL AND CONVENTION CENTER]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Lorenzo 545,]]></Address1>
+					<Address2><![CDATA[M5500GFK, Mendoza, Argentina]]></Address2>
+					<PostalCode>M5500GFK</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.8962</Latitude>
+					<Longitude>-68.8121</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7004/32607004.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7005/32607005.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7006/32607006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6983/32606983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6984/32606984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6985/32606985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6998/32606998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6999/32606999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6986/32606986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6987/32606987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6988/32606988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7000/32607000.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7001/32607001.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7002/32607002.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7003/32607003.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6989/32606989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6990/32606990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6991/32606991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6992/32606992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6993/32606993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6994/32606994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6995/32606995.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6996/32606996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6997/32606997.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5235 7238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

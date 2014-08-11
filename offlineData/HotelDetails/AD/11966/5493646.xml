@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493646" resultcode="0" message="" >
+				<Name><![CDATA[COMTES D' URGELL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. de les Escoles,29]]></Address1>
+					<Address2><![CDATA[AD700, Escaldes-Engordany, Andorra]]></Address2>
+					<PostalCode>AD700</PostalCode>
+					<CityCode>59325</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Escaldes-Engordany]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.51027</Latitude>
+					<Longitude>1.54101</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Bathtub, Shower with Curtain and Safe , and among our services and facilities available we have Lifts, Cot, Games Room and Bar Cafeteria. We also have Multilingual Personnel, Porters, Tourist Information and Garage.  Activities and relax: . Cuisine: Mediterranean. Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The COMTES D' URGELL HOTEL offers traditional mountain hospitality and is also the perfect place to spend a holiday in the snow. It's 170 rooms  offer a pleasant environment in which to rest after a day full of excitement. Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  We offer Breakfast Service and Dinner Service. A bellboy service is available to guests. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The COMTES D' URGELL HOTEL offers traditional mountain hospitality and is also the perfect place to spend a holiday in the snow. It's 170 rooms  offer a pleasant environment in which to rest after a day full of excitement. Spaces that invite guests to chat and relax add the finishing touch to the peaceful hotel.  We offer Breakfast Service and Dinner Service. A bellboy service is available to guests. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Bathtub, Shower with Curtain and Safe , and among our services and facilities available we have Lifts, Cot, Games Room and Bar Cafeteria. We also have Multilingual Personnel, Porters, Tourist Information and Garage.  Activities and relax: . Cuisine: Mediterranean. Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Kitchen]]></Name>
+						<Description><![CDATA[Mediterranean]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Lounges]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Lunch Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Restaurant Bookings]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2540/32602540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2541/32602541.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2542/32602542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2543/32602543.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2528/32602528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2529/32602529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2530/32602530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2531/32602531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2532/32602532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2533/32602533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2534/32602534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2539/32602539.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2535/32602535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2536/32602536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2537/32602537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2538/32602538.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376820465]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376 804200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

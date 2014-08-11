@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCountriesRS Version="1">
+ 	<Success />
+	<Countries>
+		<Country code="AD"> 
+			<Name lang="EN">Andorra</Name>
+		</Country>
+		<Country code="AE">
+			<Name lang="EN">United Arab Emirates</Name>
+		</Country>
+		<Country code="AG">
+			<Name lang="EN">Antigua and Barbuda</Name>
+		</Country>
+		<Country code="AL">
+			<Name lang="EN">Albania</Name>
+		</Country>
+		<Country code="AM">
+			<Name lang="EN">Armenia</Name>
+		</Country>
+		<Country code="AN">
+			<Name lang="EN">Netherlands Antilles</Name>
+		</Country>
+		<Country code="AO">
+			<Name lang="EN">Angola</Name>
+		</Country>
+		<Country code="AR">
+			<Name lang="EN">Argentina</Name>
+		</Country>
+		<Country code="AT">
+			<Name lang="EN">Austria</Name>
+		</Country>
+		<Country code="AU">
+			<Name lang="EN">Australia</Name>
+		</Country>
+		<Country code="AW">
+			<Name lang="EN">Aruba</Name>
+		</Country>
+		<Country code="AZ">
+			<Name lang="EN">Azerbaijan</Name>
+		</Country>
+		<Country code="BA">
+			<Name lang="EN">Bosnia Herzegovina</Name>
+		</Country>
+		<Country code="BB">
+			<Name lang="EN">Barbados</Name>
+		</Country>
+		<Country code="BD">
+			<Name lang="EN">Bangladesh</Name>
+		</Country>
+		<Country code="BE">
+			<Name lang="EN">Belgium</Name>
+		</Country>
+		<Country code="BG">
+			<Name lang="EN">Bulgaria</Name>
+		</Country>
+		<Country code="BH">
+			<Name lang="EN">Bahrain</Name>
+		</Country>
+		<Country code="BM">
+			<Name lang="EN">Bermuda</Name>
+		</Country>
+		<Country code="BN">
+			<Name lang="EN">Brunei Darussalam</Name>
+		</Country>
+		<Country code="BO">
+			<Name lang="EN">Bolivia</Name>
+		</Country>
+		<Country code="BR">
+			<Name lang="EN">Brazil</Name>
+		</Country>
+		<Country code="BS">
+			<Name lang="EN">Bahamas</Name>
+		</Country>
+		<Country code="BY">
+			<Name lang="EN">Belarus</Name>
+		</Country>
+		<Country code="BZ">
+			<Name lang="EN">Belize</Name>
+		</Country>
+		<Country code="CA">
+			<Name lang="EN">Canada</Name>
+		</Country>
+		<Country code="CH">
+			<Name lang="EN">Switzerland</Name>
+		</Country>
+		<Country code="CL">
+			<Name lang="EN">Chile</Name>
+		</Country>
+		<Country code="CN">
+			<Name lang="EN">China</Name>
+		</Country>
+		<Country code="CO">
+			<Name lang="EN">Colombia</Name>
+		</Country>
+		<Country code="CR">
+			<Name lang="EN">Costa Rica</Name>
+		</Country>
+		<Country code="CU">
+			<Name lang="EN">Cuba</Name>
+		</Country>
+		<Country code="CV">
+			<Name lang="EN">Cape Verde</Name>
+		</Country>
+		<Country code="CY">
+			<Name lang="EN">Cyprus</Name>
+		</Country>
+		<Country code="CZ">
+			<Name lang="EN">Czech Republic</Name>
+		</Country>
+		<Country code="DE">
+			<Name lang="EN">Germany,Federal Republic of</Name>
+		</Country>
+		<Country code="DK">
+			<Name lang="EN">Denmark</Name>
+		</Country>
+		<Country code="DO">
+			<Name lang="EN">Dominican Republic</Name>
+		</Country>
+		<Country code="DZ">
+			<Name lang="EN">Algeria</Name>
+		</Country>
+		<Country code="EC">
+			<Name lang="EN">Ecuador</Name>
+		</Country>
+		<Country code="EE">
+			<Name lang="EN">Estonia</Name>
+		</Country>
+		<Country code="EG">
+			<Name lang="EN">Egypt</Name>
+		</Country>
+		<Country code="ES">
+			<Name lang="EN">Spain</Name>
+		</Country>
+		<Country code="ET">
+			<Name lang="EN">Ethiopia</Name>
+		</Country>
+		<Country code="FI">
+			<Name lang="EN">Finland</Name>
+		</Country>
+		<Country code="FR">
+			<Name lang="EN">France</Name>
+		</Country>
+		<Country code="GB">
+			<Name lang="EN">United Kingdom</Name>
+		</Country>
+		<Country code="GE">
+			<Name lang="EN">Georgia</Name>
+		</Country>
+		<Country code="GH">
+			<Name lang="EN">Ghana</Name>
+		</Country>
+		<Country code="GI">
+			<Name lang="EN">Gibraltar</Name>
+		</Country>
+		<Country code="GP">
+			<Name lang="EN">Guadeloupe</Name>
+		</Country>
+		<Country code="GR">
+			<Name lang="EN">Greece</Name>
+		</Country>
+		<Country code="GT">
+			<Name lang="EN">Guatemala</Name>
+		</Country>
+		<Country code="HK">
+			<Name lang="EN">Hong Kong SAR, China</Name>
+		</Country>
+		<Country code="HN">
+			<Name lang="EN">Honduras</Name>
+		</Country>
+		<Country code="HR">
+			<Name lang="EN">Croatia</Name>
+		</Country>
+		<Country code="HU">
+			<Name lang="EN">Hungary</Name>
+		</Country>
+		<Country code="ID">
+			<Name lang="EN">Indonesia</Name>
+		</Country>
+		<Country code="IE">
+			<Name lang="EN">Ireland</Name>
+		</Country>
+		<Country code="IL">
+			<Name lang="EN">Israel</Name>
+		</Country>
+		<Country code="IN">
+			<Name lang="EN">India</Name>
+		</Country>
+		<Country code="IR">
+			<Name lang="EN">Iran</Name>
+		</Country>
+		<Country code="IS">
+			<Name lang="EN">Iceland</Name>
+		</Country>
+		<Country code="IT">
+			<Name lang="EN">Italy</Name>
+		</Country>
+		<Country code="JM">
+			<Name lang="EN">Jamaica</Name>
+		</Country>
+		<Country code="JO">
+			<Name lang="EN">Jordan</Name>
+		</Country>
+		<Country code="JP">
+			<Name lang="EN">Japan</Name>
+		</Country>
+		<Country code="KE">
+			<Name lang="EN">Kenya</Name>
+		</Country>
+		<Country code="KH">
+			<Name lang="EN">Cambodia</Name>
+		</Country>
+		<Country code="KN">
+			<Name lang="EN">St. Christopher-Nevis</Name>
+		</Country>
+		<Country code="KR">
+			<Name lang="EN">Korea,Republic of</Name>
+		</Country>
+		<Country code="KW">
+			<Name lang="EN">Kuwait</Name>
+		</Country>
+		<Country code="KY">
+			<Name lang="EN">Cayman Islands</Name>
+		</Country>
+		<Country code="LA">
+			<Name lang="EN">Lao People's Democratic Republic</Name>
+		</Country>
+		<Country code="LB">
+			<Name lang="EN">Lebanon</Name>
+		</Country>
+		<Country code="LC">
+			<Name lang="EN">St. Lucia</Name>
+		</Country>
+		<Country code="LK">
+			<Name lang="EN">Sri Lanka</Name>
+		</Country>
+		<Country code="LT">
+			<Name lang="EN">Lithuania</Name>
+		</Country>
+		<Country code="LU">
+			<Name lang="EN">Luxembourg</Name>
+		</Country>
+		<Country code="LV">
+			<Name lang="EN">Latvia</Name>
+		</Country>
+		<Country code="MA">
+			<Name lang="EN">Morocco</Name>
+		</Country>
+		<Country code="MC">
+			<Name lang="EN">Monaco</Name>
+		</Country>
+		<Country code="MD">
+			<Name lang="EN">Moldova</Name>
+		</Country>
+		<Country code="ME">
+			<Name lang="EN">Montenegro</Name>
+		</Country>
+		<Country code="MK">
+			<Name lang="EN">Macedonia</Name>
+		</Country>
+		<Country code="MM">
+			<Name lang="EN">Myanmar,Union of</Name>
+		</Country>
+		<Country code="MO">
+			<Name lang="EN">Macau</Name>
+		</Country>
+		<Country code="MQ">
+			<Name lang="EN">Martinique</Name>
+		</Country>
+		<Country code="MT">
+			<Name lang="EN">Malta</Name>
+		</Country>
+		<Country code="MU">
+			<Name lang="EN">Mauritius</Name>
+		</Country>
+		<Country code="MV">
+			<Name lang="EN">Maldives</Name>
+		</Country>
+		<Country code="MX">
+			<Name lang="EN">Mexico</Name>
+		</Country>
+		<Country code="MY">
+			<Name lang="EN">Malaysia</Name>
+		</Country>
+		<Country code="MZ">
+			<Name lang="EN">Mozambique</Name>
+		</Country>
+		<Country code="NG">
+			<Name lang="EN">Nigeria</Name>
+		</Country>
+		<Country code="NI">
+			<Name lang="EN">Nicaragua</Name>
+		</Country>
+		<Country code="NL">
+			<Name lang="EN">Netherlands</Name>
+		</Country>
+		<Country code="NO">
+			<Name lang="EN">Norway</Name>
+		</Country>
+		<Country code="NP">
+			<Name lang="EN">Nepal</Name>
+		</Country>
+		<Country code="NZ">
+			<Name lang="EN">New Zealand</Name>
+		</Country>
+		<Country code="OM">
+			<Name lang="EN">Oman</Name>
+		</Country>
+		<Country code="PA">
+			<Name lang="EN">Panama</Name>
+		</Country>
+		<Country code="PE">
+			<Name lang="EN">Peru</Name>
+		</Country>
+		<Country code="PF">
+			<Name lang="EN">French Polynesia</Name>
+		</Country>
+		<Country code="PH">
+			<Name lang="EN">Philippines</Name>
+		</Country>
+		<Country code="PK">
+			<Name lang="EN">Pakistan</Name>
+		</Country>
+		<Country code="PL">
+			<Name lang="EN">Poland</Name>
+		</Country>
+		<Country code="PR">
+			<Name lang="EN">Puerto Rico</Name>
+		</Country>
+		<Country code="PT">
+			<Name lang="EN">Portugal</Name>
+		</Country>
+		<Country code="PY">
+			<Name lang="EN">Paraguay</Name>
+		</Country>
+		<Country code="QA">
+			<Name lang="EN">Qatar</Name>
+		</Country>
+		<Country code="RO">
+			<Name lang="EN">Romania</Name>
+		</Country>
+		<Country code="RS">
+			<Name lang="EN">Serbia</Name>
+		</Country>
+		<Country code="RU">
+			<Name lang="EN">Russian Federation</Name>
+		</Country>
+		<Country code="SA">
+			<Name lang="EN">Saudi Arabia</Name>
+		</Country>
+		<Country code="SC">
+			<Name lang="EN">Seychelles</Name>
+		</Country>
+		<Country code="SD">
+			<Name lang="EN">Sudan</Name>
+		</Country>
+		<Country code="SE">
+			<Name lang="EN">Sweden</Name>
+		</Country>
+		<Country code="SG">
+			<Name lang="EN">Singapore</Name>
+		</Country>
+		<Country code="SI">
+			<Name lang="EN">Slovenia</Name>
+		</Country>
+		<Country code="SK">
+			<Name lang="EN">Slovakia</Name>
+		</Country>
+		<Country code="SM">
+			<Name lang="EN">San Marino</Name>
+		</Country>
+		<Country code="SN">
+			<Name lang="EN">Senegal</Name>
+		</Country>
+		<Country code="SX">
+			<Name lang="EN">Sint Maarten</Name>
+		</Country>
+		<Country code="SY">
+			<Name lang="EN">Syrian Arab Republic</Name>
+		</Country>
+		<Country code="TG">
+			<Name lang="EN">Togo</Name>
+		</Country>
+		<Country code="TH">
+			<Name lang="EN">Thailand</Name>
+		</Country>
+		<Country code="TN">
+			<Name lang="EN">Tunisia</Name>
+		</Country>
+		<Country code="TR">
+			<Name lang="EN">Turkey</Name>
+		</Country>
+		<Country code="TT">
+			<Name lang="EN">Trinidad and Tobago</Name>
+		</Country>
+		<Country code="TW">
+			<Name lang="EN">Taiwan,Republic of China</Name>
+		</Country>
+		<Country code="TZ">
+			<Name lang="EN">Tanzania</Name>
+		</Country>
+		<Country code="UA">
+			<Name lang="EN">Ukraine</Name>
+		</Country>
+		<Country code="UG">
+			<Name lang="EN">Uganda</Name>
+		</Country>
+		<Country code="US">
+			<Name lang="EN">United States</Name>
+		</Country>
+		<Country code="UY">
+			<Name lang="EN">Uruguay</Name>
+		</Country>
+		<Country code="UZ">
+			<Name lang="EN">Uzbekistan</Name>
+		</Country>
+		<Country code="VC">
+			<Name lang="EN">St. Vincent and the Grenadines</Name>
+		</Country>
+		<Country code="VE">
+			<Name lang="EN">Venezuela</Name>
+		</Country>
+		<Country code="VG">
+			<Name lang="EN">British Virgin Islands</Name>
+		</Country>
+		<Country code="VI">
+			<Name lang="EN">Virgin Islands,United States</Name>
+		</Country>
+		<Country code="VN">
+			<Name lang="EN">Viet Nam</Name>
+		</Country>
+		<Country code="YE">
+			<Name lang="EN">Yemen,Republic of</Name>
+		</Country>
+		<Country code="ZA">
+			<Name lang="EN">South Africa</Name>
+		</Country>
+	 </Countries>
+ </GetCountriesRS>
+			 

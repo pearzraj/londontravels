@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494164" resultcode="0" message="" >
+				<Name><![CDATA[RECONQUISTA PLAZA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Reconquista 602, ]]></Address1>
+					<Address2><![CDATA[C1003ABN, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1003ABN</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60046</Latitude>
+					<Longitude>-58.372505</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6826/32606826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6827/32606827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6828/32606828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6829/32606829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6830/32606830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6831/32606831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6832/32606832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6833/32606833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6834/32606834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6835/32606835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6836/32606836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6825/32606825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6837/32606837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6838/32606838.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4311 4200]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4311 4600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

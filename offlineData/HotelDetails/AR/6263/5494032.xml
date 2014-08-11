@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494032" resultcode="0" message="" >
+				<Name><![CDATA[CATALINAS SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tucuman, 313]]></Address1>
+					<Address2><![CDATA[C1049AAG, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1049AAG</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.600334</Latitude>
+					<Longitude>-58.371403</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4294/37674294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4295/37674295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4296/37674296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4297/37674297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4298/37674298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4299/37674299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4300/37674300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4301/37674301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4302/37674302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4303/37674303.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4311 0149]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 4314 1400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

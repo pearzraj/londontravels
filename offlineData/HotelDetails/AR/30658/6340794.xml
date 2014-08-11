@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340794" resultcode="0" message="" >
+				<Name><![CDATA[VILLA SOFIA RESORT AND SPA- APART]]></Name>
+				<Address>
+					<Address1><![CDATA[   Avenida De Los Pioneros Y Campichuelo 200,]]></Address1>
+					<Address2><![CDATA[Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.138954</Latitude>
+					<Longitude>-71.31839</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42901_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3052/37303052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3053/37303053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3054/37303054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3055/37303055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3056/37303056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3057/37303057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3058/37303058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3059/37303059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3060/37303060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3084/37303084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3085/37303085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3086/37303086.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143266199]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542944433909 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

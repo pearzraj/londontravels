@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339235" resultcode="0" message="" >
+				<Name><![CDATA[RIO HOTEL LAURA AND RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rio Parana de las Palmas, Islas Tigre,]]></Address1>
+					<Address2><![CDATA[Buenos, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>Buenos </PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.274117</Latitude>
+					<Longitude>-58.62017</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7422/37137422.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7423/37137423.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7424/37137424.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7425/37137425.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7426/37137426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7427/37137427.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 47282600]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 47282600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495731" resultcode="0" message="" >
+				<Name><![CDATA[EXE VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ottakringer Strasse,34-36]]></Address1>
+					<Address2><![CDATA[1170, Vienna, Austria]]></Address2>
+					<PostalCode>1170</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.214966</Latitude>
+					<Longitude>16.33654</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Car parker and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and 1 We also have Car parker and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9654/37259654.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9655/37259655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9656/37259656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9657/37259657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9658/37259658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9659/37259659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9660/37259660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9661/37259661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9662/37259662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9663/37259663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9664/37259664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9665/37259665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9666/37259666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9667/37259667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9668/37259668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9669/37259669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9670/37259670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9671/37259671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9672/37259672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9673/37259673.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00814_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00814_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00814_1_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 404 55 888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043140455100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

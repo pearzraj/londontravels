@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334926" resultcode="0" message="" >
+				<Name><![CDATA[POP HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Juan Ramirez de Velasco 793,]]></Address1>
+					<Address2><![CDATA[1414, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1414</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.58604</Latitude>
+					<Longitude>-58.43768</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Porters, Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Porters, Wi-Fi and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7826/37157826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7827/37157827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7828/37157828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7829/37157829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7830/37157830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7831/37157831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7832/37157832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7833/37157833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7834/37157834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7835/37157835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7836/37157836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7837/37157837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7838/37157838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7839/37157839.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4776 6900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

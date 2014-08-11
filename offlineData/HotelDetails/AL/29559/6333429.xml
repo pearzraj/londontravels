@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333429" resultcode="0" message="" >
+				<Name><![CDATA[VILA ALBA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Str "Xhorxhi Martini",]]></Address1>
+					<Address2><![CDATA[19, Tirana, Albania]]></Address2>
+					<PostalCode>19</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.33165</Latitude>
+					<Longitude>19.8318</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7814/37117814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7815/37117815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7816/37117816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7817/37117817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7818/37117818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7819/37117819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7820/37117820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7813/37117813.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[35542 255937 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

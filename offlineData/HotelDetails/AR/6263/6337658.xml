@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337658" resultcode="0" message="" >
+				<Name><![CDATA[RIBERA SUR]]></Name>
+				<Address>
+					<Address1><![CDATA[  Paseo Colon 1145,]]></Address1>
+					<Address2><![CDATA[Buenos, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>Buenos </PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.620937</Latitude>
+					<Longitude>-58.368774</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5809/37155809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5810/37155810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5811/37155811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5812/37155812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5813/37155813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5814/37155814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5815/37155815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5816/37155816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5817/37155817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5818/37155818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5819/37155819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5820/37155820.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143615759]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541143617398 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332005" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND ALPINE RESORT FIEBERBRUNN]]></Name>
+				<Address>
+					<Address1><![CDATA[  LINDAU 18,]]></Address1>
+					<Address2><![CDATA[06391, Fieberbrunn, Austria]]></Address2>
+					<PostalCode>06391</PostalCode>
+					<CityCode>64995</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Fieberbrunn]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.466152</Latitude>
+					<Longitude>12.553559</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3040/37093040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3041/37093041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3042/37093042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3043/37093043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3044/37093044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3045/37093045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3046/37093046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3047/37093047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3048/37093048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3049/37093049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3050/37093050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3051/37093051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3034/37093034.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3035/37093035.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3036/37093036.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3037/37093037.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3038/37093038.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3039/37093039.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43 535456086 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

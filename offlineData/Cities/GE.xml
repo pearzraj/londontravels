@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="GE">
+		<City id="12082"> 
+			<Name lang="EN">Batumi</Name>
+			<Region lang="EN">Batumi</Region>
+			<Destination lang="EN">Batumi, Batumi, Georgia</Destination>
+		</City>
+		<City id="29350">
+			<Name lang="EN">Tbilisi</Name>
+			<Region lang="EN">Tbilisi</Region>
+			<Destination lang="EN">Tbilisi, Tbilisi, Georgia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

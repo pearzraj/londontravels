@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340349" resultcode="0" message="" >
+				<Name><![CDATA[TANGUERO HOTEL BOUTIQUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  SUIPACHA 780,]]></Address1>
+					<Address2><![CDATA[00000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59923</Latitude>
+					<Longitude>-58.379707</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Porters, Wi-Fi and Safe in Reception.  Activities and relax: Sauna, Spa and Turkish Bath. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Porters, Wi-Fi and Safe in Reception.  Activities and relax: Sauna, Spa and Turkish Bath. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7811/37787811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7812/37787812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7813/37787813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7814/37787814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7815/37787815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7816/37787816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7817/37787817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7818/37787818.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7819/37787819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7820/37787820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7821/37787821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7822/37787822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7823/37787823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7824/37787824.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 4328 7006 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

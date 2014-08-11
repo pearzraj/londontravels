@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BA">
+		<City id="6920"> 
+			<Name lang="EN">Banja Luka</Name>
+			<Region lang="EN">Banja Luka</Region>
+			<Destination lang="EN">Banja Luka, Banja Luka, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="12352">
+			<Name lang="EN">Brcko</Name>
+			<Region lang="EN">Brcko</Region>
+			<Destination lang="EN">Brcko, Brcko, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="14734">
+			<Name lang="EN">Capljina</Name>
+			<Region lang="EN">Capljina</Region>
+			<Destination lang="EN">Capljina, Capljina, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="4130">
+			<Name lang="EN">Mostar</Name>
+			<Region lang="EN">Mostar</Region>
+			<Destination lang="EN">Mostar, Mostar, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="33778">
+			<Name lang="EN">Pale</Name>
+			<Region lang="EN">Pale</Region>
+			<Destination lang="EN">Pale, Pale, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="28557">
+			<Name lang="EN">Sarajevo</Name>
+			<Region lang="EN">Sarajevo</Region>
+			<Destination lang="EN">Sarajevo, Sarajevo, Bosnia Herzegovina</Destination>
+		</City>
+		<City id="34266">
+			<Name lang="EN">Trebinje</Name>
+			<Region lang="EN">Trebinje</Region>
+			<Destination lang="EN">Trebinje, Trebinje, Bosnia Herzegovina</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

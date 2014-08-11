@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493879" resultcode="0" message="" >
+				<Name><![CDATA[LE MERIDIEN MINA SEYAHI BEACH RESORT AND MARINA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Sufouh Road, Jumeirah Beach Dubai Po Box 213084,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.09209</Latitude>
+					<Longitude>55.147312</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna and Jacuzzi. Pool bar. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Vehicle Rental, Safe in Reception, Airport Transfer, Business Centre and Cash Dispenser.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna and Jacuzzi. Pool bar. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Multilingual Personnel, Vehicle Rental, Safe in Reception, Airport Transfer, Business Centre and Cash Dispenser.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_29.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_32.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_25.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_32.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_1_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_25.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04226_12_29.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4199/32604199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4200/32604200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4201/32604201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4202/32604202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4194/32604194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4195/32604195.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4196/32604196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4197/32604197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4198/32604198.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[971504586197]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97145117117 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

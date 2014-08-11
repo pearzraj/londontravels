@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="VE">
+		<City id="6431"> 
+			<Name lang="EN">Caracas</Name>
+			<Region lang="EN">Caracas</Region>
+			<Destination lang="EN">Caracas, Caracas, Venezuela</Destination>
+		</City>
+		<City id="13738">
+			<Name lang="EN">Maracaibo</Name>
+			<Region lang="EN">Maracaibo</Region>
+			<Destination lang="EN">Maracaibo, Maracaibo, Venezuela</Destination>
+		</City>
+		<City id="22674">
+			<Name lang="EN">Margarita Island</Name>
+			<Region lang="EN">Margarita Island</Region>
+			<Destination lang="EN">Margarita Island, Margarita Island, Venezuela</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494198" resultcode="0" message="" >
+				<Name><![CDATA[AMERIAN BUENOS AIRES PARK]]></Name>
+				<Address>
+					<Address1><![CDATA[  Reconquista 699 esq Viamonte,]]></Address1>
+					<Address2><![CDATA[C1003ABM, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1003ABM</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59948</Latitude>
+					<Longitude>-58.372356</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7143/32607143.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7144/32607144.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7145/32607145.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7146/32607146.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7123/32607123.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7124/32607124.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7125/32607125.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7126/32607126.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7127/32607127.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7128/32607128.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7129/32607129.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7140/32607140.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7141/32607141.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7142/32607142.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7130/32607130.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7131/32607131.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7132/32607132.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7133/32607133.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7134/32607134.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7135/32607135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7136/32607136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7137/32607137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7138/32607138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7139/32607139.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5171 6501]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5171 6500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

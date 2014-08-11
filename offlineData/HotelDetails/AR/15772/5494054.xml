@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494054" resultcode="0" message="" >
+				<Name><![CDATA[HUENTALA HOTEL BOUTIQUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Primitivo De La Reta 1007,]]></Address1>
+					<Address2><![CDATA[5500, Mendoza, Argentina]]></Address2>
+					<PostalCode>5500</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.896454</Latitude>
+					<Longitude>-68.830635</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Multilingual Personnel, Wi-Fi, Shops, Safe in Reception and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Multilingual Personnel, Wi-Fi, Shops, Safe in Reception and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4479/37674479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4480/37674480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4481/37674481.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4482/37674482.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4483/37674483.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4484/37674484.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4485/37674485.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4486/37674486.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4487/37674487.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4488/37674488.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4489/37674489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4490/37674490.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4491/37674491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4492/37674492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4493/37674493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4494/37674494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4495/37674495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4496/37674496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4497/37674497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4498/37674498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4475/37674475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4476/37674476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4477/37674477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4478/37674478.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2614200664]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2614200766 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341897" resultcode="0" message="" >
+				<Name><![CDATA[SHERATON ABU DHABI HOTEL AND RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Corniche Road,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.476725</Latitude>
+					<Longitude>54.370876</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Hairdressers and Massages. The following services are offered Currency Exchange. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Multilingual Personnel, Car parker, Garage and Business Centre.  Activities and relax: Sauna, Hairdressers, Golf and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna, Hairdressers and Massages. The following services are offered Currency Exchange. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Multilingual Personnel, Car parker, Garage and Business Centre.  Activities and relax: Sauna, Hairdressers, Golf and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6525/37136525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6526/37136526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6527/37136527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6528/37136528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6529/37136529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6530/37136530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6531/37136531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6532/37136532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6514/37136514.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6515/37136515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6516/37136516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6517/37136517.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6518/37136518.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6519/37136519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6520/37136520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6521/37136521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6522/37136522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6523/37136523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6524/37136524.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04562_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 267 42920]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 269 70302 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

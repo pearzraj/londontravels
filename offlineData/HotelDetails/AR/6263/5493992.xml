@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493992" resultcode="0" message="" >
+				<Name><![CDATA[CONCORDE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  25 de Mayo 630,]]></Address1>
+					<Address2><![CDATA[C1002ABN, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1002ABN</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.600124</Latitude>
+					<Longitude>-58.371136</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5218/32605218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5207/32605207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5208/32605208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5209/32605209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5210/32605210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5211/32605211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5212/32605212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5213/32605213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5214/32605214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5215/32605215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5216/32605216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5217/32605217.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 5128 9005]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4343 2018 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

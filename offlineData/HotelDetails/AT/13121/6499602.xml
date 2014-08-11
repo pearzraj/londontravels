@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499602" resultcode="0" message="" >
+				<Name><![CDATA[AO WIEN HAUPTBAHNHOF]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sonnwendgasse 11,]]></Address1>
+					<Address2><![CDATA[1100, Brunn Am Gebirge, Austria]]></Address2>
+					<PostalCode>1100</PostalCode>
+					<CityCode>65265</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Brunn Am Gebirge]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.18236</Latitude>
+					<Longitude>16.37819</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We have Cot for children. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  and Hairdryer We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Cot for children. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  and Hairdryer We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18871_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[004930809475193]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 602 0617 3800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

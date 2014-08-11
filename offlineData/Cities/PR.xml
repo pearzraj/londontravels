@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PR">
+		<City id="10834"> 
+			<Name lang="EN">Aguadilla</Name>
+			<Region lang="EN">Aguadilla</Region>
+			<Destination lang="EN">Aguadilla, Aguadilla, Puerto Rico</Destination>
+		</City>
+		<City id="11168">
+			<Name lang="EN">Boqueron</Name>
+			<Region lang="EN">Boqueron</Region>
+			<Destination lang="EN">Boqueron, Boqueron, Puerto Rico</Destination>
+		</City>
+		<City id="15557">
+			<Name lang="EN">Carolina</Name>
+			<Region lang="EN">Carolina</Region>
+			<Destination lang="EN">Carolina, Carolina, Puerto Rico</Destination>
+		</City>
+		<City id="11034">
+			<Name lang="EN">Dorado</Name>
+			<Region lang="EN">Dorado</Region>
+			<Destination lang="EN">Dorado, Dorado, Puerto Rico</Destination>
+		</City>
+		<City id="3724">
+			<Name lang="EN">Fajardo</Name>
+			<Region lang="EN">Fajardo</Region>
+			<Destination lang="EN">Fajardo, Fajardo, Puerto Rico</Destination>
+		</City>
+		<City id="12426">
+			<Name lang="EN">Humacao</Name>
+			<Region lang="EN">Humacao</Region>
+			<Destination lang="EN">Humacao, Humacao, Puerto Rico</Destination>
+		</City>
+		<City id="25021">
+			<Name lang="EN">Isla Verde</Name>
+			<Region lang="EN">Isla Verde</Region>
+			<Destination lang="EN">Isla Verde, Isla Verde, Puerto Rico</Destination>
+		</City>
+		<City id="29731">
+			<Name lang="EN">Ponce</Name>
+			<Region lang="EN">Ponce</Region>
+			<Destination lang="EN">Ponce, Ponce, Puerto Rico</Destination>
+		</City>
+		<City id="5548">
+			<Name lang="EN">San Juan</Name>
+			<Region lang="EN">San Juan</Region>
+			<Destination lang="EN">San Juan, San Juan, Puerto Rico</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

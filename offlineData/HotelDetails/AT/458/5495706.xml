@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495706" resultcode="0" message="" >
+				<Name><![CDATA[KAISER FRANZ JOSEPH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sieveringerstrasse,4]]></Address1>
+					<Address2><![CDATA[1190, Vienna, Austria]]></Address2>
+					<PostalCode>1190</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.245987</Latitude>
+					<Longitude>16.340162</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9454/37259454.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9455/37259455.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9456/37259456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9457/37259457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9458/37259458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9459/37259459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9460/37259460.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9461/37259461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9462/37259462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9463/37259463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9464/37259464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9465/37259465.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10449_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 13207355]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 132900 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

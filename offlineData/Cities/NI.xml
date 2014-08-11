@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NI">
+		<City id="19463"> 
+			<Name lang="EN">Granada</Name>
+			<Region lang="EN">Granada</Region>
+			<Destination lang="EN">Granada, Granada, Nicaragua</Destination>
+		</City>
+		<City id="13659">
+			<Name lang="EN">Managua</Name>
+			<Region lang="EN">Managua</Region>
+			<Destination lang="EN">Managua, Managua, Nicaragua</Destination>
+		</City>
+		<City id="6013">
+			<Name lang="EN">San Juan del Sur</Name>
+			<Region lang="EN">San Juan del Sur</Region>
+			<Destination lang="EN">San Juan del Sur, San Juan del Sur, Nicaragua</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="GR">
+		<City id="31387"> 
+			<Name lang="EN">Aegina island</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Aegina island, Attica, Greece</Destination>
+		</City>
+		<City id="31390">
+			<Name lang="EN">Afandou</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Afandou, Rhodes, Greece</Destination>
+		</City>
+		<City id="31394">
+			<Name lang="EN">Afitos</Name>
+			<Region lang="EN">Afitos</Region>
+			<Destination lang="EN">Afitos, Afitos, Greece</Destination>
+		</City>
+		<City id="31418">
+			<Name lang="EN">Agia Pelagia</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Agia Pelagia, Crete, Greece</Destination>
+		</City>
+		<City id="31428">
+			<Name lang="EN">Agios Nikolaos</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Agios Nikolaos, Crete, Greece</Destination>
+		</City>
+		<City id="20275">
+			<Name lang="EN">Agistri Island</Name>
+			<Region lang="EN">Agistri Island</Region>
+			<Destination lang="EN">Agistri Island, Agistri Island, Greece</Destination>
+		</City>
+		<City id="10832">
+			<Name lang="EN">Agrinion</Name>
+			<Region lang="EN">Agrinion</Region>
+			<Destination lang="EN">Agrinion, Agrinion, Greece</Destination>
+		</City>
+		<City id="6344">
+			<Name lang="EN">Alexandroupolis</Name>
+			<Region lang="EN">Alexandroupolis</Region>
+			<Destination lang="EN">Alexandroupolis, Alexandroupolis, Greece</Destination>
+		</City>
+		<City id="20302">
+			<Name lang="EN">Ammouliani Island</Name>
+			<Region lang="EN">Ammouliani Island</Region>
+			<Destination lang="EN">Ammouliani Island, Ammouliani Island, Greece</Destination>
+		</City>
+		<City id="31756">
+			<Name lang="EN">Amorgos Island</Name>
+			<Region lang="EN">Amorgos Island</Region>
+			<Destination lang="EN">Amorgos Island, Amorgos Island, Greece</Destination>
+		</City>
+		<City id="31758">
+			<Name lang="EN">Amoudara</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Amoudara, Crete, Greece</Destination>
+		</City>
+		<City id="20307">
+			<Name lang="EN">Andros</Name>
+			<Region lang="EN">Andros</Region>
+			<Destination lang="EN">Andros, Andros, Greece</Destination>
+		</City>
+		<City id="31805">
+			<Name lang="EN">Anissaras</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Anissaras, Crete, Greece</Destination>
+		</City>
+		<City id="31868">
+			<Name lang="EN">Arahova</Name>
+			<Region lang="EN">Arahova</Region>
+			<Destination lang="EN">Arahova, Arahova, Greece</Destination>
+		</City>
+		<City id="15860">
+			<Name lang="EN">Athens</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Athens, Attica, Greece</Destination>
+		</City>
+		<City id="6511">
+			<Name lang="EN">Chania</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Chania, Crete, Greece</Destination>
+		</City>
+		<City id="18311">
+			<Name lang="EN">Chanioti</Name>
+			<Region lang="EN">Chanioti</Region>
+			<Destination lang="EN">Chanioti, Chanioti, Greece</Destination>
+		</City>
+		<City id="16755">
+			<Name lang="EN">Chios</Name>
+			<Region lang="EN">Chios</Region>
+			<Destination lang="EN">Chios, Chios, Greece</Destination>
+		</City>
+		<City id="34543">
+			<Name lang="EN">Chora Andros</Name>
+			<Region lang="EN">Chora Andros</Region>
+			<Destination lang="EN">Chora Andros, Chora Andros, Greece</Destination>
+		</City>
+		<City id="21644">
+			<Name lang="EN">Corfu island</Name>
+			<Region lang="EN">Corfu</Region>
+			<Destination lang="EN">Corfu island, Corfu, Greece</Destination>
+		</City>
+		<City id="21649">
+			<Name lang="EN">Corinth</Name>
+			<Region lang="EN">Corinth</Region>
+			<Destination lang="EN">Corinth, Corinth, Greece</Destination>
+		</City>
+		<City id="23841">
+			<Name lang="EN">Delphi</Name>
+			<Region lang="EN">Delphi</Region>
+			<Destination lang="EN">Delphi, Delphi, Greece</Destination>
+		</City>
+		<City id="25224">
+			<Name lang="EN">Elatochori</Name>
+			<Region lang="EN">Elatochori</Region>
+			<Destination lang="EN">Elatochori, Elatochori, Greece</Destination>
+		</City>
+		<City id="10377">
+			<Name lang="EN">Elounda</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Elounda, Crete, Greece</Destination>
+		</City>
+		<City id="11939">
+			<Name lang="EN">Eretria</Name>
+			<Region lang="EN">Eretria</Region>
+			<Destination lang="EN">Eretria, Eretria, Greece</Destination>
+		</City>
+		<City id="13608">
+			<Name lang="EN">Faliraki</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Faliraki, Rhodes, Greece</Destination>
+		</City>
+		<City id="15292">
+			<Name lang="EN">Folegrandos Island</Name>
+			<Region lang="EN">Folegrandos Island</Region>
+			<Destination lang="EN">Folegrandos Island, Folegrandos Island, Greece</Destination>
+		</City>
+		<City id="17005">
+			<Name lang="EN">Galaxidion</Name>
+			<Region lang="EN">Galaxidion</Region>
+			<Destination lang="EN">Galaxidion, Galaxidion, Greece</Destination>
+		</City>
+		<City id="17982">
+			<Name lang="EN">Gerakini</Name>
+			<Region lang="EN">Gerakini</Region>
+			<Destination lang="EN">Gerakini, Gerakini, Greece</Destination>
+		</City>
+		<City id="26400">
+			<Name lang="EN">Halki Island</Name>
+			<Region lang="EN">Halki Island</Region>
+			<Destination lang="EN">Halki Island, Halki Island, Greece</Destination>
+		</City>
+		<City id="20887">
+			<Name lang="EN">Halkidiki</Name>
+			<Region lang="EN">Halkidiki</Region>
+			<Destination lang="EN">Halkidiki, Halkidiki, Greece</Destination>
+		</City>
+		<City id="9282">
+			<Name lang="EN">Heraklion</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Heraklion, Crete, Greece</Destination>
+		</City>
+		<City id="23191">
+			<Name lang="EN">Hersonissos</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Hersonissos, Crete, Greece</Destination>
+		</City>
+		<City id="21722">
+			<Name lang="EN">Hydra</Name>
+			<Region lang="EN">Hydra</Region>
+			<Destination lang="EN">Hydra, Hydra, Greece</Destination>
+		</City>
+		<City id="24791">
+			<Name lang="EN">Ialyssos</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Ialyssos, Rhodes, Greece</Destination>
+		</City>
+		<City id="24803">
+			<Name lang="EN">Ierapetra</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Ierapetra, Crete, Greece</Destination>
+		</City>
+		<City id="24837">
+			<Name lang="EN">Imerovigli</Name>
+			<Region lang="EN">Santorini</Region>
+			<Destination lang="EN">Imerovigli, Santorini, Greece</Destination>
+		</City>
+		<City id="15103">
+			<Name lang="EN">Ioannina</Name>
+			<Region lang="EN">Ioannina</Region>
+			<Destination lang="EN">Ioannina, Ioannina, Greece</Destination>
+		</City>
+		<City id="24979">
+			<Name lang="EN">Ios Island</Name>
+			<Region lang="EN">Ios</Region>
+			<Destination lang="EN">Ios Island, Ios, Greece</Destination>
+		</City>
+		<City id="35691">
+			<Name lang="EN">Iraklia Island</Name>
+			<Region lang="EN">Iraklia Island</Region>
+			<Destination lang="EN">Iraklia Island, Iraklia Island, Greece</Destination>
+		</City>
+		<City id="25897">
+			<Name lang="EN">Ithaki Island</Name>
+			<Region lang="EN">Ithaki Island</Region>
+			<Destination lang="EN">Ithaki Island, Ithaki Island, Greece</Destination>
+		</City>
+		<City id="25909">
+			<Name lang="EN">Ixia</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Ixia, Rhodes, Greece</Destination>
+		</City>
+		<City id="7646">
+			<Name lang="EN">Kalamata</Name>
+			<Region lang="EN">Kalamata</Region>
+			<Destination lang="EN">Kalamata, Kalamata, Greece</Destination>
+		</City>
+		<City id="8484">
+			<Name lang="EN">Kalambaka</Name>
+			<Region lang="EN">Kalambaka</Region>
+			<Destination lang="EN">Kalambaka, Kalambaka, Greece</Destination>
+		</City>
+		<City id="8502">
+			<Name lang="EN">Kallithea (Kassandra)</Name>
+			<Region lang="EN">Kallithea (Kassandra)</Region>
+			<Destination lang="EN">Kallithea (Kassandra), Kallithea (Kassandra), Greece</Destination>
+		</City>
+		<City id="21767">
+			<Name lang="EN">Kardamyli</Name>
+			<Region lang="EN">Kardamyli</Region>
+			<Destination lang="EN">Kardamyli, Kardamyli, Greece</Destination>
+		</City>
+		<City id="7721">
+			<Name lang="EN">Karpathos</Name>
+			<Region lang="EN">Karpathos</Region>
+			<Destination lang="EN">Karpathos, Karpathos, Greece</Destination>
+		</City>
+		<City id="21768">
+			<Name lang="EN">Karpenisi</Name>
+			<Region lang="EN">Karpenisi</Region>
+			<Destination lang="EN">Karpenisi, Karpenisi, Greece</Destination>
+		</City>
+		<City id="9100">
+			<Name lang="EN">Kastraki</Name>
+			<Region lang="EN">Naxos</Region>
+			<Destination lang="EN">Kastraki, Naxos, Greece</Destination>
+		</City>
+		<City id="9105">
+			<Name lang="EN">Katerini</Name>
+			<Region lang="EN">Katerini</Region>
+			<Destination lang="EN">Katerini, Katerini, Greece</Destination>
+		</City>
+		<City id="7763">
+			<Name lang="EN">Kavala</Name>
+			<Region lang="EN">Kavala</Region>
+			<Destination lang="EN">Kavala, Kavala, Greece</Destination>
+		</City>
+		<City id="8067">
+			<Name lang="EN">Kefallinia</Name>
+			<Region lang="EN">Kefallinia</Region>
+			<Destination lang="EN">Kefallinia, Kefallinia, Greece</Destination>
+		</City>
+		<City id="26452">
+			<Name lang="EN">Kifissia</Name>
+			<Region lang="EN">Kifissia</Region>
+			<Destination lang="EN">Kifissia, Kifissia, Greece</Destination>
+		</City>
+		<City id="8678">
+			<Name lang="EN">Kithira</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Kithira, Attica, Greece</Destination>
+		</City>
+		<City id="13235">
+			<Name lang="EN">Kolymbia</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Kolymbia, Rhodes, Greece</Destination>
+		</City>
+		<City id="9333">
+			<Name lang="EN">Kos</Name>
+			<Region lang="EN">Kos</Region>
+			<Destination lang="EN">Kos, Kos, Greece</Destination>
+		</City>
+		<City id="13987">
+			<Name lang="EN">Kriopigi</Name>
+			<Region lang="EN">Kriopigi</Region>
+			<Destination lang="EN">Kriopigi, Kriopigi, Greece</Destination>
+		</City>
+		<City id="35710">
+			<Name lang="EN">Kyllini</Name>
+			<Region lang="EN">Kyllini</Region>
+			<Destination lang="EN">Kyllini, Kyllini, Greece</Destination>
+		</City>
+		<City id="16909">
+			<Name lang="EN">Lakopetra</Name>
+			<Region lang="EN">Lakopetra</Region>
+			<Destination lang="EN">Lakopetra, Lakopetra, Greece</Destination>
+		</City>
+		<City id="17628">
+			<Name lang="EN">Lardos</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Lardos, Rhodes, Greece</Destination>
+		</City>
+		<City id="30232">
+			<Name lang="EN">Larissa</Name>
+			<Region lang="EN">Larissa</Region>
+			<Destination lang="EN">Larissa, Larissa, Greece</Destination>
+		</City>
+		<City id="17827">
+			<Name lang="EN">Lefkada Town</Name>
+			<Region lang="EN">Lefkada Town</Region>
+			<Destination lang="EN">Lefkada Town, Lefkada Town, Greece</Destination>
+		</City>
+		<City id="10631">
+			<Name lang="EN">Lemnos</Name>
+			<Region lang="EN">Lemnos</Region>
+			<Destination lang="EN">Lemnos, Lemnos, Greece</Destination>
+		</City>
+		<City id="18477">
+			<Name lang="EN">Lesvos Island</Name>
+			<Region lang="EN">Lesbos</Region>
+			<Destination lang="EN">Lesvos Island, Lesbos, Greece</Destination>
+		</City>
+		<City id="19536">
+			<Name lang="EN">Lindos</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Lindos, Rhodes, Greece</Destination>
+		</City>
+		<City id="19541">
+			<Name lang="EN">Linoperamata</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Linoperamata, Crete, Greece</Destination>
+		</City>
+		<City id="16592">
+			<Name lang="EN">Loutraki</Name>
+			<Region lang="EN">Loutraki</Region>
+			<Destination lang="EN">Loutraki, Loutraki, Greece</Destination>
+		</City>
+		<City id="22156">
+			<Name lang="EN">Makrigialos</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Makrigialos, Crete, Greece</Destination>
+		</City>
+		<City id="22179">
+			<Name lang="EN">Malia</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Malia, Crete, Greece</Destination>
+		</City>
+		<City id="22021">
+			<Name lang="EN">Matala</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Matala, Crete, Greece</Destination>
+		</City>
+		<City id="24147">
+			<Name lang="EN">Megalohori</Name>
+			<Region lang="EN">Santorini</Region>
+			<Destination lang="EN">Megalohori, Santorini, Greece</Destination>
+		</City>
+		<City id="24343">
+			<Name lang="EN">Metsovo</Name>
+			<Region lang="EN">Metsovo</Region>
+			<Destination lang="EN">Metsovo, Metsovo, Greece</Destination>
+		</City>
+		<City id="15801">
+			<Name lang="EN">Mikonos</Name>
+			<Region lang="EN">Mykonos</Region>
+			<Destination lang="EN">Mikonos, Mykonos, Greece</Destination>
+		</City>
+		<City id="15816">
+			<Name lang="EN">Milos</Name>
+			<Region lang="EN">Milos</Region>
+			<Destination lang="EN">Milos, Milos, Greece</Destination>
+		</City>
+		<City id="11408">
+			<Name lang="EN">Mytilene</Name>
+			<Region lang="EN">Lesbos</Region>
+			<Destination lang="EN">Mytilene, Lesbos, Greece</Destination>
+		</City>
+		<City id="27838">
+			<Name lang="EN">Nafplion</Name>
+			<Region lang="EN">Nafplion</Region>
+			<Destination lang="EN">Nafplion, Nafplion, Greece</Destination>
+		</City>
+		<City id="28113">
+			<Name lang="EN">Naousa</Name>
+			<Region lang="EN">Paros</Region>
+			<Destination lang="EN">Naousa, Paros, Greece</Destination>
+		</City>
+		<City id="18947">
+			<Name lang="EN">Naxos Island</Name>
+			<Region lang="EN">Naxos Island</Region>
+			<Destination lang="EN">Naxos Island, Naxos Island, Greece</Destination>
+		</City>
+		<City id="28170">
+			<Name lang="EN">Nea Kallikratia</Name>
+			<Region lang="EN">Nea Kallikratia</Region>
+			<Destination lang="EN">Nea Kallikratia, Nea Kallikratia, Greece</Destination>
+		</City>
+		<City id="28301">
+			<Name lang="EN">Neos Marmaras</Name>
+			<Region lang="EN">Neos Marmaras</Region>
+			<Destination lang="EN">Neos Marmaras, Neos Marmaras, Greece</Destination>
+		</City>
+		<City id="23004">
+			<Name lang="EN">Niforeika</Name>
+			<Region lang="EN">Niforeika</Region>
+			<Destination lang="EN">Niforeika, Niforeika, Greece</Destination>
+		</City>
+		<City id="13078">
+			<Name lang="EN">Olympia</Name>
+			<Region lang="EN">Olympia</Region>
+			<Destination lang="EN">Olympia, Olympia, Greece</Destination>
+		</City>
+		<City id="18370">
+			<Name lang="EN">Ouranoupolis</Name>
+			<Region lang="EN">Ouranoupolis</Region>
+			<Destination lang="EN">Ouranoupolis, Ouranoupolis, Greece</Destination>
+		</City>
+		<City id="27466">
+			<Name lang="EN">Paros</Name>
+			<Region lang="EN">Paros</Region>
+			<Destination lang="EN">Paros, Paros, Greece</Destination>
+		</City>
+		<City id="20802">
+			<Name lang="EN">Patmos</Name>
+			<Region lang="EN">Patmos</Region>
+			<Destination lang="EN">Patmos, Patmos, Greece</Destination>
+		</City>
+		<City id="29398">
+			<Name lang="EN">Patras</Name>
+			<Region lang="EN">Patras</Region>
+			<Destination lang="EN">Patras, Patras, Greece</Destination>
+		</City>
+		<City id="21886">
+			<Name lang="EN">Pefkohori</Name>
+			<Region lang="EN">Pefkohori</Region>
+			<Destination lang="EN">Pefkohori, Pefkohori, Greece</Destination>
+		</City>
+		<City id="21887">
+			<Name lang="EN">Pefkos</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Pefkos, Rhodes, Greece</Destination>
+		</City>
+		<City id="23097">
+			<Name lang="EN">Petalidi</Name>
+			<Region lang="EN">Petalidi</Region>
+			<Destination lang="EN">Petalidi, Petalidi, Greece</Destination>
+		</City>
+		<City id="24286">
+			<Name lang="EN">Piraeus</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Piraeus, Attica, Greece</Destination>
+		</City>
+		<City id="24427">
+			<Name lang="EN">Platis Yialos</Name>
+			<Region lang="EN">Mykonos</Region>
+			<Destination lang="EN">Platis Yialos, Mykonos, Greece</Destination>
+		</City>
+		<City id="24566">
+			<Name lang="EN">Polychrono</Name>
+			<Region lang="EN">Polychrono</Region>
+			<Destination lang="EN">Polychrono, Polychrono, Greece</Destination>
+		</City>
+		<City id="24733">
+			<Name lang="EN">Poros</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Poros, Attica, Greece</Destination>
+		</City>
+		<City id="24893">
+			<Name lang="EN">Portaria</Name>
+			<Region lang="EN">Portaria</Region>
+			<Destination lang="EN">Portaria, Portaria, Greece</Destination>
+		</City>
+		<City id="1788">
+			<Name lang="EN">Preveza/Lefkas</Name>
+			<Region lang="EN">Preveza/Lefkas</Region>
+			<Destination lang="EN">Preveza/Lefkas, Preveza/Lefkas, Greece</Destination>
+		</City>
+		<City id="27545">
+			<Name lang="EN">Psakoudia</Name>
+			<Region lang="EN">Psakoudia</Region>
+			<Destination lang="EN">Psakoudia, Psakoudia, Greece</Destination>
+		</City>
+		<City id="25753">
+			<Name lang="EN">Psalidi</Name>
+			<Region lang="EN">Kos</Region>
+			<Destination lang="EN">Psalidi, Kos, Greece</Destination>
+		</City>
+		<City id="26302">
+			<Name lang="EN">Rafina</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Rafina, Attica, Greece</Destination>
+		</City>
+		<City id="1585">
+			<Name lang="EN">Rethymnon</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Rethymnon, Crete, Greece</Destination>
+		</City>
+		<City id="27668">
+			<Name lang="EN">Rhodes</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Rhodes, Rhodes, Greece</Destination>
+		</City>
+		<City id="5524">
+			<Name lang="EN">Samos</Name>
+			<Region lang="EN">Samos</Region>
+			<Destination lang="EN">Samos, Samos, Greece</Destination>
+		</City>
+		<City id="6158">
+			<Name lang="EN">Sani</Name>
+			<Region lang="EN">Sani</Region>
+			<Destination lang="EN">Sani, Sani, Greece</Destination>
+		</City>
+		<City id="5293">
+			<Name lang="EN">Serres</Name>
+			<Region lang="EN">Serres</Region>
+			<Destination lang="EN">Serres, Serres, Greece</Destination>
+		</City>
+		<City id="23499">
+			<Name lang="EN">Sidirokastro</Name>
+			<Region lang="EN">Sidirokastro</Region>
+			<Destination lang="EN">Sidirokastro, Sidirokastro, Greece</Destination>
+		</City>
+		<City id="27864">
+			<Name lang="EN">Sifnos</Name>
+			<Region lang="EN">Sifnos</Region>
+			<Destination lang="EN">Sifnos, Sifnos, Greece</Destination>
+		</City>
+		<City id="4907">
+			<Name lang="EN">Sissi</Name>
+			<Region lang="EN">Crete</Region>
+			<Destination lang="EN">Sissi, Crete, Greece</Destination>
+		</City>
+		<City id="4921">
+			<Name lang="EN">Skafidia</Name>
+			<Region lang="EN">Skafidia</Region>
+			<Destination lang="EN">Skafidia, Skafidia, Greece</Destination>
+		</City>
+		<City id="28807">
+			<Name lang="EN">Skiathos</Name>
+			<Region lang="EN">Skiatos</Region>
+			<Destination lang="EN">Skiathos, Skiatos, Greece</Destination>
+		</City>
+		<City id="28811">
+			<Name lang="EN">Skiros</Name>
+			<Region lang="EN">Skiros</Region>
+			<Destination lang="EN">Skiros, Skiros, Greece</Destination>
+		</City>
+		<City id="5073">
+			<Name lang="EN">Skopelos</Name>
+			<Region lang="EN">Skopelos</Region>
+			<Destination lang="EN">Skopelos, Skopelos, Greece</Destination>
+		</City>
+		<City id="10747">
+			<Name lang="EN">Symi Island</Name>
+			<Region lang="EN">Symi Island</Region>
+			<Destination lang="EN">Symi Island, Symi Island, Greece</Destination>
+		</City>
+		<City id="29123">
+			<Name lang="EN">Syros Island</Name>
+			<Region lang="EN">Syros Island</Region>
+			<Destination lang="EN">Syros Island, Syros Island, Greece</Destination>
+		</City>
+		<City id="372">
+			<Name lang="EN">Thessaloniki</Name>
+			<Region lang="EN">Thessaloniki</Region>
+			<Destination lang="EN">Thessaloniki, Thessaloniki, Greece</Destination>
+		</City>
+		<City id="29505">
+			<Name lang="EN">Thira</Name>
+			<Region lang="EN">Santorini</Region>
+			<Destination lang="EN">Thira, Santorini, Greece</Destination>
+		</City>
+		<City id="791">
+			<Name lang="EN">Tholos</Name>
+			<Region lang="EN">Rhodes</Region>
+			<Destination lang="EN">Tholos, Rhodes, Greece</Destination>
+		</City>
+		<City id="23581">
+			<Name lang="EN">Tilos island</Name>
+			<Region lang="EN">Tilos island</Region>
+			<Destination lang="EN">Tilos island, Tilos island, Greece</Destination>
+		</City>
+		<City id="2697">
+			<Name lang="EN">Tinos</Name>
+			<Region lang="EN">Mykonos</Region>
+			<Destination lang="EN">Tinos, Mykonos, Greece</Destination>
+		</City>
+		<City id="23597">
+			<Name lang="EN">Tripolis</Name>
+			<Region lang="EN">Tripolis</Region>
+			<Destination lang="EN">Tripolis, Tripolis, Greece</Destination>
+		</City>
+		<City id="30936">
+			<Name lang="EN">Volos</Name>
+			<Region lang="EN">Volos</Region>
+			<Destination lang="EN">Volos, Volos, Greece</Destination>
+		</City>
+		<City id="2063">
+			<Name lang="EN">Voula</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Voula, Attica, Greece</Destination>
+		</City>
+		<City id="2064">
+			<Name lang="EN">Vouliagmeni</Name>
+			<Region lang="EN">Attica</Region>
+			<Destination lang="EN">Vouliagmeni, Attica, Greece</Destination>
+		</City>
+		<City id="26770">
+			<Name lang="EN">Vrachati</Name>
+			<Region lang="EN">Vrachati</Region>
+			<Destination lang="EN">Vrachati, Vrachati, Greece</Destination>
+		</City>
+		<City id="26771">
+			<Name lang="EN">Vravrona</Name>
+			<Region lang="EN">Vravrona</Region>
+			<Destination lang="EN">Vravrona, Vravrona, Greece</Destination>
+		</City>
+		<City id="23628">
+			<Name lang="EN">Vytina</Name>
+			<Region lang="EN">Vytina</Region>
+			<Destination lang="EN">Vytina, Vytina, Greece</Destination>
+		</City>
+		<City id="3227">
+			<Name lang="EN">Zakinthos</Name>
+			<Region lang="EN">Zakynthos</Region>
+			<Destination lang="EN">Zakinthos, Zakynthos, Greece</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

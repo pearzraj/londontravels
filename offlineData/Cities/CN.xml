@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CN">
+		<City id="18651"> 
+			<Name lang="EN">Beihai</Name>
+			<Region lang="EN">Guangxi Zhuang</Region>
+			<Destination lang="EN">Beihai, Guangxi Zhuang, China</Destination>
+		</City>
+		<City id="18653">
+			<Name lang="EN">Beijing</Name>
+			<Region lang="EN">Beijing</Region>
+			<Destination lang="EN">Beijing, Beijing, China</Destination>
+		</City>
+		<City id="16728">
+			<Name lang="EN">Changchun</Name>
+			<Region lang="EN">Jilin</Region>
+			<Destination lang="EN">Changchun, Jilin, China</Destination>
+		</City>
+		<City id="6507">
+			<Name lang="EN">Changsha</Name>
+			<Region lang="EN">Hunan</Region>
+			<Destination lang="EN">Changsha, Hunan, China</Destination>
+		</City>
+		<City id="18306">
+			<Name lang="EN">Changshu</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Changshu, Jiangsu, China</Destination>
+		</City>
+		<City id="6510">
+			<Name lang="EN">Changzhou</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Changzhou, Jiangsu, China</Destination>
+		</City>
+		<City id="18316">
+			<Name lang="EN">Chaozhou</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Chaozhou, Guangdong, China</Destination>
+		</City>
+		<City id="7882">
+			<Name lang="EN">Chengdu</Name>
+			<Region lang="EN">Sichuan</Region>
+			<Destination lang="EN">Chengdu, Sichuan, China</Destination>
+		</City>
+		<City id="6761">
+			<Name lang="EN">Chongqing</Name>
+			<Region lang="EN">Sichuan</Region>
+			<Destination lang="EN">Chongqing, Sichuan, China</Destination>
+		</City>
+		<City id="11576">
+			<Name lang="EN">Dali City</Name>
+			<Region lang="EN">Yunnan</Region>
+			<Destination lang="EN">Dali City, Yunnan, China</Destination>
+		</City>
+		<City id="7491">
+			<Name lang="EN">Dalian</Name>
+			<Region lang="EN">Liaoning</Region>
+			<Destination lang="EN">Dalian, Liaoning, China</Destination>
+		</City>
+		<City id="7524">
+			<Name lang="EN">Datong</Name>
+			<Region lang="EN">Shanxi</Region>
+			<Destination lang="EN">Datong, Shanxi, China</Destination>
+		</City>
+		<City id="11027">
+			<Name lang="EN">Dongguan</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Dongguan, Guangdong, China</Destination>
+		</City>
+		<City id="11056">
+			<Name lang="EN">Dunhuang</Name>
+			<Region lang="EN">Gansu</Region>
+			<Destination lang="EN">Dunhuang, Gansu, China</Destination>
+		</City>
+		<City id="16305">
+			<Name lang="EN">Foshan</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Foshan, Guangdong, China</Destination>
+		</City>
+		<City id="10941">
+			<Name lang="EN">Fuzhou</Name>
+			<Region lang="EN">Fujian</Region>
+			<Destination lang="EN">Fuzhou, Fujian, China</Destination>
+		</City>
+		<City id="8593">
+			<Name lang="EN">Guangzhou</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Guangzhou, Guangdong, China</Destination>
+		</City>
+		<City id="8611">
+			<Name lang="EN">Guilin</Name>
+			<Region lang="EN">Guangxi Zhuang</Region>
+			<Destination lang="EN">Guilin, Guangxi Zhuang, China</Destination>
+		</City>
+		<City id="9228">
+			<Name lang="EN">Haikou</Name>
+			<Region lang="EN">Hainan</Region>
+			<Destination lang="EN">Haikou, Hainan, China</Destination>
+		</City>
+		<City id="18708">
+			<Name lang="EN">Hangzhou</Name>
+			<Region lang="EN">Zhejiang</Region>
+			<Destination lang="EN">Hangzhou, Zhejiang, China</Destination>
+		</City>
+		<City id="18717">
+			<Name lang="EN">Harbin</Name>
+			<Region lang="EN">Heilongjiang</Region>
+			<Destination lang="EN">Harbin, Heilongjiang, China</Destination>
+		</City>
+		<City id="28699">
+			<Name lang="EN">Hefei</Name>
+			<Region lang="EN">Anhui</Region>
+			<Destination lang="EN">Hefei, Anhui, China</Destination>
+		</City>
+		<City id="9994">
+			<Name lang="EN">Hohhot</Name>
+			<Region lang="EN">Neimenggu</Region>
+			<Destination lang="EN">Hohhot, Neimenggu, China</Destination>
+		</City>
+		<City id="1673">
+			<Name lang="EN">Huangshan</Name>
+			<Region lang="EN">Anhui</Region>
+			<Destination lang="EN">Huangshan, Anhui, China</Destination>
+		</City>
+		<City id="12423">
+			<Name lang="EN">Huizhou</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Huizhou, Guangdong, China</Destination>
+		</City>
+		<City id="29633">
+			<Name lang="EN">Jilin</Name>
+			<Region lang="EN">Jilin</Region>
+			<Destination lang="EN">Jilin, Jilin, China</Destination>
+		</City>
+		<City id="29635">
+			<Name lang="EN">Jinan</Name>
+			<Region lang="EN">Shandong</Region>
+			<Destination lang="EN">Jinan, Shandong, China</Destination>
+		</City>
+		<City id="26134">
+			<Name lang="EN">Jinhua</Name>
+			<Region lang="EN">Shanxi</Region>
+			<Destination lang="EN">Jinhua, Shanxi, China</Destination>
+		</City>
+		<City id="29638">
+			<Name lang="EN">Jining</Name>
+			<Region lang="EN">Jining</Region>
+			<Destination lang="EN">Jining, Jining, China</Destination>
+		</City>
+		<City id="29640">
+			<Name lang="EN">Jinjiang</Name>
+			<Region lang="EN">Yunnan</Region>
+			<Destination lang="EN">Jinjiang, Yunnan, China</Destination>
+		</City>
+		<City id="9871">
+			<Name lang="EN">Kunming</Name>
+			<Region lang="EN">Yunnan</Region>
+			<Destination lang="EN">Kunming, Yunnan, China</Destination>
+		</City>
+		<City id="14993">
+			<Name lang="EN">Kunshan</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Kunshan, Jiangsu, China</Destination>
+		</City>
+		<City id="17605">
+			<Name lang="EN">Langfang</Name>
+			<Region lang="EN">Hebei</Region>
+			<Destination lang="EN">Langfang, Hebei, China</Destination>
+		</City>
+		<City id="30225">
+			<Name lang="EN">Lanzhou</Name>
+			<Region lang="EN">Gansu</Region>
+			<Destination lang="EN">Lanzhou, Gansu, China</Destination>
+		</City>
+		<City id="10661">
+			<Name lang="EN">Lhasa</Name>
+			<Region lang="EN">Tibet</Region>
+			<Destination lang="EN">Lhasa, Tibet, China</Destination>
+		</City>
+		<City id="11578">
+			<Name lang="EN">Lijiang City</Name>
+			<Region lang="EN">Yunnan</Region>
+			<Destination lang="EN">Lijiang City, Yunnan, China</Destination>
+		</City>
+		<City id="1059">
+			<Name lang="EN">Luoyang</Name>
+			<Region lang="EN">Henan</Region>
+			<Destination lang="EN">Luoyang, Henan, China</Destination>
+		</City>
+		<City id="20381">
+			<Name lang="EN">Nanchang</Name>
+			<Region lang="EN">Jiangxi</Region>
+			<Destination lang="EN">Nanchang, Jiangxi, China</Destination>
+		</City>
+		<City id="20388">
+			<Name lang="EN">Nanjing</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Nanjing, Jiangsu, China</Destination>
+		</City>
+		<City id="19611">
+			<Name lang="EN">Ningbo</Name>
+			<Region lang="EN">Zhejiang</Region>
+			<Destination lang="EN">Ningbo, Zhejiang, China</Destination>
+		</City>
+		<City id="26022">
+			<Name lang="EN">Putian</Name>
+			<Region lang="EN">Fujian</Region>
+			<Destination lang="EN">Putian, Fujian, China</Destination>
+		</City>
+		<City id="30244">
+			<Name lang="EN">Qingdao</Name>
+			<Region lang="EN">Shandong</Region>
+			<Destination lang="EN">Qingdao, Shandong, China</Destination>
+		</City>
+		<City id="30246">
+			<Name lang="EN">Qinhuangdao</Name>
+			<Region lang="EN">Hebei</Region>
+			<Destination lang="EN">Qinhuangdao, Hebei, China</Destination>
+		</City>
+		<City id="14109">
+			<Name lang="EN">Quanzhou</Name>
+			<Region lang="EN">Fujian</Region>
+			<Destination lang="EN">Quanzhou, Fujian, China</Destination>
+		</City>
+		<City id="28533">
+			<Name lang="EN">Sanya</Name>
+			<Region lang="EN">Hainan</Region>
+			<Destination lang="EN">Sanya, Hainan, China</Destination>
+		</City>
+		<City id="28726">
+			<Name lang="EN">Shanghai</Name>
+			<Region lang="EN">Shanghai</Region>
+			<Destination lang="EN">Shanghai, Shanghai, China</Destination>
+		</City>
+		<City id="28731">
+			<Name lang="EN">Shantou</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Shantou, Guangdong, China</Destination>
+		</City>
+		<City id="28754">
+			<Name lang="EN">Shenyang</Name>
+			<Region lang="EN">Liaoning</Region>
+			<Destination lang="EN">Shenyang, Liaoning, China</Destination>
+		</City>
+		<City id="28755">
+			<Name lang="EN">Shenzhen</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Shenzhen, Guangdong, China</Destination>
+		</City>
+		<City id="11580">
+			<Name lang="EN">Shijiazhuang</Name>
+			<Region lang="EN">Hebei</Region>
+			<Destination lang="EN">Shijiazhuang, Hebei, China</Destination>
+		</City>
+		<City id="29104">
+			<Name lang="EN">Suzhou</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Suzhou, Jiangsu, China</Destination>
+		</City>
+		<City id="128">
+			<Name lang="EN">Taiyuan</Name>
+			<Region lang="EN">Shanxi</Region>
+			<Destination lang="EN">Taiyuan, Shanxi, China</Destination>
+		</City>
+		<City id="2625">
+			<Name lang="EN">Tangshan</Name>
+			<Region lang="EN">Hebei</Region>
+			<Destination lang="EN">Tangshan, Hebei, China</Destination>
+		</City>
+		<City id="29520">
+			<Name lang="EN">Tianjin</Name>
+			<Region lang="EN">Tianjin</Region>
+			<Destination lang="EN">Tianjin, Tianjin, China</Destination>
+		</City>
+		<City id="30808">
+			<Name lang="EN">Urumqi</Name>
+			<Region lang="EN">Xinjiang</Region>
+			<Destination lang="EN">Urumqi, Xinjiang, China</Destination>
+		</City>
+		<City id="2117">
+			<Name lang="EN">Weihai</Name>
+			<Region lang="EN">Shandong</Region>
+			<Destination lang="EN">Weihai, Shandong, China</Destination>
+		</City>
+		<City id="31040">
+			<Name lang="EN">Wenzhou</Name>
+			<Region lang="EN">Zhejiang</Region>
+			<Destination lang="EN">Wenzhou, Zhejiang, China</Destination>
+		</City>
+		<City id="31139">
+			<Name lang="EN">Wuhan</Name>
+			<Region lang="EN">Hubei</Region>
+			<Destination lang="EN">Wuhan, Hubei, China</Destination>
+		</City>
+		<City id="31140">
+			<Name lang="EN">Wuhu</Name>
+			<Region lang="EN">Anhui</Region>
+			<Destination lang="EN">Wuhu, Anhui, China</Destination>
+		</City>
+		<City id="3066">
+			<Name lang="EN">Wujiang</Name>
+			<Region lang="EN">Wujiang</Region>
+			<Destination lang="EN">Wujiang, Wujiang, China</Destination>
+		</City>
+		<City id="3071">
+			<Name lang="EN">Wuxi</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Wuxi, Jiangsu, China</Destination>
+		</City>
+		<City id="31149">
+			<Name lang="EN">Xiamen</Name>
+			<Region lang="EN">Fujian</Region>
+			<Destination lang="EN">Xiamen, Fujian, China</Destination>
+		</City>
+		<City id="31150">
+			<Name lang="EN">Xi'An</Name>
+			<Region lang="EN">Shaanxi</Region>
+			<Destination lang="EN">Xi'An, Shaanxi, China</Destination>
+		</City>
+		<City id="34411">
+			<Name lang="EN">Xiangyang</Name>
+			<Region lang="EN">Hubei</Region>
+			<Destination lang="EN">Xiangyang, Hubei, China</Destination>
+		</City>
+		<City id="31163">
+			<Name lang="EN">Xuzhou</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Xuzhou, Jiangsu, China</Destination>
+		</City>
+		<City id="3122">
+			<Name lang="EN">Yangshuo</Name>
+			<Region lang="EN">Guangxi Zhuang</Region>
+			<Destination lang="EN">Yangshuo, Guangxi Zhuang, China</Destination>
+		</City>
+		<City id="3123">
+			<Name lang="EN">Yangzhou</Name>
+			<Region lang="EN">Jiangsu</Region>
+			<Destination lang="EN">Yangzhou, Jiangsu, China</Destination>
+		</City>
+		<City id="31190">
+			<Name lang="EN">Yantai</Name>
+			<Region lang="EN">Shandong</Region>
+			<Destination lang="EN">Yantai, Shandong, China</Destination>
+		</City>
+		<City id="31219">
+			<Name lang="EN">Yichang</Name>
+			<Region lang="EN">Hubei</Region>
+			<Destination lang="EN">Yichang, Hubei, China</Destination>
+		</City>
+		<City id="3191">
+			<Name lang="EN">Yueyang</Name>
+			<Region lang="EN">Hunan</Region>
+			<Destination lang="EN">Yueyang, Hunan, China</Destination>
+		</City>
+		<City id="31284">
+			<Name lang="EN">Zhanjiang</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Zhanjiang, Guangdong, China</Destination>
+		</City>
+		<City id="3297">
+			<Name lang="EN">Zhaoqing</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Zhaoqing, Guangdong, China</Destination>
+		</City>
+		<City id="31286">
+			<Name lang="EN">Zhengzhou</Name>
+			<Region lang="EN">Henan</Region>
+			<Destination lang="EN">Zhengzhou, Henan, China</Destination>
+		</City>
+		<City id="3299">
+			<Name lang="EN">Zhongshan</Name>
+			<Region lang="EN">Guangdong</Region>
+			<Destination lang="EN">Zhongshan, Guangdong, China</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

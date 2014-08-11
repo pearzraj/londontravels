@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BO">
+		<City id="8011"> 
+			<Name lang="EN">Santa Cruz</Name>
+			<Region lang="EN">Santa Cruz</Region>
+			<Destination lang="EN">Santa Cruz, Santa Cruz, Bolivia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

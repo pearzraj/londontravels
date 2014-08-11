@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="GP">
+		<City id="17792"> 
+			<Name lang="EN">Le Gosier</Name>
+			<Region lang="EN">Le Gosier</Region>
+			<Destination lang="EN">Le Gosier, Le Gosier, Guadeloupe</Destination>
+		</City>
+		<City id="30605">
+			<Name lang="EN">Saint Francois</Name>
+			<Region lang="EN">Saint Francois</Region>
+			<Destination lang="EN">Saint Francois, Saint Francois, Guadeloupe</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495715" resultcode="0" message="" >
+				<Name><![CDATA[K+K MARIA THERESIA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Kirchberggasse, 6]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.203083</Latitude>
+					<Longitude>16.35596</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9497/37259497.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05900_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 5212370]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 52123 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

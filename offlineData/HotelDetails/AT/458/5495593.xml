@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495593" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL DAS TIGRA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tiefer Graben,14-20]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.212</Latitude>
+					<Longitude>16.368</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[A bellboy service is available to guests. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[A bellboy service is available to guests. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9790/32609790.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9791/32609791.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9792/32609792.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9793/32609793.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9794/32609794.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9795/32609795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9796/32609796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9797/32609797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9798/32609798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9799/32609799.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05110_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05110_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05110_1_8.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9786/32609786.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9787/32609787.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9788/32609788.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9789/32609789.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[004315339641 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

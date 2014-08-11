@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336077" resultcode="0" message="" >
+				<Name><![CDATA[EDIFICIO CHARCAS APART HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Marcelo T de Alvear 776,]]></Address1>
+					<Address2><![CDATA[1058, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1058</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59638</Latitude>
+					<Longitude>-58.378067</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4928/37114928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4929/37114929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4930/37114930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4931/37114931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4932/37114932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4933/37114933.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 4313 6958]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4312 2051 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

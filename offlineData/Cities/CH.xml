@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CH">
+		<City id="31382"> 
+			<Name lang="EN">Adelboden</Name>
+			<Region lang="EN">Adelboden</Region>
+			<Destination lang="EN">Adelboden, Adelboden, Switzerland</Destination>
+		</City>
+		<City id="31389">
+			<Name lang="EN">Aeschi</Name>
+			<Region lang="EN">Aeschi</Region>
+			<Destination lang="EN">Aeschi, Aeschi, Switzerland</Destination>
+		</City>
+		<City id="31967">
+			<Name lang="EN">Arosa</Name>
+			<Region lang="EN">Arosa</Region>
+			<Destination lang="EN">Arosa, Arosa, Switzerland</Destination>
+		</City>
+		<City id="6824">
+			<Name lang="EN">Ascona</Name>
+			<Region lang="EN">Ascona</Region>
+			<Destination lang="EN">Ascona, Ascona, Switzerland</Destination>
+		</City>
+		<City id="32184">
+			<Name lang="EN">Bad Ragaz</Name>
+			<Region lang="EN">Bad Ragaz</Region>
+			<Destination lang="EN">Bad Ragaz, Bad Ragaz, Switzerland</Destination>
+		</City>
+		<City id="6979">
+			<Name lang="EN">Basel</Name>
+			<Region lang="EN">Basel</Region>
+			<Destination lang="EN">Basel, Basel, Switzerland</Destination>
+		</City>
+		<City id="7043">
+			<Name lang="EN">Berne</Name>
+			<Region lang="EN">Berne</Region>
+			<Destination lang="EN">Berne, Berne, Switzerland</Destination>
+		</City>
+		<City id="9531">
+			<Name lang="EN">Biel/Bienne</Name>
+			<Region lang="EN">Biel/Bienne</Region>
+			<Destination lang="EN">Biel/Bienne, Biel/Bienne, Switzerland</Destination>
+		</City>
+		<City id="12591">
+			<Name lang="EN">Brunnen</Name>
+			<Region lang="EN">Brunnen</Region>
+			<Destination lang="EN">Brunnen, Brunnen, Switzerland</Destination>
+		</City>
+		<City id="12761">
+			<Name lang="EN">Buochs</Name>
+			<Region lang="EN">Buochs</Region>
+			<Destination lang="EN">Buochs, Buochs, Switzerland</Destination>
+		</City>
+		<City id="18320">
+			<Name lang="EN">Chardonne</Name>
+			<Region lang="EN">Chardonne</Region>
+			<Destination lang="EN">Chardonne, Chardonne, Switzerland</Destination>
+		</City>
+		<City id="18348">
+			<Name lang="EN">Chavannes-de-Bogis</Name>
+			<Region lang="EN">Chavannes-de-Bogis</Region>
+			<Destination lang="EN">Chavannes-de-Bogis, Chavannes-de-Bogis, Switzerland</Destination>
+		</City>
+		<City id="19351">
+			<Name lang="EN">Chur</Name>
+			<Region lang="EN">Chur</Region>
+			<Destination lang="EN">Chur, Chur, Switzerland</Destination>
+		</City>
+		<City id="22850">
+			<Name lang="EN">Cully</Name>
+			<Region lang="EN">Cully</Region>
+			<Destination lang="EN">Cully, Cully, Switzerland</Destination>
+		</City>
+		<City id="23418">
+			<Name lang="EN">Davos</Name>
+			<Region lang="EN">Davos</Region>
+			<Destination lang="EN">Davos, Davos, Switzerland</Destination>
+		</City>
+		<City id="23912">
+			<Name lang="EN">Dietikon</Name>
+			<Region lang="EN">Dietikon</Region>
+			<Destination lang="EN">Dietikon, Dietikon, Switzerland</Destination>
+		</City>
+		<City id="9591">
+			<Name lang="EN">Egerkingen</Name>
+			<Region lang="EN">Egerkingen</Region>
+			<Destination lang="EN">Egerkingen, Egerkingen, Switzerland</Destination>
+		</City>
+		<City id="10393">
+			<Name lang="EN">Emmetten</Name>
+			<Region lang="EN">Emmetten</Region>
+			<Destination lang="EN">Emmetten, Emmetten, Switzerland</Destination>
+		</City>
+		<City id="10408">
+			<Name lang="EN">Engelberg</Name>
+			<Region lang="EN">Engelberg</Region>
+			<Destination lang="EN">Engelberg, Engelberg, Switzerland</Destination>
+		</City>
+		<City id="15263">
+			<Name lang="EN">Flims</Name>
+			<Region lang="EN">Flims</Region>
+			<Destination lang="EN">Flims, Flims, Switzerland</Destination>
+		</City>
+		<City id="32926">
+			<Name lang="EN">Flueli-Ranft</Name>
+			<Region lang="EN">Flueli-Ranft</Region>
+			<Destination lang="EN">Flueli-Ranft, Flueli-Ranft, Switzerland</Destination>
+		</City>
+		<City id="7863">
+			<Name lang="EN">Geneva</Name>
+			<Region lang="EN">Geneva</Region>
+			<Destination lang="EN">Geneva, Geneva, Switzerland</Destination>
+		</City>
+		<City id="17995">
+			<Name lang="EN">Geroldswil</Name>
+			<Region lang="EN">Geroldswil</Region>
+			<Destination lang="EN">Geroldswil, Geroldswil, Switzerland</Destination>
+		</City>
+		<City id="18056">
+			<Name lang="EN">Giswil</Name>
+			<Region lang="EN">Giswil</Region>
+			<Destination lang="EN">Giswil, Giswil, Switzerland</Destination>
+		</City>
+		<City id="18745">
+			<Name lang="EN">Glattbrugg</Name>
+			<Region lang="EN">Glattbrugg</Region>
+			<Destination lang="EN">Glattbrugg, Glattbrugg, Switzerland</Destination>
+		</City>
+		<City id="19854">
+			<Name lang="EN">Grindelwald</Name>
+			<Region lang="EN">Grindelwald</Region>
+			<Destination lang="EN">Grindelwald, Grindelwald, Switzerland</Destination>
+		</City>
+		<City id="21274">
+			<Name lang="EN">Hasliberg</Name>
+			<Region lang="EN">Hasliberg</Region>
+			<Destination lang="EN">Hasliberg, Hasliberg, Switzerland</Destination>
+		</City>
+		<City id="24007">
+			<Name lang="EN">Horgen</Name>
+			<Region lang="EN">Horgen</Region>
+			<Destination lang="EN">Horgen, Horgen, Switzerland</Destination>
+		</City>
+		<City id="15091">
+			<Name lang="EN">Interlaken</Name>
+			<Region lang="EN">Interlaken</Region>
+			<Destination lang="EN">Interlaken, Interlaken, Switzerland</Destination>
+		</City>
+		<City id="17674">
+			<Name lang="EN">Lausanne</Name>
+			<Region lang="EN">Lausanne</Region>
+			<Destination lang="EN">Lausanne, Lausanne, Switzerland</Destination>
+		</City>
+		<City id="18482">
+			<Name lang="EN">Leukerbad</Name>
+			<Region lang="EN">Leukerbad</Region>
+			<Destination lang="EN">Leukerbad, Leukerbad, Switzerland</Destination>
+		</City>
+		<City id="18512">
+			<Name lang="EN">Leysin</Name>
+			<Region lang="EN">Leysin</Region>
+			<Destination lang="EN">Leysin, Leysin, Switzerland</Destination>
+		</City>
+		<City id="19909">
+			<Name lang="EN">Locarno</Name>
+			<Region lang="EN">Locarno</Region>
+			<Destination lang="EN">Locarno, Locarno, Switzerland</Destination>
+		</City>
+		<City id="1046">
+			<Name lang="EN">Lugano</Name>
+			<Region lang="EN">Lugano</Region>
+			<Destination lang="EN">Lugano, Lugano, Switzerland</Destination>
+		</City>
+		<City id="20665">
+			<Name lang="EN">Lungern</Name>
+			<Region lang="EN">Lungern</Region>
+			<Destination lang="EN">Lungern, Lungern, Switzerland</Destination>
+		</City>
+		<City id="20686">
+			<Name lang="EN">Luzern</Name>
+			<Region lang="EN">Luzern</Region>
+			<Destination lang="EN">Luzern, Luzern, Switzerland</Destination>
+		</City>
+		<City id="21561">
+			<Name lang="EN">Maienfeld</Name>
+			<Region lang="EN">Maienfeld</Region>
+			<Destination lang="EN">Maienfeld, Maienfeld, Switzerland</Destination>
+		</City>
+		<City id="33508">
+			<Name lang="EN">Maloja</Name>
+			<Region lang="EN">Maloja</Region>
+			<Destination lang="EN">Maloja, Maloja, Switzerland</Destination>
+		</City>
+		<City id="24151">
+			<Name lang="EN">Meiringen</Name>
+			<Region lang="EN">Meiringen</Region>
+			<Destination lang="EN">Meiringen, Meiringen, Switzerland</Destination>
+		</City>
+		<City id="25809">
+			<Name lang="EN">Mont Pelerin</Name>
+			<Region lang="EN">Mont Pelerin</Region>
+			<Destination lang="EN">Mont Pelerin, Mont Pelerin, Switzerland</Destination>
+		</City>
+		<City id="27218">
+			<Name lang="EN">Montreux</Name>
+			<Region lang="EN">Montreux</Region>
+			<Destination lang="EN">Montreux, Montreux, Switzerland</Destination>
+		</City>
+		<City id="27793">
+			<Name lang="EN">Murren</Name>
+			<Region lang="EN">Murren</Region>
+			<Destination lang="EN">Murren, Murren, Switzerland</Destination>
+		</City>
+		<City id="27701">
+			<Name lang="EN">Riederalp</Name>
+			<Region lang="EN">Riederalp</Region>
+			<Destination lang="EN">Riederalp, Riederalp, Switzerland</Destination>
+		</City>
+		<City id="28048">
+			<Name lang="EN">Rothenburg</Name>
+			<Region lang="EN">Rothenburg</Region>
+			<Destination lang="EN">Rothenburg, Rothenburg, Switzerland</Destination>
+		</City>
+		<City id="28247">
+			<Name lang="EN">Saas Fee</Name>
+			<Region lang="EN">Saas Fee</Region>
+			<Destination lang="EN">Saas Fee, Saas Fee, Switzerland</Destination>
+		</City>
+		<City id="5493">
+			<Name lang="EN">Saint Moritz</Name>
+			<Region lang="EN">Saint Moritz</Region>
+			<Destination lang="EN">Saint Moritz, Saint Moritz, Switzerland</Destination>
+		</City>
+		<City id="5889">
+			<Name lang="EN">Samedan</Name>
+			<Region lang="EN">Samedan</Region>
+			<Destination lang="EN">Samedan, Samedan, Switzerland</Destination>
+		</City>
+		<City id="4349">
+			<Name lang="EN">Sarnen</Name>
+			<Region lang="EN">Sarnen</Region>
+			<Destination lang="EN">Sarnen, Sarnen, Switzerland</Destination>
+		</City>
+		<City id="34111">
+			<Name lang="EN">Seelisberg</Name>
+			<Region lang="EN">Seelisberg</Region>
+			<Destination lang="EN">Seelisberg, Seelisberg, Switzerland</Destination>
+		</City>
+		<City id="5388">
+			<Name lang="EN">Solothurn</Name>
+			<Region lang="EN">Solothurn</Region>
+			<Destination lang="EN">Solothurn, Solothurn, Switzerland</Destination>
+		</City>
+		<City id="935">
+			<Name lang="EN">Spiez</Name>
+			<Region lang="EN">Spiez</Region>
+			<Destination lang="EN">Spiez, Spiez, Switzerland</Destination>
+		</City>
+		<City id="4305">
+			<Name lang="EN">St Gallen</Name>
+			<Region lang="EN">St Gallen</Region>
+			<Destination lang="EN">St Gallen, St Gallen, Switzerland</Destination>
+		</City>
+		<City id="34163">
+			<Name lang="EN">St Maurice</Name>
+			<Region lang="EN">St Maurice</Region>
+			<Destination lang="EN">St Maurice, St Maurice, Switzerland</Destination>
+		</City>
+		<City id="19">
+			<Name lang="EN">Tasch</Name>
+			<Region lang="EN">Tasch</Region>
+			<Destination lang="EN">Tasch, Tasch, Switzerland</Destination>
+		</City>
+		<City id="816">
+			<Name lang="EN">Thun</Name>
+			<Region lang="EN">Thun</Region>
+			<Destination lang="EN">Thun, Thun, Switzerland</Destination>
+		</City>
+		<City id="2940">
+			<Name lang="EN">Vevey</Name>
+			<Region lang="EN">Vevey</Region>
+			<Destination lang="EN">Vevey, Vevey, Switzerland</Destination>
+		</City>
+		<City id="25502">
+			<Name lang="EN">Vico Morcote</Name>
+			<Region lang="EN">Vico Morcote</Region>
+			<Destination lang="EN">Vico Morcote, Vico Morcote, Switzerland</Destination>
+		</City>
+		<City id="1905">
+			<Name lang="EN">Vitznau</Name>
+			<Region lang="EN">Vitznau</Region>
+			<Destination lang="EN">Vitznau, Vitznau, Switzerland</Destination>
+		</City>
+		<City id="2271">
+			<Name lang="EN">Walzenhausen</Name>
+			<Region lang="EN">Walzenhausen</Region>
+			<Destination lang="EN">Walzenhausen, Walzenhausen, Switzerland</Destination>
+		</City>
+		<City id="2359">
+			<Name lang="EN">Weggis</Name>
+			<Region lang="EN">Weggis</Region>
+			<Destination lang="EN">Weggis, Weggis, Switzerland</Destination>
+		</City>
+		<City id="2397">
+			<Name lang="EN">Wengen</Name>
+			<Region lang="EN">Wengen</Region>
+			<Destination lang="EN">Wengen, Wengen, Switzerland</Destination>
+		</City>
+		<City id="3283">
+			<Name lang="EN">Zermatt</Name>
+			<Region lang="EN">Zermatt</Region>
+			<Destination lang="EN">Zermatt, Zermatt, Switzerland</Destination>
+		</City>
+		<City id="34434">
+			<Name lang="EN">Zuoz</Name>
+			<Region lang="EN">Zuoz</Region>
+			<Destination lang="EN">Zuoz, Zuoz, Switzerland</Destination>
+		</City>
+		<City id="31305">
+			<Name lang="EN">Zurich</Name>
+			<Region lang="EN">Zurich</Region>
+			<Destination lang="EN">Zurich, Zurich, Switzerland</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

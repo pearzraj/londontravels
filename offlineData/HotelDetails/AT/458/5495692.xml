@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495692" resultcode="0" message="" >
+				<Name><![CDATA[THE RING HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Karntner Ring,8]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20171</Latitude>
+					<Longitude>16.371021</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9365/37259365.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9366/37259366.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9367/37259367.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9368/37259368.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9369/37259369.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_5.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9360/37259360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9361/37259361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9362/37259362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9363/37259363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9364/37259364.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10455_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 151 51310]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 122 1220 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

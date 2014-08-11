@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493744" resultcode="0" message="" >
+				<Name><![CDATA[PULLMAN DEIRA CITY CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Attached to Diera City Shopping Mall,]]></Address1>
+					<Address2><![CDATA[61871, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>61871</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.221064</Latitude>
+					<Longitude>55.360004</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. We also have Billiards. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. We also have Billiards. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange, Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Billiards]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3351/32603351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3352/32603352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3353/32603353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3354/32603354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3355/32603355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3356/32603356.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3357/32603357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3358/32603358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3359/32603359.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3360/32603360.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3361/32603361.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3362/32603362.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3363/32603363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3364/32603364.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09765_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 2954444]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 2941222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

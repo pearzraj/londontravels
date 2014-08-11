@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="GI">
+		<City id="8178"> 
+			<Name lang="EN">Gibraltar</Name>
+			<Region lang="EN">Gibraltar</Region>
+			<Destination lang="EN">Gibraltar, Gibraltar, Gibraltar</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

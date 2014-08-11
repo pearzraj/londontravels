@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493576" resultcode="0" message="" >
+				<Name><![CDATA[ALDEAMENTO DA MULEMBA RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Estrada do Cacuaco Km 9,]]></Address1>
+					<Address2><![CDATA[Luanda, Angola]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>82602</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Luanda]]>
+					</CityName>
+					<CountryCode>AO</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Angola]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-8.770403</Latitude>
+					<Longitude>13.315773</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8899/37258899.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8900/37258900.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8901/37258901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8902/37258902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8903/37258903.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8904/37258904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8905/37258905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8906/37258906.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8907/37258907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8908/37258908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8909/37258909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8910/37258910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8893/37258893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8894/37258894.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8895/37258895.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8896/37258896.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8897/37258897.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8898/37258898.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[244222390265]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[244222390300 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

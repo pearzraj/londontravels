@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495626" resultcode="0" message="" >
+				<Name><![CDATA[TREND SALZBURG WEST]]></Name>
+				<Address>
+					<Address1><![CDATA[   Bundesstrasse,4]]></Address1>
+					<Address2><![CDATA[5073, Salzburg, Austria]]></Address2>
+					<PostalCode>5073</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.791492</Latitude>
+					<Longitude>12.989681</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9091/37259091.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03782_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662 85814000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043662 85814117 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

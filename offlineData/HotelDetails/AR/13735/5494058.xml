@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494058" resultcode="0" message="" >
+				<Name><![CDATA[MERIT MAR DEL PLATA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av Libertad 2936,]]></Address1>
+					<Address2><![CDATA[7600, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>7600</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.99202</Latitude>
+					<Longitude>-57.545647</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4533/37674533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4534/37674534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4511/37674511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4512/37674512.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4513/37674513.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4514/37674514.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4515/37674515.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4516/37674516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4517/37674517.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4518/37674518.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4519/37674519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4520/37674520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4521/37674521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4522/37674522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4523/37674523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4524/37674524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4525/37674525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4526/37674526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4527/37674527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4528/37674528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4529/37674529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4530/37674530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4531/37674531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4532/37674532.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5032 5160]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5032 5111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

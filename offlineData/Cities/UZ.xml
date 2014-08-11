@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="UZ">
+		<City id="29328"> 
+			<Name lang="EN">Tashkent</Name>
+			<Region lang="EN">Tashkent</Region>
+			<Destination lang="EN">Tashkent, Tashkent, Uzbekistan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

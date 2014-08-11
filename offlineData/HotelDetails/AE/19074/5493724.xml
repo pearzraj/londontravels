@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493724" resultcode="0" message="" >
+				<Name><![CDATA[ORCHID HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Deira Al Riqqa Road, Al Makhtum Street,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.262629</Latitude>
+					<Longitude>55.317516</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3252/32603252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3253/32603253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3254/32603254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3255/32603255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3256/32603256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3257/32603257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3258/32603258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3259/32603259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3251/32603251.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04457_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+97 142 958 844]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+97 142 956 999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

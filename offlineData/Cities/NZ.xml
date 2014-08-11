@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NZ">
+		<City id="6854"> 
+			<Name lang="EN">Auckland</Name>
+			<Region lang="EN">Auckland</Region>
+			<Destination lang="EN">Auckland, Auckland, New Zealand</Destination>
+		</City>
+		<City id="7113">
+			<Name lang="EN">Blenheim</Name>
+			<Region lang="EN">Blenheim</Region>
+			<Destination lang="EN">Blenheim, Blenheim, New Zealand</Destination>
+		</City>
+		<City id="6764">
+			<Name lang="EN">Christchurch</Name>
+			<Region lang="EN">Christchurch</Region>
+			<Destination lang="EN">Christchurch, Christchurch, New Zealand</Destination>
+		</City>
+		<City id="11055">
+			<Name lang="EN">Dunedin</Name>
+			<Region lang="EN">Dunedin</Region>
+			<Destination lang="EN">Dunedin, Dunedin, New Zealand</Destination>
+		</City>
+		<City id="3944">
+			<Name lang="EN">Fox Glacier</Name>
+			<Region lang="EN">Fox Glacier</Region>
+			<Destination lang="EN">Fox Glacier, Fox Glacier, New Zealand</Destination>
+		</City>
+		<City id="15165">
+			<Name lang="EN">Franz Josef</Name>
+			<Region lang="EN">Franz Josef</Region>
+			<Destination lang="EN">Franz Josef, Franz Josef, New Zealand</Destination>
+		</City>
+		<City id="19404">
+			<Name lang="EN">Gore</Name>
+			<Region lang="EN">Gore</Region>
+			<Destination lang="EN">Gore, Gore, New Zealand</Destination>
+		</City>
+		<City id="20836">
+			<Name lang="EN">Haast</Name>
+			<Region lang="EN">Haast</Region>
+			<Destination lang="EN">Haast, Haast, New Zealand</Destination>
+		</City>
+		<City id="18697">
+			<Name lang="EN">Hamilton</Name>
+			<Region lang="EN">Hamilton</Region>
+			<Destination lang="EN">Hamilton, Hamilton, New Zealand</Destination>
+		</City>
+		<City id="33514">
+			<Name lang="EN">Mangere</Name>
+			<Region lang="EN">Mangere</Region>
+			<Destination lang="EN">Mangere, Mangere, New Zealand</Destination>
+		</City>
+		<City id="22633">
+			<Name lang="EN">Manukau</Name>
+			<Region lang="EN">Manukau</Region>
+			<Destination lang="EN">Manukau, Manukau, New Zealand</Destination>
+		</City>
+		<City id="14666">
+			<Name lang="EN">Masterton</Name>
+			<Region lang="EN">Masterton</Region>
+			<Destination lang="EN">Masterton, Masterton, New Zealand</Destination>
+		</City>
+		<City id="17962">
+			<Name lang="EN">Napier/Hastings</Name>
+			<Region lang="EN">Napier/Hastings</Region>
+			<Destination lang="EN">Napier/Hastings, Napier/Hastings, New Zealand</Destination>
+		</City>
+		<City id="13083">
+			<Name lang="EN">Omarama</Name>
+			<Region lang="EN">Omarama</Region>
+			<Destination lang="EN">Omarama, Omarama, New Zealand</Destination>
+		</City>
+		<City id="18433">
+			<Name lang="EN">Paihia</Name>
+			<Region lang="EN">Paihia</Region>
+			<Destination lang="EN">Paihia, Paihia, New Zealand</Destination>
+		</City>
+		<City id="13310">
+			<Name lang="EN">Palmerston North</Name>
+			<Region lang="EN">Palmerston North</Region>
+			<Destination lang="EN">Palmerston North, Palmerston North, New Zealand</Destination>
+		</City>
+		<City id="29480">
+			<Name lang="EN">Picton</Name>
+			<Region lang="EN">Picton</Region>
+			<Destination lang="EN">Picton, Picton, New Zealand</Destination>
+		</City>
+		<City id="30259">
+			<Name lang="EN">Queenstown</Name>
+			<Region lang="EN">Queenstown</Region>
+			<Destination lang="EN">Queenstown, Queenstown, New Zealand</Destination>
+		</City>
+		<City id="30526">
+			<Name lang="EN">Rotorua</Name>
+			<Region lang="EN">Rotorua</Region>
+			<Destination lang="EN">Rotorua, Rotorua, New Zealand</Destination>
+		</City>
+		<City id="29339">
+			<Name lang="EN">Taupo</Name>
+			<Region lang="EN">Taupo</Region>
+			<Destination lang="EN">Taupo, Taupo, New Zealand</Destination>
+		</City>
+		<City id="29353">
+			<Name lang="EN">Te Anau</Name>
+			<Region lang="EN">Te Anau</Region>
+			<Destination lang="EN">Te Anau, Te Anau, New Zealand</Destination>
+		</City>
+		<City id="2121">
+			<Name lang="EN">Wellington</Name>
+			<Region lang="EN">Wellington</Region>
+			<Destination lang="EN">Wellington, Wellington, New Zealand</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

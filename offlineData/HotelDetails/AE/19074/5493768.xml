@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493768" resultcode="0" message="" >
+				<Name><![CDATA[METROPOLITAN PALACE DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Maktoum Street,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.260834</Latitude>
+					<Longitude>55.320835</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3542/32603542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3543/32603543.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3544/32603544.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3545/32603545.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3546/32603546.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3547/32603547.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3548/32603548.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3549/32603549.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3550/32603550.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3551/32603551.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01959_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01959_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01959_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01959_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097142279993]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142270000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

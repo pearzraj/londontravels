@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="UA">
+		<City id="32782"> 
+			<Name lang="EN">Alupka</Name>
+			<Region lang="EN">Alupka</Region>
+			<Destination lang="EN">Alupka, Alupka, Ukraine</Destination>
+		</City>
+		<City id="31715">
+			<Name lang="EN">Alushta</Name>
+			<Region lang="EN">Alushta</Region>
+			<Destination lang="EN">Alushta, Alushta, Ukraine</Destination>
+		</City>
+		<City id="19047">
+			<Name lang="EN">Dnepropetrovsk</Name>
+			<Region lang="EN">Dnepropetrovsk</Region>
+			<Destination lang="EN">Dnepropetrovsk, Dnepropetrovsk, Ukraine</Destination>
+		</City>
+		<City id="19064">
+			<Name lang="EN">Donetsk</Name>
+			<Region lang="EN">Donetsk</Region>
+			<Destination lang="EN">Donetsk, Donetsk, Ukraine</Destination>
+		</City>
+		<City id="8105">
+			<Name lang="EN">Kerch</Name>
+			<Region lang="EN">Kerch</Region>
+			<Destination lang="EN">Kerch, Kerch, Ukraine</Destination>
+		</City>
+		<City id="8133">
+			<Name lang="EN">Kharkov</Name>
+			<Region lang="EN">Kharkov</Region>
+			<Destination lang="EN">Kharkov, Kharkov, Ukraine</Destination>
+		</City>
+		<City id="30018">
+			<Name lang="EN">Kiev</Name>
+			<Region lang="EN">Kiev</Region>
+			<Destination lang="EN">Kiev, Kiev, Ukraine</Destination>
+		</City>
+		<City id="12319">
+			<Name lang="EN">Lvov</Name>
+			<Region lang="EN">Lvov</Region>
+			<Destination lang="EN">Lvov, Lvov, Ukraine</Destination>
+		</City>
+		<City id="26248">
+			<Name lang="EN">Odessa</Name>
+			<Region lang="EN">Odessa</Region>
+			<Destination lang="EN">Odessa, Odessa, Ukraine</Destination>
+		</City>
+		<City id="28616">
+			<Name lang="EN">Sevastopol</Name>
+			<Region lang="EN">Sevastopol</Region>
+			<Destination lang="EN">Sevastopol, Sevastopol, Ukraine</Destination>
+		</City>
+		<City id="28798">
+			<Name lang="EN">Simferopol</Name>
+			<Region lang="EN">Simferopol</Region>
+			<Destination lang="EN">Simferopol, Simferopol, Ukraine</Destination>
+		</City>
+		<City id="30830">
+			<Name lang="EN">Uzhgorod</Name>
+			<Region lang="EN">Uzhgorod</Region>
+			<Destination lang="EN">Uzhgorod, Uzhgorod, Ukraine</Destination>
+		</City>
+		<City id="3116">
+			<Name lang="EN">Yalta</Name>
+			<Region lang="EN">Yalta</Region>
+			<Destination lang="EN">Yalta, Yalta, Ukraine</Destination>
+		</City>
+		<City id="31273">
+			<Name lang="EN">Zaporozhye</Name>
+			<Region lang="EN">Zaporozhye</Region>
+			<Destination lang="EN">Zaporozhye, Zaporozhye, Ukraine</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

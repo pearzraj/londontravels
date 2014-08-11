@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495776" resultcode="0" message="" >
+				<Name><![CDATA[WYNDHAM GRAND SALZBURG CONFERENCE CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Fanny-von-Lehnert-Strasse 7,]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.814915</Latitude>
+					<Longitude>13.043785</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4094/37664094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4095/37664095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4096/37664096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4097/37664097.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T10000/T10457_12_15.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 4688218]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 46880 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

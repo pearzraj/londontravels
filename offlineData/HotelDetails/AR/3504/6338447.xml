@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338447" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE LUXURY PATAGONIA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 998 Numero 50,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.337353</Latitude>
+					<Longitude>-72.26875</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3697/37113697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3698/37113698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3699/37113699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3700/37113700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3701/37113701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3702/37113702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3703/37113703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3704/37113704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3705/37113705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3706/37113706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3707/37113707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3708/37113708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3709/37113709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3710/37113710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3711/37113711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3712/37113712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3713/37113713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3714/37113714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3691/37113691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3692/37113692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3693/37113693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3694/37113694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3695/37113695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3696/37113696.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+542902 491 777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+542902 491 777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

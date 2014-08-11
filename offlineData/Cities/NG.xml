@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NG">
+		<City id="10448"> 
+			<Name lang="EN">Lagos</Name>
+			<Region lang="EN">Lagos</Region>
+			<Destination lang="EN">Lagos, Lagos, Nigeria</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CY">
+		<City id="32153"> 
+			<Name lang="EN">Ayia Napa</Name>
+			<Region lang="EN">Ayia Napa</Region>
+			<Destination lang="EN">Ayia Napa, Ayia Napa, Cyprus</Destination>
+		</City>
+		<City id="13621">
+			<Name lang="EN">Famagusta</Name>
+			<Region lang="EN">Famagusta</Region>
+			<Destination lang="EN">Famagusta, Famagusta, Cyprus</Destination>
+		</City>
+		<City id="36549">
+			<Name lang="EN">Kalavasos</Name>
+			<Region lang="EN">Kalavasos</Region>
+			<Destination lang="EN">Kalavasos, Kalavasos, Cyprus</Destination>
+		</City>
+		<City id="13955">
+			<Name lang="EN">Kouklia</Name>
+			<Region lang="EN">Kouklia</Region>
+			<Destination lang="EN">Kouklia, Kouklia, Cyprus</Destination>
+		</City>
+		<City id="15034">
+			<Name lang="EN">Kyrenia</Name>
+			<Region lang="EN">Kyrenia</Region>
+			<Destination lang="EN">Kyrenia, Kyrenia, Cyprus</Destination>
+		</City>
+		<City id="30233">
+			<Name lang="EN">Larnaca</Name>
+			<Region lang="EN">Larnaca</Region>
+			<Destination lang="EN">Larnaca, Larnaca, Cyprus</Destination>
+		</City>
+		<City id="19508">
+			<Name lang="EN">Limassol</Name>
+			<Region lang="EN">Limassol</Region>
+			<Destination lang="EN">Limassol, Limassol, Cyprus</Destination>
+		</City>
+		<City id="19597">
+			<Name lang="EN">Nicosia</Name>
+			<Region lang="EN">Nicosia</Region>
+			<Destination lang="EN">Nicosia, Nicosia, Cyprus</Destination>
+		</City>
+		<City id="21326">
+			<Name lang="EN">Paphos</Name>
+			<Region lang="EN">Paphos</Region>
+			<Destination lang="EN">Paphos, Paphos, Cyprus</Destination>
+		</City>
+		<City id="20741">
+			<Name lang="EN">Paralimni</Name>
+			<Region lang="EN">Paralimni</Region>
+			<Destination lang="EN">Paralimni, Paralimni, Cyprus</Destination>
+		</City>
+		<City id="24429">
+			<Name lang="EN">Platres</Name>
+			<Region lang="EN">Platres</Region>
+			<Destination lang="EN">Platres, Platres, Cyprus</Destination>
+		</City>
+		<City id="24555">
+			<Name lang="EN">Polis</Name>
+			<Region lang="EN">Polis</Region>
+			<Destination lang="EN">Polis, Polis, Cyprus</Destination>
+		</City>
+		<City id="25742">
+			<Name lang="EN">Protaras</Name>
+			<Region lang="EN">Protaras</Region>
+			<Destination lang="EN">Protaras, Protaras, Cyprus</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

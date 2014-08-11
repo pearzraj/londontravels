@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495247" resultcode="0" message="" >
+				<Name><![CDATA[PARADISE ON THE BEACH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Williams Esplanade,]]></Address1>
+					<Address2><![CDATA[Palm Cove, Australia]]></Address2>
+					<PostalCode></PostalCode>
+					<CityCode>82932</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Palm Cove]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.74378</Latitude>
+					<Longitude>145.6705</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60457_1_1.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9208/32609208.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9209/32609209.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

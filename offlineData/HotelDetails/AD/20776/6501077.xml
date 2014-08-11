@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6501077" resultcode="0" message="" >
+				<Name><![CDATA[K2 APARTAMENTOS TURISTICOS]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ La Solana,55]]></Address1>
+					<Address2><![CDATA[AD200, Pas De La Casa, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59331</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pas De La Casa]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.54056</Latitude>
+					<Longitude>1.7298619</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Apartments at the foot of the slopes, ideal for any ski fan. They offer the best atmosphere in which to relax after a day¿s sport. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Apartments at the foot of the slopes, ideal for any ski fan. They offer the best atmosphere in which to relax after a day¿s sport. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/PAS000/PASKA2_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+376 833358]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+376 856 999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331660" resultcode="0" message="" >
+				<Name><![CDATA[QUIMELEN LODGE]]></Name>
+				<Address>
+					<Address1><![CDATA[  GALLARDO, 136,]]></Address1>
+					<Address2><![CDATA[08400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>08400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.136913</Latitude>
+					<Longitude>-71.30854</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange, Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Currency Exchange, Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6592/37296592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6593/37296593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6594/37296594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6595/37296595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6596/37296596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6597/37296597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6598/37296598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6599/37296599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6600/37296600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6601/37296601.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 0294 442 2501 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SM">
+		<City id="30684"> 
+			<Name lang="EN">San Marino</Name>
+			<Region lang="EN">San Marino</Region>
+			<Destination lang="EN">San Marino, San Marino, San Marino</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

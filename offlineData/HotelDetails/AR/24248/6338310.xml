@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338310" resultcode="0" message="" >
+				<Name><![CDATA[SOFITEL LA RESERVA CARDALES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta Panamericana Nº 9 Km 61 Campana,]]></Address1>
+					<Address2><![CDATA[2814, Pilar, Argentina]]></Address2>
+					<PostalCode>2814</PostalCode>
+					<CityCode>82998</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pilar]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.26847</Latitude>
+					<Longitude>-58.90758</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2680/37112680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2681/37112681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2682/37112682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2683/37112683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2684/37112684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2685/37112685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2686/37112686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2687/37112687.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2688/37112688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2689/37112689.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2690/37112690.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2691/37112691.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

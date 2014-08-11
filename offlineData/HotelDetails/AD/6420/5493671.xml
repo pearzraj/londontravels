@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493671" resultcode="0" message="" >
+				<Name><![CDATA[FLORIDA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ La Llacuna,15]]></Address1>
+					<Address2><![CDATA[AD500, Andorra La Vella, Andorra]]></Address2>
+					<PostalCode>AD500</PostalCode>
+					<CityCode>59322</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Andorra La Vella]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.50878</Latitude>
+					<Longitude>1.52233</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Satellite / Cable TV , Central Heating, Hairdryer, Bathtub, Minibar, Laundry Service, Dry Cleaning Service, Room-Service and Safe , and among our services and facilities available we have Bar Cafeteria. We also have .  Activities and relax: Sauna, Spa, Hydro massage Shower and De 1 a 4 Máquinas. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The perfect establishment to use during the day to enjoy the fun with nature covered in snow. Of particular note are the panoramic views of the mountain. It's 27 rooms offer customers a functional and pleasant environment. We offer Breakfast Service. Health and beauty facilities include Spa, Sauna and Hydro massage Shower. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Satellite / Cable TV , Central Heating, Hairdryer, Bathtub, Minibar, Laundry Service, Dry Cleaning Service, Room-Service and Safe , and among our services and facilities available we have Bar Cafeteria. We also have .  Activities and relax: Sauna, Spa, Hydro massage Shower and De 1 a 4 Máquinas. Cuisine: . Pets allowed. Credit Cards: Euro/Mastercard, Master and Visa.  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The perfect establishment to use during the day to enjoy the fun with nature covered in snow. Of particular note are the panoramic views of the mountain. It's 27 rooms offer customers a functional and pleasant environment. We offer Breakfast Service. Health and beauty facilities include Spa, Sauna and Hydro massage Shower. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Other Facilities]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Mountain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Street]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Interior]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Sofa Bed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Hand soap]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shaving Kit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Comb]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Shoe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[BBC (UK)]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Ironing Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Desk]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Remote Control]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Rural]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shampoo]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Bath Gel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Dental Kit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Sewing Kit]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Tve]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Iron]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Hydro massage Shower]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Manual Lock]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2847/32602847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2830/32602830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2831/32602831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2832/32602832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2833/32602833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2834/32602834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2835/32602835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2836/32602836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2837/32602837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2838/32602838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2839/32602839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2840/32602840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2841/32602841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2842/32602842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2843/32602843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2844/32602844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2845/32602845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2846/32602846.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_17.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_24.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/AND000/ANDFLO_1_16.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376861925]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376820105 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494187" resultcode="0" message="" >
+				<Name><![CDATA[FAENA HOTEL AND UNIVERSE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Martha Salotti 445,]]></Address1>
+					<Address2><![CDATA[C1107CMB, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1107CMB</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.611595</Latitude>
+					<Longitude>-58.362637</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers and Jacuzzi. The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Wi-Fi, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi and Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers and Jacuzzi. The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Wi-Fi, Shops, Garage and Business Centre.  Activities and relax: Jacuzzi and Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7051/32607051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7052/32607052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7053/32607053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7054/32607054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7055/32607055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7056/32607056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7057/32607057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7058/32607058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7059/32607059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7060/32607060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7061/32607061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7062/32607062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7063/32607063.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7064/32607064.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7065/32607065.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7066/32607066.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4010 9001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4010 9000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

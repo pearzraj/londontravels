@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336797" resultcode="0" message="" >
+				<Name><![CDATA[TRES 65 CONCEPT BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  TUCUMAN 900,]]></Address1>
+					<Address2><![CDATA[1049, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1049</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.6013</Latitude>
+					<Longitude>-58.379543</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Vehicle Rental, Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Vehicle Rental, Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9672/37779672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9673/37779673.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9674/37779674.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9675/37779675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9676/37779676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9677/37779677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9678/37779678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9679/37779679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9680/37779680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9681/37779681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9682/37779682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9683/37779683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9684/37779684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9685/37779685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9686/37779686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9687/37779687.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9688/37779688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9689/37779689.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9690/37779690.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1143287176 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

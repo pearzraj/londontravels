@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="RO">
+		<City id="6565"> 
+			<Name lang="EN">Arad</Name>
+			<Region lang="EN">Arad</Region>
+			<Destination lang="EN">Arad, Arad, Romania</Destination>
+		</City>
+		<City id="6870">
+			<Name lang="EN">Bacau</Name>
+			<Region lang="EN">Bacau</Region>
+			<Destination lang="EN">Bacau, Bacau, Romania</Destination>
+		</City>
+		<City id="10603">
+			<Name lang="EN">Baia Mare</Name>
+			<Region lang="EN">Baia Mare</Region>
+			<Destination lang="EN">Baia Mare, Baia Mare, Romania</Destination>
+		</City>
+		<City id="10067">
+			<Name lang="EN">Bistrita</Name>
+			<Region lang="EN">Bistrita</Region>
+			<Destination lang="EN">Bistrita, Bistrita, Romania</Destination>
+		</City>
+		<City id="12345">
+			<Name lang="EN">Brasov</Name>
+			<Region lang="EN">Brasov</Region>
+			<Destination lang="EN">Brasov, Brasov, Romania</Destination>
+		</City>
+		<City id="7300">
+			<Name lang="EN">Bucharest</Name>
+			<Region lang="EN">Bucharest</Region>
+			<Destination lang="EN">Bucharest, Bucharest, Romania</Destination>
+		</City>
+		<City id="16764">
+			<Name lang="EN">Cluj</Name>
+			<Region lang="EN">Cluj</Region>
+			<Destination lang="EN">Cluj, Cluj, Romania</Destination>
+		</City>
+		<City id="11717">
+			<Name lang="EN">Constanta</Name>
+			<Region lang="EN">Constanta</Region>
+			<Destination lang="EN">Constanta, Constanta, Romania</Destination>
+		</City>
+		<City id="7918">
+			<Name lang="EN">Craiova</Name>
+			<Region lang="EN">Craiova</Region>
+			<Destination lang="EN">Craiova, Craiova, Romania</Destination>
+		</City>
+		<City id="17003">
+			<Name lang="EN">Galati</Name>
+			<Region lang="EN">Galati</Region>
+			<Destination lang="EN">Galati, Galati, Romania</Destination>
+		</City>
+		<City id="12451">
+			<Name lang="EN">Iasi</Name>
+			<Region lang="EN">Iasi</Region>
+			<Destination lang="EN">Iasi, Iasi, Romania</Destination>
+		</City>
+		<City id="27027">
+			<Name lang="EN">Oradea</Name>
+			<Region lang="EN">Oradea</Region>
+			<Destination lang="EN">Oradea, Oradea, Romania</Destination>
+		</City>
+		<City id="14961">
+			<Name lang="EN">Otopeni</Name>
+			<Region lang="EN">Otopeni</Region>
+			<Destination lang="EN">Otopeni, Otopeni, Romania</Destination>
+		</City>
+		<City id="24486">
+			<Name lang="EN">Ploiesti</Name>
+			<Region lang="EN">Ploiesti</Region>
+			<Destination lang="EN">Ploiesti, Ploiesti, Romania</Destination>
+		</City>
+		<City id="107">
+			<Name lang="EN">Sibiu</Name>
+			<Region lang="EN">Sibiu</Region>
+			<Destination lang="EN">Sibiu, Sibiu, Romania</Destination>
+		</City>
+		<City id="29080">
+			<Name lang="EN">Suceava</Name>
+			<Region lang="EN">Suceava</Region>
+			<Destination lang="EN">Suceava, Suceava, Romania</Destination>
+		</City>
+		<City id="29544">
+			<Name lang="EN">Timisoara</Name>
+			<Region lang="EN">Timisoara</Region>
+			<Destination lang="EN">Timisoara, Timisoara, Romania</Destination>
+		</City>
+		<City id="684">
+			<Name lang="EN">Tulcea</Name>
+			<Region lang="EN">Tulcea</Region>
+			<Destination lang="EN">Tulcea, Tulcea, Romania</Destination>
+		</City>
+		<City id="2803">
+			<Name lang="EN">Turnu Severin</Name>
+			<Region lang="EN">Turnu Severin</Region>
+			<Destination lang="EN">Turnu Severin, Turnu Severin, Romania</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342093" resultcode="0" message="" >
+				<Name><![CDATA[BANYAN TREE RAS AL KHAIMAH BEACH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Hamra,]]></Address1>
+					<Address2><![CDATA[Ras Al, Ras Al Khaimah, United Arab Emirates]]></Address2>
+					<PostalCode>Ras Al </PostalCode>
+					<CityCode>87203</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ras Al Khaimah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.69337</Latitude>
+					<Longitude>55.77526</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3919/37143919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3920/37143920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3921/37143921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3922/37143922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3923/37143923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3924/37143924.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 7 206 7797]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 7 206 7777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

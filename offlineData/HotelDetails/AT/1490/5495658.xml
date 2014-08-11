@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495658" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN VILLACH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Europaplatz,2]]></Address1>
+					<Address2><![CDATA[9500, Villach, Austria]]></Address2>
+					<PostalCode>9500</PostalCode>
+					<CityCode>64917</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Villach]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>46.61508</Latitude>
+					<Longitude>13.849736</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_26.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60845_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43424222522805]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 4242 22522 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

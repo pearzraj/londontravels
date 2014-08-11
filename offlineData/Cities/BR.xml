@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BR">
+		<City id="31800"> 
+			<Name lang="EN">Angra dos Reis</Name>
+			<Region lang="EN">Rio de Janeiro</Region>
+			<Destination lang="EN">Angra dos Reis, Rio de Janeiro, Brazil</Destination>
+		</City>
+		<City id="11618">
+			<Name lang="EN">Aquiraz</Name>
+			<Region lang="EN">Ceara</Region>
+			<Destination lang="EN">Aquiraz, Ceara, Brazil</Destination>
+		</City>
+		<City id="6563">
+			<Name lang="EN">Aracaju</Name>
+			<Region lang="EN">Sergipe</Region>
+			<Destination lang="EN">Aracaju, Sergipe, Brazil</Destination>
+		</City>
+		<City id="6583">
+			<Name lang="EN">Araxa</Name>
+			<Region lang="EN">Minas Gerais</Region>
+			<Destination lang="EN">Araxa, Minas Gerais, Brazil</Destination>
+		</City>
+		<City id="31971">
+			<Name lang="EN">Arraial d’Ajuda</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Arraial d’Ajuda, Bahia, Brazil</Destination>
+		</City>
+		<City id="32064">
+			<Name lang="EN">Atibaia</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Atibaia, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="12089">
+			<Name lang="EN">Bauru</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Bauru, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="18659">
+			<Name lang="EN">Belem</Name>
+			<Region lang="EN">Para</Region>
+			<Destination lang="EN">Belem, Para, Brazil</Destination>
+		</City>
+		<City id="7031">
+			<Name lang="EN">Belo Horizonte</Name>
+			<Region lang="EN">Minas Gerais</Region>
+			<Destination lang="EN">Belo Horizonte, Minas Gerais, Brazil</Destination>
+		</City>
+		<City id="7128">
+			<Name lang="EN">Blumenau</Name>
+			<Region lang="EN">Santa Catarina</Region>
+			<Destination lang="EN">Blumenau, Santa Catarina, Brazil</Destination>
+		</City>
+		<City id="7240">
+			<Name lang="EN">Brasilia</Name>
+			<Region lang="EN">Federal District</Region>
+			<Destination lang="EN">Brasilia, Federal District, Brazil</Destination>
+		</City>
+		<City id="7367">
+			<Name lang="EN">Buzios</Name>
+			<Region lang="EN">Rio de Janeiro</Region>
+			<Destination lang="EN">Buzios, Rio de Janeiro, Brazil</Destination>
+		</City>
+		<City id="12847">
+			<Name lang="EN">Cabo Santo Agostinho</Name>
+			<Region lang="EN">Pernambuco</Region>
+			<Destination lang="EN">Cabo Santo Agostinho, Pernambuco, Brazil</Destination>
+		</City>
+		<City id="15999">
+			<Name lang="EN">Caldas Novas</Name>
+			<Region lang="EN">Goias</Region>
+			<Destination lang="EN">Caldas Novas, Goias, Brazil</Destination>
+		</City>
+		<City id="12976">
+			<Name lang="EN">Camacari</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Camacari, Bahia, Brazil</Destination>
+		</City>
+		<City id="7786">
+			<Name lang="EN">Campinas</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Campinas, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="7788">
+			<Name lang="EN">Campo Grande</Name>
+			<Region lang="EN">Mato Grosso do Sul</Region>
+			<Destination lang="EN">Campo Grande, Mato Grosso do Sul, Brazil</Destination>
+		</City>
+		<City id="32575">
+			<Name lang="EN">Caucaia</Name>
+			<Region lang="EN">Ceara</Region>
+			<Destination lang="EN">Caucaia, Ceara, Brazil</Destination>
+		</City>
+		<City id="6496">
+			<Name lang="EN">Caxias do Sul</Name>
+			<Region lang="EN">Rio Grande do Sul</Region>
+			<Destination lang="EN">Caxias do Sul, Rio Grande do Sul, Brazil</Destination>
+		</City>
+		<City id="22274">
+			<Name lang="EN">Costa do Sauipe</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Costa do Sauipe, Bahia, Brazil</Destination>
+		</City>
+		<City id="7448">
+			<Name lang="EN">Cuiaba</Name>
+			<Region lang="EN">Mato Grosso</Region>
+			<Destination lang="EN">Cuiaba, Mato Grosso, Brazil</Destination>
+		</City>
+		<City id="7460">
+			<Name lang="EN">Curitiba</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Curitiba, Parana, Brazil</Destination>
+		</City>
+		<City id="3890">
+			<Name lang="EN">Florianopolis</Name>
+			<Region lang="EN">Santa Catarina</Region>
+			<Destination lang="EN">Florianopolis, Santa Catarina, Brazil</Destination>
+		</City>
+		<City id="3936">
+			<Name lang="EN">Fortaleza</Name>
+			<Region lang="EN">Ceara</Region>
+			<Destination lang="EN">Fortaleza, Ceara, Brazil</Destination>
+		</City>
+		<City id="16319">
+			<Name lang="EN">Foz do Iguacu</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Foz do Iguacu, Parana, Brazil</Destination>
+		</City>
+		<City id="8222">
+			<Name lang="EN">Goiania</Name>
+			<Region lang="EN">Goias</Region>
+			<Destination lang="EN">Goiania, Goias, Brazil</Destination>
+		</City>
+		<City id="8597">
+			<Name lang="EN">Guarapari</Name>
+			<Region lang="EN">Espirito Santo</Region>
+			<Destination lang="EN">Guarapari, Espirito Santo, Brazil</Destination>
+		</City>
+		<City id="20478">
+			<Name lang="EN">Guarulhos</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Guarulhos, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="12492">
+			<Name lang="EN">Ilheus</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Ilheus, Bahia, Brazil</Destination>
+		</City>
+		<City id="15108">
+			<Name lang="EN">Ipatinga</Name>
+			<Region lang="EN">Minas Gerais</Region>
+			<Destination lang="EN">Ipatinga, Minas Gerais, Brazil</Destination>
+		</City>
+		<City id="24981">
+			<Name lang="EN">Ipojuca</Name>
+			<Region lang="EN">Pernambuco</Region>
+			<Destination lang="EN">Ipojuca, Pernambuco, Brazil</Destination>
+		</City>
+		<City id="25894">
+			<Name lang="EN">Itacare</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Itacare, Bahia, Brazil</Destination>
+		</City>
+		<City id="25923">
+			<Name lang="EN">Jaboatao dos Guararapes</Name>
+			<Region lang="EN">Pernambuco</Region>
+			<Destination lang="EN">Jaboatao dos Guararapes, Pernambuco, Brazil</Destination>
+		</City>
+		<City id="29650">
+			<Name lang="EN">Joao Pessoa</Name>
+			<Region lang="EN">Paraiba</Region>
+			<Destination lang="EN">Joao Pessoa, Paraiba, Brazil</Destination>
+		</City>
+		<City id="17552">
+			<Name lang="EN">Joinville</Name>
+			<Region lang="EN">Santa Catarina</Region>
+			<Destination lang="EN">Joinville, Santa Catarina, Brazil</Destination>
+		</City>
+		<City id="12258">
+			<Name lang="EN">Londrina</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Londrina, Parana, Brazil</Destination>
+		</City>
+		<City id="12626">
+			<Name lang="EN">Macae</Name>
+			<Region lang="EN">Rio de Janeiro</Region>
+			<Destination lang="EN">Macae, Rio de Janeiro, Brazil</Destination>
+		</City>
+		<City id="13668">
+			<Name lang="EN">Manaus</Name>
+			<Region lang="EN">Amazonas</Region>
+			<Destination lang="EN">Manaus, Amazonas, Brazil</Destination>
+		</City>
+		<City id="22647">
+			<Name lang="EN">Maragogi</Name>
+			<Region lang="EN">Alagoas</Region>
+			<Destination lang="EN">Maragogi, Alagoas, Brazil</Destination>
+		</City>
+		<City id="14612">
+			<Name lang="EN">Maringa</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Maringa, Parana, Brazil</Destination>
+		</City>
+		<City id="23686">
+			<Name lang="EN">Mata de Sao Joao</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Mata de Sao Joao, Bahia, Brazil</Destination>
+		</City>
+		<City id="25642">
+			<Name lang="EN">Mogi das Cruzes</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Mogi das Cruzes, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="27270">
+			<Name lang="EN">Morro de Sao Paulo</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Morro de Sao Paulo, Bahia, Brazil</Destination>
+		</City>
+		<City id="18936">
+			<Name lang="EN">Natal</Name>
+			<Region lang="EN">Rio Grande do Norte</Region>
+			<Destination lang="EN">Natal, Rio Grande do Norte, Brazil</Destination>
+		</City>
+		<City id="18594">
+			<Name lang="EN">Palhoca</Name>
+			<Region lang="EN">Santa Catarina</Region>
+			<Destination lang="EN">Palhoca, Santa Catarina, Brazil</Destination>
+		</City>
+		<City id="20749">
+			<Name lang="EN">Paraty</Name>
+			<Region lang="EN">Rio de Janeiro</Region>
+			<Destination lang="EN">Paraty, Rio de Janeiro, Brazil</Destination>
+		</City>
+		<City id="33796">
+			<Name lang="EN">Paulista</Name>
+			<Region lang="EN">Pernambuco</Region>
+			<Destination lang="EN">Paulista, Pernambuco, Brazil</Destination>
+		</City>
+		<City id="29736">
+			<Name lang="EN">Ponta Grossa</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Ponta Grossa, Parana, Brazil</Destination>
+		</City>
+		<City id="29917">
+			<Name lang="EN">Porto Alegre</Name>
+			<Region lang="EN">Rio Grande do Sul</Region>
+			<Destination lang="EN">Porto Alegre, Rio Grande do Sul, Brazil</Destination>
+		</City>
+		<City id="29925">
+			<Name lang="EN">Porto Seguro</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Porto Seguro, Bahia, Brazil</Destination>
+		</City>
+		<City id="25302">
+			<Name lang="EN">Praia de Pipa</Name>
+			<Region lang="EN">Rio Grande do Norte</Region>
+			<Destination lang="EN">Praia de Pipa, Rio Grande do Norte, Brazil</Destination>
+		</City>
+		<City id="25303">
+			<Name lang="EN">Praia do Forte</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Praia do Forte, Bahia, Brazil</Destination>
+		</City>
+		<City id="30392">
+			<Name lang="EN">Recife</Name>
+			<Region lang="EN">Pernambuco</Region>
+			<Destination lang="EN">Recife, Pernambuco, Brazil</Destination>
+		</City>
+		<City id="30411">
+			<Name lang="EN">Ribeirao Preto</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Ribeirao Preto, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="30432">
+			<Name lang="EN">Rio de Janeiro</Name>
+			<Region lang="EN">Rio de Janeiro</Region>
+			<Destination lang="EN">Rio de Janeiro, Rio de Janeiro, Brazil</Destination>
+		</City>
+		<City id="5512">
+			<Name lang="EN">Salvador</Name>
+			<Region lang="EN">Bahia</Region>
+			<Destination lang="EN">Salvador, Bahia, Brazil</Destination>
+		</City>
+		<City id="849">
+			<Name lang="EN">Santo Andre</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Santo Andre, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="28539">
+			<Name lang="EN">Sao Jose do Rio Preto</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Sao Jose do Rio Preto, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="28540">
+			<Name lang="EN">Sao Jose dos Campos</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Sao Jose dos Campos, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="4308">
+			<Name lang="EN">Sao Jose dos Pinhais</Name>
+			<Region lang="EN">Parana</Region>
+			<Destination lang="EN">Sao Jose dos Pinhais, Parana, Brazil</Destination>
+		</City>
+		<City id="28543">
+			<Name lang="EN">Sao Luiz</Name>
+			<Region lang="EN">Maranhao</Region>
+			<Destination lang="EN">Sao Luiz, Maranhao, Brazil</Destination>
+		</City>
+		<City id="28548">
+			<Name lang="EN">Sao Paulo</Name>
+			<Region lang="EN">Sao Paulo</Region>
+			<Destination lang="EN">Sao Paulo, Sao Paulo, Brazil</Destination>
+		</City>
+		<City id="30738">
+			<Name lang="EN">Uberlandia</Name>
+			<Region lang="EN">Minas Gerais</Region>
+			<Destination lang="EN">Uberlandia, Minas Gerais, Brazil</Destination>
+		</City>
+		<City id="30925">
+			<Name lang="EN">Vitoria</Name>
+			<Region lang="EN">Espirito Santo</Region>
+			<Destination lang="EN">Vitoria, Espirito Santo, Brazil</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

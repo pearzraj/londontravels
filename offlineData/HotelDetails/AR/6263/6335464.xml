@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335464" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE LUXURY PARK PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Parera 183,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.5903</Latitude>
+					<Longitude>-58.384953</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42680_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9834/37759834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9835/37759835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9836/37759836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9837/37759837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9838/37759838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9839/37759839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9840/37759840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9841/37759841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9842/37759842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9843/37759843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9844/37759844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9845/37759845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9846/37759846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9847/37759847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9848/37759848.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9849/37759849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9850/37759850.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9851/37759851.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9852/37759852.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9853/37759853.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9854/37759854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9855/37759855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9856/37759856.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9857/37759857.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541167770230]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541167770200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

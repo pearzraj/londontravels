@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335531" resultcode="0" message="" >
+				<Name><![CDATA[IBIS MENDOZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  LATERAL SUR ACCESO ESTE 4242,]]></Address1>
+					<Address2><![CDATA[05521, Mendoza, Argentina]]></Address2>
+					<PostalCode>05521 </PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.905422</Latitude>
+					<Longitude>-68.79005</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning We also have Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning We also have Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4182/37764182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4183/37764183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4184/37764184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4185/37764185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4186/37764186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4187/37764187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4188/37764188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4189/37764189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4190/37764190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4191/37764191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4192/37764192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4193/37764193.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4194/37764194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4195/37764195.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[ 54 261 4264600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

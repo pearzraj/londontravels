@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495652" resultcode="0" message="" >
+				<Name><![CDATA[SCHLOSSHOTEL ROSENEGG]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rosenegg, 58]]></Address1>
+					<Address2><![CDATA[6391, Fieberbrunn, Austria]]></Address2>
+					<PostalCode>6391</PostalCode>
+					<CityCode>64995</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Fieberbrunn]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.48759</Latitude>
+					<Longitude>12.53192</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9154/37259154.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9155/37259155.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9156/37259156.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9157/37259157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9158/37259158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9159/37259159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9160/37259160.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9149/37259149.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9150/37259150.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9151/37259151.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9152/37259152.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9153/37259153.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 5 3545 23 78]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 5 3545 62 01 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

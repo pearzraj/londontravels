@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495752" resultcode="0" message="" >
+				<Name><![CDATA[BRISTOL SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[   Makartplatz, Osterreich,4]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.80288</Latitude>
+					<Longitude>13.043861</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9784/37259784.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02175_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[662 8735576]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[662 873557 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

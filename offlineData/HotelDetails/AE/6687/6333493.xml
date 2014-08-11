@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333493" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN ABU DHABI]]></Name>
+				<Address>
+					<Address1><![CDATA[  31st Street Between Airport & Muroor Road Po Box, ]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.439804</Latitude>
+					<Longitude>54.438457</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8221/37118221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8222/37118222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8223/37118223.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8224/37118224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8225/37118225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8226/37118226.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8227/37118227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8228/37118228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8229/37118229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8214/37118214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8215/37118215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8216/37118216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8217/37118217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8218/37118218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8219/37118219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8220/37118220.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07632_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07632_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 2 6574999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 6574888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

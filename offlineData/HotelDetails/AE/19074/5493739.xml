@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493739" resultcode="0" message="" >
+				<Name><![CDATA[FOUR POINTS BY SHERATON SHEIKH ZAYED]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road Po Box 116162, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.2581</Latitude>
+					<Longitude>55.3007</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3346/32603346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3335/32603335.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3336/32603336.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3337/32603337.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3338/32603338.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3339/32603339.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3340/32603340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3341/32603341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3342/32603342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3343/32603343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3344/32603344.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3345/32603345.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53798_1_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143230343]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143230333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

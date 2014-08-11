@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494006" resultcode="0" message="" >
+				<Name><![CDATA[COSTA GALANA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Patricio Peralta Ramos 5725,]]></Address1>
+					<Address2><![CDATA[B7602EAI, Mar Del Plata, Argentina]]></Address2>
+					<PostalCode>B7602EAI</PostalCode>
+					<CityCode>82668</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mar Del Plata]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.996704</Latitude>
+					<Longitude>-57.550163</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4003/37674003.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4000/37674000.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4001/37674001.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4002/37674002.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4004/37674004.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4005/37674005.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4006/37674006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4007/37674007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4008/37674008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4009/37674009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4010/37674010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4011/37674011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4012/37674012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4013/37674013.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4014/37674014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5323/32605323.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542234862020]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542234860000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

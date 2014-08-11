@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335227" resultcode="0" message="" >
+				<Name><![CDATA[IMAGO HOTEL AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 669 N 40,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.34457</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9235/37759235.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9236/37759236.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9237/37759237.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9238/37759238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9239/37759239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9240/37759240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9241/37759241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9229/37759229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9230/37759230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9242/37759242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9243/37759243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9244/37759244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9245/37759245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9246/37759246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9247/37759247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9248/37759248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9249/37759249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9250/37759250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9251/37759251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9252/37759252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9231/37759231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9232/37759232.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9233/37759233.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9234/37759234.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5353 1144]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2902 496 501 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

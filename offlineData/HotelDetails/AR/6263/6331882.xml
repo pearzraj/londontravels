@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331882" resultcode="0" message="" >
+				<Name><![CDATA[MIGUELETES PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Migueletes 1245,]]></Address1>
+					<Address2><![CDATA[C1426BUQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1426BUQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.563374</Latitude>
+					<Longitude>-58.439266</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2238/37092238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2239/37092239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2240/37092240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2241/37092241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2242/37092242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2243/37092243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2244/37092244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2245/37092245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2246/37092246.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2247/37092247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2248/37092248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2249/37092249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2250/37092250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2251/37092251.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5411 4032 0107]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+5411 4899 2153 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

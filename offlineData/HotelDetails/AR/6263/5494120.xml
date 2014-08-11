@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494120" resultcode="0" message="" >
+				<Name><![CDATA[SHELTOWN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Marcelo T. De Alvear 742,]]></Address1>
+					<Address2><![CDATA[C1058AAJ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1058AAJ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.596336</Latitude>
+					<Longitude>-58.377544</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Safe in Reception and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9881/37679881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9882/37679882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9883/37679883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9884/37679884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9885/37679885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9886/37679886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9887/37679887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9888/37679888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9889/37679889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9890/37679890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9891/37679891.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9892/37679892.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9893/37679893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9894/37679894.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9895/37679895.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9896/37679896.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9897/37679897.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9898/37679898.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9899/37679899.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9900/37679900.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9901/37679901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9902/37679902.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4312 6520]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 525 46835 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

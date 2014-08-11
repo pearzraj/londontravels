@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338678" resultcode="0" message="" >
+				<Name><![CDATA[LA CASCADA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Av.Bustillo Km 6,]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.120132</Latitude>
+					<Longitude>-71.37611</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42808_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4348/37784348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4349/37784349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4350/37784350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4351/37784351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4352/37784352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4339/37784339.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4340/37784340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4341/37784341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4342/37784342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4343/37784343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4344/37784344.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4345/37784345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4346/37784346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4347/37784347.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542944441076]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542944441088 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

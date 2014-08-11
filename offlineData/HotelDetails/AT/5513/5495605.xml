@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495605" resultcode="0" message="" >
+				<Name><![CDATA[RAMADA HOTEL SALZBURG CITY CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Suedtiroler Platz,13]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.813797</Latitude>
+					<Longitude>13.043624</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9872/32609872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9873/32609873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9874/32609874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9875/32609875.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_1_11.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9860/32609860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9861/32609861.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9862/32609862.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9863/32609863.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9864/32609864.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9865/32609865.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9866/32609866.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9867/32609867.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9868/32609868.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9869/32609869.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9870/32609870.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9871/32609871.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06778_12_11.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 2285 500]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 22850 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

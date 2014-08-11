@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335313" resultcode="0" message="" >
+				<Name><![CDATA[NOVOTEL WIEN CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Aspernbrueckengasse 1,]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.2131</Latitude>
+					<Longitude>16.382961</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2626/37162626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2615/37162615.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2616/37162616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2617/37162617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2618/37162618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2619/37162619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2620/37162620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2621/37162621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2622/37162622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2623/37162623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2624/37162624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2625/37162625.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[431903030 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

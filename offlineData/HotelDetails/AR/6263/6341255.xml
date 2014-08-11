@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341255" resultcode="0" message="" >
+				<Name><![CDATA[PALACIO SAN TELMO BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  MORENO 606,]]></Address1>
+					<Address2><![CDATA[1091, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1091</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.611523</Latitude>
+					<Longitude>-58.374866</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Central Heating We also have Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3448/37303448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3449/37303449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3440/37303440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3441/37303441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3442/37303442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3443/37303443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3444/37303444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3445/37303445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3446/37303446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3447/37303447.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 11 4807 7008 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

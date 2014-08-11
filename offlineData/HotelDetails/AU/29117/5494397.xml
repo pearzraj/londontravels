@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494397" resultcode="0" message="" >
+				<Name><![CDATA[FOUR SEASONS HOTEL SYDNEY]]></Name>
+				<Address>
+					<Address1><![CDATA[  George Street,199]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.861668</Latitude>
+					<Longitude>151.20767</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8050/32608050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8051/32608051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8052/32608052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8053/32608053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8054/32608054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8055/32608055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8056/32608056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8057/32608057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8058/32608058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8059/32608059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8060/32608060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8061/32608061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8062/32608062.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8063/32608063.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 2 9251 2851]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 2 9238 0000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

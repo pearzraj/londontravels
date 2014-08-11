@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494223" resultcode="0" message="" >
+				<Name><![CDATA[MONARCA HOTELES]]></Name>
+				<Address>
+					<Address1><![CDATA[  25 de Mayo 724,]]></Address1>
+					<Address2><![CDATA[1002, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1002</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.599365</Latitude>
+					<Longitude>-58.37134</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7445/32607445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7446/32607446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7447/32607447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7448/32607448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7449/32607449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7450/32607450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7451/32607451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7452/32607452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7439/32607439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7440/32607440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7441/32607441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7442/32607442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7443/32607443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7444/32607444.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4314 1101]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4314 1101 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

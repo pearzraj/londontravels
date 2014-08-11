@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TZ">
+		<City id="7513"> 
+			<Name lang="EN">Dar-Es-Salaam</Name>
+			<Region lang="EN">Dar-Es-Salaam</Region>
+			<Destination lang="EN">Dar-Es-Salaam, Dar-Es-Salaam, Tanzania</Destination>
+		</City>
+		<City id="31270">
+			<Name lang="EN">Zanzibar</Name>
+			<Region lang="EN">Zanzibar</Region>
+			<Destination lang="EN">Zanzibar, Zanzibar, Tanzania</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

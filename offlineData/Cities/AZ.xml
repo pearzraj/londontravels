@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AZ">
+		<City id="6892"> 
+			<Name lang="EN">Baku</Name>
+			<Region lang="EN">Baku</Region>
+			<Destination lang="EN">Baku, Baku, Azerbaijan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

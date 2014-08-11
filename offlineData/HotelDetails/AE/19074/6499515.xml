@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499515" resultcode="0" message="" >
+				<Name><![CDATA[HUES BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Corniche, Deira,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.287163</Latitude>
+					<Longitude>55.318497</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The HUES BOUTIQUE HOTEL in DUBAI is a city hotel designed to satisfy today¿s guest. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The HUES BOUTIQUE HOTEL in DUBAI is a city hotel designed to satisfy today¿s guest. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13341_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97142365666]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97142365566 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

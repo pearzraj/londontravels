@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340068" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE SYDNEY POTTS POINT]]></Name>
+				<Address>
+					<Address1><![CDATA[  226 Victoria Street,]]></Address1>
+					<Address2><![CDATA[NSW 2011, Sydney, Australia]]></Address2>
+					<PostalCode>NSW 2011</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.874416</Latitude>
+					<Longitude>151.22255</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Vehicle Rental, Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Vehicle Rental, Wi-Fi and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8618/37158618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8619/37158619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8620/37158620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8621/37158621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8622/37158622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8623/37158623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8624/37158624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8625/37158625.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8626/37158626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8627/37158627.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8628/37158628.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8629/37158629.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 2 93971707 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 2 93971777]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

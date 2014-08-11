@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CU">
+		<City id="28676"> 
+			<Name lang="EN">Havana</Name>
+			<Region lang="EN">Havana</Region>
+			<Destination lang="EN">Havana, Havana, Cuba</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

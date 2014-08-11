@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336076" resultcode="0" message="" >
+				<Name><![CDATA[LANDMARK HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Rasser Square PO Box 42222,]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.275204</Latitude>
+					<Longitude>55.3117</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4925/37114925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4926/37114926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4927/37114927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4913/37114913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4914/37114914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4915/37114915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4916/37114916.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26794_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4918/37114918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4919/37114919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4920/37114920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4911/37114911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4912/37114912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4924/37114924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4921/37114921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4922/37114922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4923/37114923.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97142243997]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97142286666 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

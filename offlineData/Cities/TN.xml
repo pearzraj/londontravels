@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TN">
+		<City id="15428"> 
+			<Name lang="EN">Borj Cedria</Name>
+			<Region lang="EN">Borj Cedria</Region>
+			<Destination lang="EN">Borj Cedria, Borj Cedria, Tunisia</Destination>
+		</City>
+		<City id="11026">
+			<Name lang="EN">Djerba</Name>
+			<Region lang="EN">Djerba</Region>
+			<Destination lang="EN">Djerba, Djerba, Tunisia</Destination>
+		</City>
+		<City id="8338">
+			<Name lang="EN">Douz</Name>
+			<Region lang="EN">Douz</Region>
+			<Destination lang="EN">Douz, Douz, Tunisia</Destination>
+		</City>
+		<City id="13565">
+			<Name lang="EN">Ezzahra</Name>
+			<Region lang="EN">Ezzahra</Region>
+			<Destination lang="EN">Ezzahra, Ezzahra, Tunisia</Destination>
+		</City>
+		<City id="17028">
+			<Name lang="EN">Gammarth</Name>
+			<Region lang="EN">Gammarth</Region>
+			<Destination lang="EN">Gammarth, Gammarth, Tunisia</Destination>
+		</City>
+		<City id="20913">
+			<Name lang="EN">Hammamet</Name>
+			<Region lang="EN">Hammamet</Region>
+			<Destination lang="EN">Hammamet, Hammamet, Tunisia</Destination>
+		</City>
+		<City id="26512">
+			<Name lang="EN">Kairouan</Name>
+			<Region lang="EN">Kairouan</Region>
+			<Destination lang="EN">Kairouan, Kairouan, Tunisia</Destination>
+		</City>
+		<City id="9805">
+			<Name lang="EN">Kebili</Name>
+			<Region lang="EN">Kebili</Region>
+			<Destination lang="EN">Kebili, Kebili, Tunisia</Destination>
+		</City>
+		<City id="21547">
+			<Name lang="EN">Mahdia</Name>
+			<Region lang="EN">Mahdia</Region>
+			<Destination lang="EN">Mahdia, Mahdia, Tunisia</Destination>
+		</City>
+		<City id="33580">
+			<Name lang="EN">Midoun</Name>
+			<Region lang="EN">Midoun</Region>
+			<Destination lang="EN">Midoun, Midoun, Tunisia</Destination>
+		</City>
+		<City id="18232">
+			<Name lang="EN">Monastir</Name>
+			<Region lang="EN">Monastir</Region>
+			<Destination lang="EN">Monastir, Monastir, Tunisia</Destination>
+		</City>
+		<City id="27831">
+			<Name lang="EN">Nabeul</Name>
+			<Region lang="EN">Nabeul</Region>
+			<Destination lang="EN">Nabeul, Nabeul, Tunisia</Destination>
+		</City>
+		<City id="24764">
+			<Name lang="EN">Port el Kantaoui</Name>
+			<Region lang="EN">Port el Kantaoui</Region>
+			<Destination lang="EN">Port el Kantaoui, Port el Kantaoui, Tunisia</Destination>
+		</City>
+		<City id="28717">
+			<Name lang="EN">Sfax</Name>
+			<Region lang="EN">Sfax</Region>
+			<Destination lang="EN">Sfax, Sfax, Tunisia</Destination>
+		</City>
+		<City id="23837">
+			<Name lang="EN">Sidi Bou Said</Name>
+			<Region lang="EN">Sidi Bou Said</Region>
+			<Destination lang="EN">Sidi Bou Said, Sidi Bou Said, Tunisia</Destination>
+		</City>
+		<City id="6649">
+			<Name lang="EN">Sousse</Name>
+			<Region lang="EN">Sousse</Region>
+			<Destination lang="EN">Sousse, Sousse, Tunisia</Destination>
+		</City>
+		<City id="29129">
+			<Name lang="EN">Tabarka</Name>
+			<Region lang="EN">Tabarka</Region>
+			<Destination lang="EN">Tabarka, Tabarka, Tunisia</Destination>
+		</City>
+		<City id="29824">
+			<Name lang="EN">Tozeur</Name>
+			<Region lang="EN">Tozeur</Region>
+			<Destination lang="EN">Tozeur, Tozeur, Tunisia</Destination>
+		</City>
+		<City id="29853">
+			<Name lang="EN">Tunis</Name>
+			<Region lang="EN">Tunis</Region>
+			<Destination lang="EN">Tunis, Tunis, Tunisia</Destination>
+		</City>
+		<City id="3131">
+			<Name lang="EN">Yasmine Hammamet</Name>
+			<Region lang="EN">Yasmine Hammamet</Region>
+			<Destination lang="EN">Yasmine Hammamet, Yasmine Hammamet, Tunisia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

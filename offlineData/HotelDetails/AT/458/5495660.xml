@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495660" resultcode="0" message="" >
+				<Name><![CDATA[IMPERIAL RENAISSANCE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Ungargasse,60]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.19711</Latitude>
+					<Longitude>16.38686</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_14.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9207/37259207.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01858_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[1 7117590]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[1 711750 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

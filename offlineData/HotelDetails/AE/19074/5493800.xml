@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493800" resultcode="0" message="" >
+				<Name><![CDATA[SPLENDOR HOTEL APARTMENTS BUR DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Hamriya Street,]]></Address1>
+					<Address2><![CDATA[00001, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker and Business Centre.  Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker and Business Centre.  Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3734/32603734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3735/32603735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3726/32603726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3727/32603727.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3728/32603728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3729/32603729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3730/32603730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3731/32603731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3732/32603732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3733/32603733.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09754_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09754_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 397 9859]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 397 9959 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333752" resultcode="0" message="" >
+				<Name><![CDATA[GRAND HOTEL TIRANA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Str Qemal Stafa,]]></Address1>
+					<Address2><![CDATA[Tirana, Tirana, Albania]]></Address2>
+					<PostalCode>Tirana</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.33165</Latitude>
+					<Longitude>19.8318</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6135/37126135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6136/37126136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6137/37126137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6138/37126138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6139/37126139.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6140/37126140.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6141/37126141.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6142/37126142.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

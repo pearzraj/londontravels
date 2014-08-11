@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MK">
+		<City id="28814"> 
+			<Name lang="EN">Skopje</Name>
+			<Region lang="EN">Skopje</Region>
+			<Destination lang="EN">Skopje, Skopje, Macedonia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

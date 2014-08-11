@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336561" resultcode="0" message="" >
+				<Name><![CDATA[HILTON RAS AL KHAIMAH RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Maareedh Street,  PO Box 500200, ]]></Address1>
+					<Address2><![CDATA[11133, Ras Al Khaimah, United Arab Emirates]]></Address2>
+					<PostalCode>11133</PostalCode>
+					<CityCode>87203</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ras Al Khaimah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.814842</Latitude>
+					<Longitude>55.95826</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. At the Business Centre, customers can work as though they were in their own office. We also have Games Room. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Multilingual Personnel, Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Hairdressers. At the Business Centre, customers can work as though they were in their own office. We also have Games Room. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Multilingual Personnel, Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Skin Cleaning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9099/37779099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9100/37779100.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9101/37779101.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9102/37779102.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9103/37779103.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9104/37779104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9105/37779105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9106/37779106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9107/37779107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9108/37779108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9109/37779109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9110/37779110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9111/37779111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9112/37779112.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09777_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09777_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09777_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09777_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 7 2288886]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 072 288 844 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

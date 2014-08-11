@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342074" resultcode="0" message="" >
+				<Name><![CDATA[HIDES HOTEL CAIRNS]]></Name>
+				<Address>
+					<Address1><![CDATA[  87 Lake Street,]]></Address1>
+					<Address2><![CDATA[4870, Cairns, Australia]]></Address2>
+					<PostalCode>4870</PostalCode>
+					<CityCode>81791</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cairns]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.922113</Latitude>
+					<Longitude>145.77577</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker and Tourist Information.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Car parker and Tourist Information.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Advice to tourists and information about basic services provided. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3795/37143795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3796/37143796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3797/37143797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3792/37143792.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3793/37143793.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3794/37143794.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 7 40 312 276]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 7 40 511 266 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

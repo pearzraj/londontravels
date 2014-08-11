@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PT">
+		<City id="19140"> 
+			<Name lang="EN">Agueda</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Agueda, Centro, Portugal</Destination>
+		</City>
+		<City id="31561">
+			<Name lang="EN">Albufeira</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Albufeira, Algarve, Portugal</Destination>
+		</City>
+		<City id="19154">
+			<Name lang="EN">Alcacer do Sal</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Alcacer do Sal, Alentejo, Portugal</Destination>
+		</City>
+		<City id="19157">
+			<Name lang="EN">Alcanena</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Alcanena, Centro, Portugal</Destination>
+		</City>
+		<City id="19159">
+			<Name lang="EN">Alcobaca</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Alcobaca, Centro, Portugal</Destination>
+		</City>
+		<City id="35222">
+			<Name lang="EN">Algeruz</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Algeruz, Lisboa, Portugal</Destination>
+		</City>
+		<City id="19179">
+			<Name lang="EN">Alijo</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Alijo, Norte, Portugal</Destination>
+		</City>
+		<City id="35554">
+			<Name lang="EN">Aljezur</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Aljezur, Algarve, Portugal</Destination>
+		</City>
+		<City id="19195">
+			<Name lang="EN">Almada</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Almada, Lisboa, Portugal</Destination>
+		</City>
+		<City id="19196">
+			<Name lang="EN">Almancil</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Almancil, Algarve, Portugal</Destination>
+		</City>
+		<City id="19197">
+			<Name lang="EN">Almeida</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Almeida, Centro, Portugal</Destination>
+		</City>
+		<City id="19213">
+			<Name lang="EN">Alter do Chao</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Alter do Chao, Alentejo, Portugal</Destination>
+		</City>
+		<City id="31713">
+			<Name lang="EN">Altura</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Altura, Algarve, Portugal</Destination>
+		</City>
+		<City id="20165">
+			<Name lang="EN">Alvito</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Alvito, Alentejo, Portugal</Destination>
+		</City>
+		<City id="31720">
+			<Name lang="EN">Alvor</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Alvor, Algarve, Portugal</Destination>
+		</City>
+		<City id="20170">
+			<Name lang="EN">Amarante</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Amarante, Norte, Portugal</Destination>
+		</City>
+		<City id="20172">
+			<Name lang="EN">Amares</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Amares, Norte, Portugal</Destination>
+		</City>
+		<City id="20207">
+			<Name lang="EN">Anadia</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Anadia, Centro, Portugal</Destination>
+		</City>
+		<City id="21774">
+			<Name lang="EN">Apulia</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Apulia, Norte, Portugal</Destination>
+		</City>
+		<City id="31950">
+			<Name lang="EN">Armacao de Pera</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Armacao de Pera, Algarve, Portugal</Destination>
+		</City>
+		<City id="20329">
+			<Name lang="EN">Arouca</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Arouca, Centro, Portugal</Destination>
+		</City>
+		<City id="21825">
+			<Name lang="EN">Arraiolos</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Arraiolos, Alentejo, Portugal</Destination>
+		</City>
+		<City id="32818">
+			<Name lang="EN">Atalaia</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Atalaia, Centro, Portugal</Destination>
+		</City>
+		<City id="15873">
+			<Name lang="EN">Aveiro</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Aveiro, Centro, Portugal</Destination>
+		</City>
+		<City id="25120">
+			<Name lang="EN">Azaruja</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Azaruja, Alentejo, Portugal</Destination>
+		</City>
+		<City id="25122">
+			<Name lang="EN">Azeitao</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Azeitao, Lisboa, Portugal</Destination>
+		</City>
+		<City id="13464">
+			<Name lang="EN">Baiao</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Baiao, Norte, Portugal</Destination>
+		</City>
+		<City id="7625">
+			<Name lang="EN">Barcelos</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Barcelos, Norte, Portugal</Destination>
+		</City>
+		<City id="13515">
+			<Name lang="EN">Barroselas</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Barroselas, Norte, Portugal</Destination>
+		</City>
+		<City id="13519">
+			<Name lang="EN">Batalha</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Batalha, Centro, Portugal</Destination>
+		</City>
+		<City id="13559">
+			<Name lang="EN">Beja</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Beja, Alentejo, Portugal</Destination>
+		</City>
+		<City id="14329">
+			<Name lang="EN">Belmonte</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Belmonte, Centro, Portugal</Destination>
+		</City>
+		<City id="11129">
+			<Name lang="EN">Boliqueime</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Boliqueime, Algarve, Portugal</Destination>
+		</City>
+		<City id="33021">
+			<Name lang="EN">Bombarral</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Bombarral, Centro, Portugal</Destination>
+		</City>
+		<City id="12124">
+			<Name lang="EN">Braga</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Braga, Norte, Portugal</Destination>
+		</City>
+		<City id="12125">
+			<Name lang="EN">Braganca</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Braganca, Norte, Portugal</Destination>
+		</City>
+		<City id="15966">
+			<Name lang="EN">Bucaco</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Bucaco, Centro, Portugal</Destination>
+		</City>
+		<City id="33165">
+			<Name lang="EN">Cabanas de Tavira</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Cabanas de Tavira, Algarve, Portugal</Destination>
+		</City>
+		<City id="5467">
+			<Name lang="EN">Caldas da Rainha</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Caldas da Rainha, Centro, Portugal</Destination>
+		</City>
+		<City id="5468">
+			<Name lang="EN">Caldas das Taipas</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Caldas das Taipas, Norte, Portugal</Destination>
+		</City>
+		<City id="25546">
+			<Name lang="EN">Cambres</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Cambres, Norte, Portugal</Destination>
+		</City>
+		<City id="7929">
+			<Name lang="EN">Canicada</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Canicada, Norte, Portugal</Destination>
+		</City>
+		<City id="14310">
+			<Name lang="EN">Canico</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Canico, Madeira, Portugal</Destination>
+		</City>
+		<City id="7932">
+			<Name lang="EN">Cantanhede</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Cantanhede, Centro, Portugal</Destination>
+		</City>
+		<City id="24039">
+			<Name lang="EN">Carcavelos</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Carcavelos, Lisboa, Portugal</Destination>
+		</City>
+		<City id="15590">
+			<Name lang="EN">Carvoeiro</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Carvoeiro, Algarve, Portugal</Destination>
+		</City>
+		<City id="24073">
+			<Name lang="EN">Cascais</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Cascais, Lisboa, Portugal</Destination>
+		</City>
+		<City id="24083">
+			<Name lang="EN">Castelo Branco</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Castelo Branco, Centro, Portugal</Destination>
+		</City>
+		<City id="17226">
+			<Name lang="EN">Castelo de Paiva</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Castelo de Paiva, Norte, Portugal</Destination>
+		</City>
+		<City id="24084">
+			<Name lang="EN">Castelo de Vide</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Castelo de Vide, Alentejo, Portugal</Destination>
+		</City>
+		<City id="3640">
+			<Name lang="EN">Cercal do Alentejo</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Cercal do Alentejo, Alentejo, Portugal</Destination>
+		</City>
+		<City id="16731">
+			<Name lang="EN">Chaves</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Chaves, Norte, Portugal</Destination>
+		</City>
+		<City id="16793">
+			<Name lang="EN">Coimbra</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Coimbra, Centro, Portugal</Destination>
+		</City>
+		<City id="6260">
+			<Name lang="EN">Colares</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Colares, Lisboa, Portugal</Destination>
+		</City>
+		<City id="13804">
+			<Name lang="EN">Costa da Caparica</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Costa da Caparica, Lisboa, Portugal</Destination>
+		</City>
+		<City id="16817">
+			<Name lang="EN">Covilha</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Covilha, Centro, Portugal</Destination>
+		</City>
+		<City id="15629">
+			<Name lang="EN">Crato</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Crato, Alentejo, Portugal</Destination>
+		</City>
+		<City id="15663">
+			<Name lang="EN">Curia</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Curia, Centro, Portugal</Destination>
+		</City>
+		<City id="10770">
+			<Name lang="EN">Elvas</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Elvas, Alentejo, Portugal</Destination>
+		</City>
+		<City id="10787">
+			<Name lang="EN">Entroncamento</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Entroncamento, Centro, Portugal</Destination>
+		</City>
+		<City id="10807">
+			<Name lang="EN">Ericeira</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Ericeira, Lisboa, Portugal</Destination>
+		</City>
+		<City id="14138">
+			<Name lang="EN">Esmoriz</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Esmoriz, Centro, Portugal</Destination>
+		</City>
+		<City id="14139">
+			<Name lang="EN">Espinho</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Espinho, Norte, Portugal</Destination>
+		</City>
+		<City id="14148">
+			<Name lang="EN">Estarreja</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Estarreja, Centro, Portugal</Destination>
+		</City>
+		<City id="12002">
+			<Name lang="EN">Estoi</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Estoi, Algarve, Portugal</Destination>
+		</City>
+		<City id="14153">
+			<Name lang="EN">Estoril</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Estoril, Lisboa, Portugal</Destination>
+		</City>
+		<City id="14155">
+			<Name lang="EN">Estremoz</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Estremoz, Alentejo, Portugal</Destination>
+		</City>
+		<City id="14176">
+			<Name lang="EN">Evora</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Evora, Alentejo, Portugal</Destination>
+		</City>
+		<City id="14198">
+			<Name lang="EN">Fafe</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Fafe, Norte, Portugal</Destination>
+		</City>
+		<City id="13583">
+			<Name lang="EN">Faial</Name>
+			<Region lang="EN">Azores</Region>
+			<Destination lang="EN">Faial, Azores, Portugal</Destination>
+		</City>
+		<City id="3748">
+			<Name lang="EN">Faro</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Faro, Algarve, Portugal</Destination>
+		</City>
+		<City id="15182">
+			<Name lang="EN">Fatima</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Fatima, Centro, Portugal</Destination>
+		</City>
+		<City id="35075">
+			<Name lang="EN">Fermentelos</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Fermentelos, Centro, Portugal</Destination>
+		</City>
+		<City id="14523">
+			<Name lang="EN">Ferragudo</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Ferragudo, Algarve, Portugal</Destination>
+		</City>
+		<City id="15198">
+			<Name lang="EN">Ferreira do Alentejo</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Ferreira do Alentejo, Alentejo, Portugal</Destination>
+		</City>
+		<City id="15206">
+			<Name lang="EN">Figueira da Foz</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Figueira da Foz, Centro, Portugal</Destination>
+		</City>
+		<City id="10933">
+			<Name lang="EN">Funchal</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Funchal, Madeira, Portugal</Destination>
+		</City>
+		<City id="16125">
+			<Name lang="EN">Fundao</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Fundao, Centro, Portugal</Destination>
+		</City>
+		<City id="17100">
+			<Name lang="EN">Geres</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Geres, Norte, Portugal</Destination>
+		</City>
+		<City id="35311">
+			<Name lang="EN">Gimonde</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Gimonde, Norte, Portugal</Destination>
+		</City>
+		<City id="22730">
+			<Name lang="EN">Golega</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Golega, Alentejo, Portugal</Destination>
+		</City>
+		<City id="22761">
+			<Name lang="EN">Gouveia</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Gouveia, Centro, Portugal</Destination>
+		</City>
+		<City id="28634">
+			<Name lang="EN">Guarda</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Guarda, Centro, Portugal</Destination>
+		</City>
+		<City id="28652">
+			<Name lang="EN">Guimaraes</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Guimaraes, Norte, Portugal</Destination>
+		</City>
+		<City id="10032">
+			<Name lang="EN">Horta</Name>
+			<Region lang="EN">Azores</Region>
+			<Destination lang="EN">Horta, Azores, Portugal</Destination>
+		</City>
+		<City id="29243">
+			<Name lang="EN">Idanha-a-Nova</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Idanha-a-Nova, Centro, Portugal</Destination>
+		</City>
+		<City id="29252">
+			<Name lang="EN">Ilhavo</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Ilhavo, Centro, Portugal</Destination>
+		</City>
+		<City id="16852">
+			<Name lang="EN">Lagoa</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Lagoa, Algarve, Portugal</Destination>
+		</City>
+		<City id="16857">
+			<Name lang="EN">Lagos</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Lagos, Algarve, Portugal</Destination>
+		</City>
+		<City id="11345">
+			<Name lang="EN">Lamego</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Lamego, Norte, Portugal</Destination>
+		</City>
+		<City id="11515">
+			<Name lang="EN">Leiria</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Leiria, Centro, Portugal</Destination>
+		</City>
+		<City id="15450">
+			<Name lang="EN">Linda a Velha</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Linda a Velha, Lisboa, Portugal</Destination>
+		</City>
+		<City id="10712">
+			<Name lang="EN">Lisbon</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Lisbon, Lisboa, Portugal</Destination>
+		</City>
+		<City id="15497">
+			<Name lang="EN">Luso</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Luso, Centro, Portugal</Destination>
+		</City>
+		<City id="11418">
+			<Name lang="EN">Maceira Lis</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Maceira Lis, Centro, Portugal</Destination>
+		</City>
+		<City id="20724">
+			<Name lang="EN">Machico</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Machico, Madeira, Portugal</Destination>
+		</City>
+		<City id="11443">
+			<Name lang="EN">Mangualde</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Mangualde, Centro, Portugal</Destination>
+		</City>
+		<City id="11447">
+			<Name lang="EN">Manteigas</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Manteigas, Centro, Portugal</Destination>
+		</City>
+		<City id="11463">
+			<Name lang="EN">Marinha Grande</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Marinha Grande, Centro, Portugal</Destination>
+		</City>
+		<City id="11749">
+			<Name lang="EN">Marvao</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Marvao, Alentejo, Portugal</Destination>
+		</City>
+		<City id="11754">
+			<Name lang="EN">Matosinhos</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Matosinhos, Norte, Portugal</Destination>
+		</City>
+		<City id="11773">
+			<Name lang="EN">Mealhada</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Mealhada, Norte, Portugal</Destination>
+		</City>
+		<City id="11792">
+			<Name lang="EN">Mertola</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Mertola, Alentejo, Portugal</Destination>
+		</City>
+		<City id="19241">
+			<Name lang="EN">Moncao</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Moncao, Norte, Portugal</Destination>
+		</City>
+		<City id="25682">
+			<Name lang="EN">Moncarapacho</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Moncarapacho, Algarve, Portugal</Destination>
+		</City>
+		<City id="25684">
+			<Name lang="EN">Monchique</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Monchique, Algarve, Portugal</Destination>
+		</City>
+		<City id="19244">
+			<Name lang="EN">Mondim de Basto</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Mondim de Basto, Norte, Portugal</Destination>
+		</City>
+		<City id="19249">
+			<Name lang="EN">Monfortinho</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Monfortinho, Centro, Portugal</Destination>
+		</City>
+		<City id="19260">
+			<Name lang="EN">Montargil</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Montargil, Alentejo, Portugal</Destination>
+		</City>
+		<City id="25838">
+			<Name lang="EN">Monte Gordo</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Monte Gordo, Algarve, Portugal</Destination>
+		</City>
+		<City id="19270">
+			<Name lang="EN">Monte Real</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Monte Real, Centro, Portugal</Destination>
+		</City>
+		<City id="19272">
+			<Name lang="EN">Montemor-o-Novo</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Montemor-o-Novo, Alentejo, Portugal</Destination>
+		</City>
+		<City id="5642">
+			<Name lang="EN">Nazare</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Nazare, Centro, Portugal</Destination>
+		</City>
+		<City id="26660">
+			<Name lang="EN">Obidos</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Obidos, Centro, Portugal</Destination>
+		</City>
+		<City id="4212">
+			<Name lang="EN">Oeiras</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Oeiras, Lisboa, Portugal</Destination>
+		</City>
+		<City id="13288">
+			<Name lang="EN">Ofir</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Ofir, Norte, Portugal</Destination>
+		</City>
+		<City id="13055">
+			<Name lang="EN">Olhao</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Olhao, Algarve, Portugal</Destination>
+		</City>
+		<City id="10867">
+			<Name lang="EN">Olhos de Agua</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Olhos de Agua, Algarve, Portugal</Destination>
+		</City>
+		<City id="10869">
+			<Name lang="EN">Oliveira de Azemeis</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Oliveira de Azemeis, Norte, Portugal</Destination>
+		</City>
+		<City id="10911">
+			<Name lang="EN">Ourem</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Ourem, Centro, Portugal</Destination>
+		</City>
+		<City id="11381">
+			<Name lang="EN">Ovar</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Ovar, Centro, Portugal</Destination>
+		</City>
+		<City id="3578">
+			<Name lang="EN">Paco de Arcos</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Paco de Arcos, Lisboa, Portugal</Destination>
+		</City>
+		<City id="1813">
+			<Name lang="EN">Palmela</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Palmela, Lisboa, Portugal</Destination>
+		</City>
+		<City id="3594">
+			<Name lang="EN">Penafiel</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Penafiel, Norte, Portugal</Destination>
+		</City>
+		<City id="3599">
+			<Name lang="EN">Peniche</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Peniche, Centro, Portugal</Destination>
+		</City>
+		<City id="3613">
+			<Name lang="EN">Peso da Regua</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Peso da Regua, Norte, Portugal</Destination>
+		</City>
+		<City id="1331">
+			<Name lang="EN">Pinhao</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Pinhao, Norte, Portugal</Destination>
+		</City>
+		<City id="35152">
+			<Name lang="EN">Pombal</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Pombal, Centro, Portugal</Destination>
+		</City>
+		<City id="29735">
+			<Name lang="EN">Ponta Delgada</Name>
+			<Region lang="EN">Azores</Region>
+			<Destination lang="EN">Ponta Delgada, Azores, Portugal</Destination>
+		</City>
+		<City id="1501">
+			<Name lang="EN">Ponte do Lima</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Ponte do Lima, Norte, Portugal</Destination>
+		</City>
+		<City id="24728">
+			<Name lang="EN">Porches</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Porches, Algarve, Portugal</Destination>
+		</City>
+		<City id="1272">
+			<Name lang="EN">Portel</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Portel, Alentejo, Portugal</Destination>
+		</City>
+		<City id="29913">
+			<Name lang="EN">Portimao</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Portimao, Algarve, Portugal</Destination>
+		</City>
+		<City id="1860">
+			<Name lang="EN">Porto</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Porto, Norte, Portugal</Destination>
+		</City>
+		<City id="1276">
+			<Name lang="EN">Porto Covo</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Porto Covo, Alentejo, Portugal</Destination>
+		</City>
+		<City id="1278">
+			<Name lang="EN">Porto Salvo</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Porto Salvo, Lisboa, Portugal</Destination>
+		</City>
+		<City id="29924">
+			<Name lang="EN">Porto Santo</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Porto Santo, Madeira, Portugal</Destination>
+		</City>
+		<City id="1288">
+			<Name lang="EN">Povoa de Varzim</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Povoa de Varzim, Norte, Portugal</Destination>
+		</City>
+		<City id="17346">
+			<Name lang="EN">Praia da Falesia</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Praia da Falesia, Algarve, Portugal</Destination>
+		</City>
+		<City id="25299">
+			<Name lang="EN">Praia da Rocha</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Praia da Rocha, Algarve, Portugal</Destination>
+		</City>
+		<City id="1297">
+			<Name lang="EN">Praia de Mira</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Praia de Mira, Centro, Portugal</Destination>
+		</City>
+		<City id="1299">
+			<Name lang="EN">Praia Grande</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Praia Grande, Lisboa, Portugal</Destination>
+		</City>
+		<City id="26057">
+			<Name lang="EN">Quarteira</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Quarteira, Algarve, Portugal</Destination>
+		</City>
+		<City id="1531">
+			<Name lang="EN">Queluz</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Queluz, Lisboa, Portugal</Destination>
+		</City>
+		<City id="5654">
+			<Name lang="EN">Reguengos de Monsaraz</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Reguengos de Monsaraz, Alentejo, Portugal</Destination>
+		</City>
+		<City id="27675">
+			<Name lang="EN">Ribeira Brava</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Ribeira Brava, Madeira, Portugal</Destination>
+		</City>
+		<City id="28360">
+			<Name lang="EN">Sagres</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Sagres, Algarve, Portugal</Destination>
+		</City>
+		<City id="34031">
+			<Name lang="EN">Salema</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Salema, Algarve, Portugal</Destination>
+		</City>
+		<City id="6199">
+			<Name lang="EN">Santa Clara a Velha</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Santa Clara a Velha, Alentejo, Portugal</Destination>
+		</City>
+		<City id="6221">
+			<Name lang="EN">Santa Cruz</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Santa Cruz, Madeira, Portugal</Destination>
+		</City>
+		<City id="10546">
+			<Name lang="EN">Santa Iria de Azoia</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Santa Iria de Azoia, Lisboa, Portugal</Destination>
+		</City>
+		<City id="10555">
+			<Name lang="EN">Santa Maria da Feira</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Santa Maria da Feira, Norte, Portugal</Destination>
+		</City>
+		<City id="561">
+			<Name lang="EN">Santiago do Cacem</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Santiago do Cacem, Alentejo, Portugal</Destination>
+		</City>
+		<City id="870">
+			<Name lang="EN">Sao Domingos de Rana</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Sao Domingos de Rana, Lisboa, Portugal</Destination>
+		</City>
+		<City id="871">
+			<Name lang="EN">Sao Joao da Madeira</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Sao Joao da Madeira, Norte, Portugal</Destination>
+		</City>
+		<City id="4315">
+			<Name lang="EN">Sao Pedro do Sul</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Sao Pedro do Sul, Centro, Portugal</Destination>
+		</City>
+		<City id="4318">
+			<Name lang="EN">Sao Vicente</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Sao Vicente, Madeira, Portugal</Destination>
+		</City>
+		<City id="5012">
+			<Name lang="EN">Seia</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Seia, Centro, Portugal</Destination>
+		</City>
+		<City id="5302">
+			<Name lang="EN">Sesimbra</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Sesimbra, Lisboa, Portugal</Destination>
+		</City>
+		<City id="5327">
+			<Name lang="EN">Setubal</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Setubal, Lisboa, Portugal</Destination>
+		</City>
+		<City id="4567">
+			<Name lang="EN">Silves</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Silves, Algarve, Portugal</Destination>
+		</City>
+		<City id="180">
+			<Name lang="EN">Sines</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Sines, Alentejo, Portugal</Destination>
+		</City>
+		<City id="4887">
+			<Name lang="EN">Sintra</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Sintra, Lisboa, Portugal</Destination>
+		</City>
+		<City id="6647">
+			<Name lang="EN">Sousel</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Sousel, Alentejo, Portugal</Destination>
+		</City>
+		<City id="2612">
+			<Name lang="EN">Tabua</Name>
+			<Region lang="EN">Madeira</Region>
+			<Destination lang="EN">Tabua, Madeira, Portugal</Destination>
+		</City>
+		<City id="49">
+			<Name lang="EN">Tavira</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Tavira, Algarve, Portugal</Destination>
+		</City>
+		<City id="29488">
+			<Name lang="EN">Terceira</Name>
+			<Region lang="EN">Azores</Region>
+			<Destination lang="EN">Terceira, Azores, Portugal</Destination>
+		</City>
+		<City id="2215">
+			<Name lang="EN">Torreira</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Torreira, Centro, Portugal</Destination>
+		</City>
+		<City id="2228">
+			<Name lang="EN">Torres Vedras</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Torres Vedras, Lisboa, Portugal</Destination>
+		</City>
+		<City id="2751">
+			<Name lang="EN">Troia</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Troia, Alentejo, Portugal</Destination>
+		</City>
+		<City id="611">
+			<Name lang="EN">Valenca do Minho</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Valenca do Minho, Norte, Portugal</Destination>
+		</City>
+		<City id="652">
+			<Name lang="EN">Valongo</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Valongo, Norte, Portugal</Destination>
+		</City>
+		<City id="2950">
+			<Name lang="EN">Viana do Castelo</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Viana do Castelo, Norte, Portugal</Destination>
+		</City>
+		<City id="1194">
+			<Name lang="EN">Vidago</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vidago, Norte, Portugal</Destination>
+		</City>
+		<City id="1201">
+			<Name lang="EN">Vieira de Leiria</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Vieira de Leiria, Centro, Portugal</Destination>
+		</City>
+		<City id="1427">
+			<Name lang="EN">Vila do Conde</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vila do Conde, Norte, Portugal</Destination>
+		</City>
+		<City id="1431">
+			<Name lang="EN">Vila Franca De Xira</Name>
+			<Region lang="EN">Lisboa</Region>
+			<Destination lang="EN">Vila Franca De Xira, Lisboa, Portugal</Destination>
+		</City>
+		<City id="1437">
+			<Name lang="EN">Vila Nova de Cerveira</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vila Nova de Cerveira, Norte, Portugal</Destination>
+		</City>
+		<City id="1440">
+			<Name lang="EN">Vila Nova de Gaia</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vila Nova de Gaia, Norte, Portugal</Destination>
+		</City>
+		<City id="1447">
+			<Name lang="EN">Vila Pouca da Beira</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Vila Pouca da Beira, Centro, Portugal</Destination>
+		</City>
+		<City id="1449">
+			<Name lang="EN">Vila Praia de Ancora</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vila Praia de Ancora, Norte, Portugal</Destination>
+		</City>
+		<City id="464">
+			<Name lang="EN">Vila Real</Name>
+			<Region lang="EN">Norte</Region>
+			<Destination lang="EN">Vila Real, Norte, Portugal</Destination>
+		</City>
+		<City id="1455">
+			<Name lang="EN">Vila Vicosa</Name>
+			<Region lang="EN">Alentejo</Region>
+			<Destination lang="EN">Vila Vicosa, Alentejo, Portugal</Destination>
+		</City>
+		<City id="1462">
+			<Name lang="EN">Vilamoura</Name>
+			<Region lang="EN">Algarve</Region>
+			<Destination lang="EN">Vilamoura, Algarve, Portugal</Destination>
+		</City>
+		<City id="1748">
+			<Name lang="EN">Vimeiro</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Vimeiro, Centro, Portugal</Destination>
+		</City>
+		<City id="465">
+			<Name lang="EN">Viseu</Name>
+			<Region lang="EN">Centro</Region>
+			<Destination lang="EN">Viseu, Centro, Portugal</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

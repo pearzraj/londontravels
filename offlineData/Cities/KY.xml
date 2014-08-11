@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KY">
+		<City id="8562"> 
+			<Name lang="EN">Grand Cayman</Name>
+			<Region lang="EN">Grand Cayman</Region>
+			<Destination lang="EN">Grand Cayman, Grand Cayman, Cayman Islands</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493579" resultcode="0" message="" >
+				<Name><![CDATA[SOMRIU OROS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Plaza Consell General,11]]></Address1>
+					<Address2><![CDATA[AD200, Encamp, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59324</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Encamp]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.5356</Latitude>
+					<Longitude>1.58547</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Located in the heart of the mountains, this hotel is the perfect place to spend the winter holidays skiing on some of the area¿s most popular slopes. It's66 rooms offer customers a functional and pleasant environment. We offer Breakfast Service and Dinner Service. Customers can park their car free of charge the nearby car park. We also have Discotheque. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Multilingual Personnel, Nearby Parking , Ski Room, Wi-Fi, Tourist Information, Use of Laptop Computer, Safe in Reception, Parking for Buses, Garage and Cash Dispenser.  Activities and relax: . Cuisine: International and Mediterranean. Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Located in the heart of the mountains, this hotel is the perfect place to spend the winter holidays skiing on some of the area¿s most popular slopes. It's66 rooms offer customers a functional and pleasant environment. We offer Breakfast Service and Dinner Service. Customers can park their car free of charge the nearby car park. We also have Discotheque. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Multilingual Personnel, Nearby Parking , Ski Room, Wi-Fi, Tourist Information, Use of Laptop Computer, Safe in Reception, Parking for Buses, Garage and Cash Dispenser.  Activities and relax: . Cuisine: International and Mediterranean. Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1223</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Reception on Executive Floor]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Kitchen]]></Name>
+						<Description><![CDATA[International]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Kitchen]]></Name>
+						<Description><![CDATA[Mediterranean]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Additional Beds]]></Name>
+						<Description><![CDATA[Only for Children]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Smoking Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Rural]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Integral]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ski Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Lunch Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Discotheque]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Nearby Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Parking for Buses]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Cloakroom]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Check In/Check Out]]></Name>
+						<Description><![CDATA[Express Entrance and Exit Register]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Slope Transfer]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8921/37258921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8922/37258922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8923/37258923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8924/37258924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8915/37258915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8916/37258916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8917/37258917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8918/37258918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8919/37258919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8920/37258920.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCORO_1_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376831505]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376831222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

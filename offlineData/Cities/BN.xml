@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BN">
+		<City id="12045"> 
+			<Name lang="EN">Bandar Seri Begawan</Name>
+			<Region lang="EN">Bandar Seri Begawan</Region>
+			<Destination lang="EN">Bandar Seri Begawan, Bandar Seri Begawan, Brunei Darussalam</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

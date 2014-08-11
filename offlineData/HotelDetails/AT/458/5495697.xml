@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495697" resultcode="0" message="" >
+				<Name><![CDATA[EUROHOTEL VIENNA AIRPORT]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ 2401 Fischamend - Marco-Polo Strasse 1,1]]></Address1>
+					<Address2><![CDATA[2401, Vienna, Austria]]></Address2>
+					<PostalCode>2401</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.11771</Latitude>
+					<Longitude>16.623613</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Free daily newspapers available. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Wi-Fi, Shops, Safe in Reception, Airport Transfer, Garage and Business Centre.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Free daily newspapers available. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Wi-Fi, Shops, Safe in Reception, Airport Transfer, Garage and Business Centre.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9407/37259407.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9408/37259408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9409/37259409.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9410/37259410.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9411/37259411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9412/37259412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9413/37259413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9414/37259414.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9415/37259415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9416/37259416.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43223277712]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43223277701 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

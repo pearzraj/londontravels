@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6437615" resultcode="0" message="" >
+				<Name><![CDATA[CITYMAX HOTEL BUR DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  P O BOX 50271  Dubai,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.2507</Latitude>
+					<Longitude>55.2919</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18451_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[480894020 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

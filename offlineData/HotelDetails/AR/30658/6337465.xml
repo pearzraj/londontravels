@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337465" resultcode="0" message="" >
+				<Name><![CDATA[CARLOS V]]></Name>
+				<Address>
+					<Address1><![CDATA[   Morales, 420]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.135845</Latitude>
+					<Longitude>-71.31026</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42881_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4486/37154486.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4487/37154487.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4488/37154488.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4489/37154489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4490/37154490.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4491/37154491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4492/37154492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4493/37154493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4494/37154494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4495/37154495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4496/37154496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4497/37154497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4498/37154498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4499/37154499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4500/37154500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4501/37154501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4502/37154502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4503/37154503.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542944430817]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00542944425474 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

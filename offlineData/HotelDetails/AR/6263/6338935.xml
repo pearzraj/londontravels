@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338935" resultcode="0" message="" >
+				<Name><![CDATA[INFINITO HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Arenales 3689,]]></Address1>
+					<Address2><![CDATA[1425, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1425</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.585197</Latitude>
+					<Longitude>-58.41397</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Spa. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Spa. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9181/37129181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9182/37129182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9183/37129183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9184/37129184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9185/37129185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9164/37129164.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9165/37129165.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9166/37129166.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9167/37129167.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9168/37129168.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9169/37129169.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9170/37129170.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9171/37129171.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9172/37129172.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9173/37129173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9174/37129174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9175/37129175.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9176/37129176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9177/37129177.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9178/37129178.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9179/37129179.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9180/37129180.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 483 21060]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 483 21060 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

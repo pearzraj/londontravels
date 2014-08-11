@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IL">
+		<City id="32020"> 
+			<Name lang="EN">Ashkelon</Name>
+			<Region lang="EN">Ashkelon</Region>
+			<Destination lang="EN">Ashkelon, Ashkelon, Israel</Destination>
+		</City>
+		<City id="13381">
+			<Name lang="EN">Beer Sheba</Name>
+			<Region lang="EN">Beer Sheba</Region>
+			<Destination lang="EN">Beer Sheba, Beer Sheba, Israel</Destination>
+		</City>
+		<City id="12869">
+			<Name lang="EN">Caesarea</Name>
+			<Region lang="EN">Caesarea</Region>
+			<Destination lang="EN">Caesarea, Caesarea, Israel</Destination>
+		</City>
+		<City id="3529">
+			<Name lang="EN">Elat</Name>
+			<Region lang="EN">Elat</Region>
+			<Destination lang="EN">Elat, Elat, Israel</Destination>
+		</City>
+		<City id="9227">
+			<Name lang="EN">Haifa</Name>
+			<Region lang="EN">Haifa</Region>
+			<Destination lang="EN">Haifa, Haifa, Israel</Destination>
+		</City>
+		<City id="23195">
+			<Name lang="EN">Herzliya</Name>
+			<Region lang="EN">Herzliya</Region>
+			<Destination lang="EN">Herzliya, Herzliya, Israel</Destination>
+		</City>
+		<City id="17543">
+			<Name lang="EN">Jerusalem</Name>
+			<Region lang="EN">Jerusalem</Region>
+			<Destination lang="EN">Jerusalem, Jerusalem, Israel</Destination>
+		</City>
+		<City id="16516">
+			<Name lang="EN">Mitspeh Ramon</Name>
+			<Region lang="EN">Mitspeh Ramon</Region>
+			<Destination lang="EN">Mitspeh Ramon, Mitspeh Ramon, Israel</Destination>
+		</City>
+		<City id="27847">
+			<Name lang="EN">Nahariya</Name>
+			<Region lang="EN">Nahariya</Region>
+			<Destination lang="EN">Nahariya, Nahariya, Israel</Destination>
+		</City>
+		<City id="28166">
+			<Name lang="EN">Nazareth</Name>
+			<Region lang="EN">Nazareth</Region>
+			<Destination lang="EN">Nazareth, Nazareth, Israel</Destination>
+		</City>
+		<City id="28326">
+			<Name lang="EN">Netanya</Name>
+			<Region lang="EN">Netanya</Region>
+			<Destination lang="EN">Netanya, Netanya, Israel</Destination>
+		</City>
+		<City id="28339">
+			<Name lang="EN">Neve Atif</Name>
+			<Region lang="EN">Neve Atif</Region>
+			<Destination lang="EN">Neve Atif, Neve Atif, Israel</Destination>
+		</City>
+		<City id="28340">
+			<Name lang="EN">Neve Ilan</Name>
+			<Region lang="EN">Neve Ilan</Region>
+			<Destination lang="EN">Neve Ilan, Neve Ilan, Israel</Destination>
+		</City>
+		<City id="26323">
+			<Name lang="EN">Ramat Gan</Name>
+			<Region lang="EN">Ramat Gan</Region>
+			<Destination lang="EN">Ramat Gan, Ramat Gan, Israel</Destination>
+		</City>
+		<City id="28271">
+			<Name lang="EN">Safed</Name>
+			<Region lang="EN">Safed</Region>
+			<Destination lang="EN">Safed, Safed, Israel</Destination>
+		</City>
+		<City id="29364">
+			<Name lang="EN">Tel Aviv</Name>
+			<Region lang="EN">Tel Aviv</Region>
+			<Destination lang="EN">Tel Aviv, Tel Aviv, Israel</Destination>
+		</City>
+		<City id="824">
+			<Name lang="EN">Tiberias</Name>
+			<Region lang="EN">Tiberias</Region>
+			<Destination lang="EN">Tiberias, Tiberias, Israel</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

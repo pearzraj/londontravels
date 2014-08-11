@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494502" resultcode="0" message="" >
+				<Name><![CDATA[VIBE HOTEL NORTH SYDNEY ]]></Name>
+				<Address>
+					<Address1><![CDATA[  88 Alfred Street, Milsons Point,]]></Address1>
+					<Address2><![CDATA[NSW2000, Sydney, Australia]]></Address2>
+					<PostalCode>NSW2000</PostalCode>
+					<CityCode>63605</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sydney]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.845554</Latitude>
+					<Longitude>151.21101</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8209/32608209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8210/32608210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8211/32608211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8212/32608212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8197/32608197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8198/32608198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8199/32608199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8200/32608200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8201/32608201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8202/32608202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8203/32608203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8204/32608204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8205/32608205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8206/32608206.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8207/32608207.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8208/32608208.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404491" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL ADMIRAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Karl Schweighofer - Gasse 7,]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.202</Latitude>
+					<Longitude>16.3579</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18594_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43/1/521 41-0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

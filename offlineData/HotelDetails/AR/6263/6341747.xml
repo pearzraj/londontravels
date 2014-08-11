@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341747" resultcode="0" message="" >
+				<Name><![CDATA[GRAN HOTEL ORLY]]></Name>
+				<Address>
+					<Address1><![CDATA[  PARAGUAY 474,]]></Address1>
+					<Address2><![CDATA[05000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>05000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.588562</Latitude>
+					<Longitude>-58.37448</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Vehicle Rental and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Vehicle Rental and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5554/37135554.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5531/37135531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5532/37135532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5533/37135533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5534/37135534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5535/37135535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5536/37135536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5537/37135537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5538/37135538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5539/37135539.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5542/37135542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5543/37135543.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5544/37135544.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5545/37135545.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5546/37135546.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5547/37135547.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5548/37135548.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5549/37135549.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5550/37135550.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5551/37135551.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5552/37135552.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5540/37135540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5541/37135541.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5553/37135553.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 1143125344 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

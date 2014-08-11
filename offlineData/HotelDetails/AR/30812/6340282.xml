@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340282" resultcode="0" message="" >
+				<Name><![CDATA[LOS CAUQUENES]]></Name>
+				<Address>
+					<Address1><![CDATA[  De la Ermita,3462]]></Address1>
+					<Address2><![CDATA[00001, Ushuaia, Argentina]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.84153</Latitude>
+					<Longitude>-68.37341</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Health and beauty facilities include Spa and Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Wi-Fi, Shops and Garage.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Health and beauty facilities include Spa and Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service and Room-Service We also have Wi-Fi, Shops and Garage.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7617/37787617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7618/37787618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7619/37787619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7620/37787620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7621/37787621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7622/37787622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7623/37787623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7624/37787624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7625/37787625.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7626/37787626.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 47352648]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 47352648 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

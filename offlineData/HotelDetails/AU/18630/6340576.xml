@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340576" resultcode="0" message="" >
+				<Name><![CDATA[HILTON DUNKELD]]></Name>
+				<Address>
+					<Address1><![CDATA[  Blairgowrie Road,]]></Address1>
+					<Address2><![CDATA[PH8 0HX, Dunkeld, Australia]]></Address2>
+					<PostalCode>PH8 0HX</PostalCode>
+					<CityCode>86217</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dunkeld]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>56.56484</Latitude>
+					<Longitude>-3.610813</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The HILTON DUNKELD in Dunkeld is a city hotel designed to satisfy today¿s guest. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The HILTON DUNKELD in Dunkeld is a city hotel designed to satisfy today¿s guest. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4662/37104662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4663/37104663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4664/37104664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4665/37104665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4666/37104666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4667/37104667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4668/37104668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4657/37104657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4658/37104658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4659/37104659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4660/37104660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4661/37104661.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+44 1350 727 771 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+44 1350 727 771]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

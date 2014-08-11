@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493577" resultcode="0" message="" >
+				<Name><![CDATA[CONFORT HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra.  General,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Soldeu, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59330</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Soldeu]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.560856</Latitude>
+					<Longitude>1.685886</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8911/37258911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8912/37258912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8913/37258913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8914/37258914.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

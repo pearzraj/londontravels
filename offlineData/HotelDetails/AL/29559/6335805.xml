@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335805" resultcode="0" message="" >
+				<Name><![CDATA[SOKRAT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Str "Rruga e Elbasanit",]]></Address1>
+					<Address2><![CDATA[6, Tirana, Albania]]></Address2>
+					<PostalCode>6</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.33165</Latitude>
+					<Longitude>19.8318</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8405/37108405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8406/37108406.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8407/37108407.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8408/37108408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8409/37108409.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8410/37108410.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8411/37108411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8412/37108412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8413/37108413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8414/37108414.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8415/37108415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8416/37108416.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

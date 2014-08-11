@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="UG">
+		<City id="25178"> 
+			<Name lang="EN">Entebbe/Kampala</Name>
+			<Region lang="EN">Entebbe/Kampala</Region>
+			<Destination lang="EN">Entebbe/Kampala, Entebbe/Kampala, Uganda</Destination>
+		</City>
+		<City id="30037">
+			<Name lang="EN">Kampala</Name>
+			<Region lang="EN">Kampala</Region>
+			<Destination lang="EN">Kampala, Kampala, Uganda</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

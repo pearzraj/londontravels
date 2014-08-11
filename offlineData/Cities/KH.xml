@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KH">
+		<City id="29466"> 
+			<Name lang="EN">Phnom-Penh</Name>
+			<Region lang="EN">Phnom-Penh</Region>
+			<Destination lang="EN">Phnom-Penh, Phnom-Penh, Cambodia</Destination>
+		</City>
+		<City id="115">
+			<Name lang="EN">Siem Reap</Name>
+			<Region lang="EN">Siem Reap</Region>
+			<Destination lang="EN">Siem Reap, Siem Reap, Cambodia</Destination>
+		</City>
+		<City id="123">
+			<Name lang="EN">Sihanoukville</Name>
+			<Region lang="EN">Sihanoukville</Region>
+			<Destination lang="EN">Sihanoukville, Sihanoukville, Cambodia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

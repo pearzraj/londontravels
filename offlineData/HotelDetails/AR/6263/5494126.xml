@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494126" resultcode="0" message="" >
+				<Name><![CDATA[KER HOTEL BELGRANO APART AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Vuelta De Obligado 2727,]]></Address1>
+					<Address2><![CDATA[00001, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.55549</Latitude>
+					<Longitude>-58.462543</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9936/37679936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9937/37679937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9938/37679938.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9939/37679939.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9940/37679940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9941/37679941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9942/37679942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9943/37679943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9944/37679944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9931/37679931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9932/37679932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9933/37679933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9934/37679934.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9935/37679935.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4706 3344]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4789 9383 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

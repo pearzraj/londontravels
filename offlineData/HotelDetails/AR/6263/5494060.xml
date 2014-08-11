@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494060" resultcode="0" message="" >
+				<Name><![CDATA[DA VINCI HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tucuman 857,]]></Address1>
+					<Address2><![CDATA[C1049AAQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1049AAQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60075</Latitude>
+					<Longitude>-58.37887</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4559/37674559.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4560/37674560.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4561/37674561.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4562/37674562.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4563/37674563.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4564/37674564.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4565/37674565.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4566/37674566.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4545/37674545.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4546/37674546.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4547/37674547.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4548/37674548.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4549/37674549.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4550/37674550.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4551/37674551.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4552/37674552.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4553/37674553.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4554/37674554.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4555/37674555.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4556/37674556.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4557/37674557.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4558/37674558.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4326 6608]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5031 8002 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

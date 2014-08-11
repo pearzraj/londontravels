@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MZ">
+		<City id="13733"> 
+			<Name lang="EN">Maputo</Name>
+			<Region lang="EN">Maputo</Region>
+			<Destination lang="EN">Maputo, Maputo, Mozambique</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

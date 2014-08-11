@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338517" resultcode="0" message="" >
+				<Name><![CDATA[SUIPACHA SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  SUIPACHA 1235,]]></Address1>
+					<Address2><![CDATA[., Buenos Aires, Argentina]]></Address2>
+					<PostalCode>.</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.593628</Latitude>
+					<Longitude>-58.379883</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Porters, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Porters, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4088/37114088.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4089/37114089.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4090/37114090.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4091/37114091.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4092/37114092.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4093/37114093.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4094/37114094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4095/37114095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4096/37114096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4097/37114097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4098/37114098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4082/37114082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4083/37114083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4084/37114084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4085/37114085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4086/37114086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4087/37114087.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4099/37114099.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1148193600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SK">
+		<City id="32376"> 
+			<Name lang="EN">Banska Bystrica</Name>
+			<Region lang="EN">Banska Bystrica</Region>
+			<Destination lang="EN">Banska Bystrica, Banska Bystrica, Slovakia</Destination>
+		</City>
+		<City id="22908">
+			<Name lang="EN">Bojnice</Name>
+			<Region lang="EN">Bojnice</Region>
+			<Destination lang="EN">Bojnice, Bojnice, Slovakia</Destination>
+		</City>
+		<City id="7241">
+			<Name lang="EN">Bratislava</Name>
+			<Region lang="EN">Bratislava</Region>
+			<Destination lang="EN">Bratislava, Bratislava, Slovakia</Destination>
+		</City>
+		<City id="9335">
+			<Name lang="EN">Kosice</Name>
+			<Region lang="EN">Kosice</Region>
+			<Destination lang="EN">Kosice, Kosice, Slovakia</Destination>
+		</City>
+		<City id="18497">
+			<Name lang="EN">Levoca</Name>
+			<Region lang="EN">Levoca</Region>
+			<Destination lang="EN">Levoca, Levoca, Slovakia</Destination>
+		</City>
+		<City id="9426">
+			<Name lang="EN">Nitra</Name>
+			<Region lang="EN">Nitra</Region>
+			<Destination lang="EN">Nitra, Nitra, Slovakia</Destination>
+		</City>
+		<City id="29748">
+			<Name lang="EN">Poprad/Tatry</Name>
+			<Region lang="EN">Poprad/Tatry</Region>
+			<Destination lang="EN">Poprad/Tatry, Poprad/Tatry, Slovakia</Destination>
+		</City>
+		<City id="4611">
+			<Name lang="EN">Stary Smokovec</Name>
+			<Region lang="EN">Stary Smokovec</Region>
+			<Destination lang="EN">Stary Smokovec, Stary Smokovec, Slovakia</Destination>
+		</City>
+		<City id="4841">
+			<Name lang="EN">Strbske Pleso</Name>
+			<Region lang="EN">Strbske Pleso</Region>
+			<Destination lang="EN">Strbske Pleso, Strbske Pleso, Slovakia</Destination>
+		</City>
+		<City id="29">
+			<Name lang="EN">Tatranska Lomnica</Name>
+			<Region lang="EN">Tatranska Lomnica</Region>
+			<Destination lang="EN">Tatranska Lomnica, Tatranska Lomnica, Slovakia</Destination>
+		</City>
+		<City id="2746">
+			<Name lang="EN">Trnava</Name>
+			<Region lang="EN">Trnava</Region>
+			<Destination lang="EN">Trnava, Trnava, Slovakia</Destination>
+		</City>
+		<City id="31296">
+			<Name lang="EN">Zilina</Name>
+			<Region lang="EN">Zilina</Region>
+			<Destination lang="EN">Zilina, Zilina, Slovakia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

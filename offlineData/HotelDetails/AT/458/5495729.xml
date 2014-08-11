@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495729" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA CLASSIC HOTEL PAPAGENO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Wiedner Hauptstrasse, 23-25]]></Address1>
+					<Address2><![CDATA[1040, Vienna, Austria]]></Address2>
+					<PostalCode>1040</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.1956</Latitude>
+					<Longitude>16.367226</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Minibar and Radio  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Minibar and Radio  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43873_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9612/37259612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9613/37259613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9614/37259614.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9615/37259615.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9616/37259616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9617/37259617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9618/37259618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9619/37259619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9620/37259620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9621/37259621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9622/37259622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9623/37259623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9624/37259624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9625/37259625.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9626/37259626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9645/37259645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9646/37259646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9647/37259647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9648/37259648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9649/37259649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9650/37259650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9651/37259651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9652/37259652.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9653/37259653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9627/37259627.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9628/37259628.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9629/37259629.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9630/37259630.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9631/37259631.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9632/37259632.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9633/37259633.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9634/37259634.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9635/37259635.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9636/37259636.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9637/37259637.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9638/37259638.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9639/37259639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9640/37259640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9641/37259641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9642/37259642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9643/37259643.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9644/37259644.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 504 67 44 22]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 504 6744 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

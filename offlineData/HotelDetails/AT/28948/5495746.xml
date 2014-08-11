@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495746" resultcode="0" message="" >
+				<Name><![CDATA[GLOCKNERHOF]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hof, 6]]></Address1>
+					<Address2><![CDATA[9844, Heiligenblut, Austria]]></Address2>
+					<PostalCode>9844</PostalCode>
+					<CityCode>64873</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Heiligenblut]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.04353</Latitude>
+					<Longitude>12.830508</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9750/37259750.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02575_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[004348242244166]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[004348242244 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

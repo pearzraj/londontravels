@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493849" resultcode="0" message="" >
+				<Name><![CDATA[ARABIAN COURTYARD HOTEL AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Fahidi Street,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.262424</Latitude>
+					<Longitude>55.29744</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna, Hairdressers and Jacuzzi. It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Car parker, Shops, Safe in Reception and Garage.  Activities and relax: Jacuzzi, Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna, Hairdressers and Jacuzzi. It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Currency Exchange, Car parker, Shops, Safe in Reception and Garage.  Activities and relax: Jacuzzi, Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4014/32604014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4015/32604015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4016/32604016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4017/32604017.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4018/32604018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4019/32604019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4020/32604020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4021/32604021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4022/32604022.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4023/32604023.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4024/32604024.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00646_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00646_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00646_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00646_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00646_1_11.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 351 7744]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 351 9111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

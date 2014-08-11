@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332249" resultcode="0" message="" >
+				<Name><![CDATA[HYATT REGENCY CURACAO GOLF RESORT, SPA AND MARINA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Santa Barbara Plantation, Porta Blancu, Nieuwpoor,]]></Address1>
+					<Address2><![CDATA[1, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.066273</Latitude>
+					<Longitude>-68.85396</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Volleyball Court]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4735/37094735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4736/37094736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4737/37094737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4738/37094738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4739/37094739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4740/37094740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4741/37094741.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4742/37094742.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4743/37094743.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4744/37094744.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[01159998401235]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[01159998401234 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

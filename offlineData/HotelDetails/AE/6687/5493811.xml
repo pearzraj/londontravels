@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493811" resultcode="0" message="" >
+				<Name><![CDATA[ALOFT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Abu Dhabi National Exhibition Abu Dhabi, ]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.421362</Latitude>
+					<Longitude>54.439465</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53782_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 449 9702]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 654 5000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

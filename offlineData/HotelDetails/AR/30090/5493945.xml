@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493945" resultcode="0" message="" >
+				<Name><![CDATA[YENEHUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av Roca 33,]]></Address1>
+					<Address2><![CDATA[U9120AIA, Puerto Madryn, Argentina]]></Address2>
+					<PostalCode>U9120AIA</PostalCode>
+					<CityCode>83082</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Madryn]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-42.777214</Latitude>
+					<Longitude>-65.03666</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Library]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4845/32604845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4846/32604846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4847/32604847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4848/32604848.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4849/32604849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4834/32604834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4835/32604835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4836/32604836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4837/32604837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4838/32604838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4839/32604839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4840/32604840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4841/32604841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4842/32604842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4843/32604843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4844/32604844.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143223888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542965471214 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

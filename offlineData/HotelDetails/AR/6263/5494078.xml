@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494078" resultcode="0" message="" >
+				<Name><![CDATA[248 FINISTERRA HOTEL BOUTIQUE ARGENTINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Baez 248, ]]></Address1>
+					<Address2><![CDATA[C1426BRF, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1426BRF</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.57185</Latitude>
+					<Longitude>-58.43059</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4736/37674736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4737/37674737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4738/37674738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4739/37674739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4740/37674740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4741/37674741.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4742/37674742.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4743/37674743.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4744/37674744.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4733/37674733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4734/37674734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4735/37674735.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4773 0901]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4773 0901 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493884" resultcode="0" message="" >
+				<Name><![CDATA[MILLENNIUM HOTEL ABU DHABI]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Khalifa Street, Po Box:44486,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.450197</Latitude>
+					<Longitude>54.376225</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 5***** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 5***** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4220/32604220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4221/32604221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4222/32604222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4223/32604223.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4224/32604224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4225/32604225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4226/32604226.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4227/32604227.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 626 0333]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 626 2700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332500" resultcode="0" message="" >
+				<Name><![CDATA[SANDTON KURA HULANDA LODGE AND BEACH CLUB]]></Name>
+				<Address>
+					<Address1><![CDATA[  Playa Kalki 1 Westpunt,]]></Address1>
+					<Address2><![CDATA[Curacao, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>Curacao</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.375656</Latitude>
+					<Longitude>-69.1581</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6570/37096570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6571/37096571.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6572/37096572.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6573/37096573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6574/37096574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6575/37096575.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5999 434 7701]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+5999 434 7700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341938" resultcode="0" message="" >
+				<Name><![CDATA[URBANA CLASS]]></Name>
+				<Address>
+					<Address1><![CDATA[   25 De Mayo 1540,]]></Address1>
+					<Address2><![CDATA[05500, Mendoza, Argentina]]></Address2>
+					<PostalCode>05500</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.88439</Latitude>
+					<Longitude>-68.84587</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2996/37142996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2997/37142997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2998/37142998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2999/37142999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3000/37143000.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3001/37143001.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3002/37143002.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3003/37143003.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3004/37143004.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3005/37143005.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3006/37143006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3007/37143007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3008/37143008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3009/37143009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3010/37143010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3011/37143011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3012/37143012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3013/37143013.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3014/37143014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3015/37143015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3016/37143016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3017/37143017.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3018/37143018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3019/37143019.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542614340333]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[542614380004 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

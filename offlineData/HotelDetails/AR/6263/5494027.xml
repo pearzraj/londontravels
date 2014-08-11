@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494027" resultcode="0" message="" >
+				<Name><![CDATA[PUROBAIRES HOTEL BOUTIQUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Niceto Vega 4788,]]></Address1>
+					<Address2><![CDATA[1414, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1414</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.592342</Latitude>
+					<Longitude>-58.43117</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4263/37674263.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4264/37674264.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4265/37674265.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4266/37674266.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4267/37674267.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4268/37674268.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4269/37674269.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4254/37674254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4255/37674255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4256/37674256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4257/37674257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4258/37674258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4259/37674259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4260/37674260.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4261/37674261.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4262/37674262.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 43 39 01 00]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4139 0100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

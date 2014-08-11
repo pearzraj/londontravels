@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="LV">
+		<City id="7526"> 
+			<Name lang="EN">Daugavpils</Name>
+			<Region lang="EN">Daugavpils</Region>
+			<Destination lang="EN">Daugavpils, Daugavpils, Latvia</Destination>
+		</City>
+		<City id="26480">
+			<Name lang="EN">Jurmala</Name>
+			<Region lang="EN">Jurmala</Region>
+			<Destination lang="EN">Jurmala, Jurmala, Latvia</Destination>
+		</City>
+		<City id="10674">
+			<Name lang="EN">Liepaya</Name>
+			<Region lang="EN">Liepaya</Region>
+			<Destination lang="EN">Liepaya, Liepaya, Latvia</Destination>
+		</City>
+		<City id="30422">
+			<Name lang="EN">Riga</Name>
+			<Region lang="EN">Riga</Region>
+			<Destination lang="EN">Riga, Riga, Latvia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

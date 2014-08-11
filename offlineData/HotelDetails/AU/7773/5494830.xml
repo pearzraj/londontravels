@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494830" resultcode="0" message="" >
+				<Name><![CDATA[CAIRNS PLAZA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  145 The Esplanade and Minnie Street,]]></Address1>
+					<Address2><![CDATA[4870, Cairns, Australia]]></Address2>
+					<PostalCode>4870</PostalCode>
+					<CityCode>81791</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cairns]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-16.915539</Latitude>
+					<Longitude>145.77301</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Tourist Information and Garage.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Tourist Information and Garage.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8687/32608687.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8674/32608674.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8675/32608675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8676/32608676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8677/32608677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8678/32608678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8679/32608679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8680/32608680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8681/32608681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8682/32608682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8683/32608683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8684/32608684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8685/32608685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8686/32608686.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 7 4051 8129]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 7 4051 4688 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

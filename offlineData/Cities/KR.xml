@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KR">
+		<City id="31817"> 
+			<Name lang="EN">Ansan</Name>
+			<Region lang="EN">Ansan</Region>
+			<Destination lang="EN">Ansan, Ansan, South Korea</Destination>
+		</City>
+		<City id="32007">
+			<Name lang="EN">Asan</Name>
+			<Region lang="EN">Asan</Region>
+			<Destination lang="EN">Asan, Asan, South Korea</Destination>
+		</City>
+		<City id="12612">
+			<Name lang="EN">Bucheon</Name>
+			<Region lang="EN">Bucheon</Region>
+			<Destination lang="EN">Bucheon, Bucheon, South Korea</Destination>
+		</City>
+		<City id="18308">
+			<Name lang="EN">Changwon</Name>
+			<Region lang="EN">Changwon</Region>
+			<Destination lang="EN">Changwon, Changwon, South Korea</Destination>
+		</City>
+		<City id="19347">
+			<Name lang="EN">Chuncheon</Name>
+			<Region lang="EN">Chuncheon</Region>
+			<Destination lang="EN">Chuncheon, Chuncheon, South Korea</Destination>
+		</City>
+		<City id="7475">
+			<Name lang="EN">Daegu</Name>
+			<Region lang="EN">Daegu</Region>
+			<Destination lang="EN">Daegu, Daegu, South Korea</Destination>
+		</City>
+		<City id="22882">
+			<Name lang="EN">Daejeon</Name>
+			<Region lang="EN">Daejeon</Region>
+			<Destination lang="EN">Daejeon, Daejeon, South Korea</Destination>
+		</City>
+		<City id="20534">
+			<Name lang="EN">Gwangju</Name>
+			<Region lang="EN">Gwangju</Region>
+			<Destination lang="EN">Gwangju, Gwangju, South Korea</Destination>
+		</City>
+		<City id="20537">
+			<Name lang="EN">Gyeongju</Name>
+			<Region lang="EN">Gyeongju</Region>
+			<Destination lang="EN">Gyeongju, Gyeongju, South Korea</Destination>
+		</City>
+		<City id="24795">
+			<Name lang="EN">Icheon</Name>
+			<Region lang="EN">Icheon</Region>
+			<Destination lang="EN">Icheon, Icheon, South Korea</Destination>
+		</City>
+		<City id="26078">
+			<Name lang="EN">Jecheon</Name>
+			<Region lang="EN">Jecheon</Region>
+			<Destination lang="EN">Jecheon, Jecheon, South Korea</Destination>
+		</City>
+		<City id="22139">
+			<Name lang="EN">Jeju</Name>
+			<Region lang="EN">Jeju</Region>
+			<Destination lang="EN">Jeju, Jeju, South Korea</Destination>
+		</City>
+		<City id="26096">
+			<Name lang="EN">Jeonju</Name>
+			<Region lang="EN">Jeonju</Region>
+			<Destination lang="EN">Jeonju, Jeonju, South Korea</Destination>
+		</City>
+		<City id="18442">
+			<Name lang="EN">Paju</Name>
+			<Region lang="EN">Paju</Region>
+			<Destination lang="EN">Paju, Paju, South Korea</Destination>
+		</City>
+		<City id="24508">
+			<Name lang="EN">Pocheon</Name>
+			<Region lang="EN">Pocheon</Region>
+			<Destination lang="EN">Pocheon, Pocheon, South Korea</Destination>
+		</City>
+		<City id="30131">
+			<Name lang="EN">Pusan</Name>
+			<Region lang="EN">Pusan</Region>
+			<Destination lang="EN">Pusan, Pusan, South Korea</Destination>
+		</City>
+		<City id="26032">
+			<Name lang="EN">Pyeongchang</Name>
+			<Region lang="EN">Pyeongchang</Region>
+			<Destination lang="EN">Pyeongchang, Pyeongchang, South Korea</Destination>
+		</City>
+		<City id="5523">
+			<Name lang="EN">Samcheok</Name>
+			<Region lang="EN">Samcheok</Region>
+			<Destination lang="EN">Samcheok, Samcheok, South Korea</Destination>
+		</City>
+		<City id="5601">
+			<Name lang="EN">Seoul</Name>
+			<Region lang="EN">Seoul</Region>
+			<Destination lang="EN">Seoul, Seoul, South Korea</Destination>
+		</City>
+		<City id="28849">
+			<Name lang="EN">Sokcho</Name>
+			<Region lang="EN">Sokcho</Region>
+			<Destination lang="EN">Sokcho, Sokcho, South Korea</Destination>
+		</City>
+		<City id="35023">
+			<Name lang="EN">Suncheon</Name>
+			<Region lang="EN">Suncheon</Region>
+			<Destination lang="EN">Suncheon, Suncheon, South Korea</Destination>
+		</City>
+		<City id="1370">
+			<Name lang="EN">Suwon</Name>
+			<Region lang="EN">Suwon</Region>
+			<Destination lang="EN">Suwon, Suwon, South Korea</Destination>
+		</City>
+		<City id="30765">
+			<Name lang="EN">Ulsan</Name>
+			<Region lang="EN">Ulsan</Region>
+			<Destination lang="EN">Ulsan, Ulsan, South Korea</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

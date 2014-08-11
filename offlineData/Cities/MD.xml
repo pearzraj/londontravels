@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MD">
+		<City id="16761"> 
+			<Name lang="EN">Chisinau</Name>
+			<Region lang="EN">Chisinau</Region>
+			<Destination lang="EN">Chisinau, Chisinau, Moldova</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

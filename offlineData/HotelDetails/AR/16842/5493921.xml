@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493921" resultcode="0" message="" >
+				<Name><![CDATA[KING DAVID]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. General Paz 386,]]></Address1>
+					<Address2><![CDATA[X5000JLQ, Cordoba, Argentina]]></Address2>
+					<PostalCode>X5000JLQ</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.41064</Latitude>
+					<Longitude>-64.18516</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Solarium. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4580/32604580.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4581/32604581.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4582/32604582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4583/32604583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4584/32604584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4567/32604567.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4585/32604585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4586/32604586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4587/32604587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4588/32604588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4589/32604589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4590/32604590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4591/32604591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4592/32604592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4568/32604568.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4569/32604569.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4570/32604570.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4571/32604571.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4572/32604572.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4573/32604573.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4574/32604574.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4575/32604575.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4576/32604576.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4577/32604577.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4578/32604578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4579/32604579.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 351 570 3528]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 351 570 3528 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

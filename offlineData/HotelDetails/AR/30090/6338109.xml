@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338109" resultcode="0" message="" >
+				<Name><![CDATA[GRAN MADRYN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Lugones 40,]]></Address1>
+					<Address2><![CDATA[9120, Puerto Madryn, Argentina]]></Address2>
+					<PostalCode>9120</PostalCode>
+					<CityCode>83082</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Madryn]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-42.771908</Latitude>
+					<Longitude>-65.029564</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6583/37106583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6584/37106584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6585/37106585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6586/37106586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6587/37106587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6582/37106582.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 280 4475947]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 280 4472205 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493912" resultcode="0" message="" >
+				<Name><![CDATA[AYRES DE RECOLETA PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Guido, ]]></Address1>
+					<Address2><![CDATA[C1114AAT, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1114AAT</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.61178</Latitude>
+					<Longitude>-58.41731</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4461/32604461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4462/32604462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4463/32604463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4464/32604464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4465/32604465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4466/32604466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4467/32604467.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4468/32604468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4453/32604453.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4454/32604454.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4455/32604455.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4456/32604456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4457/32604457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4458/32604458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4459/32604459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4460/32604460.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4576 1001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4576 1000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

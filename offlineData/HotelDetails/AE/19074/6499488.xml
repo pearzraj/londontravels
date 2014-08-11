@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499488" resultcode="0" message="" >
+				<Name><![CDATA[ROYAL ASCOT HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Khalid bin Walid Road, Bur Dabai, Dubai,]]></Address1>
+					<Address2><![CDATA[52555, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>52555</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.25892</Latitude>
+					<Longitude>55.291607</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13330_1_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 355 85 02]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 355 85 00 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

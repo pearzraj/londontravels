@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335080" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA PATAGON]]></Name>
+				<Address>
+					<Address1><![CDATA[  MARTIN PESCADOR 40, PUERTO MANZANO,]]></Address1>
+					<Address2><![CDATA[8407, Villa La Angostura, Argentina]]></Address2>
+					<PostalCode>8407</PostalCode>
+					<CityCode>83706</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Villa La Angostura]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-40.78815</Latitude>
+					<Longitude>-71.598694</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, Jacuzzi and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Sauna, Spa, Bicycles. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, Jacuzzi and Room-Service We also have Porters, Vehicle Rental, Wi-Fi, Safe in Reception and Garage.  Activities and relax: Sauna, Spa, Bicycles. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8760/37758760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8761/37758761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8762/37758762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8763/37758763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8764/37758764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8765/37758765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8766/37758766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8767/37758767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8749/37758749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8750/37758750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8751/37758751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8752/37758752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8753/37758753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8754/37758754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8755/37758755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8756/37758756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8757/37758757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8758/37758758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8759/37758759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2071/37302071.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2072/37302072.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2073/37302073.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2074/37302074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2075/37302075.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 294 4825678 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338233" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND HOTEL METROPOL]]></Name>
+				<Address>
+					<Address1><![CDATA[   Schillerplatz,1]]></Address1>
+					<Address2><![CDATA[3100, St Polten, Austria]]></Address2>
+					<PostalCode>3100</PostalCode>
+					<CityCode>64909</CityCode>
+					<CityName lang="EN">
+						<![CDATA[St Polten]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.202576</Latitude>
+					<Longitude>15.625423</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2186/37112186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7343/37107343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7344/37107344.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7345/37107345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7346/37107346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7347/37107347.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7348/37107348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7349/37107349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7350/37107350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7351/37107351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7352/37107352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7353/37107353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7354/37107354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7355/37107355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7356/37107356.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7357/37107357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7358/37107358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2185/37112185.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[43274270700133]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00432742707000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

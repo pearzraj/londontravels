@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495774" resultcode="0" message="" >
+				<Name><![CDATA[BEST WESTERN PREMIER HARMONIE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Harmoniegasse, 5-7]]></Address1>
+					<Address2><![CDATA[1090, Vienna, Austria]]></Address2>
+					<PostalCode>1090</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.21994</Latitude>
+					<Longitude>16.359715</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00052_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[1 317660455]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[1 3176604 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

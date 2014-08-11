@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342444" resultcode="0" message="" >
+				<Name><![CDATA[KINGFISHER BAY RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  PMB 1 Uragan Hervey Bay,]]></Address1>
+					<Address2><![CDATA[Fraser, Fraser Island, Australia]]></Address2>
+					<PostalCode>Fraser </PostalCode>
+					<CityCode>90157</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Fraser Island]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.322926</Latitude>
+					<Longitude>153.1961</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Currency Exchange, Shops and Safe in Reception.  Activities and relax: Spa, Hairdressers and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Currency Exchange, Shops and Safe in Reception.  Activities and relax: Spa, Hairdressers and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Children´s Park]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7302/37787302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7303/37787303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7304/37787304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7305/37787305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7296/37787296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7297/37787297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7298/37787298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7299/37787299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7300/37787300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7301/37787301.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[61741203326]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[61741203333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

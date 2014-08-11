@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495689" resultcode="0" message="" >
+				<Name><![CDATA[GRAUER BAR]]></Name>
+				<Address>
+					<Address1><![CDATA[  Universitatsstrasse, 5-7]]></Address1>
+					<Address2><![CDATA[6021, Innsbruck, Austria]]></Address2>
+					<PostalCode>6021</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.269066</Latitude>
+					<Longitude>11.397339</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer and Minibar  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer and Minibar  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9321/37259321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9322/37259322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9323/37259323.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9324/37259324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9325/37259325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9326/37259326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9327/37259327.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9328/37259328.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9329/37259329.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9330/37259330.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9331/37259331.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9332/37259332.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9333/37259333.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9334/37259334.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9335/37259335.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9336/37259336.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9337/37259337.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9338/37259338.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9339/37259339.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9340/37259340.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9341/37259341.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9342/37259342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9343/37259343.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9344/37259344.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02122_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02122_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02122_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T02000/T02122_12_13.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043-512-574535]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-512-59240 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

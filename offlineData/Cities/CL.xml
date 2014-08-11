@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CL">
+		<City id="11705"> 
+			<Name lang="EN">Concepcion</Name>
+			<Region lang="EN">Concepcion</Region>
+			<Destination lang="EN">Concepcion, Concepcion, Chile</Destination>
+		</City>
+		<City id="18677">
+			<Name lang="EN">Easter Island</Name>
+			<Region lang="EN">Easter Island</Region>
+			<Destination lang="EN">Easter Island, Easter Island, Chile</Destination>
+		</City>
+		<City id="33423">
+			<Name lang="EN">Las Condes</Name>
+			<Region lang="EN">Las Condes</Region>
+			<Destination lang="EN">Las Condes, Las Condes, Chile</Destination>
+		</City>
+		<City id="25744">
+			<Name lang="EN">Providencia</Name>
+			<Region lang="EN">Providencia</Region>
+			<Destination lang="EN">Providencia, Providencia, Chile</Destination>
+		</City>
+		<City id="30092">
+			<Name lang="EN">Puerto Montt</Name>
+			<Region lang="EN">Puerto Montt</Region>
+			<Destination lang="EN">Puerto Montt, Puerto Montt, Chile</Destination>
+		</City>
+		<City id="30104">
+			<Name lang="EN">Puerto Varas</Name>
+			<Region lang="EN">Puerto Varas</Region>
+			<Destination lang="EN">Puerto Varas, Puerto Varas, Chile</Destination>
+		</City>
+		<City id="30119">
+			<Name lang="EN">Punta Arenas</Name>
+			<Region lang="EN">Punta Arenas</Region>
+			<Destination lang="EN">Punta Arenas, Punta Arenas, Chile</Destination>
+		</City>
+		<City id="8050">
+			<Name lang="EN">Santiago</Name>
+			<Region lang="EN">Santiago</Region>
+			<Destination lang="EN">Santiago, Santiago, Chile</Destination>
+		</City>
+		<City id="30911">
+			<Name lang="EN">Vina del Mar</Name>
+			<Region lang="EN">Vina del Mar</Region>
+			<Destination lang="EN">Vina del Mar, Vina del Mar, Chile</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

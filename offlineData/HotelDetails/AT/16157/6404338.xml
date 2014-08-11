@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404338" resultcode="0" message="" >
+				<Name><![CDATA[AMEDIA GRAZ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Conrad-Von-Hoetzendorf-Strasse 60, Graz A-8010,]]></Address1>
+					<Address2><![CDATA[Graz, Graz, Austria]]></Address2>
+					<PostalCode>Graz</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.0586</Latitude>
+					<Longitude>15.445211</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19135_12_11.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4331624555900]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 316 245550 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="RU">
+		<City id="7880"> 
+			<Name lang="EN">Chelyabinsk</Name>
+			<Region lang="EN">Chelyabinsk</Region>
+			<Destination lang="EN">Chelyabinsk, Chelyabinsk, Russian Federation</Destination>
+		</City>
+		<City id="3494">
+			<Name lang="EN">Ekaterinburg</Name>
+			<Region lang="EN">Ekaterinburg</Region>
+			<Destination lang="EN">Ekaterinburg, Ekaterinburg, Russian Federation</Destination>
+		</City>
+		<City id="7657">
+			<Name lang="EN">Kaliningrad</Name>
+			<Region lang="EN">Kaliningrad Oblast</Region>
+			<Destination lang="EN">Kaliningrad, Kaliningrad Oblast, Russian Federation</Destination>
+		</City>
+		<City id="8060">
+			<Name lang="EN">Kazan</Name>
+			<Region lang="EN">Tatarstan</Region>
+			<Destination lang="EN">Kazan, Tatarstan, Russian Federation</Destination>
+		</City>
+		<City id="9340">
+			<Name lang="EN">Kostroma</Name>
+			<Region lang="EN">Kostroma Oblast</Region>
+			<Destination lang="EN">Kostroma, Kostroma Oblast, Russian Federation</Destination>
+		</City>
+		<City id="9368">
+			<Name lang="EN">Krasnodar</Name>
+			<Region lang="EN">Krasnodar</Region>
+			<Destination lang="EN">Krasnodar, Krasnodar, Russian Federation</Destination>
+		</City>
+		<City id="36582">
+			<Name lang="EN">Lobnya</Name>
+			<Region lang="EN">Lobnya</Region>
+			<Destination lang="EN">Lobnya, Lobnya, Russian Federation</Destination>
+		</City>
+		<City id="17185">
+			<Name lang="EN">Moscow</Name>
+			<Region lang="EN">Moscow Federal City</Region>
+			<Destination lang="EN">Moscow, Moscow Federal City, Russian Federation</Destination>
+		</City>
+		<City id="35941">
+			<Name lang="EN">Naberezhnye Chelny</Name>
+			<Region lang="EN">Naberezhnye Chelny</Region>
+			<Destination lang="EN">Naberezhnye Chelny, Naberezhnye Chelny, Russian Federation</Destination>
+		</City>
+		<City id="19627">
+			<Name lang="EN">Nizhniy Novgorod</Name>
+			<Region lang="EN">Nizhny Novgorod Oblast</Region>
+			<Destination lang="EN">Nizhniy Novgorod, Nizhny Novgorod Oblast, Russian Federation</Destination>
+		</City>
+		<City id="26178">
+			<Name lang="EN">Novosibirsk</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="36627">
+			<Name lang="EN">Obninsk</Name>
+			<Region lang="EN">Obninsk</Region>
+			<Destination lang="EN">Obninsk, Obninsk, Russian Federation</Destination>
+		</City>
+		<City id="29451">
+			<Name lang="EN">Perm</Name>
+			<Region lang="EN">Perm Krai</Region>
+			<Destination lang="EN">Perm, Perm Krai, Russian Federation</Destination>
+		</City>
+		<City id="30521">
+			<Name lang="EN">Rostov</Name>
+			<Region lang="EN">Rostov</Region>
+			<Destination lang="EN">Rostov, Rostov, Russian Federation</Destination>
+		</City>
+		<City id="28839">
+			<Name lang="EN">Sochi</Name>
+			<Region lang="EN">Krasnodar Krai</Region>
+			<Destination lang="EN">Sochi, Krasnodar Krai, Russian Federation</Destination>
+		</City>
+		<City id="29013">
+			<Name lang="EN">St Petersburg</Name>
+			<Region lang="EN">St Petersburg Federal City</Region>
+			<Destination lang="EN">St Petersburg, St Petersburg Federal City, Russian Federation</Destination>
+		</City>
+		<City id="1371">
+			<Name lang="EN">Suzdal</Name>
+			<Region lang="EN">Vladimir Oblast</Region>
+			<Destination lang="EN">Suzdal, Vladimir Oblast, Russian Federation</Destination>
+		</City>
+		<City id="30730">
+			<Name lang="EN">Tyumen</Name>
+			<Region lang="EN">Tyumen</Region>
+			<Destination lang="EN">Tyumen, Tyumen, Russian Federation</Destination>
+		</City>
+		<City id="1914">
+			<Name lang="EN">Vladimir</Name>
+			<Region lang="EN">Vladimir Oblast</Region>
+			<Destination lang="EN">Vladimir, Vladimir Oblast, Russian Federation</Destination>
+		</City>
+		<City id="30929">
+			<Name lang="EN">Vladivostok</Name>
+			<Region lang="EN">Primorsky Oblast</Region>
+			<Destination lang="EN">Vladivostok, Primorsky Oblast, Russian Federation</Destination>
+		</City>
+		<City id="30939">
+			<Name lang="EN">Voronezh</Name>
+			<Region lang="EN">Voronezh</Region>
+			<Destination lang="EN">Voronezh, Voronezh, Russian Federation</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335201" resultcode="0" message="" >
+				<Name><![CDATA[AVILA BEACH HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Penstrast 130-134,]]></Address1>
+					<Address2><![CDATA[130134, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>130134</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.098727</Latitude>
+					<Longitude>-68.91662</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9083/37759083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9084/37759084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9103/37759103.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9104/37759104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9105/37759105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9106/37759106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9107/37759107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9108/37759108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9085/37759085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9086/37759086.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9087/37759087.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9088/37759088.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9089/37759089.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9090/37759090.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9091/37759091.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9092/37759092.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9093/37759093.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9094/37759094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9095/37759095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9096/37759096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9097/37759097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9098/37759098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9099/37759099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9100/37759100.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9101/37759101.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9102/37759102.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+599 9 461 1493]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+599 9 461 4377 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

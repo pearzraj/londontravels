@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BG">
+		<City id="31878"> 
+			<Name lang="EN">Arbanasi</Name>
+			<Region lang="EN">Arbanasi</Region>
+			<Destination lang="EN">Arbanasi, Arbanasi, Bulgaria</Destination>
+		</City>
+		<City id="32377">
+			<Name lang="EN">Bansko</Name>
+			<Region lang="EN">Bansko</Region>
+			<Destination lang="EN">Bansko, Bansko, Bulgaria</Destination>
+		</City>
+		<City id="18810">
+			<Name lang="EN">Golden Sands</Name>
+			<Region lang="EN">Golden Sands</Region>
+			<Destination lang="EN">Golden Sands, Golden Sands, Bulgaria</Destination>
+		</City>
+		<City id="10332">
+			<Name lang="EN">Obzor</Name>
+			<Region lang="EN">Obzor</Region>
+			<Destination lang="EN">Obzor, Obzor, Bulgaria</Destination>
+		</City>
+		<City id="29700">
+			<Name lang="EN">Plovdiv</Name>
+			<Region lang="EN">Plovdiv</Region>
+			<Destination lang="EN">Plovdiv, Plovdiv, Bulgaria</Destination>
+		</City>
+		<City id="28846">
+			<Name lang="EN">Sofia</Name>
+			<Region lang="EN">Sofia</Region>
+			<Destination lang="EN">Sofia, Sofia, Bulgaria</Destination>
+		</City>
+		<City id="5235">
+			<Name lang="EN">Sunny Beach</Name>
+			<Region lang="EN">Sunny Beach</Region>
+			<Destination lang="EN">Sunny Beach, Sunny Beach, Bulgaria</Destination>
+		</City>
+		<City id="1387">
+			<Name lang="EN">Sveti Vlas</Name>
+			<Region lang="EN">Sveti Vlas</Region>
+			<Destination lang="EN">Sveti Vlas, Sveti Vlas, Bulgaria</Destination>
+		</City>
+		<City id="30876">
+			<Name lang="EN">Varna</Name>
+			<Region lang="EN">Varna</Region>
+			<Destination lang="EN">Varna, Varna, Bulgaria</Destination>
+		</City>
+		<City id="1028">
+			<Name lang="EN">Veliko Tarnovo</Name>
+			<Region lang="EN">Veliko Tarnovo</Region>
+			<Destination lang="EN">Veliko Tarnovo, Veliko Tarnovo, Bulgaria</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

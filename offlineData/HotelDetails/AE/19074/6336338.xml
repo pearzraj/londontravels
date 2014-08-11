@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336338" resultcode="0" message="" >
+				<Name><![CDATA[RIMAL ROTANA SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[   Murraqabat Street P.O. Box 27070,]]></Address1>
+					<Address2><![CDATA[27070, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>27070</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.2639</Latitude>
+					<Longitude>55.32768</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2971/37122971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2972/37122972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2973/37122973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2974/37122974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2975/37122975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2976/37122976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2977/37122977.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4 2688777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[4 2688000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IN">
+		<City id="10830"> 
+			<Name lang="EN">Agra</Name>
+			<Region lang="EN">Uttar Pradesh</Region>
+			<Destination lang="EN">Agra, Uttar Pradesh, India</Destination>
+		</City>
+		<City id="10838">
+			<Name lang="EN">Ahmedabad</Name>
+			<Region lang="EN">Gujarat</Region>
+			<Destination lang="EN">Ahmedabad, Gujarat, India</Destination>
+		</City>
+		<City id="31640">
+			<Name lang="EN">Alleppey</Name>
+			<Region lang="EN">Kerala</Region>
+			<Destination lang="EN">Alleppey, Kerala, India</Destination>
+		</City>
+		<City id="31722">
+			<Name lang="EN">Alwar</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Alwar, Rajastan, India</Destination>
+		</City>
+		<City id="6395">
+			<Name lang="EN">Amritsar</Name>
+			<Region lang="EN">Punjab</Region>
+			<Destination lang="EN">Amritsar, Punjab, India</Destination>
+		</City>
+		<City id="20330">
+			<Name lang="EN">Arpora</Name>
+			<Region lang="EN">Goa</Region>
+			<Destination lang="EN">Arpora, Goa, India</Destination>
+		</City>
+		<City id="15896">
+			<Name lang="EN">Aurangabad</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Aurangabad, Maharashtra, India</Destination>
+		</City>
+		<City id="6912">
+			<Name lang="EN">Bangalore</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Bangalore, Karnataka, India</Destination>
+		</City>
+		<City id="35040">
+			<Name lang="EN">Bareilly</Name>
+			<Region lang="EN">Uttar Pradesh</Region>
+			<Destination lang="EN">Bareilly, Uttar Pradesh, India</Destination>
+		</City>
+		<City id="7066">
+			<Name lang="EN">Bhubaneswar</Name>
+			<Region lang="EN">Orissa</Region>
+			<Destination lang="EN">Bhubaneswar, Orissa, India</Destination>
+		</City>
+		<City id="7089">
+			<Name lang="EN">Bikaner</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Bikaner, Rajastan, India</Destination>
+		</City>
+		<City id="16726">
+			<Name lang="EN">Chandigarh</Name>
+			<Region lang="EN">Chandigarh</Region>
+			<Destination lang="EN">Chandigarh, Chandigarh, India</Destination>
+		</City>
+		<City id="7883">
+			<Name lang="EN">Chennai</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Chennai, Tamil Nadu, India</Destination>
+		</City>
+		<City id="16776">
+			<Name lang="EN">Cochin</Name>
+			<Region lang="EN">Kerala</Region>
+			<Destination lang="EN">Cochin, Kerala, India</Destination>
+		</City>
+		<City id="7545">
+			<Name lang="EN">Delhi</Name>
+			<Region lang="EN">Ntl Capital Territory of Delhi</Region>
+			<Destination lang="EN">Delhi, Ntl Capital Territory of Delhi, India</Destination>
+		</City>
+		<City id="17033">
+			<Name lang="EN">Gandhinagar</Name>
+			<Region lang="EN">Gujarat</Region>
+			<Destination lang="EN">Gandhinagar, Gujarat, India</Destination>
+		</City>
+		<City id="18008">
+			<Name lang="EN">Ghaziabad</Name>
+			<Region lang="EN">Uttar Pradesh</Region>
+			<Destination lang="EN">Ghaziabad, Uttar Pradesh, India</Destination>
+		</City>
+		<City id="8215">
+			<Name lang="EN">Goa (India)</Name>
+			<Region lang="EN">Goa</Region>
+			<Destination lang="EN">Goa (India), Goa, India</Destination>
+		</City>
+		<City id="20522">
+			<Name lang="EN">Gurgaon</Name>
+			<Region lang="EN">Haryana</Region>
+			<Destination lang="EN">Gurgaon, Haryana, India</Destination>
+		</City>
+		<City id="34607">
+			<Name lang="EN">Hampi</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Hampi, Karnataka, India</Destination>
+		</City>
+		<City id="21236">
+			<Name lang="EN">Haridwar</Name>
+			<Region lang="EN">Uttarakhand</Region>
+			<Destination lang="EN">Haridwar, Uttarakhand, India</Destination>
+		</City>
+		<City id="21276">
+			<Name lang="EN">Hassan</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Hassan, Karnataka, India</Destination>
+		</City>
+		<City id="12447">
+			<Name lang="EN">Hyderabad</Name>
+			<Region lang="EN">Andhra Pradesh</Region>
+			<Destination lang="EN">Hyderabad, Andhra Pradesh, India</Destination>
+		</City>
+		<City id="15074">
+			<Name lang="EN">Indore</Name>
+			<Region lang="EN">Madhya Pradesh</Region>
+			<Destination lang="EN">Indore, Madhya Pradesh, India</Destination>
+		</City>
+		<City id="29614">
+			<Name lang="EN">Jaipur</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Jaipur, Rajastan, India</Destination>
+		</City>
+		<City id="29626">
+			<Name lang="EN">Jammu</Name>
+			<Region lang="EN">Jammu and Kashmir</Region>
+			<Destination lang="EN">Jammu, Jammu and Kashmir, India</Destination>
+		</City>
+		<City id="29628">
+			<Name lang="EN">Jamshedpur</Name>
+			<Region lang="EN">Jharkhand</Region>
+			<Destination lang="EN">Jamshedpur, Jharkhand, India</Destination>
+		</City>
+		<City id="29651">
+			<Name lang="EN">Jodhpur</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Jodhpur, Rajastan, India</Destination>
+		</City>
+		<City id="9032">
+			<Name lang="EN">Kanyakumari</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Kanyakumari, Tamil Nadu, India</Destination>
+		</City>
+		<City id="8125">
+			<Name lang="EN">Khajuraho</Name>
+			<Region lang="EN">Madhya Pradesh</Region>
+			<Destination lang="EN">Khajuraho, Madhya Pradesh, India</Destination>
+		</City>
+		<City id="8724">
+			<Name lang="EN">Kolkata</Name>
+			<Region lang="EN">West Bengal</Region>
+			<Destination lang="EN">Kolkata, West Bengal, India</Destination>
+		</City>
+		<City id="13226">
+			<Name lang="EN">Kollam</Name>
+			<Region lang="EN">Kerala</Region>
+			<Destination lang="EN">Kollam, Kerala, India</Destination>
+		</City>
+		<City id="12312">
+			<Name lang="EN">Lucknow</Name>
+			<Region lang="EN">Uttar Pradesh</Region>
+			<Destination lang="EN">Lucknow, Uttar Pradesh, India</Destination>
+		</City>
+		<City id="12314">
+			<Name lang="EN">Ludhiana</Name>
+			<Region lang="EN">Punjab</Region>
+			<Destination lang="EN">Ludhiana, Punjab, India</Destination>
+		</City>
+		<City id="12630">
+			<Name lang="EN">Madurai</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Madurai, Tamil Nadu, India</Destination>
+		</City>
+		<City id="21545">
+			<Name lang="EN">Mahabalipuram</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Mahabalipuram, Tamil Nadu, India</Destination>
+		</City>
+		<City id="22206">
+			<Name lang="EN">Manali</Name>
+			<Region lang="EN">Himachal Pradesh</Region>
+			<Destination lang="EN">Manali, Himachal Pradesh, India</Destination>
+		</City>
+		<City id="13683">
+			<Name lang="EN">Mangalore</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Mangalore, Karnataka, India</Destination>
+		</City>
+		<City id="27609">
+			<Name lang="EN">Mount Abu</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Mount Abu, Rajastan, India</Destination>
+		</City>
+		<City id="17905">
+			<Name lang="EN">Mumbai</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Mumbai, Maharashtra, India</Destination>
+		</City>
+		<City id="27808">
+			<Name lang="EN">Mussoorie</Name>
+			<Region lang="EN">Uttarakhand</Region>
+			<Destination lang="EN">Mussoorie, Uttarakhand, India</Destination>
+		</City>
+		<City id="11406">
+			<Name lang="EN">Mysore</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Mysore, Karnataka, India</Destination>
+		</City>
+		<City id="17935">
+			<Name lang="EN">Nagpur</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Nagpur, Maharashtra, India</Destination>
+		</City>
+		<City id="28160">
+			<Name lang="EN">Navi Mumbai</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Navi Mumbai, Maharashtra, India</Destination>
+		</City>
+		<City id="14071">
+			<Name lang="EN">Neemrana</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Neemrana, Rajastan, India</Destination>
+		</City>
+		<City id="13855">
+			<Name lang="EN">Ooty</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Ooty, Tamil Nadu, India</Destination>
+		</City>
+		<City id="29768">
+			<Name lang="EN">Port Blair</Name>
+			<Region lang="EN">Andaman and Nicobar Islands</Region>
+			<Destination lang="EN">Port Blair, Andaman and Nicobar Islands, India</Destination>
+		</City>
+		<City id="30116">
+			<Name lang="EN">Pune</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Pune, Maharashtra, India</Destination>
+		</City>
+		<City id="26016">
+			<Name lang="EN">Puri</Name>
+			<Region lang="EN">Orissa</Region>
+			<Destination lang="EN">Puri, Orissa, India</Destination>
+		</City>
+		<City id="33917">
+			<Name lang="EN">Ramnagar</Name>
+			<Region lang="EN">Uttarakhand</Region>
+			<Destination lang="EN">Ramnagar, Uttarakhand, India</Destination>
+		</City>
+		<City id="14113">
+			<Name lang="EN">Ranipet</Name>
+			<Region lang="EN">Tamil Nadu</Region>
+			<Destination lang="EN">Ranipet, Tamil Nadu, India</Destination>
+		</City>
+		<City id="907">
+			<Name lang="EN">Shimla</Name>
+			<Region lang="EN">Himachal Pradesh</Region>
+			<Destination lang="EN">Shimla, Himachal Pradesh, India</Destination>
+		</City>
+		<City id="909">
+			<Name lang="EN">Shimoga</Name>
+			<Region lang="EN">Karnataka</Region>
+			<Destination lang="EN">Shimoga, Karnataka, India</Destination>
+		</City>
+		<City id="915">
+			<Name lang="EN">Shirdi</Name>
+			<Region lang="EN">Maharashtra</Region>
+			<Destination lang="EN">Shirdi, Maharashtra, India</Destination>
+		</City>
+		<City id="4560">
+			<Name lang="EN">Silvassa</Name>
+			<Region lang="EN">Dadra and Nagar Haveli</Region>
+			<Destination lang="EN">Silvassa, Dadra and Nagar Haveli, India</Destination>
+		</City>
+		<City id="29506">
+			<Name lang="EN">Thiruvananthapuram</Name>
+			<Region lang="EN">Kerala</Region>
+			<Destination lang="EN">Thiruvananthapuram, Kerala, India</Destination>
+		</City>
+		<City id="29564">
+			<Name lang="EN">Tirupati</Name>
+			<Region lang="EN">Andhra Pradesh</Region>
+			<Destination lang="EN">Tirupati, Andhra Pradesh, India</Destination>
+		</City>
+		<City id="30742">
+			<Name lang="EN">Udaipur</Name>
+			<Region lang="EN">Rajastan</Region>
+			<Destination lang="EN">Udaipur, Rajastan, India</Destination>
+		</City>
+		<City id="965">
+			<Name lang="EN">Vapi</Name>
+			<Region lang="EN">Gujarat</Region>
+			<Destination lang="EN">Vapi, Gujarat, India</Destination>
+		</City>
+		<City id="30872">
+			<Name lang="EN">Varanasi</Name>
+			<Region lang="EN">Uttar Pradesh</Region>
+			<Destination lang="EN">Varanasi, Uttar Pradesh, India</Destination>
+		</City>
+		<City id="34982">
+			<Name lang="EN">Vayalar</Name>
+			<Region lang="EN">Kerala</Region>
+			<Destination lang="EN">Vayalar, Kerala, India</Destination>
+		</City>
+		<City id="30922">
+			<Name lang="EN">Vishakhapatnam</Name>
+			<Region lang="EN">Andhra Pradesh</Region>
+			<Destination lang="EN">Vishakhapatnam, Andhra Pradesh, India</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

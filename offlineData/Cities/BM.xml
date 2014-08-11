@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BM">
+		<City id="18695"> 
+			<Name lang="EN">Hamilton</Name>
+			<Region lang="EN">Hamilton</Region>
+			<Destination lang="EN">Hamilton, Hamilton, Bermuda</Destination>
+		</City>
+		<City id="18427">
+			<Name lang="EN">Paget</Name>
+			<Region lang="EN">Paget</Region>
+			<Destination lang="EN">Paget, Paget, Bermuda</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

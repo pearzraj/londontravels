@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IR">
+		<City id="15131"> 
+			<Name lang="EN">Isfahan</Name>
+			<Region lang="EN">Isfahan</Region>
+			<Destination lang="EN">Isfahan, Isfahan, Iran</Destination>
+		</City>
+		<City id="14658">
+			<Name lang="EN">Mashad</Name>
+			<Region lang="EN">Mashad</Region>
+			<Destination lang="EN">Mashad, Mashad, Iran</Destination>
+		</City>
+		<City id="28768">
+			<Name lang="EN">Shiraz</Name>
+			<Region lang="EN">Shiraz</Region>
+			<Destination lang="EN">Shiraz, Shiraz, Iran</Destination>
+		</City>
+		<City id="29140">
+			<Name lang="EN">Tabriz</Name>
+			<Region lang="EN">Tabriz</Region>
+			<Destination lang="EN">Tabriz, Tabriz, Iran</Destination>
+		</City>
+		<City id="29358">
+			<Name lang="EN">Tehran</Name>
+			<Region lang="EN">Tehran</Region>
+			<Destination lang="EN">Tehran, Tehran, Iran</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

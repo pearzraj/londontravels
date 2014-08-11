@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494098" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA LAS LENGAS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Teniente Coronel Perez 1175,]]></Address1>
+					<Address2><![CDATA[8370, San Martin De Los Andes, Argentina]]></Address2>
+					<PostalCode>8370</PostalCode>
+					<CityCode>83348</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Martin De Los Andes]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-40.162083</Latitude>
+					<Longitude>-71.34762</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4868/37674868.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4869/37674869.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4870/37674870.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4871/37674871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4872/37674872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4873/37674873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4874/37674874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4875/37674875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4876/37674876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4859/37674859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4860/37674860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4861/37674861.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4862/37674862.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4863/37674863.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4864/37674864.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4865/37674865.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4866/37674866.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4867/37674867.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2972 427659]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2972 427659 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493925" resultcode="0" message="" >
+				<Name><![CDATA[SARMIENTO PALACE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sarmiento 1953,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60531</Latitude>
+					<Longitude>-58.394127</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.  Activities and relax: Jacuzzi, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.  Activities and relax: Jacuzzi, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4645/32604645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4646/32604646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4647/32604647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4648/32604648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4649/32604649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4650/32604650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4651/32604651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4652/32604652.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4620/32604620.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4621/32604621.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4622/32604622.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4623/32604623.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4624/32604624.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4625/32604625.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4626/32604626.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4627/32604627.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4628/32604628.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4629/32604629.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4630/32604630.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4631/32604631.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4632/32604632.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4633/32604633.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4634/32604634.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4635/32604635.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4636/32604636.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4637/32604637.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4619/32604619.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4638/32604638.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4639/32604639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4640/32604640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4641/32604641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4642/32604642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4643/32604643.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4644/32604644.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4953 6335]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4953 3404 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338961" resultcode="0" message="" >
+				<Name><![CDATA[FUEGUINO PATAGONICO]]></Name>
+				<Address>
+					<Address1><![CDATA[  GOBERNADOR DELOQUI 1282,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.808422</Latitude>
+					<Longitude>-68.31618</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Room-Service We also have Wi-Fi.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Room-Service We also have Wi-Fi.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9396/37129396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9397/37129397.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9376/37129376.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9377/37129377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9378/37129378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9379/37129379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9380/37129380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9381/37129381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9382/37129382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9383/37129383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9384/37129384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9385/37129385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9386/37129386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9387/37129387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9388/37129388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9389/37129389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9390/37129390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9391/37129391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9392/37129392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9393/37129393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9394/37129394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9395/37129395.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 2901 424894 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

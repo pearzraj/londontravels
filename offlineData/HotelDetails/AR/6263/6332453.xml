@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332453" resultcode="0" message="" >
+				<Name><![CDATA[DAZZLER TOWER RECOLETA]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV GRAL LAS HERAS 2163,]]></Address1>
+					<Address2><![CDATA[01127, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>01127 </PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.588734</Latitude>
+					<Longitude>-58.395493</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6307/37096307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6308/37096308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6309/37096309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6310/37096310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6311/37096311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6312/37096312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6313/37096313.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6314/37096314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6315/37096315.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6316/37096316.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6317/37096317.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6318/37096318.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6319/37096319.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6320/37096320.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6321/37096321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6322/37096322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6323/37096323.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6324/37096324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6325/37096325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6326/37096326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6303/37096303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6304/37096304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6305/37096305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6306/37096306.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[ 54 1120585556 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

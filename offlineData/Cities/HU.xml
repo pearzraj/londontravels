@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="HU">
+		<City id="32278"> 
+			<Name lang="EN">Balatonfured</Name>
+			<Region lang="EN">Balatonfured</Region>
+			<Destination lang="EN">Balatonfured, Balatonfured, Hungary</Destination>
+		</City>
+		<City id="7303">
+			<Name lang="EN">Budapest</Name>
+			<Region lang="EN">Budapest</Region>
+			<Destination lang="EN">Budapest, Budapest, Hungary</Destination>
+		</City>
+		<City id="15697">
+			<Name lang="EN">Debrecen</Name>
+			<Region lang="EN">Debrecen</Region>
+			<Destination lang="EN">Debrecen, Debrecen, Hungary</Destination>
+		</City>
+		<City id="9590">
+			<Name lang="EN">Eger</Name>
+			<Region lang="EN">Eger</Region>
+			<Destination lang="EN">Eger, Eger, Hungary</Destination>
+		</City>
+		<City id="21419">
+			<Name lang="EN">Esztergom</Name>
+			<Region lang="EN">Esztergom</Region>
+			<Destination lang="EN">Esztergom, Esztergom, Hungary</Destination>
+		</City>
+		<City id="14460">
+			<Name lang="EN">Godollo</Name>
+			<Region lang="EN">Godollo</Region>
+			<Destination lang="EN">Godollo, Godollo, Hungary</Destination>
+		</City>
+		<City id="20825">
+			<Name lang="EN">Gyor</Name>
+			<Region lang="EN">Gyor</Region>
+			<Destination lang="EN">Gyor, Gyor, Hungary</Destination>
+		</City>
+		<City id="20873">
+			<Name lang="EN">Hajduszoboszlo</Name>
+			<Region lang="EN">Hajduszoboszlo</Region>
+			<Destination lang="EN">Hajduszoboszlo, Hajduszoboszlo, Hungary</Destination>
+		</City>
+		<City id="23201">
+			<Name lang="EN">Heviz</Name>
+			<Region lang="EN">Heviz</Region>
+			<Destination lang="EN">Heviz, Heviz, Hungary</Destination>
+		</City>
+		<City id="24031">
+			<Name lang="EN">Hortobagy</Name>
+			<Region lang="EN">Hortobagy</Region>
+			<Destination lang="EN">Hortobagy, Hortobagy, Hungary</Destination>
+		</City>
+		<City id="10160">
+			<Name lang="EN">Keszthely</Name>
+			<Region lang="EN">Keszthely</Region>
+			<Destination lang="EN">Keszthely, Keszthely, Hungary</Destination>
+		</City>
+		<City id="14474">
+			<Name lang="EN">Mezokovesd</Name>
+			<Region lang="EN">Mezokovesd</Region>
+			<Destination lang="EN">Mezokovesd, Mezokovesd, Hungary</Destination>
+		</City>
+		<City id="16506">
+			<Name lang="EN">Miskolc</Name>
+			<Region lang="EN">Miskolc</Region>
+			<Destination lang="EN">Miskolc, Miskolc, Hungary</Destination>
+		</City>
+		<City id="21441">
+			<Name lang="EN">Nagykanizsa</Name>
+			<Region lang="EN">Nagykanizsa</Region>
+			<Destination lang="EN">Nagykanizsa, Nagykanizsa, Hungary</Destination>
+		</City>
+		<City id="29419">
+			<Name lang="EN">Pecs</Name>
+			<Region lang="EN">Pecs</Region>
+			<Destination lang="EN">Pecs, Pecs, Hungary</Destination>
+		</City>
+		<City id="34217">
+			<Name lang="EN">Tatabanya</Name>
+			<Region lang="EN">Tatabanya</Region>
+			<Destination lang="EN">Tatabanya, Tatabanya, Hungary</Destination>
+		</City>
+		<City id="26749">
+			<Name lang="EN">Torokbalint</Name>
+			<Region lang="EN">Torokbalint</Region>
+			<Destination lang="EN">Torokbalint, Torokbalint, Hungary</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

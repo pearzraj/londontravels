@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336718" resultcode="0" message="" >
+				<Name><![CDATA[TUCUMAN CENTER HOTEL SUITES AND BUSINESS]]></Name>
+				<Address>
+					<Address1><![CDATA[   25 De Mayo 230,]]></Address1>
+					<Address2><![CDATA[T4000CHI, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>T4000CHI</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.82792</Latitude>
+					<Longitude>-65.20408</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and Room-Service We also have Porters, Vehicle Rental, Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and Room-Service We also have Porters, Vehicle Rental, Wi-Fi and Business Centre.   ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9528/37779528.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42918_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9519/37779519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9520/37779520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9521/37779521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9522/37779522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9523/37779523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9524/37779524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9525/37779525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9526/37779526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9527/37779527.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[543814525555]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[543814525555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

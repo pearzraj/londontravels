@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338088" resultcode="0" message="" >
+				<Name><![CDATA[TWO HOTEL BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Moreno 785,]]></Address1>
+					<Address2><![CDATA[C1091AAN, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1091AAN</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.611683</Latitude>
+					<Longitude>-58.377438</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6461/37106461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6462/37106462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6463/37106463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6464/37106464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6465/37106465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6466/37106466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6467/37106467.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6468/37106468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6480/37106480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6469/37106469.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6470/37106470.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6471/37106471.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6472/37106472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6473/37106473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6474/37106474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6475/37106475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6476/37106476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6477/37106477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6478/37106478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6479/37106479.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4370 8020]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4348 9700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

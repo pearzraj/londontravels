@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335725" resultcode="0" message="" >
+				<Name><![CDATA[TERRAZA COIRONES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 92 N. 65,]]></Address1>
+					<Address2><![CDATA[09405, El Calafate, Argentina]]></Address2>
+					<PostalCode>09405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.34457</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7820/37107820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7821/37107821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7822/37107822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7823/37107823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7824/37107824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7825/37107825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7826/37107826.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 02902 495 508/7/8]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 02902 495 506/7/8 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

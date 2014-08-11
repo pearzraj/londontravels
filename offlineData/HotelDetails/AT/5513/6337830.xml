@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337830" resultcode="0" message="" >
+				<Name><![CDATA[TREND EUROPA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Rainerstrasse,31]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.812275</Latitude>
+					<Longitude>13.044205</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Wi-Fi and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T43000/T43821_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5869/37305869.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5870/37305870.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5871/37305871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5872/37305872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5873/37305873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5874/37305874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5875/37305875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5876/37305876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5877/37305877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5878/37305878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5879/37305879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5880/37305880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5881/37305881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5882/37305882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5883/37305883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5884/37305884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5885/37305885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5886/37305886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5887/37305887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5888/37305888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5889/37305889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5890/37305890.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5891/37305891.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5892/37305892.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5893/37305893.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5894/37305894.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043662889938]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043662889930 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

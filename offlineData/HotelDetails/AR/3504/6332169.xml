@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332169" resultcode="0" message="" >
+				<Name><![CDATA[DESIGN SUITES CALAFATE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle 94 Numero 190,]]></Address1>
+					<Address2><![CDATA[00000, El Calafate, Argentina]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.32919</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange, Vehicle Rental, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Currency Exchange, Vehicle Rental, Safe in Reception and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4176/37094176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4177/37094177.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4190/37094190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4191/37094191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4178/37094178.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4179/37094179.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4180/37094180.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4181/37094181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4182/37094182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4183/37094183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4184/37094184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4174/37094174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4175/37094175.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4185/37094185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4186/37094186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4187/37094187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4188/37094188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4189/37094189.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2902 949 525]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2902494525]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

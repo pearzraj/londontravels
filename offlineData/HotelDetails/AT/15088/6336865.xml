@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336865" resultcode="0" message="" >
+				<Name><![CDATA[PENZ WEST HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[   Furstenweg, 183]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.25759</Latitude>
+					<Longitude>11.356344</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have Luggage compartment.  Activities and relax: Sauna. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Luggage compartment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8964/37138964.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8965/37138965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8966/37138966.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8967/37138967.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8968/37138968.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8969/37138969.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8970/37138970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8971/37138971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8972/37138972.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8973/37138973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8974/37138974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8975/37138975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8976/37138976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8977/37138977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8978/37138978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8979/37138979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8980/37138980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8981/37138981.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[512 22514124]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 512 22 514 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

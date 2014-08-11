@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="KN">
+		<City id="18981"> 
+			<Name lang="EN">Nevis</Name>
+			<Region lang="EN">Leeward Islands</Region>
+			<Destination lang="EN">Nevis, Leeward Islands, St Christopher-Nevis</Destination>
+		</City>
+		<City id="30617">
+			<Name lang="EN">Saint Kitts</Name>
+			<Region lang="EN">Leeward Islands</Region>
+			<Destination lang="EN">Saint Kitts, Leeward Islands, St Christopher-Nevis</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

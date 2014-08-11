@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493611" resultcode="0" message="" >
+				<Name><![CDATA[COMA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General,s/n]]></Address1>
+					<Address2><![CDATA[AD300, Ordino, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>59327</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ordino]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.562695</Latitude>
+					<Longitude>1.528791</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[A 3*** star hotel, perfect for relaxing after a day¿s activities in the mountains. It's  rooms  offer a pleasant environment in which to rest after a day full of excitement. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[A 3*** star hotel, perfect for relaxing after a day¿s activities in the mountains. It's  rooms  offer a pleasant environment in which to rest after a day full of excitement. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Other Facilities]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Disabled Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2184/32602184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2185/32602185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2186/32602186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2187/32602187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2188/32602188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2189/32602189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2190/32602190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2191/32602191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2192/32602192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2193/32602193.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376736101]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376736100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

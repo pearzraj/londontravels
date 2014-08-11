@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338426" resultcode="0" message="" >
+				<Name><![CDATA[VIA RONDINE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hipolito Irigoyen 797,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.791508</Latitude>
+					<Longitude>-68.29729</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and 24/24 Room-Service  We also have Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and 24/24 Room-Service  We also have Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3527/37113527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3528/37113528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3529/37113529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3530/37113530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3531/37113531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3532/37113532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3533/37113533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3534/37113534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3535/37113535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3536/37113536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3537/37113537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3538/37113538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3539/37113539.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3540/37113540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3541/37113541.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3542/37113542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3524/37113524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3525/37113525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3526/37113526.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4032 0295]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2901443842 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494277" resultcode="0" message="" >
+				<Name><![CDATA[VIBE HOTEL CARLTON ]]></Name>
+				<Address>
+					<Address1><![CDATA[  441 Royal Parade, Parkville, ]]></Address1>
+					<Address2><![CDATA[3052, Melbourne, Australia]]></Address2>
+					<PostalCode>3052</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.785492</Latitude>
+					<Longitude>144.94958</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7833/32607833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7834/32607834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7835/32607835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7836/32607836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7837/32607837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7838/32607838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7839/32607839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7840/32607840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7841/32607841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7842/32607842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7843/32607843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7844/32607844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7845/32607845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7846/32607846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7847/32607847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7848/32607848.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 3 9387 6846]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 3 9380 9222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495604" resultcode="0" message="" >
+				<Name><![CDATA[ACHAT PLAZA ZUM HIRSCHEN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Saint Julien Strasse, 21-23]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.810776</Latitude>
+					<Longitude>13.04129</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9849/32609849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9850/32609850.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9851/32609851.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9852/32609852.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9853/32609853.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9854/32609854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9855/32609855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9856/32609856.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9857/32609857.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9858/32609858.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9859/32609859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9846/32609846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9847/32609847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9848/32609848.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 8890358]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 889030 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

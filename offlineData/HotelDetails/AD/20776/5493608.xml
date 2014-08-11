@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493608" resultcode="0" message="" >
+				<Name><![CDATA[LAKE PLACID APARTAMENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[Plaza dels Vaquers,s/n]]></Address1>
+					<Address2><![CDATA[AD200, Pas De La Casa, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59331</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pas De La Casa]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.5412</Latitude>
+					<Longitude>1.73184</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. The following credits cards are accepted Visa, Euro/Mastercard and Master. Among the offers from the kitchen you will find Refrigerator, Microwave, Table/Chairs, Freezer, Toaster, Crockery and Coffee Machine Guests can rent a car from the hotel. Facilities include Heating. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The apartments have Independent Heating, TV, Pay-to-view TV , Lounge-Diner, Kitchen, American Kitchen, Coffee Machine, Refrigerator, Freezer, Microwave, Crockery, Table/Chairs, Hairdryer, Towels, Sheets and Blankets , and among our services and facilities available we have Lifts, Discotheque, Heating, Cot, Billiards and Bar Cafeteria . We also have Multilingual Personnel, Currency Exchange, Ski Room, Vehicle Rental, Tourist Information, Shops and Porter¿s Lodge. Credit Cards: Visa,  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. The following credits cards are accepted Visa, Euro/Mastercard and Master. Among the offers from the kitchen you will find Refrigerator, Microwave, Table/Chairs, Freezer, Toaster, Crockery and Coffee Machine Guests can rent a car from the hotel. Facilities include Heating. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The apartments have Independent Heating, TV, Pay-to-view TV , Lounge-Diner, Kitchen, American Kitchen, Coffee Machine, Refrigerator, Freezer, Microwave, Crockery, Table/Chairs, Hairdryer, Towels, Sheets and Blankets , and among our services and facilities available we have Lifts, Discotheque, Heating, Cot, Billiards and Bar Cafeteria . We also have Multilingual Personnel, Currency Exchange, Ski Room, Vehicle Rental, Tourist Information, Shops and Porter¿s Lodge. Credit Cards: Visa, Euro/Mastercard and Master.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bathrooms]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bar and Restaurants]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Apartment Security]]></Name>
+						<Description><![CDATA[Manual Lock]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Lounge-Diner]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Kitchen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Microwave]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Toaster]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Crockery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Hotplates]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Sheets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Eiderdowns]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Refrigerator]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Freezer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Table/Chairs]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[855330]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[855282 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

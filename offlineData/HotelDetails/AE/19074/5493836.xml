@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493836" resultcode="0" message="" >
+				<Name><![CDATA[JW MARRIOTT HOTEL DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Abu Baker AL Siddique Street, Adjacent to Hamarai,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.268953</Latitude>
+					<Longitude>55.329735</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3921/32603921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3922/32603922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3923/32603923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3924/32603924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3925/32603925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3926/32603926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3927/32603927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3928/32603928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3929/32603929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3930/32603930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3931/32603931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3932/32603932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3933/32603933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3934/32603934.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3935/32603935.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3919/32603919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3920/32603920.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 262 6264]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 262 4444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

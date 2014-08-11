@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PA">
+		<City id="7140"> 
+			<Name lang="EN">Bocas del Toro</Name>
+			<Region lang="EN">Bocas del Toro</Region>
+			<Destination lang="EN">Bocas del Toro, Bocas del Toro, Panama</Destination>
+		</City>
+		<City id="11690">
+			<Name lang="EN">Colon</Name>
+			<Region lang="EN">Colon</Region>
+			<Destination lang="EN">Colon, Colon, Panama</Destination>
+		</City>
+		<City id="13630">
+			<Name lang="EN">Farallon</Name>
+			<Region lang="EN">Farallon</Region>
+			<Destination lang="EN">Farallon, Farallon, Panama</Destination>
+		</City>
+		<City id="13322">
+			<Name lang="EN">Panama City</Name>
+			<Region lang="EN">Panama City</Region>
+			<Destination lang="EN">Panama City, Panama City, Panama</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

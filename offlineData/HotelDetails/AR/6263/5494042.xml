@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494042" resultcode="0" message="" >
+				<Name><![CDATA[ROOM MATE CARLOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Calle Adolfo Alsina  Piso 1 Centro,1112]]></Address1>
+					<Address2><![CDATA[1088, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1088</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.61086</Latitude>
+					<Longitude>-58.38203</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4380/37674380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4381/37674381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4382/37674382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4383/37674383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4384/37674384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4371/37674371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4372/37674372.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4373/37674373.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4374/37674374.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4375/37674375.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4376/37674376.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4377/37674377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4378/37674378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4379/37674379.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5300 08 01]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 5300 08 00 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

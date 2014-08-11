@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MC">
+		<City id="25678"> 
+			<Name lang="EN">Monaco</Name>
+			<Region lang="EN">Monaco</Region>
+			<Destination lang="EN">Monaco, Monaco, Monaco</Destination>
+		</City>
+		<City id="18254">
+			<Name lang="EN">Monte Carlo</Name>
+			<Region lang="EN">Monte Carlo</Region>
+			<Destination lang="EN">Monte Carlo, Monte Carlo, Monaco</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

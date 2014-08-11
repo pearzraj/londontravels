@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493736" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN DUBAI AL BARSHA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road near Mall of the Emirates,]]></Address1>
+					<Address2><![CDATA[115443, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>115443</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.264568</Latitude>
+					<Longitude>55.32526</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3299/32603299.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3300/32603300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3301/32603301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3302/32603302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3303/32603303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3304/32603304.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09774_12_8.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3305/32603305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3306/32603306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3307/32603307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3308/32603308.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 432 34334]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 432 34333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

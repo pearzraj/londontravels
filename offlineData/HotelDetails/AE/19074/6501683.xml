@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6501683" resultcode="0" message="" >
+				<Name><![CDATA[THE MEYDAN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Meydan Race Course, Al Meydan Road, Nad Al Sheba,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.143545</Latitude>
+					<Longitude>55.347534</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Added to the many attractions of DUBAI, are the comfortable facilities offered by this warm and welcoming hotel. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Added to the many attractions of DUBAI, are the comfortable facilities offered by this warm and welcoming hotel. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[City]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13303_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 381 3344]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 381 3333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

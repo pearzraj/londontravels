@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494238" resultcode="0" message="" >
+				<Name><![CDATA[LA POSADA DEL QENTI]]></Name>
+				<Address>
+					<Address1><![CDATA[  RUTA 14 KM 4,5,]]></Address1>
+					<Address2><![CDATA[5152, Villa Carlos Paz, Argentina]]></Address2>
+					<PostalCode>5152</PostalCode>
+					<CityCode>87169</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Villa Carlos Paz]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.498432</Latitude>
+					<Longitude>-64.56255</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7611/32607611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7612/32607612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7613/32607613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7614/32607614.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(03541) 495715/15400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

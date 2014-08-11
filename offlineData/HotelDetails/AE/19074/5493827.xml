@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493827" resultcode="0" message="" >
+				<Name><![CDATA[AVENUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Rigga Road,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3871/32603871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3872/32603872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3873/32603873.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3874/32603874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3875/32603875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3876/32603876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3877/32603877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3878/32603878.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53809_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 265 3925]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 297 0808 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

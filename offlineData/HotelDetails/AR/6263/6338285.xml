@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338285" resultcode="0" message="" >
+				<Name><![CDATA[ALMA DE PLATA BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  SANTIAGO DEL ESTERO 727,]]></Address1>
+					<Address2><![CDATA[C1075AAO, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1075AAO</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.616646</Latitude>
+					<Longitude>-58.38446</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Porters, Wi-Fi, Safe in Reception and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Porters, Wi-Fi, Safe in Reception and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2504/37112504.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2505/37112505.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2506/37112506.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2507/37112507.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2508/37112508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2509/37112509.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2496/37112496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2497/37112497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2498/37112498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2499/37112499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2500/37112500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2501/37112501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2502/37112502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2503/37112503.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1143830040 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

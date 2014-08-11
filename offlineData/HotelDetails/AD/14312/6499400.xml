@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499400" resultcode="0" message="" >
+				<Name><![CDATA[ELS MENERS APARTHOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Canillo, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59323</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Canillo]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.569653</Latitude>
+					<Longitude>1.605327</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The ELS MENERS APARTHOTEL, located in the city centre, are perfect for enjoying all the activities on offer in the city. Of particular note are the panoramic views of the mountain and of the garden. Amenities include Satellite / Cable TV  and Wi-Fi. We have Cot and High Chair for children. We also have Outdoor Summer Terrace. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The apartments have Independent Heating, TV, Satellite / Cable TV , Lounge-Diner, Kitchen, American Kitchen, Internet Connection and Wi-Fi , and among our services and facilities available we have Lifts, Outdoor Summer Terrace, Heating, Cot, High Chair and Bar Cafeteria . We also have Multilingual Personnel, Ski Room, Wi-Fi, Tourist Information and Garage. Credit Cards: Visa and Euro/Mastercard.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANMEN_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376751455]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376751454 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

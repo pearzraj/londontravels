@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339853" resultcode="0" message="" >
+				<Name><![CDATA[TUCUMAN CENTER HOTEL - SUITES AND BUSINESS]]></Name>
+				<Address>
+					<Address1><![CDATA[  25 DE MAYO N º230,]]></Address1>
+					<Address2><![CDATA[4000, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>4000</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.82802</Latitude>
+					<Longitude>-65.203835</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2981/37152981.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2982/37152982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2983/37152983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2984/37152984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2985/37152985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2986/37152986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2987/37152987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2988/37152988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2989/37152989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2978/37152978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2979/37152979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2980/37152980.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[5403814525555]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[5403814525555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493968" resultcode="0" message="" >
+				<Name><![CDATA[TERRAZAS AL MAR  PINAMAR RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV. DEL MAR Y DE LAS GAVIOTAS,]]></Address1>
+					<Address2><![CDATA[B7167ASO, Pinamar, Argentina]]></Address2>
+					<PostalCode>B7167ASO</PostalCode>
+					<CityCode>87103</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pinamar]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.115963</Latitude>
+					<Longitude>-56.85501</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4999/32604999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5000/32605000.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[02254 480 900 /NO]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

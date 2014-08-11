@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495716" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN VIENNA SOUTH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hertha-Firnberg-Strasse,5]]></Address1>
+					<Address2><![CDATA[1100, Vienna, Austria]]></Address2>
+					<PostalCode>1100</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.1663</Latitude>
+					<Longitude>16.345476</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04296_1_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9510/37259510.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9511/37259511.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9498/37259498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9499/37259499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9500/37259500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9501/37259501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9502/37259502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9503/37259503.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9504/37259504.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9505/37259505.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9506/37259506.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9507/37259507.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9508/37259508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9509/37259509.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 10 605 30 580]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 605 30 518 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

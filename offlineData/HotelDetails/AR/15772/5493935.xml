@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493935" resultcode="0" message="" >
+				<Name><![CDATA[NH CORDILLERA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Espana, 1324,]]></Address1>
+					<Address2><![CDATA[M5500DWN, Mendoza, Argentina]]></Address2>
+					<PostalCode>M5500DWN</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.89883</Latitude>
+					<Longitude>-68.82608</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4752/32604752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4735/32604735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4736/32604736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4737/32604737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4738/32604738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4739/32604739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4740/32604740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4741/32604741.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4742/32604742.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4743/32604743.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4744/32604744.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4745/32604745.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4746/32604746.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4747/32604747.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4748/32604748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4749/32604749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4750/32604750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4751/32604751.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 26 144 16450 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 26 144 16464 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

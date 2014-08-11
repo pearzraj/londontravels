@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494251" resultcode="0" message="" >
+				<Name><![CDATA[EDELWEISS]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Martin, ]]></Address1>
+					<Address2><![CDATA[8400, Bariloche, San Carlos De, Argentina]]></Address2>
+					<PostalCode>8400</PostalCode>
+					<CityCode>81655</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bariloche, San Carlos De]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-41.13438</Latitude>
+					<Longitude>-71.31329</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7736/32607736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7737/32607737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7738/32607738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7739/32607739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7740/32607740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7741/32607741.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7742/32607742.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7743/32607743.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7744/32607744.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7745/32607745.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7746/32607746.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7747/32607747.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7748/32607748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7749/32607749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7750/32607750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7751/32607751.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T45000/T45273_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7753/32607753.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7754/32607754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7755/32607755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7735/32607735.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541140320151]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[(54 2944) 445500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

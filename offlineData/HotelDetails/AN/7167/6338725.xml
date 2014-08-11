@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338725" resultcode="0" message="" >
+				<Name><![CDATA[DIVI FLAMINGO BEACH RESORT AND CASINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.A. Abraham Boulevard 40,]]></Address1>
+					<Address2><![CDATA[1, Bonaire, Netherlands Antilles]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>87395</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Bonaire]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.143714</Latitude>
+					<Longitude>-68.27574</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4530/37784530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4531/37784531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4516/37784516.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4517/37784517.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4518/37784518.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4519/37784519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4520/37784520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4521/37784521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4522/37784522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4523/37784523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4524/37784524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4525/37784525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4526/37784526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4527/37784527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4528/37784528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4529/37784529.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 599 717 8238 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 599 717 8285 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

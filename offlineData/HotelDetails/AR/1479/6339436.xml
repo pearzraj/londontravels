@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339436" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA LA POSADA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida de los Siete Lagos Km 64.5,]]></Address1>
+					<Address2><![CDATA[8407, Villa La Angostura, Argentina]]></Address2>
+					<PostalCode>8407</PostalCode>
+					<CityCode>83706</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Villa La Angostura]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-40.743996</Latitude>
+					<Longitude>-71.667854</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5018/37145018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5019/37145019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5020/37145020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5021/37145021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5022/37145022.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5023/37145023.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2944494450]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2944494450 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

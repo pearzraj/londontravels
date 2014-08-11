@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339966" resultcode="0" message="" >
+				<Name><![CDATA[JUMEIRA ROTANA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  2nd December Street, P.O Box 33640,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.237373</Latitude>
+					<Longitude>55.274258</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV  We also have .  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03675_11_1.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7469/37787469.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7470/37787470.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7471/37787471.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7472/37787472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7473/37787473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7474/37787474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7475/37787475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7476/37787476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7477/37787477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7478/37787478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7479/37787479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7480/37787480.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143458777]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097143455888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

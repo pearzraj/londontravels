@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493759" resultcode="0" message="" >
+				<Name><![CDATA[NOVOTEL WORLD TRADE CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Zabeel road 2nd, P.O. Box 9622,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.216906</Latitude>
+					<Longitude>55.302235</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service Activities and relax: Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service Activities and relax: Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3482/32603482.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3483/32603483.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3484/32603484.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3485/32603485.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26821_12_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3470/32603470.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3471/32603471.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3472/32603472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3473/32603473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3474/32603474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3475/32603475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3476/32603476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3477/32603477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3478/32603478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3479/32603479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3480/32603480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3481/32603481.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 318 7100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 318 7000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

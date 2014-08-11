@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6498391" resultcode="0" message="" >
+				<Name><![CDATA[IGLU HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  2.350 m altitud, GrandValira-Grau Roig,]]></Address1>
+					<Address2><![CDATA[AD200, Grau Roig, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59334</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Grau Roig]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.532417</Latitude>
+					<Longitude>1.7002186</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Located in the heart of the mountains, this hotel is the perfect place to spend the winter holidays skiing on some of the area¿s most popular slopes. Of particular note are the panoramic views of the ski slopes. It's 5 rooms offer the features and services needed to ensure that customers have a comfortable stay.  We offer Breakfast Service and Dinner Service. Customers can park their car free of charge in the external car park. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .  Activities and relax: Jacuzzi. Cuisine: . Pets not allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Located in the heart of the mountains, this hotel is the perfect place to spend the winter holidays skiing on some of the area¿s most popular slopes. Of particular note are the panoramic views of the ski slopes. It's 5 rooms offer the features and services needed to ensure that customers have a comfortable stay.  We offer Breakfast Service and Dinner Service. Customers can park their car free of charge in the external car park. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .  Activities and relax: Jacuzzi. Cuisine: . Pets not allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1800</CheckInTime>
+					<CheckOutTime>1000</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Skiing Slope]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets not allowed]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GRR000/GRRIGL_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376 80 10 50 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

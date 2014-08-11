@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339644" resultcode="0" message="" >
+				<Name><![CDATA[MANCHEBO BEACH RESORT AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  JE Irausquin Boulevard 55,]]></Address1>
+					<Address2><![CDATA[00001, Oranjestad, Aruba]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.540978</Latitude>
+					<Longitude>-70.062614</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Vehicle Rental, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Vehicle Rental, Shops, Safe in Reception and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6367/37146367.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6368/37146368.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6386/37146386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6369/37146369.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6370/37146370.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6371/37146371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6372/37146372.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6373/37146373.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6374/37146374.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6375/37146375.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6376/37146376.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6377/37146377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6378/37146378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6379/37146379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6380/37146380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6381/37146381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6382/37146382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6383/37146383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6384/37146384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6385/37146385.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 583 2446]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 582 3444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

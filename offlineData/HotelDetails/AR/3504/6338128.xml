@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338128" resultcode="0" message="" >
+				<Name><![CDATA[RINCON DE LOS SUEÑOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jorge Newbery 367,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.34457</Latitude>
+					<Longitude>-72.2741</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6688/37106688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6689/37106689.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6690/37106690.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6691/37106691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6692/37106692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6693/37106693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6694/37106694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6676/37106676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6677/37106677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6695/37106695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6696/37106696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6697/37106697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6698/37106698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6699/37106699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6678/37106678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6679/37106679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6680/37106680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6681/37106681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6682/37106682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6683/37106683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6684/37106684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6685/37106685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6686/37106686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6687/37106687.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2902 494106]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2902494102 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

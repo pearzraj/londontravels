@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495569" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sterneckstrasse,20]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.80869</Latitude>
+					<Longitude>13.05363</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna and Solarium. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna and Solarium. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9701/32609701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9702/32609702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9703/32609703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9704/32609704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9705/32609705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9706/32609706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9707/32609707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9708/32609708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9709/32609709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9710/32609710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9711/32609711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9712/32609712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9713/32609713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9714/32609714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9715/32609715.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0011 43 662 882 0319]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0011 43 662 882 0310 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

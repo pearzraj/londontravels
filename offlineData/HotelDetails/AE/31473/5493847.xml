@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493847" resultcode="0" message="" >
+				<Name><![CDATA[RAMADA HOTEL AND SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Khalifa Bin Zahed Rd,]]></Address1>
+					<Address2><![CDATA[31631, Ajman, United Arab Emirates]]></Address2>
+					<PostalCode>31631</PostalCode>
+					<CityCode>78894</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ajman]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.41285</Latitude>
+					<Longitude>55.434845</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4003/32604003.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4004/32604004.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4005/32604005.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4006/32604006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4007/32604007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4008/32604008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4009/32604009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4002/32604002.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09784_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09784_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09784_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09784_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971167403000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 67 03 1111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

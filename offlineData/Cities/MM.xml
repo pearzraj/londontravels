@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MM">
+		<City id="31185"> 
+			<Name lang="EN">Yangon</Name>
+			<Region lang="EN">Yangon</Region>
+			<Destination lang="EN">Yangon, Yangon, Myanmar</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493678" resultcode="0" message="" >
+				<Name><![CDATA[NORDIC HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Tarter, El, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59335</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tarter, El]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.57888</Latitude>
+					<Longitude>1.64994</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2904/32602904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2905/32602905.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GTA000/GTARNOR_12_1.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2907/32602907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2908/32602908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2909/32602909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2910/32602910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2911/32602911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2912/32602912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2913/32602913.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

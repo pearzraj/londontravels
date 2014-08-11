@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495670" resultcode="0" message="" >
+				<Name><![CDATA[STARLIGHT SUITEN AM HEUMARKT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Am Heumarkt,15]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.201477</Latitude>
+					<Longitude>16.380383</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E05000/E05666_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 710780811]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 7107808 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

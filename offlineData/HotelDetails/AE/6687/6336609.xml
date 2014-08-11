@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336609" resultcode="0" message="" >
+				<Name><![CDATA[SOFITEL ABU DHABI CORNICHE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Corniche Road East,  Capital Plaza Complex,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.466667</Latitude>
+					<Longitude>54.366665</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9227/37779227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9228/37779228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9229/37779229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9230/37779230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9231/37779231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9232/37779232.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13312_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13312_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13312_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E13000/E13312_1_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97128137799]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97128137777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

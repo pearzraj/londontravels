@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495698" resultcode="0" message="" >
+				<Name><![CDATA[ALLYOUNEED VIENNA 2]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Grosse Schiffgasse,12]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.21674</Latitude>
+					<Longitude>16.3756</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60762_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60762_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60762_1_13.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9417/37259417.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9418/37259418.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9419/37259419.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9420/37259420.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9421/37259421.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9422/37259422.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9423/37259423.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9424/37259424.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60762_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60762_1_12.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 2183471]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 2121668 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333060" resultcode="0" message="" >
+				<Name><![CDATA[XALET BRINGUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  CRTA. DEL SERRAT N3,]]></Address1>
+					<Address2><![CDATA[AD300, Serrat, El, Andorra]]></Address2>
+					<PostalCode>AD300</PostalCode>
+					<CityCode>63941</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Serrat, El]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.618732</Latitude>
+					<Longitude>1.539288</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Room-Service We also have Vehicle Rental, Wi-Fi and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Room-Service We also have Vehicle Rental, Wi-Fi and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4936/37744936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4937/37744937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4938/37744938.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4939/37744939.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4940/37744940.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4941/37744941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4942/37744942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4943/37744943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4944/37744944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4945/37744945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4946/37744946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4947/37744947.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4948/37744948.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4949/37744949.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4950/37744950.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4951/37744951.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4933/37744933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4934/37744934.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4935/37744935.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376736999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

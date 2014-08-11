@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335293" resultcode="0" message="" >
+				<Name><![CDATA[BLANCA PATAGONIA - HOSTERIA BOUTIQUE Y CABANAS]]></Name>
+				<Address>
+					<Address1><![CDATA[   P N Los Glaciares,  Capitán Soto,149]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.337</Latitude>
+					<Longitude>-72.30909</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Wi-Fi.  Activities and relax: Bicycles. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating and Laundry Service We also have Wi-Fi.  Activities and relax: Bicycles. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Activities]]></Name>
+						<Description><![CDATA[Bicycles]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9399/37759399.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9400/37759400.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9401/37759401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9402/37759402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9403/37759403.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9404/37759404.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9405/37759405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9406/37759406.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42836_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9390/37759390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9391/37759391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9392/37759392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9393/37759393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9394/37759394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9395/37759395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9396/37759396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9397/37759397.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9398/37759398.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[542902493846]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00542902493370 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

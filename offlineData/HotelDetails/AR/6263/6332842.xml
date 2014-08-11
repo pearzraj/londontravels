@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332842" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE ART MADERO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Chile 80 - Puerto Madero,]]></Address1>
+					<Address2><![CDATA[1201, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1201</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.609142</Latitude>
+					<Longitude>-58.372437</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8754/37098754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8755/37098755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8756/37098756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8757/37098757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8758/37098758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8759/37098759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8760/37098760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8761/37098761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8762/37098762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8763/37098763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8764/37098764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8765/37098765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8766/37098766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8767/37098767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8768/37098768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8769/37098769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8770/37098770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8771/37098771.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541167770370]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541143311751 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

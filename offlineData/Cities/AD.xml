@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AD">
+		<City id="6420"> 
+			<Name lang="EN">Andorra La Vella</Name>
+			<Region lang="EN">Andorra La Vella</Region>
+			<Destination lang="EN">Andorra La Vella, Andorra La Vella, Andorra</Destination>
+		</City>
+		<City id="20247">
+			<Name lang="EN">Anyos</Name>
+			<Region lang="EN">Anyos</Region>
+			<Destination lang="EN">Anyos, Anyos, Andorra</Destination>
+		</City>
+		<City id="31932">
+			<Name lang="EN">Arinsal</Name>
+			<Region lang="EN">Arinsal</Region>
+			<Destination lang="EN">Arinsal, Arinsal, Andorra</Destination>
+		</City>
+		<City id="14312">
+			<Name lang="EN">Canillo</Name>
+			<Region lang="EN">Canillo</Region>
+			<Destination lang="EN">Canillo, Canillo, Andorra</Destination>
+		</City>
+		<City id="14457">
+			<Name lang="EN">El Serrat</Name>
+			<Region lang="EN">El Serrat</Region>
+			<Destination lang="EN">El Serrat, El Serrat, Andorra</Destination>
+		</City>
+		<City id="9664">
+			<Name lang="EN">El Tarter</Name>
+			<Region lang="EN">El Tarter</Region>
+			<Destination lang="EN">El Tarter, El Tarter, Andorra</Destination>
+		</City>
+		<City id="10399">
+			<Name lang="EN">Encamp</Name>
+			<Region lang="EN">Encamp</Region>
+			<Destination lang="EN">Encamp, Encamp, Andorra</Destination>
+		</City>
+		<City id="11966">
+			<Name lang="EN">Escaldes</Name>
+			<Region lang="EN">Escaldes</Region>
+			<Destination lang="EN">Escaldes, Escaldes, Andorra</Destination>
+		</City>
+		<City id="19797">
+			<Name lang="EN">Grau Roig</Name>
+			<Region lang="EN">Grau Roig</Region>
+			<Destination lang="EN">Grau Roig, Grau Roig, Andorra</Destination>
+		</City>
+		<City id="15056">
+			<Name lang="EN">La Cortinada</Name>
+			<Region lang="EN">La Cortinada</Region>
+			<Destination lang="EN">La Cortinada, La Cortinada, Andorra</Destination>
+		</City>
+		<City id="16025">
+			<Name lang="EN">La Massana</Name>
+			<Region lang="EN">La Massana</Region>
+			<Destination lang="EN">La Massana, La Massana, Andorra</Destination>
+		</City>
+		<City id="13888">
+			<Name lang="EN">Ordino</Name>
+			<Region lang="EN">Ordino</Region>
+			<Destination lang="EN">Ordino, Ordino, Andorra</Destination>
+		</City>
+		<City id="20776">
+			<Name lang="EN">Pas de la Casa</Name>
+			<Region lang="EN">Pas de la Casa</Region>
+			<Destination lang="EN">Pas de la Casa, Pas de la Casa, Andorra</Destination>
+		</City>
+		<City id="30321">
+			<Name lang="EN">Ransol</Name>
+			<Region lang="EN">Ransol</Region>
+			<Destination lang="EN">Ransol, Ransol, Andorra</Destination>
+		</City>
+		<City id="6186">
+			<Name lang="EN">Sant Julia de Loria</Name>
+			<Region lang="EN">Sant Julia de Loria</Region>
+			<Destination lang="EN">Sant Julia de Loria, Sant Julia de Loria, Andorra</Destination>
+		</City>
+		<City id="17397">
+			<Name lang="EN">Sispony</Name>
+			<Region lang="EN">Sispony</Region>
+			<Destination lang="EN">Sispony, Sispony, Andorra</Destination>
+		</City>
+		<City id="5365">
+			<Name lang="EN">Soldeu</Name>
+			<Region lang="EN">Soldeu</Region>
+			<Destination lang="EN">Soldeu, Soldeu, Andorra</Destination>
+		</City>
+		<City id="626">
+			<Name lang="EN">Vall d'Incles</Name>
+			<Region lang="EN">Vall d'Incles</Region>
+			<Destination lang="EN">Vall d'Incles, Vall d'Incles, Andorra</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

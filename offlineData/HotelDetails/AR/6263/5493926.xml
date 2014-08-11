@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493926" resultcode="0" message="" >
+				<Name><![CDATA[EL CONQUISTADOR HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Suipacha 948,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.596672</Latitude>
+					<Longitude>-58.379814</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4671/32604671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4672/32604672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4653/32604653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4654/32604654.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4673/32604673.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4674/32604674.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4675/32604675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4676/32604676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4677/32604677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4678/32604678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4655/32604655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4656/32604656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4657/32604657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4658/32604658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4659/32604659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4660/32604660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4661/32604661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4662/32604662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4663/32604663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4664/32604664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4665/32604665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4666/32604666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4667/32604667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4668/32604668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4669/32604669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4670/32604670.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4328 3252]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4328 3012 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

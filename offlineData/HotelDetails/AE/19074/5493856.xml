@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493856" resultcode="0" message="" >
+				<Name><![CDATA[THE ADDRESS DOWNTOWN BURJ DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  P. O. Box 123234, Emaar Boulevard, Downtown Dubai,]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.280401</Latitude>
+					<Longitude>55.316162</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Spa and Sauna. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Spa and Sauna. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4043/32604043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4044/32604044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4045/32604045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4046/32604046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4039/32604039.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4040/32604040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4041/32604041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4042/32604042.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09761_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09761_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09761_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09761_1_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 44 23 88 00]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 4368888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

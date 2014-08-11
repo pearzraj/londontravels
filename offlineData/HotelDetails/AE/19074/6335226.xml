@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335226" resultcode="0" message="" >
+				<Name><![CDATA[REGAL PLAZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.O.BOX 55808,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.27114</Latitude>
+					<Longitude>55.307484</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E02000/E02027_12_11.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 3556633 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

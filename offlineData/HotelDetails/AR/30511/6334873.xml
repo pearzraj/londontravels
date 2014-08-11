@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334873" resultcode="0" message="" >
+				<Name><![CDATA[PLAZA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[   Baron De Maua 26,]]></Address1>
+					<Address2><![CDATA[2000, Rosario, Argentina]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.9502</Latitude>
+					<Longitude>-60.6384</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7408/37157408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7409/37157409.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7410/37157410.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7411/37157411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7412/37157412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7413/37157413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7414/37157414.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7415/37157415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7416/37157416.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7417/37157417.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 3414217733]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 3414217733 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

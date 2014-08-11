@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SD">
+		<City id="8134"> 
+			<Name lang="EN">Khartoum</Name>
+			<Region lang="EN">Khartoum</Region>
+			<Destination lang="EN">Khartoum, Khartoum, Sudan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

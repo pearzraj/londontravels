@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SA">
+		<City id="31499"> 
+			<Name lang="EN">Al Khobar</Name>
+			<Region lang="EN">Al Khobar</Region>
+			<Destination lang="EN">Al Khobar, Al Khobar, Saudi Arabia</Destination>
+		</City>
+		<City id="17533">
+			<Name lang="EN">Jeddah</Name>
+			<Region lang="EN">Jeddah</Region>
+			<Destination lang="EN">Jeddah, Jeddah, Saudi Arabia</Destination>
+		</City>
+		<City id="15530">
+			<Name lang="EN">Madinah</Name>
+			<Region lang="EN">Madinah</Region>
+			<Destination lang="EN">Madinah, Madinah, Saudi Arabia</Destination>
+		</City>
+		<City id="22153">
+			<Name lang="EN">Makkah</Name>
+			<Region lang="EN">Makkah</Region>
+			<Destination lang="EN">Makkah, Makkah, Saudi Arabia</Destination>
+		</City>
+		<City id="30455">
+			<Name lang="EN">Riyadh</Name>
+			<Region lang="EN">Riyadh</Region>
+			<Destination lang="EN">Riyadh, Riyadh, Saudi Arabia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

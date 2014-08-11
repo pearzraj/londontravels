@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495757" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL CONTINENTAL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Mariahilfer Strasse 50/Kirchengasse 1., ]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.199352</Latitude>
+					<Longitude>16.352835</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4018/37664018.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4019/37664019.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4020/37664020.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4021/37664021.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4010/37664010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4011/37664011.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4012/37664012.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4013/37664013.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4014/37664014.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4015/37664015.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4016/37664016.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4017/37664017.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T45000/T45299_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T45000/T45299_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 15 23 26 30]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 43 15 232418]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335074" resultcode="0" message="" >
+				<Name><![CDATA[STEIGENBERGER HOTEL HERRENHOF WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Herrengasse 10,]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20976</Latitude>
+					<Longitude>16.365788</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Facilities include Air Conditioning. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer and Minibar We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Facilities include Air Conditioning. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer and Minibar We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8681/37758681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8682/37758682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8683/37758683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8684/37758684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8685/37758685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8686/37758686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1988/37301988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8670/37758670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8671/37758671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8672/37758672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8673/37758673.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8674/37758674.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8675/37758675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8676/37758676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8677/37758677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8678/37758678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8679/37758679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8680/37758680.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 53404 155]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 53404 0]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

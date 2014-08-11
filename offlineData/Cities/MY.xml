@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MY">
+		<City id="32486"> 
+			<Name lang="EN">Batu Ferringhi</Name>
+			<Region lang="EN">Batu Ferringhi</Region>
+			<Destination lang="EN">Batu Ferringhi, Batu Ferringhi, Malaysia</Destination>
+		</City>
+		<City id="33190">
+			<Name lang="EN">Cameron Highlands</Name>
+			<Region lang="EN">Cameron Highlands</Region>
+			<Destination lang="EN">Cameron Highlands, Cameron Highlands, Malaysia</Destination>
+		</City>
+		<City id="18846">
+			<Name lang="EN">Cherating</Name>
+			<Region lang="EN">Cherating</Region>
+			<Destination lang="EN">Cherating, Cherating, Malaysia</Destination>
+		</City>
+		<City id="23373">
+			<Name lang="EN">Damai Laut</Name>
+			<Region lang="EN">Damai Laut</Region>
+			<Destination lang="EN">Damai Laut, Damai Laut, Malaysia</Destination>
+		</City>
+		<City id="15113">
+			<Name lang="EN">Ipoh</Name>
+			<Region lang="EN">Ipoh</Region>
+			<Destination lang="EN">Ipoh, Ipoh, Malaysia</Destination>
+		</City>
+		<City id="17551">
+			<Name lang="EN">Johor Bahru</Name>
+			<Region lang="EN">Johor Bahru</Region>
+			<Destination lang="EN">Johor Bahru, Johor Bahru, Malaysia</Destination>
+		</City>
+		<City id="9344">
+			<Name lang="EN">Kota Kinabalu</Name>
+			<Region lang="EN">Kota Kinabalu</Region>
+			<Destination lang="EN">Kota Kinabalu, Kota Kinabalu, Malaysia</Destination>
+		</City>
+		<City id="9378">
+			<Name lang="EN">Kuala Lumpur</Name>
+			<Region lang="EN">Kuala Lumpur</Region>
+			<Destination lang="EN">Kuala Lumpur, Kuala Lumpur, Malaysia</Destination>
+		</City>
+		<City id="9380">
+			<Name lang="EN">Kuantan</Name>
+			<Region lang="EN">Kuantan</Region>
+			<Destination lang="EN">Kuantan, Kuantan, Malaysia</Destination>
+		</City>
+		<City id="9382">
+			<Name lang="EN">Kuching</Name>
+			<Region lang="EN">Kuching</Region>
+			<Destination lang="EN">Kuching, Kuching, Malaysia</Destination>
+		</City>
+		<City id="30219">
+			<Name lang="EN">Langkawi</Name>
+			<Region lang="EN">Langkawi</Region>
+			<Destination lang="EN">Langkawi, Langkawi, Malaysia</Destination>
+		</City>
+		<City id="12680">
+			<Name lang="EN">Malacca</Name>
+			<Region lang="EN">Malacca</Region>
+			<Destination lang="EN">Malacca, Malacca, Malaysia</Destination>
+		</City>
+		<City id="29435">
+			<Name lang="EN">Penang</Name>
+			<Region lang="EN">Penang</Region>
+			<Destination lang="EN">Penang, Penang, Malaysia</Destination>
+		</City>
+		<City id="5027">
+			<Name lang="EN">Selangor</Name>
+			<Region lang="EN">Selangor</Region>
+			<Destination lang="EN">Selangor, Selangor, Malaysia</Destination>
+		</City>
+		<City id="11207">
+			<Name lang="EN">Shah Alam</Name>
+			<Region lang="EN">Shah Alam</Region>
+			<Destination lang="EN">Shah Alam, Shah Alam, Malaysia</Destination>
+		</City>
+		<City id="29556">
+			<Name lang="EN">Tioman</Name>
+			<Region lang="EN">Tioman</Region>
+			<Destination lang="EN">Tioman, Tioman, Malaysia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

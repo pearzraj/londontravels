@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495721" resultcode="0" message="" >
+				<Name><![CDATA[CENTRAL HOTEL INNSBRUCK]]></Name>
+				<Address>
+					<Address1><![CDATA[  Gilmstrasse,5]]></Address1>
+					<Address2><![CDATA[6020, Innsbruck, Austria]]></Address2>
+					<PostalCode>6020</PostalCode>
+					<CityCode>64880</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Innsbruck]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.266045</Latitude>
+					<Longitude>11.395977</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Minibar and Radio  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Minibar and Radio  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9548/37259548.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9549/37259549.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9550/37259550.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9551/37259551.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9552/37259552.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9553/37259553.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9554/37259554.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9533/37259533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9534/37259534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9535/37259535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9536/37259536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9537/37259537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9555/37259555.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9556/37259556.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9557/37259557.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9558/37259558.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9559/37259559.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9560/37259560.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9561/37259561.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9562/37259562.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9538/37259538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9539/37259539.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9540/37259540.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9541/37259541.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9542/37259542.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9543/37259543.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9544/37259544.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9545/37259545.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9546/37259546.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9547/37259547.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043-512-580310]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043-512-5920 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

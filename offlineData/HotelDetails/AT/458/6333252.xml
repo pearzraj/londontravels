@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333252" resultcode="0" message="" >
+				<Name><![CDATA[TREND MESSE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Messestrasse,2]]></Address1>
+					<Address2><![CDATA[1020, Vienna, Austria]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.215675</Latitude>
+					<Longitude>16.404974</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6702/37116702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6703/37116703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6704/37116704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6705/37116705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6706/37116706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6707/37116707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6708/37116708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6709/37116709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6710/37116710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6711/37116711.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6712/37116712.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6713/37116713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6714/37116714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6715/37116715.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 727 27 100]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 727 270 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

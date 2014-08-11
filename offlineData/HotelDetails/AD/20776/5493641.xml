@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493641" resultcode="0" message="" >
+				<Name><![CDATA[CONFORT HOTEL, EL PAS]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Catalunya,25]]></Address1>
+					<Address2><![CDATA[AD200, Pas De La Casa, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59331</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pas De La Casa]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.5347</Latitude>
+					<Longitude>1.580115</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Given its city-centre location, the CONFORT HOTEL, EL PAS is the perfect starting point for a visit to PAS DE LA CASA. It's  rooms offer the features and services needed to ensure that customers have a comfortable stay.  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Given its city-centre location, the CONFORT HOTEL, EL PAS is the perfect starting point for a visit to PAS DE LA CASA. It's  rooms offer the features and services needed to ensure that customers have a comfortable stay.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2488/32602488.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2489/32602489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2490/32602490.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2491/32602491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2492/32602492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2493/32602493.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376855662]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376856664 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

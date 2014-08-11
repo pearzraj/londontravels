@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493894" resultcode="0" message="" >
+				<Name><![CDATA[ESPLENDOR PALERMO SOHO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Guatamala 4931,]]></Address1>
+					<Address2><![CDATA[C1425BUQ, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1425BUQ</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.585102</Latitude>
+					<Longitude>-58.426495</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4318/32604318.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4319/32604319.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4320/32604320.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4307/32604307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4308/32604308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4309/32604309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4310/32604310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4311/32604311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4312/32604312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4313/32604313.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4314/32604314.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4315/32604315.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4316/32604316.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4317/32604317.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[54 11 5217 5701]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4138 7000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

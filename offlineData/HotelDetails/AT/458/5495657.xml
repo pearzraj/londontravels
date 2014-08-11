@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495657" resultcode="0" message="" >
+				<Name><![CDATA[INTERCITY HOTEL WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Mariahilfer Strasse,122]]></Address1>
+					<Address2><![CDATA[1070, Vienna, Austria]]></Address2>
+					<PostalCode>1070</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.2013</Latitude>
+					<Longitude>16.35982</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Hairdryer, Minibar and Radio  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Satellite / Cable TV , Hairdryer, Minibar and Radio  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9189/37259189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9190/37259190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9191/37259191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9192/37259192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9193/37259193.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9194/37259194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9195/37259195.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9196/37259196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9197/37259197.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9198/37259198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9199/37259199.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9200/37259200.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9201/37259201.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9202/37259202.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9203/37259203.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9204/37259204.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9205/37259205.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9206/37259206.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 52585 111]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 525 850 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

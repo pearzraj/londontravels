@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494555" resultcode="0" message="" >
+				<Name><![CDATA[INTERCONTINENTAL ADELAIDE]]></Name>
+				<Address>
+					<Address1><![CDATA[  North Terrace Adelaide, South Australia 5000,]]></Address1>
+					<Address2><![CDATA[Adelaid, Adelaide, Australia]]></Address2>
+					<PostalCode>Adelaid</PostalCode>
+					<CityCode>81508</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Adelaide]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.9214</Latitude>
+					<Longitude>138.60129</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

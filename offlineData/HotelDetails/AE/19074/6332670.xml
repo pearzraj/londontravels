@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332670" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA HOTEL DUBAI - FESTIVAL CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dubai Festival City,po Box 45777,]]></Address1>
+					<Address2><![CDATA[00000, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.226503</Latitude>
+					<Longitude>55.35022</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7582/37097582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7583/37097583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7584/37097584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7585/37097585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7586/37097586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7587/37097587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7588/37097588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7589/37097589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7590/37097590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7591/37097591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7592/37097592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7593/37097593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7594/37097594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7595/37097595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7596/37097596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7597/37097597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7598/37097598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7599/37097599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7600/37097600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7601/37097601.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_65.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_28.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_28.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_46.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_51.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_65.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_46.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_51.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_27.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E01000/E01995_1_23.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971042329097]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971047012222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

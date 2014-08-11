@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337148" resultcode="0" message="" >
+				<Name><![CDATA[HOSTEL INN BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Humberto Primo 820,]]></Address1>
+					<Address2><![CDATA[1103, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1103</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.62089</Latitude>
+					<Longitude>-58.377502</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[1]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have Currency Exchange.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have Currency Exchange.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7135/37147135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7136/37147136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7137/37147137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7138/37147138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7139/37147139.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7140/37147140.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 43007993]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 43007992 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

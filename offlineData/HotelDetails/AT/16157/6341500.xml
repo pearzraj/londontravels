@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341500" resultcode="0" message="" >
+				<Name><![CDATA[AO GRAZ HAUPTBAHNHOF]]></Name>
+				<Address>
+					<Address1><![CDATA[  Eggenberger Strasse 7, Osterreich,]]></Address1>
+					<Address2><![CDATA[8020, Graz, Austria]]></Address2>
+					<PostalCode>8020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.07022</Latitude>
+					<Longitude>15.41573</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7800/37127800.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7801/37127801.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7802/37127802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7803/37127803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7804/37127804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7795/37127795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7796/37127796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7797/37127797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7798/37127798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7799/37127799.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0049030809475190]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00490308094751110 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

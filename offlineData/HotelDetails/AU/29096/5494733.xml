@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494733" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA GOLD TOWER SURFERS PARADISE]]></Name>
+				<Address>
+					<Address1><![CDATA[  2809 Gold Coast Highway Surfers Paradise, Queensl,]]></Address1>
+					<Address2><![CDATA[Surfers, Surfers Paradise, Australia]]></Address2>
+					<PostalCode>Surfers</PostalCode>
+					<CityCode>86392</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Surfers Paradise]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-28.017464</Latitude>
+					<Longitude>153.42932</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

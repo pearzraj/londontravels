@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338657" resultcode="0" message="" >
+				<Name><![CDATA[UNIQUE EXECUTIVE CHATEAU]]></Name>
+				<Address>
+					<Address1><![CDATA[  Talcahuano 1253,]]></Address1>
+					<Address2><![CDATA[1201, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1201</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59357</Latitude>
+					<Longitude>-58.385975</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4168/37784168.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4169/37784169.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4170/37784170.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4171/37784171.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4172/37784172.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4173/37784173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4157/37784157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4158/37784158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4159/37784159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4160/37784160.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4161/37784161.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4162/37784162.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4163/37784163.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4164/37784164.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4165/37784165.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4166/37784166.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4167/37784167.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4156/37784156.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 6777 0330]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 6777 0400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493778" resultcode="0" message="" >
+				<Name><![CDATA[YORK INTERNATIONAL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Khalid Bin Waleed Road P.o. Box 82555, ]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.271263</Latitude>
+					<Longitude>55.328995</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.  Activities and relax: Jacuzzi, Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3604/32603604.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3605/32603605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3606/32603606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3607/32603607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3608/32603608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3609/32603609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3610/32603610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3595/32603595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3596/32603596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3597/32603597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3598/32603598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3599/32603599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3611/32603611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3600/32603600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3601/32603601.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3602/32603602.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3603/32603603.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+9714 355 4499]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+97 14 355 5500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

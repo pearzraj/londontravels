@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AR">
+		<City id="10595"> 
+			<Name lang="EN">Bahia Blanca</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Bahia Blanca, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="6263">
+			<Name lang="EN">Buenos Aires</Name>
+			<Region lang="EN">Autonomous City</Region>
+			<Destination lang="EN">Buenos Aires, Autonomous City, Argentina</Destination>
+		</City>
+		<City id="6486">
+			<Name lang="EN">Catamarca</Name>
+			<Region lang="EN">Catamarca</Region>
+			<Destination lang="EN">Catamarca, Catamarca, Argentina</Destination>
+		</City>
+		<City id="18273">
+			<Name lang="EN">Chacras de Coria</Name>
+			<Region lang="EN">Mendoza</Region>
+			<Destination lang="EN">Chacras de Coria, Mendoza, Argentina</Destination>
+		</City>
+		<City id="11697">
+			<Name lang="EN">Comodoro Rivadavia</Name>
+			<Region lang="EN">Chubut</Region>
+			<Destination lang="EN">Comodoro Rivadavia, Chubut, Argentina</Destination>
+		</City>
+		<City id="11708">
+			<Name lang="EN">Concordia</Name>
+			<Region lang="EN">Entre Rios</Region>
+			<Destination lang="EN">Concordia, Entre Rios, Argentina</Destination>
+		</City>
+		<City id="16842">
+			<Name lang="EN">Cordoba</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Cordoba, Cordoba, Argentina</Destination>
+		</City>
+		<City id="7405">
+			<Name lang="EN">Corrientes</Name>
+			<Region lang="EN">Corrientes</Region>
+			<Destination lang="EN">Corrientes, Corrientes, Argentina</Destination>
+		</City>
+		<City id="3504">
+			<Name lang="EN">El Calafate</Name>
+			<Region lang="EN">Santa Cruz</Region>
+			<Destination lang="EN">El Calafate, Santa Cruz, Argentina</Destination>
+		</City>
+		<City id="9635">
+			<Name lang="EN">El Chalten</Name>
+			<Region lang="EN">Santa Cruz</Region>
+			<Destination lang="EN">El Chalten, Santa Cruz, Argentina</Destination>
+		</City>
+		<City id="3682">
+			<Name lang="EN">Esquel</Name>
+			<Region lang="EN">Chubut</Region>
+			<Destination lang="EN">Esquel, Chubut, Argentina</Destination>
+		</City>
+		<City id="12473">
+			<Name lang="EN">Iguazu</Name>
+			<Region lang="EN">Misiones</Region>
+			<Destination lang="EN">Iguazu, Misiones, Argentina</Destination>
+		</City>
+		<City id="9929">
+			<Name lang="EN">La Plata</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">La Plata, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="9932">
+			<Name lang="EN">La Rioja</Name>
+			<Region lang="EN">La Rioja</Region>
+			<Destination lang="EN">La Rioja, La Rioja, Argentina</Destination>
+		</City>
+		<City id="33470">
+			<Name lang="EN">Los Cocos</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Los Cocos, Cordoba, Argentina</Destination>
+		</City>
+		<City id="33521">
+			<Name lang="EN">Mar de Ajo</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Mar de Ajo, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="13735">
+			<Name lang="EN">Mar del Plata</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Mar del Plata, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="15772">
+			<Name lang="EN">Mendoza</Name>
+			<Region lang="EN">Mendoza</Region>
+			<Destination lang="EN">Mendoza, Mendoza, Argentina</Destination>
+		</City>
+		<City id="33596">
+			<Name lang="EN">Mina Clavero</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Mina Clavero, Cordoba, Argentina</Destination>
+		</City>
+		<City id="27445">
+			<Name lang="EN">Parana</Name>
+			<Region lang="EN">Entre Rios</Region>
+			<Destination lang="EN">Parana, Entre Rios, Argentina</Destination>
+		</City>
+		<City id="24248">
+			<Name lang="EN">Pilar</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Pilar, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="24255">
+			<Name lang="EN">Pinamar</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Pinamar, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="29934">
+			<Name lang="EN">Posadas</Name>
+			<Region lang="EN">Misiones</Region>
+			<Destination lang="EN">Posadas, Misiones, Argentina</Destination>
+		</City>
+		<City id="25782">
+			<Name lang="EN">Puerto Iguazu</Name>
+			<Region lang="EN">Misiones</Region>
+			<Destination lang="EN">Puerto Iguazu, Misiones, Argentina</Destination>
+		</City>
+		<City id="30090">
+			<Name lang="EN">Puerto Madryn</Name>
+			<Region lang="EN">Chubut</Region>
+			<Destination lang="EN">Puerto Madryn, Chubut, Argentina</Destination>
+		</City>
+		<City id="13324">
+			<Name lang="EN">Purmamarca</Name>
+			<Region lang="EN">Jujuy (Provincia)</Region>
+			<Destination lang="EN">Purmamarca, Jujuy (Provincia), Argentina</Destination>
+		</City>
+		<City id="23551">
+			<Name lang="EN">Ramallo</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Ramallo, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="1581">
+			<Name lang="EN">Resistencia</Name>
+			<Region lang="EN">Chaco</Region>
+			<Destination lang="EN">Resistencia, Chaco, Argentina</Destination>
+		</City>
+		<City id="33948">
+			<Name lang="EN">Rio Ceballos</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Rio Ceballos, Cordoba, Argentina</Destination>
+		</City>
+		<City id="30431">
+			<Name lang="EN">Rio Cuarto</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Rio Cuarto, Cordoba, Argentina</Destination>
+		</City>
+		<City id="30511">
+			<Name lang="EN">Rosario</Name>
+			<Region lang="EN">Santa Fe</Region>
+			<Destination lang="EN">Rosario, Santa Fe, Argentina</Destination>
+		</City>
+		<City id="5508">
+			<Name lang="EN">Salta</Name>
+			<Region lang="EN">Salta</Region>
+			<Destination lang="EN">Salta, Salta, Argentina</Destination>
+		</City>
+		<City id="30658">
+			<Name lang="EN">San Carlos de Bariloche</Name>
+			<Region lang="EN">Rio Negro</Region>
+			<Destination lang="EN">San Carlos de Bariloche, Rio Negro, Argentina</Destination>
+		</City>
+		<City id="34050">
+			<Name lang="EN">San Isidro</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">San Isidro, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="30670">
+			<Name lang="EN">San Juan</Name>
+			<Region lang="EN">San Juan</Region>
+			<Destination lang="EN">San Juan, San Juan, Argentina</Destination>
+		</City>
+		<City id="30678">
+			<Name lang="EN">San Luis</Name>
+			<Region lang="EN">San Luis</Region>
+			<Destination lang="EN">San Luis, San Luis, Argentina</Destination>
+		</City>
+		<City id="30685">
+			<Name lang="EN">San Martin de los Andes</Name>
+			<Region lang="EN">Neuquen</Region>
+			<Destination lang="EN">San Martin de los Andes, Neuquen, Argentina</Destination>
+		</City>
+		<City id="6057">
+			<Name lang="EN">San Miguel de Tucuman</Name>
+			<Region lang="EN">Tucuman</Region>
+			<Destination lang="EN">San Miguel de Tucuman, Tucuman, Argentina</Destination>
+		</City>
+		<City id="30699">
+			<Name lang="EN">San Rafael</Name>
+			<Region lang="EN">Mendoza</Region>
+			<Destination lang="EN">San Rafael, Mendoza, Argentina</Destination>
+		</City>
+		<City id="6097">
+			<Name lang="EN">San Salvador de Jujuy</Name>
+			<Region lang="EN">Jujuy (Provincia)</Region>
+			<Destination lang="EN">San Salvador de Jujuy, Jujuy (Provincia), Argentina</Destination>
+		</City>
+		<City id="8021">
+			<Name lang="EN">Santa Fe</Name>
+			<Region lang="EN">Santa Fe</Region>
+			<Destination lang="EN">Santa Fe, Santa Fe, Argentina</Destination>
+		</City>
+		<City id="8055">
+			<Name lang="EN">Santiago del Estero</Name>
+			<Region lang="EN">Santiago del Estero</Region>
+			<Destination lang="EN">Santiago del Estero, Santiago del Estero, Argentina</Destination>
+		</City>
+		<City id="34200">
+			<Name lang="EN">Tafi del Valle</Name>
+			<Region lang="EN">Tucuman</Region>
+			<Destination lang="EN">Tafi del Valle, Tucuman, Argentina</Destination>
+		</City>
+		<City id="26746">
+			<Name lang="EN">Tigre</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Tigre, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="34252">
+			<Name lang="EN">Tilcara</Name>
+			<Region lang="EN">Jujuy (Provincia)</Region>
+			<Destination lang="EN">Tilcara, Jujuy (Provincia), Argentina</Destination>
+		</City>
+		<City id="656">
+			<Name lang="EN">Trelew</Name>
+			<Region lang="EN">Chubut</Region>
+			<Destination lang="EN">Trelew, Chubut, Argentina</Destination>
+		</City>
+		<City id="30812">
+			<Name lang="EN">Ushuaia</Name>
+			<Region lang="EN">Tierra del Fuego</Region>
+			<Destination lang="EN">Ushuaia, Tierra del Fuego, Argentina</Destination>
+		</City>
+		<City id="1181">
+			<Name lang="EN">Vicente Lopez</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Vicente Lopez, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="34315">
+			<Name lang="EN">Victoria</Name>
+			<Region lang="EN">Entre Rios</Region>
+			<Destination lang="EN">Victoria, Entre Rios, Argentina</Destination>
+		</City>
+		<City id="34325">
+			<Name lang="EN">Villa Carlos Paz</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">Villa Carlos Paz, Cordoba, Argentina</Destination>
+		</City>
+		<City id="26981">
+			<Name lang="EN">VIlla General Belgrano</Name>
+			<Region lang="EN">Cordoba</Region>
+			<Destination lang="EN">VIlla General Belgrano, Cordoba, Argentina</Destination>
+		</City>
+		<City id="30905">
+			<Name lang="EN">Villa Gesell</Name>
+			<Region lang="EN">Buenos Aires</Region>
+			<Destination lang="EN">Villa Gesell, Buenos Aires, Argentina</Destination>
+		</City>
+		<City id="1479">
+			<Name lang="EN">Villa la Angostura</Name>
+			<Region lang="EN">Neuquen</Region>
+			<Destination lang="EN">Villa la Angostura, Neuquen, Argentina</Destination>
+		</City>
+		<City id="30906">
+			<Name lang="EN">Villa Mercedes</Name>
+			<Region lang="EN">San Luis</Region>
+			<Destination lang="EN">Villa Mercedes, San Luis, Argentina</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

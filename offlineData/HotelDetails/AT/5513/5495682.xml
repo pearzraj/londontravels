@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495682" resultcode="0" message="" >
+				<Name><![CDATA[ALTSTADT KASERERBRAEU]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Kaigasse,33]]></Address1>
+					<Address2><![CDATA[5010, Salzburg, Austria]]></Address2>
+					<PostalCode>5010</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.797283</Latitude>
+					<Longitude>13.049441</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60848_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60848_1_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9310/37259310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9311/37259311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9312/37259312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9313/37259313.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9300/37259300.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9301/37259301.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9302/37259302.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9303/37259303.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9304/37259304.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9305/37259305.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9306/37259306.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9307/37259307.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9308/37259308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9309/37259309.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043066284244551]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00430662842445 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

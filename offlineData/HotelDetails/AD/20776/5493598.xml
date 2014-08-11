@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493598" resultcode="0" message="" >
+				<Name><![CDATA[SPORTING HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ DE CATALUNYA,1]]></Address1>
+					<Address2><![CDATA[AD200, Pas De La Casa, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59331</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Pas De La Casa]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.54202</Latitude>
+					<Longitude>1.73247</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9079/37259079.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9074/37259074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9075/37259075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9076/37259076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9077/37259077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9078/37259078.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

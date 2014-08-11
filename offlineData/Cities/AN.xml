@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AN">
+		<City id="7167"> 
+			<Name lang="EN">Bonaire</Name>
+			<Region lang="EN">Bonaire</Region>
+			<Destination lang="EN">Bonaire, Bonaire, Netherlands Antilles</Destination>
+		</City>
+		<City id="7458">
+			<Name lang="EN">Curacao</Name>
+			<Region lang="EN">Curacao</Region>
+			<Destination lang="EN">Curacao, Curacao, Netherlands Antilles</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

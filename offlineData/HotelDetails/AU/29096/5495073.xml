@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495073" resultcode="0" message="" >
+				<Name><![CDATA[VIBE HOTEL GOLD COAST ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ferny Avenue,42]]></Address1>
+					<Address2><![CDATA[4217, Surfers Paradise, Australia]]></Address2>
+					<PostalCode>4217</PostalCode>
+					<CityCode>86392</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Surfers Paradise]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-27.999218</Latitude>
+					<Longitude>153.427</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Dry Cleaning Service We also have Currency Exchange and Safe in Reception.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Dry Cleaning Service We also have Currency Exchange and Safe in Reception.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8991/32608991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8992/32608992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8993/32608993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8994/32608994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8995/32608995.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8996/32608996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8997/32608997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8998/32608998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8999/32608999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9000/32609000.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061755923757]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0061755390444 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

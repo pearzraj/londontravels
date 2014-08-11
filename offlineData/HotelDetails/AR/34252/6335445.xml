@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335445" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL VIENTONORTE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jujuy 536,]]></Address1>
+					<Address2><![CDATA[4624, Tilcara, Argentina]]></Address2>
+					<PostalCode>4624</PostalCode>
+					<CityCode>87154</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tilcara]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-23.578167</Latitude>
+					<Longitude>-65.393295</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9820/37759820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9821/37759821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9822/37759822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9823/37759823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9824/37759824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9825/37759825.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 03884955604]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 388 495 5605 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

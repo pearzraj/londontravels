@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MA">
+		<City id="10824"> 
+			<Name lang="EN">Agadir</Name>
+			<Region lang="EN">Agadir</Region>
+			<Destination lang="EN">Agadir, Agadir, Morocco</Destination>
+		</City>
+		<City id="6305">
+			<Name lang="EN">Al Hoceima</Name>
+			<Region lang="EN">Al Hoceima</Region>
+			<Destination lang="EN">Al Hoceima, Al Hoceima, Morocco</Destination>
+		</City>
+		<City id="32029">
+			<Name lang="EN">Asilah</Name>
+			<Region lang="EN">Asilah</Region>
+			<Destination lang="EN">Asilah, Asilah, Morocco</Destination>
+		</City>
+		<City id="8933">
+			<Name lang="EN">Beni Mellal</Name>
+			<Region lang="EN">Beni Mellal</Region>
+			<Destination lang="EN">Beni Mellal, Beni Mellal, Morocco</Destination>
+		</City>
+		<City id="15430">
+			<Name lang="EN">Boumalne du Dades</Name>
+			<Region lang="EN">Boumalne du Dades</Region>
+			<Destination lang="EN">Boumalne du Dades, Boumalne du Dades, Morocco</Destination>
+		</City>
+		<City id="6467">
+			<Name lang="EN">Casablanca</Name>
+			<Region lang="EN">Casablanca</Region>
+			<Destination lang="EN">Casablanca, Casablanca, Morocco</Destination>
+		</City>
+		<City id="18354">
+			<Name lang="EN">Chefchaouen</Name>
+			<Region lang="EN">Chefchaouen</Region>
+			<Destination lang="EN">Chefchaouen, Chefchaouen, Morocco</Destination>
+		</City>
+		<City id="9645">
+			<Name lang="EN">El Jadida</Name>
+			<Region lang="EN">El Jadida</Region>
+			<Destination lang="EN">El Jadida, El Jadida, Morocco</Destination>
+		</City>
+		<City id="11940">
+			<Name lang="EN">Erfoud</Name>
+			<Region lang="EN">Erfoud</Region>
+			<Destination lang="EN">Erfoud, Erfoud, Morocco</Destination>
+		</City>
+		<City id="3574">
+			<Name lang="EN">Errachidia</Name>
+			<Region lang="EN">Errachidia</Region>
+			<Destination lang="EN">Errachidia, Errachidia, Morocco</Destination>
+		</City>
+		<City id="3684">
+			<Name lang="EN">Essaouira</Name>
+			<Region lang="EN">Essaouira</Region>
+			<Destination lang="EN">Essaouira, Essaouira, Morocco</Destination>
+		</City>
+		<City id="21325">
+			<Name lang="EN">Fez</Name>
+			<Region lang="EN">Fez</Region>
+			<Destination lang="EN">Fez, Fez, Morocco</Destination>
+		</City>
+		<City id="16579">
+			<Name lang="EN">Ifrane</Name>
+			<Region lang="EN">Ifrane</Region>
+			<Destination lang="EN">Ifrane, Ifrane, Morocco</Destination>
+		</City>
+		<City id="14630">
+			<Name lang="EN">Marrakech</Name>
+			<Region lang="EN">Marrakech</Region>
+			<Destination lang="EN">Marrakech, Marrakech, Morocco</Destination>
+		</City>
+		<City id="18190">
+			<Name lang="EN">Meknes</Name>
+			<Region lang="EN">Meknes</Region>
+			<Destination lang="EN">Meknes, Meknes, Morocco</Destination>
+		</City>
+		<City id="24328">
+			<Name lang="EN">Merzouga</Name>
+			<Region lang="EN">Merzouga</Region>
+			<Destination lang="EN">Merzouga, Merzouga, Morocco</Destination>
+		</City>
+		<City id="18365">
+			<Name lang="EN">Oualidia</Name>
+			<Region lang="EN">Oualidia</Region>
+			<Destination lang="EN">Oualidia, Oualidia, Morocco</Destination>
+		</City>
+		<City id="27067">
+			<Name lang="EN">Ouarzazate</Name>
+			<Region lang="EN">Ouarzazate</Region>
+			<Destination lang="EN">Ouarzazate, Ouarzazate, Morocco</Destination>
+		</City>
+		<City id="35796">
+			<Name lang="EN">Ouirgane</Name>
+			<Region lang="EN">Ouirgane</Region>
+			<Destination lang="EN">Ouirgane, Ouirgane, Morocco</Destination>
+		</City>
+		<City id="27071">
+			<Name lang="EN">Oujda</Name>
+			<Region lang="EN">Oujda</Region>
+			<Destination lang="EN">Oujda, Oujda, Morocco</Destination>
+		</City>
+		<City id="30281">
+			<Name lang="EN">Rabat</Name>
+			<Region lang="EN">Rabat</Region>
+			<Destination lang="EN">Rabat, Rabat, Morocco</Destination>
+		</City>
+		<City id="28366">
+			<Name lang="EN">Saidia</Name>
+			<Region lang="EN">Saidia</Region>
+			<Destination lang="EN">Saidia, Saidia, Morocco</Destination>
+		</City>
+		<City id="25482">
+			<Name lang="EN">Sidi Harazem</Name>
+			<Region lang="EN">Sidi Harazem</Region>
+			<Destination lang="EN">Sidi Harazem, Sidi Harazem, Morocco</Destination>
+		</City>
+		<City id="21327">
+			<Name lang="EN">Tangier</Name>
+			<Region lang="EN">Tangier</Region>
+			<Destination lang="EN">Tangier, Tangier, Morocco</Destination>
+		</City>
+		<City id="7">
+			<Name lang="EN">Taroudant</Name>
+			<Region lang="EN">Taroudant</Region>
+			<Destination lang="EN">Taroudant, Taroudant, Morocco</Destination>
+		</City>
+		<City id="3222">
+			<Name lang="EN">Zagora</Name>
+			<Region lang="EN">Zagora</Region>
+			<Destination lang="EN">Zagora, Zagora, Morocco</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

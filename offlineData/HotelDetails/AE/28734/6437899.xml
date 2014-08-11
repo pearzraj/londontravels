@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6437899" resultcode="0" message="" >
+				<Name><![CDATA[JORMAND HOTEL SHARJAH]]></Name>
+				<Address>
+					<Address1><![CDATA[  King Faisal Road, Cross Immigration Road, P.o Box,]]></Address1>
+					<Address2><![CDATA[Sharjah, Sharjah, United Arab Emirates]]></Address2>
+					<PostalCode>Sharjah</PostalCode>
+					<CityCode>78899</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sharjah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.35</Latitude>
+					<Longitude>55.39</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18431_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18431_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00 971 651 71 333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="US">
+		<City id="10510"> 
+			<Name lang="EN">Las Vegas</Name>
+			<Region lang="EN">Nevada</Region>
+			<Destination lang="EN">Las Vegas, Nevada, United States</Destination>
+		</City>
+		<City id="30377">
+			<Name lang="EN">Los Angeles</Name>
+			<Region lang="EN">California</Region>
+			<Destination lang="EN">Los Angeles, California, United States</Destination>
+		</City>
+		<City id="15784">
+			<Name lang="EN">Miami</Name>
+			<Region lang="EN">Florida</Region>
+			<Destination lang="EN">Miami, Florida, United States</Destination>
+		</City>
+		<City id="18997">
+			<Name lang="EN">New York</Name>
+			<Region lang="EN">New York</Region>
+			<Destination lang="EN">New York, New York, United States</Destination>
+		</City>
+		<City id="27049">
+			<Name lang="EN">Orlando</Name>
+			<Region lang="EN">Florida</Region>
+			<Destination lang="EN">Orlando, Florida, United States</Destination>
+		</City>
+		<City id="5533">
+			<Name lang="EN">San Francisco</Name>
+			<Region lang="EN">California</Region>
+			<Destination lang="EN">San Francisco, California, United States</Destination>
+		</City>
+		<City id="31018">
+			<Name lang="EN">Washington DC</Name>
+			<Region lang="EN">District of Columbia</Region>
+			<Destination lang="EN">Washington DC, District of Columbia, United States</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

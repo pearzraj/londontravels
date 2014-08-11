@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495712" resultcode="0" message="" >
+				<Name><![CDATA[TREND HOTEL ANANAS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rechte Wienzeile, 93-95]]></Address1>
+					<Address2><![CDATA[1050, Vienna, Austria]]></Address2>
+					<PostalCode>1050</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.1885</Latitude>
+					<Longitude>16.3446</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9485/37259485.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9486/37259486.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9487/37259487.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9488/37259488.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01702_12_6.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9489/37259489.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9490/37259490.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9491/37259491.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9492/37259492.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9493/37259493.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9494/37259494.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 5454242]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 154620 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

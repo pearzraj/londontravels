@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335202" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL SCHLOSS LEBENBERG]]></Name>
+				<Address>
+					<Address1><![CDATA[  LEBENBERGSTRASSE 17,]]></Address1>
+					<Address2><![CDATA[06370, Kitzbuhel, Austria]]></Address2>
+					<PostalCode>06370</PostalCode>
+					<CityCode>64882</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Kitzbuhel]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.453114</Latitude>
+					<Longitude>12.381296</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9119/37759119.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9120/37759120.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9121/37759121.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9122/37759122.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9123/37759123.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9124/37759124.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9125/37759125.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9126/37759126.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9109/37759109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9110/37759110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9111/37759111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9112/37759112.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9113/37759113.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9114/37759114.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9115/37759115.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9116/37759116.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9117/37759117.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9118/37759118.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1775/42871775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1776/42871776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1777/42871777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1778/42871778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1779/42871779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1780/42871780.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[43 535 66901815 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

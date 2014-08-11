@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493756" resultcode="0" message="" >
+				<Name><![CDATA[JORMAND HOTEL APARTMENTS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Mankhool Road, Al Kuwait Street,]]></Address1>
+					<Address2><![CDATA[191504, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>191504</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.251383</Latitude>
+					<Longitude>55.293324</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3437/32603437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3438/32603438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3439/32603439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3440/32603440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3441/32603441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3442/32603442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3443/32603443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3436/32603436.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09747_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 3523 222]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 3522 555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

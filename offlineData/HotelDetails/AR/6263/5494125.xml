@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494125" resultcode="0" message="" >
+				<Name><![CDATA[SUDAMERIKA HOSTEL AND SUITES RECOLETA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Jose Evaristo Uriburu 1287,]]></Address1>
+					<Address2><![CDATA[C1114AAI, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1114AAI</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.594357</Latitude>
+					<Longitude>-58.397827</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9928/37679928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9929/37679929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9930/37679930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9923/37679923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9924/37679924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9925/37679925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9926/37679926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9927/37679927.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 11 4342 8015]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 11 4823 3869 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

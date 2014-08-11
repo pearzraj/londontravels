@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493924" resultcode="0" message="" >
+				<Name><![CDATA[PESTANA BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Carlos Pellegrini 877,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.597767</Latitude>
+					<Longitude>-58.38107</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Jacuzzi. Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4614/32604614.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4615/32604615.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4616/32604616.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4617/32604617.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4618/32604618.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4597/32604597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4598/32604598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4599/32604599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4600/32604600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4601/32604601.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4602/32604602.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4611/32604611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4612/32604612.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4613/32604613.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4603/32604603.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4604/32604604.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4605/32604605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4606/32604606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4607/32604607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4608/32604608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4609/32604609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4610/32604610.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+011 54 11 5239 1141]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+011 54 11 5239 1000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CR">
+		<City id="31515"> 
+			<Name lang="EN">Alajuela</Name>
+			<Region lang="EN">Alajuela</Region>
+			<Destination lang="EN">Alajuela, Alajuela, Costa Rica</Destination>
+		</City>
+		<City id="31910">
+			<Name lang="EN">Arenal</Name>
+			<Region lang="EN">Arenal</Region>
+			<Destination lang="EN">Arenal, Arenal, Costa Rica</Destination>
+		</City>
+		<City id="20465">
+			<Name lang="EN">Guanacaste</Name>
+			<Region lang="EN">Guanacaste</Region>
+			<Destination lang="EN">Guanacaste, Guanacaste, Costa Rica</Destination>
+		</City>
+		<City id="22426">
+			<Name lang="EN">Heredia</Name>
+			<Region lang="EN">Heredia</Region>
+			<Destination lang="EN">Heredia, Heredia, Costa Rica</Destination>
+		</City>
+		<City id="25933">
+			<Name lang="EN">Jaco</Name>
+			<Region lang="EN">Jaco</Region>
+			<Destination lang="EN">Jaco, Jaco, Costa Rica</Destination>
+		</City>
+		<City id="15062">
+			<Name lang="EN">La Fortuna</Name>
+			<Region lang="EN">La Fortuna</Region>
+			<Destination lang="EN">La Fortuna, La Fortuna, Costa Rica</Destination>
+		</City>
+		<City id="26014">
+			<Name lang="EN">Puntarenas</Name>
+			<Region lang="EN">Puntarenas</Region>
+			<Destination lang="EN">Puntarenas, Puntarenas, Costa Rica</Destination>
+		</City>
+		<City id="30261">
+			<Name lang="EN">Quepos</Name>
+			<Region lang="EN">Quepos</Region>
+			<Destination lang="EN">Quepos, Quepos, Costa Rica</Destination>
+		</City>
+		<City id="5544">
+			<Name lang="EN">San Jose</Name>
+			<Region lang="EN">San Jose</Region>
+			<Destination lang="EN">San Jose, San Jose, Costa Rica</Destination>
+		</City>
+		<City id="27547">
+			<Name lang="EN">Santa Elena</Name>
+			<Region lang="EN">Santa Elena</Region>
+			<Destination lang="EN">Santa Elena, Santa Elena, Costa Rica</Destination>
+		</City>
+		<City id="29168">
+			<Name lang="EN">Tamarindo</Name>
+			<Region lang="EN">Tamarindo</Region>
+			<Destination lang="EN">Tamarindo, Tamarindo, Costa Rica</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

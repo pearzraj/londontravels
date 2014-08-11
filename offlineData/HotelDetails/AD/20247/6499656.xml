@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499656" resultcode="0" message="" >
+				<Name><![CDATA[ANYOSPARK APARTHOTEL.THE MOUNTAIN_WELLNESS RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. d' Anyos,s/n]]></Address1>
+					<Address2><![CDATA[AD400, Anyos, Andorra]]></Address2>
+					<PostalCode>AD400</PostalCode>
+					<CityCode>59332</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Anyos]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.53439</Latitude>
+					<Longitude>1.52485</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The ANYOSPARK APARTHOTEL.THE MOUNTAIN_WELLNESS RESORT have everything guests need to ensure family rest and leisure time. Of particular note are the panoramic views of the valley, of the mountain and of the swimming pool. Health and beauty facilities include Spa, Sauna, Hairdressers and Hammam. Internet service provided. Among the offers from the kitchen you will find Vitroceramic, Refrigerator, Microwave, Table/Chairs, Cooker, Crockery, Cutlery, Kitchen Utensils and Coffee Machine ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The apartments have Independent Heating, TV, Satellite / Cable TV , Lounge-Diner, Sofa Bed, Kitchen, American Kitchen, Cooker, Coffee Machine, Refrigerator, Microwave, Kitchen Utensils, Crockery, Cutlery, Table/Chairs, Bathtub, Hairdryer, Towels, Laundry Service, Sheets, Blankets and Wi-Fi , and among our services and facilities available we have Lifts, Outdoor Summer Terrace, Bar Pool, Heating, Air Conditioning, Sun beds, Jacuzzi, Cot, Children´s Park, Games Room, Games Machines, Billiards,  ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The apartments have Independent Heating, TV, Satellite / Cable TV , Lounge-Diner, Sofa Bed, Kitchen, American Kitchen, Cooker, Coffee Machine, Refrigerator, Microwave, Kitchen Utensils, Crockery, Cutlery, Table/Chairs, Bathtub, Hairdryer, Towels, Laundry Service, Sheets, Blankets and Wi-Fi , and among our services and facilities available we have Lifts, Outdoor Summer Terrace, Bar Pool, Heating, Air Conditioning, Sun beds, Jacuzzi, Cot, Children´s Park, Games Room, Games Machines, Billiards, Bar Cafeteria, Squash Court, Tennis Court, Table Tennis and Terrace . We also have Multilingual Personnel, 24/24 Reception, Ski Room, Internet Corner, Tourist Information, Vending Machines, Garage, Safe in Reception, Porter¿s Lodge and Cash Dispenser. Credit Cards: Visa and Euro/Mastercard.  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The ANYOSPARK APARTHOTEL.THE MOUNTAIN_WELLNESS RESORT have everything guests need to ensure family rest and leisure time. Of particular note are the panoramic views of the valley, of the mountain and of the swimming pool. Health and beauty facilities include Spa, Sauna, Hairdressers and Hammam. Internet service provided. Among the offers from the kitchen you will find Vitroceramic, Refrigerator, Microwave, Table/Chairs, Cooker, Crockery, Cutlery, Kitchen Utensils and Coffee Machine ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Bar and Restaurants]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bar and Restaurants]]></Name>
+						<Description><![CDATA[Bar Pool]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Apartment Security]]></Name>
+						<Description><![CDATA[Electronic Locks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Lounge-Diner]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Composition of Apartments]]></Name>
+						<Description><![CDATA[Kitchen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Nordic Quilts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Vitroceramic]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Microwave]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Kitchen Utensils]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Crockery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Bedrooms]]></Name>
+						<Description><![CDATA[Sheets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Refrigerator]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Cooker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Cutlery]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Close-up of Kitchen]]></Name>
+						<Description><![CDATA[Table/Chairs]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GAN000/GANYANA_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ANY000/ANYANA_12_13.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376836333]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376737173 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

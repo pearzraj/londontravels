@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493825" resultcode="0" message="" >
+				<Name><![CDATA[CHELSEA TOWER HOTEL APARTMENTS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Zayed Road,  P.O. Box 118049,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.211445</Latitude>
+					<Longitude>55.27446</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_5.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3869/32603869.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T53000/T53794_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097143433338]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 3434347 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

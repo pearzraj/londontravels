@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495680" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND SAVOYEN WIEN]]></Name>
+				<Address>
+					<Address1><![CDATA[   Rennweg,16]]></Address1>
+					<Address2><![CDATA[01030, Vienna, Austria]]></Address2>
+					<PostalCode>01030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.19746</Latitude>
+					<Longitude>16.379597</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9298/37259298.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06165_1_13.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 588 00888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 206330 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

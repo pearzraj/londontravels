@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493788" resultcode="0" message="" >
+				<Name><![CDATA[CORAL DEIRA DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Muraqqabat Street, Deira Dubai, ]]></Address1>
+					<Address2><![CDATA[82999, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>82999</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.265968</Latitude>
+					<Longitude>55.325714</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Jacuzzi. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Jacuzzi. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26828_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26828_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26828_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26828_1_10.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3669/32603669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3670/32603670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3671/32603671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3658/32603658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3659/32603659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3660/32603660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3661/32603661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3662/32603662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3663/32603663.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3664/32603664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3665/32603665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3666/32603666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3667/32603667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3668/32603668.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 2238084]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142248587 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

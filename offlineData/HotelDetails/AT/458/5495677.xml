@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495677" resultcode="0" message="" >
+				<Name><![CDATA[BEST WESTERN PREMIER KAISERHOF]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Frankenberggasse,10a]]></Address1>
+					<Address2><![CDATA[1040, Vienna, Austria]]></Address2>
+					<PostalCode>1040</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.197567</Latitude>
+					<Longitude>16.36763</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9273/37259273.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9274/37259274.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9275/37259275.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9276/37259276.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9277/37259277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9278/37259278.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9279/37259279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9280/37259280.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9281/37259281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9282/37259282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9283/37259283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9284/37259284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9285/37259285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9286/37259286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9287/37259287.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_1_10.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9271/37259271.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9272/37259272.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_12_34.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T60000/T60847_1_34.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+431 5058875]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[004315051701 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

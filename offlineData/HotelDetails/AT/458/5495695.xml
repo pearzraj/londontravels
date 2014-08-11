@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495695" resultcode="0" message="" >
+				<Name><![CDATA[MATE DEPENDANCE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Bergsteiggasse,22]]></Address1>
+					<Address2><![CDATA[1170, Vienna, Austria]]></Address2>
+					<PostalCode>1170</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.216503</Latitude>
+					<Longitude>16.33477</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna and Massages. Pets allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Airport Transfer and Business Centre.  Activities and relax: Sauna, Solarium and Massages. Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna and Massages. Pets allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Airport Transfer and Business Centre.  Activities and relax: Sauna, Solarium and Massages. Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9387/37259387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9388/37259388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9389/37259389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9390/37259390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9371/37259371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9372/37259372.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9373/37259373.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9374/37259374.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9375/37259375.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9376/37259376.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9377/37259377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9378/37259378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9379/37259379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9380/37259380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9381/37259381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9382/37259382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9383/37259383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9384/37259384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9385/37259385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9386/37259386.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 140455888]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043140466 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

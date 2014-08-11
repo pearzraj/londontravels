@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333855" resultcode="0" message="" >
+				<Name><![CDATA[RAMADA BUENOS AIRES]]></Name>
+				<Address>
+					<Address1><![CDATA[  SAN MARTIN, 450,]]></Address1>
+					<Address2><![CDATA[B1638BOO, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>B1638BOO</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.519226</Latitude>
+					<Longitude>-58.472935</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna, Spa, Turkish Bath. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8122/37748122.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8123/37748123.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8124/37748124.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8125/37748125.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8126/37748126.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8111/37748111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8112/37748112.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8113/37748113.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8114/37748114.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8115/37748115.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8116/37748116.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8117/37748117.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8118/37748118.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8119/37748119.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8120/37748120.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8121/37748121.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2988/37132988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2989/37132989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2990/37132990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2991/37132991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2992/37132992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2993/37132993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2994/37132994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2995/37132995.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[5411 4837 2250 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

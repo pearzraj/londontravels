@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493864" resultcode="0" message="" >
+				<Name><![CDATA[QUEENS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Sabkha Rd, P.O. Box 4867, Dubai,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.270834</Latitude>
+					<Longitude>55.301945</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4103/32604103.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4104/32604104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4105/32604105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4106/32604106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4107/32604107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4108/32604108.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03234_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 4 2266 400]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 4 226 8000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

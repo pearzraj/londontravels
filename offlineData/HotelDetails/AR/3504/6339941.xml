@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339941" resultcode="0" message="" >
+				<Name><![CDATA[POSADA LOS ALAMOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  ING.HECTOR M.GUATTI 1350,]]></Address1>
+					<Address2><![CDATA[04000, El Calafate, Argentina]]></Address2>
+					<PostalCode>04000</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.336197</Latitude>
+					<Longitude>-72.26899</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7400/37787400.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7401/37787401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7402/37787402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7389/37787389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7390/37787390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7391/37787391.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7392/37787392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7393/37787393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7394/37787394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7395/37787395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7396/37787396.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7397/37787397.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7398/37787398.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7399/37787399.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7379/37787379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7380/37787380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7381/37787381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7382/37787382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7383/37787383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7384/37787384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7385/37787385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7386/37787386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7387/37787387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7388/37787388.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 02902 491144 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

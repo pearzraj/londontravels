@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336096" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL ANCASTI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sarmiento 520,]]></Address1>
+					<Address2><![CDATA[4700, Catamarca, Argentina]]></Address2>
+					<PostalCode>4700</PostalCode>
+					<CityCode>86977</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Catamarca]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-28.46732</Latitude>
+					<Longitude>-65.77996</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[At the Business Centre, customers can work as though they were in their own office. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1500</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5074/37115074.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5075/37115075.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5076/37115076.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5077/37115077.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5078/37115078.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5079/37115079.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5080/37115080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5081/37115081.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 3833435952]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 3833435951 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

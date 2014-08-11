@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404396" resultcode="0" message="" >
+				<Name><![CDATA[KRONENHOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Karwendelweg 732 Seefeld A-6100,]]></Address1>
+					<Address2><![CDATA[Seefeld, Seefeld, Austria]]></Address2>
+					<PostalCode>Seefeld</PostalCode>
+					<CityCode>65351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Seefeld]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.33493</Latitude>
+					<Longitude>11.193931</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E19000/E19140_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4352125034914]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 5212 50349 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

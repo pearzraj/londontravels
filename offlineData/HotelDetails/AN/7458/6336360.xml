@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336360" resultcode="0" message="" >
+				<Name><![CDATA[CURACAO MARRIOTT BEACH RESORT AND EMERALD CASINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piscadera Bay,]]></Address1>
+					<Address2><![CDATA[1, Curacao, Netherlands Antilles]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>84139</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Curacao]]>
+					</CityName>
+					<CountryCode>AN</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Netherlands Antilles]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.158325</Latitude>
+					<Longitude>-68.9665</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3156/37123156.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3157/37123157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3158/37123158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3159/37123159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8167/37778167.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3160/37123160.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3161/37123161.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3162/37123162.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3163/37123163.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3164/37123164.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3165/37123165.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3166/37123166.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3167/37123167.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3168/37123168.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3169/37123169.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3170/37123170.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3171/37123171.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3172/37123172.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3173/37123173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3174/37123174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3176/37123176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3177/37123177.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3178/37123178.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3179/37123179.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3180/37123180.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3181/37123181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3182/37123182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3183/37123183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3184/37123184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3185/37123185.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+599 9 462 7502]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+599 9 736 8800 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6477710" resultcode="0" message="" >
+				<Name><![CDATA[GRAND HOTEL AITA]]></Name>
+				<Address>
+					<Address1><![CDATA[  National road Vlore-Sarande, Rathime Albania, Rad,]]></Address1>
+					<Address2><![CDATA[Vlore, Vlore, Albania]]></Address2>
+					<PostalCode>Vlore</PostalCode>
+					<CityCode>64806</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vlore]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude></Latitude>
+					<Longitude></Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20800_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E20000/E20800_1_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0038118589403 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

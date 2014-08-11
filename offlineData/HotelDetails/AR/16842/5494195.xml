@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494195" resultcode="0" message="" >
+				<Name><![CDATA[AMERIAN CORDOBA PARK HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Bv San Juan 165,]]></Address1>
+					<Address2><![CDATA[X5000ATB, Cordoba, Argentina]]></Address2>
+					<PostalCode>X5000ATB</PostalCode>
+					<CityCode>84454</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Cordoba]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-31.3978</Latitude>
+					<Longitude>-64.1976</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Free Press]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7103/32607103.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7104/32607104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7105/32607105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7106/32607106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7107/32607107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7108/32607108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7109/32607109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7110/32607110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7111/32607111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7112/32607112.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7113/32607113.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7114/32607114.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7115/32607115.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7116/32607116.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7117/32607117.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7118/32607118.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5032 5160]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5032 5111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

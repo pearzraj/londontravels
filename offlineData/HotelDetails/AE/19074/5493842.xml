@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493842" resultcode="0" message="" >
+				<Name><![CDATA[ROYAL FALCON HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Salahuddin Road Deira,]]></Address1>
+					<Address2><![CDATA[1, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.269924</Latitude>
+					<Longitude>55.310925</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3982/32603982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3983/32603983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3984/32603984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3985/32603985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3974/32603974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3975/32603975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3976/32603976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3977/32603977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3978/32603978.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3979/32603979.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3980/32603980.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3981/32603981.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09714_12_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 2730606]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 2732222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

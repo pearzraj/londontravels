@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CA">
+		<City id="31308"> 
+			<Name lang="EN">100 Mile House</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">100 Mile House, British Columbia, Canada</Destination>
+		</City>
+		<City id="6669">
+			<Name lang="EN">Abbotsford</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Abbotsford, British Columbia, Canada</Destination>
+		</City>
+		<City id="15385">
+			<Name lang="EN">Airdrie</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Airdrie, Alberta, Canada</Destination>
+		</City>
+		<City id="31471">
+			<Name lang="EN">Ajax</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Ajax, Ontario, Canada</Destination>
+		</City>
+		<City id="6363">
+			<Name lang="EN">Alma</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Alma, Quebec, Canada</Destination>
+		</City>
+		<City id="31748">
+			<Name lang="EN">Amherst</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Amherst, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="31807">
+			<Name lang="EN">Anjou</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Anjou, Quebec, Canada</Destination>
+		</City>
+		<City id="31829">
+			<Name lang="EN">Antigonish</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Antigonish, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="22149">
+			<Name lang="EN">Arnprior</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Arnprior, Ontario, Canada</Destination>
+		</City>
+		<City id="32190">
+			<Name lang="EN">Baddeck</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Baddeck, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="10606">
+			<Name lang="EN">Baie Comeau</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Baie Comeau, Quebec, Canada</Destination>
+		</City>
+		<City id="32249">
+			<Name lang="EN">Baie Saint Paul</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Baie Saint Paul, Quebec, Canada</Destination>
+		</City>
+		<City id="12050">
+			<Name lang="EN">Banff</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Banff, Alberta, Canada</Destination>
+		</City>
+		<City id="32436">
+			<Name lang="EN">Barrie</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Barrie, Ontario, Canada</Destination>
+		</City>
+		<City id="32534">
+			<Name lang="EN">Beaupre</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Beaupre, Quebec, Canada</Destination>
+		</City>
+		<City id="8413">
+			<Name lang="EN">Belleville</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Belleville, Ontario, Canada</Destination>
+		</City>
+		<City id="11116">
+			<Name lang="EN">Boischatel</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Boischatel, Quebec, Canada</Destination>
+		</City>
+		<City id="7175">
+			<Name lang="EN">Bonnyville</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Bonnyville, Alberta, Canada</Destination>
+		</City>
+		<City id="12181">
+			<Name lang="EN">Boucherville</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Boucherville, Quebec, Canada</Destination>
+		</City>
+		<City id="12215">
+			<Name lang="EN">Bracebridge</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Bracebridge, Ontario, Canada</Destination>
+		</City>
+		<City id="12330">
+			<Name lang="EN">Brampton</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Brampton, Ontario, Canada</Destination>
+		</City>
+		<City id="12343">
+			<Name lang="EN">Brantford</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Brantford, Ontario, Canada</Destination>
+		</City>
+		<City id="12412">
+			<Name lang="EN">Bridgewater</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Bridgewater, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="7270">
+			<Name lang="EN">Brockville</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Brockville, Ontario, Canada</Destination>
+		</City>
+		<City id="12561">
+			<Name lang="EN">Brooks</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Brooks, Alberta, Canada</Destination>
+		</City>
+		<City id="12781">
+			<Name lang="EN">Burlington</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Burlington, Ontario, Canada</Destination>
+		</City>
+		<City id="12785">
+			<Name lang="EN">Burnaby</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Burnaby, British Columbia, Canada</Destination>
+		</City>
+		<City id="12836">
+			<Name lang="EN">Cabano</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Cabano, Quebec, Canada</Destination>
+		</City>
+		<City id="12858">
+			<Name lang="EN">Cache Creek</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Cache Creek, British Columbia, Canada</Destination>
+		</City>
+		<City id="16004">
+			<Name lang="EN">Calgary</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Calgary, Alberta, Canada</Destination>
+		</City>
+		<City id="12993">
+			<Name lang="EN">Cambridge</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Cambridge, Ontario, Canada</Destination>
+		</City>
+		<City id="7781">
+			<Name lang="EN">Campbell River</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Campbell River, British Columbia, Canada</Destination>
+		</City>
+		<City id="14313">
+			<Name lang="EN">Canmore</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Canmore, Alberta, Canada</Destination>
+		</City>
+		<City id="14756">
+			<Name lang="EN">Caraquet</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Caraquet, New Brunswick, Canada</Destination>
+		</City>
+		<City id="6477">
+			<Name lang="EN">Castlegar</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Castlegar, British Columbia, Canada</Destination>
+		</City>
+		<City id="6721">
+			<Name lang="EN">Charlottetown</Name>
+			<Region lang="EN">Prince Edward Island</Region>
+			<Destination lang="EN">Charlottetown, Prince Edward Island, Canada</Destination>
+		</City>
+		<City id="18338">
+			<Name lang="EN">Chase</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Chase, British Columbia, Canada</Destination>
+		</City>
+		<City id="7871">
+			<Name lang="EN">Chatham</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Chatham, Ontario, Canada</Destination>
+		</City>
+		<City id="18894">
+			<Name lang="EN">Chicoutimi</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Chicoutimi, Quebec, Canada</Destination>
+		</City>
+		<City id="16743">
+			<Name lang="EN">Chilliwack</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Chilliwack, British Columbia, Canada</Destination>
+		</City>
+		<City id="19991">
+			<Name lang="EN">Clarenville</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Clarenville, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="20005">
+			<Name lang="EN">Clearwater</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Clearwater, British Columbia, Canada</Destination>
+		</City>
+		<City id="20053">
+			<Name lang="EN">Cobourg</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Cobourg, Ontario, Canada</Destination>
+		</City>
+		<City id="20056">
+			<Name lang="EN">Cochrane</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Cochrane, Alberta, Canada</Destination>
+		</City>
+		<City id="11678">
+			<Name lang="EN">Cold Lake</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Cold Lake, Alberta, Canada</Destination>
+		</City>
+		<City id="21055">
+			<Name lang="EN">Collingwood</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Collingwood, Ontario, Canada</Destination>
+		</City>
+		<City id="21617">
+			<Name lang="EN">Coquitlam</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Coquitlam, British Columbia, Canada</Destination>
+		</City>
+		<City id="7393">
+			<Name lang="EN">Corner Brook</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Corner Brook, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="7394">
+			<Name lang="EN">Cornwall</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Cornwall, Ontario, Canada</Destination>
+		</City>
+		<City id="7903">
+			<Name lang="EN">Courtenay</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Courtenay, British Columbia, Canada</Destination>
+		</City>
+		<City id="7414">
+			<Name lang="EN">Cranbrook</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Cranbrook, British Columbia, Canada</Destination>
+		</City>
+		<City id="23400">
+			<Name lang="EN">Dartmouth</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Dartmouth, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="7537">
+			<Name lang="EN">Dawson City</Name>
+			<Region lang="EN">Yukon Territory</Region>
+			<Destination lang="EN">Dawson City, Yukon Territory, Canada</Destination>
+		</City>
+		<City id="23844">
+			<Name lang="EN">Delta</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Delta, British Columbia, Canada</Destination>
+		</City>
+		<City id="23911">
+			<Name lang="EN">Dieppe</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Dieppe, New Brunswick, Canada</Destination>
+		</City>
+		<City id="19058">
+			<Name lang="EN">Dolbeau</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Dolbeau, Quebec, Canada</Destination>
+		</City>
+		<City id="8327">
+			<Name lang="EN">Dorval</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Dorval, Quebec, Canada</Destination>
+		</City>
+		<City id="8751">
+			<Name lang="EN">Drumheller</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Drumheller, Alberta, Canada</Destination>
+		</City>
+		<City id="8752">
+			<Name lang="EN">Drummondville</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Drummondville, Quebec, Canada</Destination>
+		</City>
+		<City id="18691">
+			<Name lang="EN">Edmonton</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Edmonton, Alberta, Canada</Destination>
+		</City>
+		<City id="3480">
+			<Name lang="EN">Edson</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Edson, Alberta, Canada</Destination>
+		</City>
+		<City id="10404">
+			<Name lang="EN">Enfield</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Enfield, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="22591">
+			<Name lang="EN">Esterel</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Esterel, Quebec, Canada</Destination>
+		</City>
+		<City id="14522">
+			<Name lang="EN">Fernie</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Fernie, British Columbia, Canada</Destination>
+		</City>
+		<City id="14538">
+			<Name lang="EN">Field</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Field, British Columbia, Canada</Destination>
+		</City>
+		<City id="3903">
+			<Name lang="EN">Forestville</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Forestville, Quebec, Canada</Destination>
+		</City>
+		<City id="16290">
+			<Name lang="EN">Fort Erie</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Fort Erie, Ontario, Canada</Destination>
+		</City>
+		<City id="14211">
+			<Name lang="EN">Fort McMurray</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Fort McMurray, Alberta, Canada</Destination>
+		</City>
+		<City id="3930">
+			<Name lang="EN">Fort St John</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Fort St John, British Columbia, Canada</Destination>
+		</City>
+		<City id="22961">
+			<Name lang="EN">Fox Creek</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Fox Creek, Alberta, Canada</Destination>
+		</City>
+		<City id="15168">
+			<Name lang="EN">Fredericton</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Fredericton, New Brunswick, Canada</Destination>
+		</City>
+		<City id="17031">
+			<Name lang="EN">Gananoque</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Gananoque, Ontario, Canada</Destination>
+		</City>
+		<City id="7808">
+			<Name lang="EN">Gander</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Gander, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="7832">
+			<Name lang="EN">Gaspe</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Gaspe, Quebec, Canada</Destination>
+		</City>
+		<City id="7835">
+			<Name lang="EN">Gatineau</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Gatineau, Quebec, Canada</Destination>
+		</City>
+		<City id="18799">
+			<Name lang="EN">Goffs</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Goffs, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="18806">
+			<Name lang="EN">Golden</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Golden, British Columbia, Canada</Destination>
+		</City>
+		<City id="34599">
+			<Name lang="EN">Grand Prairie</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Grand Prairie, Alberta, Canada</Destination>
+		</City>
+		<City id="16148">
+			<Name lang="EN">Grande Prairie</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Grande Prairie, Alberta, Canada</Destination>
+		</City>
+		<City id="19490">
+			<Name lang="EN">Grandes Piles</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Grandes Piles, Quebec, Canada</Destination>
+		</City>
+		<City id="20490">
+			<Name lang="EN">Guelph</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Guelph, Ontario, Canada</Destination>
+		</City>
+		<City id="20883">
+			<Name lang="EN">Haliburton</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Haliburton, Ontario, Canada</Destination>
+		</City>
+		<City id="9238">
+			<Name lang="EN">Halifax</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Halifax, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="21253">
+			<Name lang="EN">Harrison Hot Springs</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Harrison Hot Springs, British Columbia, Canada</Destination>
+		</City>
+		<City id="23247">
+			<Name lang="EN">Hinton</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Hinton, Alberta, Canada</Destination>
+		</City>
+		<City id="10022">
+			<Name lang="EN">Hope</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Hope, British Columbia, Canada</Destination>
+		</City>
+		<City id="24669">
+			<Name lang="EN">Huntsville</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Huntsville, Ontario, Canada</Destination>
+		</City>
+		<City id="24820">
+			<Name lang="EN">Ile aux Coudres</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Ile aux Coudres, Quebec, Canada</Destination>
+		</City>
+		<City id="17525">
+			<Name lang="EN">Jasper</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Jasper, Alberta, Canada</Destination>
+		</City>
+		<City id="7683">
+			<Name lang="EN">Kamloops</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Kamloops, British Columbia, Canada</Destination>
+		</City>
+		<City id="9014">
+			<Name lang="EN">Kananaskis Village</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Kananaskis Village, Alberta, Canada</Destination>
+		</City>
+		<City id="9016">
+			<Name lang="EN">Kanata</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Kanata, Ontario, Canada</Destination>
+		</City>
+		<City id="29974">
+			<Name lang="EN">Kapuskasing</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Kapuskasing, Ontario, Canada</Destination>
+		</City>
+		<City id="8077">
+			<Name lang="EN">Kelowna</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Kelowna, British Columbia, Canada</Destination>
+		</City>
+		<City id="8097">
+			<Name lang="EN">Kenora</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Kenora, Ontario, Canada</Destination>
+		</City>
+		<City id="8643">
+			<Name lang="EN">Kingston</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Kingston, Ontario, Canada</Destination>
+		</City>
+		<City id="8676">
+			<Name lang="EN">Kitchener</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Kitchener, Ontario, Canada</Destination>
+		</City>
+		<City id="16021">
+			<Name lang="EN">La Malbaie</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">La Malbaie, Quebec, Canada</Destination>
+		</City>
+		<City id="16885">
+			<Name lang="EN">Lake Louise</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Lake Louise, Alberta, Canada</Destination>
+		</City>
+		<City id="14465">
+			<Name lang="EN">L'Ancienne Lorette</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">L'Ancienne Lorette, Quebec, Canada</Destination>
+		</City>
+		<City id="17607">
+			<Name lang="EN">Langley</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Langley, British Columbia, Canada</Destination>
+		</City>
+		<City id="17679">
+			<Name lang="EN">Laval</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Laval, Quebec, Canada</Destination>
+		</City>
+		<City id="17817">
+			<Name lang="EN">Leduc</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Leduc, Alberta, Canada</Destination>
+		</City>
+		<City id="10649">
+			<Name lang="EN">Lethbridge</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Lethbridge, Alberta, Canada</Destination>
+		</City>
+		<City id="18496">
+			<Name lang="EN">Levis</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Levis, Quebec, Canada</Destination>
+		</City>
+		<City id="19581">
+			<Name lang="EN">Liverpool</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Liverpool, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="12231">
+			<Name lang="EN">Lloydminster</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Lloydminster, Alberta, Canada</Destination>
+		</City>
+		<City id="12256">
+			<Name lang="EN">London</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">London, Ontario, Canada</Destination>
+		</City>
+		<City id="20547">
+			<Name lang="EN">Longueuil</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Longueuil, Quebec, Canada</Destination>
+		</City>
+		<City id="20660">
+			<Name lang="EN">Lund</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Lund, British Columbia, Canada</Destination>
+		</City>
+		<City id="22244">
+			<Name lang="EN">Manning Park</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Manning Park, British Columbia, Canada</Destination>
+		</City>
+		<City id="23301">
+			<Name lang="EN">Markham</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Markham, Ontario, Canada</Destination>
+		</City>
+		<City id="14676">
+			<Name lang="EN">Matane</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Matane, Quebec, Canada</Destination>
+		</City>
+		<City id="23734">
+			<Name lang="EN">McBride</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">McBride, British Columbia, Canada</Destination>
+		</City>
+		<City id="18180">
+			<Name lang="EN">Medicine Hat</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Medicine Hat, Alberta, Canada</Destination>
+		</City>
+		<City id="18210">
+			<Name lang="EN">Merritt</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Merritt, British Columbia, Canada</Destination>
+		</City>
+		<City id="24382">
+			<Name lang="EN">Midland</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Midland, Ontario, Canada</Destination>
+		</City>
+		<City id="16497">
+			<Name lang="EN">Miramichi</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Miramichi, New Brunswick, Canada</Destination>
+		</City>
+		<City id="25418">
+			<Name lang="EN">Mississauga</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Mississauga, Ontario, Canada</Destination>
+		</City>
+		<City id="18235">
+			<Name lang="EN">Moncton</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Moncton, New Brunswick, Canada</Destination>
+		</City>
+		<City id="25808">
+			<Name lang="EN">Mont Laurier</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Mont Laurier, Quebec, Canada</Destination>
+		</City>
+		<City id="25815">
+			<Name lang="EN">Mont Tremblant</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Mont Tremblant, Quebec, Canada</Destination>
+		</City>
+		<City id="25847">
+			<Name lang="EN">Montebello</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Montebello, Quebec, Canada</Destination>
+		</City>
+		<City id="17144">
+			<Name lang="EN">Montreal</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Montreal, Quebec, Canada</Destination>
+		</City>
+		<City id="17153">
+			<Name lang="EN">Moose Jaw</Name>
+			<Region lang="EN">Saskatchewan</Region>
+			<Destination lang="EN">Moose Jaw, Saskatchewan, Canada</Destination>
+		</City>
+		<City id="20380">
+			<Name lang="EN">Nanaimo</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Nanaimo, British Columbia, Canada</Destination>
+		</City>
+		<City id="28114">
+			<Name lang="EN">Napanee</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Napanee, Ontario, Canada</Destination>
+		</City>
+		<City id="28290">
+			<Name lang="EN">Nelson</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Nelson, British Columbia, Canada</Destination>
+		</City>
+		<City id="28353">
+			<Name lang="EN">New Glasgow</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">New Glasgow, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="8881">
+			<Name lang="EN">Newmarket</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Newmarket, Ontario, Canada</Destination>
+		</City>
+		<City id="8900">
+			<Name lang="EN">Niagara Falls</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Niagara Falls, Ontario, Canada</Destination>
+		</City>
+		<City id="9422">
+			<Name lang="EN">Nisku</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Nisku, Alberta, Canada</Destination>
+		</City>
+		<City id="19663">
+			<Name lang="EN">North Bay</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">North Bay, Ontario, Canada</Destination>
+		</City>
+		<City id="9717">
+			<Name lang="EN">North Vancouver</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">North Vancouver, British Columbia, Canada</Destination>
+		</City>
+		<City id="10323">
+			<Name lang="EN">Oakville</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Oakville, Ontario, Canada</Destination>
+		</City>
+		<City id="13912">
+			<Name lang="EN">Orillia</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Orillia, Ontario, Canada</Destination>
+		</City>
+		<City id="26625">
+			<Name lang="EN">Oshawa</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Oshawa, Ontario, Canada</Destination>
+		</City>
+		<City id="14918">
+			<Name lang="EN">Osoyoos</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Osoyoos, British Columbia, Canada</Destination>
+		</City>
+		<City id="27056">
+			<Name lang="EN">Ottawa</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Ottawa, Ontario, Canada</Destination>
+		</City>
+		<City id="27084">
+			<Name lang="EN">Owen Sound</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Owen Sound, Ontario, Canada</Destination>
+		</City>
+		<City id="19760">
+			<Name lang="EN">Panorama</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Panorama, British Columbia, Canada</Destination>
+		</City>
+		<City id="20760">
+			<Name lang="EN">Parksville</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Parksville, British Columbia, Canada</Destination>
+		</City>
+		<City id="27467">
+			<Name lang="EN">Parry Sound</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Parry Sound, Ontario, Canada</Destination>
+		</City>
+		<City id="20786">
+			<Name lang="EN">Paspebiac</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Paspebiac, Quebec, Canada</Destination>
+		</City>
+		<City id="21906">
+			<Name lang="EN">Pemberton</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Pemberton, British Columbia, Canada</Destination>
+		</City>
+		<City id="29433">
+			<Name lang="EN">Pembroke</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Pembroke, Ontario, Canada</Destination>
+		</City>
+		<City id="29443">
+			<Name lang="EN">Penticton</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Penticton, British Columbia, Canada</Destination>
+		</City>
+		<City id="21934">
+			<Name lang="EN">Perce</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Perce, Quebec, Canada</Destination>
+		</City>
+		<City id="18724">
+			<Name lang="EN">Peterborough</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Peterborough, Ontario, Canada</Destination>
+		</City>
+		<City id="23173">
+			<Name lang="EN">Pickering</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Pickering, Ontario, Canada</Destination>
+		</City>
+		<City id="1829">
+			<Name lang="EN">Pincher Creek</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Pincher Creek, Alberta, Canada</Destination>
+		</City>
+		<City id="29878">
+			<Name lang="EN">Port Hardy</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Port Hardy, British Columbia, Canada</Destination>
+		</City>
+		<City id="24772">
+			<Name lang="EN">Port Hope</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Port Hope, Ontario, Canada</Destination>
+		</City>
+		<City id="29947">
+			<Name lang="EN">Powell River</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Powell River, British Columbia, Canada</Destination>
+		</City>
+		<City id="1791">
+			<Name lang="EN">Prince Albert</Name>
+			<Region lang="EN">Saskatchewan</Region>
+			<Destination lang="EN">Prince Albert, Saskatchewan, Canada</Destination>
+		</City>
+		<City id="1792">
+			<Name lang="EN">Prince George</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Prince George, British Columbia, Canada</Destination>
+		</City>
+		<City id="1793">
+			<Name lang="EN">Prince Rupert</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Prince Rupert, British Columbia, Canada</Destination>
+		</City>
+		<City id="25726">
+			<Name lang="EN">Princeton</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Princeton, British Columbia, Canada</Destination>
+		</City>
+		<City id="30254">
+			<Name lang="EN">Quebec</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Quebec, Quebec, Canada</Destination>
+		</City>
+		<City id="30263">
+			<Name lang="EN">Quesnel</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Quesnel, British Columbia, Canada</Destination>
+		</City>
+		<City id="26287">
+			<Name lang="EN">Radium Hot Springs</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Radium Hot Springs, British Columbia, Canada</Destination>
+		</City>
+		<City id="30395">
+			<Name lang="EN">Red Deer</Name>
+			<Region lang="EN">Alberta</Region>
+			<Destination lang="EN">Red Deer, Alberta, Canada</Destination>
+		</City>
+		<City id="1571">
+			<Name lang="EN">Regina</Name>
+			<Region lang="EN">Saskatchewan</Region>
+			<Destination lang="EN">Regina, Saskatchewan, Canada</Destination>
+		</City>
+		<City id="1587">
+			<Name lang="EN">Revelstoke</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Revelstoke, British Columbia, Canada</Destination>
+		</City>
+		<City id="27684">
+			<Name lang="EN">Richmond</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Richmond, British Columbia, Canada</Destination>
+		</City>
+		<City id="27690">
+			<Name lang="EN">Richmond Hill</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Richmond Hill, Ontario, Canada</Destination>
+		</City>
+		<City id="34848">
+			<Name lang="EN">Ridgetown</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Ridgetown, Ontario, Canada</Destination>
+		</City>
+		<City id="30426">
+			<Name lang="EN">Rimouski</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Rimouski, Quebec, Canada</Destination>
+		</City>
+		<City id="30453">
+			<Name lang="EN">Riviere du Loup</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Riviere du Loup, Quebec, Canada</Destination>
+		</City>
+		<City id="30461">
+			<Name lang="EN">Roberval</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Roberval, Quebec, Canada</Destination>
+		</City>
+		<City id="28041">
+			<Name lang="EN">Rossland</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Rossland, British Columbia, Canada</Destination>
+		</City>
+		<City id="28362">
+			<Name lang="EN">Saguenay</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saguenay, Quebec, Canada</Destination>
+		</City>
+		<City id="30600">
+			<Name lang="EN">Saint Catharines</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Saint Catharines, Ontario, Canada</Destination>
+		</City>
+		<City id="28414">
+			<Name lang="EN">Saint Felicien</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Felicien, Quebec, Canada</Destination>
+		</City>
+		<City id="28426">
+			<Name lang="EN">Saint Georges</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Georges, Quebec, Canada</Destination>
+		</City>
+		<City id="28432">
+			<Name lang="EN">Saint Hippolyte</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Hippolyte, Quebec, Canada</Destination>
+		</City>
+		<City id="28433">
+			<Name lang="EN">Saint Hyacinthe</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Hyacinthe, Quebec, Canada</Destination>
+		</City>
+		<City id="28447">
+			<Name lang="EN">Saint Jerome</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Jerome, Quebec, Canada</Destination>
+		</City>
+		<City id="30612">
+			<Name lang="EN">Saint John</Name>
+			<Region lang="EN">New Brunswick</Region>
+			<Destination lang="EN">Saint John, New Brunswick, Canada</Destination>
+		</City>
+		<City id="30615">
+			<Name lang="EN">Saint John's</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Saint John's, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="34013">
+			<Name lang="EN">Saint Laurent</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Laurent, Quebec, Canada</Destination>
+		</City>
+		<City id="28468">
+			<Name lang="EN">Saint Marc sur Richelieu</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Marc sur Richelieu, Quebec, Canada</Destination>
+		</City>
+		<City id="28503">
+			<Name lang="EN">Saint Sauveur des Monts</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Saint Sauveur des Monts, Quebec, Canada</Destination>
+		</City>
+		<City id="28518">
+			<Name lang="EN">Sainte Adele</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Sainte Adele, Quebec, Canada</Destination>
+		</City>
+		<City id="28527">
+			<Name lang="EN">Sainte Anne des Monts</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Sainte Anne des Monts, Quebec, Canada</Destination>
+		</City>
+		<City id="487">
+			<Name lang="EN">Sainte Foy</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Sainte Foy, Quebec, Canada</Destination>
+		</City>
+		<City id="30648">
+			<Name lang="EN">Salmon Arm</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Salmon Arm, British Columbia, Canada</Destination>
+		</City>
+		<City id="28571">
+			<Name lang="EN">Sarnia</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Sarnia, Ontario, Canada</Destination>
+		</City>
+		<City id="28574">
+			<Name lang="EN">Saskatoon</Name>
+			<Region lang="EN">Saskatchewan</Region>
+			<Destination lang="EN">Saskatoon, Saskatchewan, Canada</Destination>
+		</City>
+		<City id="5557">
+			<Name lang="EN">Sault Sainte Marie</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Sault Sainte Marie, Ontario, Canada</Destination>
+		</City>
+		<City id="4696">
+			<Name lang="EN">Scarborough</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Scarborough, Ontario, Canada</Destination>
+		</City>
+		<City id="28591">
+			<Name lang="EN">Sechelt</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Sechelt, British Columbia, Canada</Destination>
+		</City>
+		<City id="28603">
+			<Name lang="EN">Sept-Iles</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Sept-Iles, Quebec, Canada</Destination>
+		</City>
+		<City id="11222">
+			<Name lang="EN">Shawinigan</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Shawinigan, Quebec, Canada</Destination>
+		</City>
+		<City id="28757">
+			<Name lang="EN">Sherbrooke</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Sherbrooke, Quebec, Canada</Destination>
+		</City>
+		<City id="4570">
+			<Name lang="EN">Simcoe</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Simcoe, Ontario, Canada</Destination>
+		</City>
+		<City id="28827">
+			<Name lang="EN">Smithers</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Smithers, British Columbia, Canada</Destination>
+		</City>
+		<City id="1256">
+			<Name lang="EN">Squamish</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Squamish, British Columbia, Canada</Destination>
+		</City>
+		<City id="29034">
+			<Name lang="EN">Stephenville</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Stephenville, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="5756">
+			<Name lang="EN">Sudbury</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Sudbury, Ontario, Canada</Destination>
+		</City>
+		<City id="26732">
+			<Name lang="EN">Sun Peaks</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Sun Peaks, British Columbia, Canada</Destination>
+		</City>
+		<City id="1347">
+			<Name lang="EN">Surrey</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Surrey, British Columbia, Canada</Destination>
+		</City>
+		<City id="29118">
+			<Name lang="EN">Sydney</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Sydney, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="29493">
+			<Name lang="EN">Terrace</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Terrace, British Columbia, Canada</Destination>
+		</City>
+		<City id="775">
+			<Name lang="EN">Thetford Mines</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Thetford Mines, Quebec, Canada</Destination>
+		</City>
+		<City id="29517">
+			<Name lang="EN">Thunder Bay</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Thunder Bay, Ontario, Canada</Destination>
+		</City>
+		<City id="29769">
+			<Name lang="EN">Tofino</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Tofino, British Columbia, Canada</Destination>
+		</City>
+		<City id="29799">
+			<Name lang="EN">Toronto</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Toronto, Ontario, Canada</Destination>
+		</City>
+		<City id="2782">
+			<Name lang="EN">Truro</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Truro, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="2825">
+			<Name lang="EN">Twillingate</Name>
+			<Region lang="EN">Newfoundland & Labrador</Region>
+			<Destination lang="EN">Twillingate, Newfoundland & Labrador, Canada</Destination>
+		</City>
+		<City id="30838">
+			<Name lang="EN">Val d'Or</Name>
+			<Region lang="EN">Quebec</Region>
+			<Destination lang="EN">Val d'Or, Quebec, Canada</Destination>
+		</City>
+		<City id="610">
+			<Name lang="EN">Valemount</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Valemount, British Columbia, Canada</Destination>
+		</City>
+		<City id="30864">
+			<Name lang="EN">Vancouver</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Vancouver, British Columbia, Canada</Destination>
+		</City>
+		<City id="30893">
+			<Name lang="EN">Vernon</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Vernon, British Columbia, Canada</Destination>
+		</City>
+		<City id="445">
+			<Name lang="EN">Victoria</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Victoria, British Columbia, Canada</Destination>
+		</City>
+		<City id="2322">
+			<Name lang="EN">Waterloo</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Waterloo, Ontario, Canada</Destination>
+		</City>
+		<City id="2380">
+			<Name lang="EN">Welland</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Welland, Ontario, Canada</Destination>
+		</City>
+		<City id="4048">
+			<Name lang="EN">Western Shore</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Western Shore, Nova Scotia, Canada</Destination>
+		</City>
+		<City id="31070">
+			<Name lang="EN">Whistler</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Whistler, British Columbia, Canada</Destination>
+		</City>
+		<City id="8262">
+			<Name lang="EN">Whitby</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Whitby, Ontario, Canada</Destination>
+		</City>
+		<City id="31078">
+			<Name lang="EN">Whitehorse</Name>
+			<Region lang="EN">Yukon Territory</Region>
+			<Destination lang="EN">Whitehorse, Yukon Territory, Canada</Destination>
+		</City>
+		<City id="31093">
+			<Name lang="EN">Williams Lake</Name>
+			<Region lang="EN">British Columbia</Region>
+			<Destination lang="EN">Williams Lake, British Columbia, Canada</Destination>
+		</City>
+		<City id="2129">
+			<Name lang="EN">Windsor</Name>
+			<Region lang="EN">Ontario</Region>
+			<Destination lang="EN">Windsor, Ontario, Canada</Destination>
+		</City>
+		<City id="2134">
+			<Name lang="EN">Winnipeg</Name>
+			<Region lang="EN">Manitoba</Region>
+			<Destination lang="EN">Winnipeg, Manitoba, Canada</Destination>
+		</City>
+		<City id="31195">
+			<Name lang="EN">Yarmouth</Name>
+			<Region lang="EN">Nova Scotia</Region>
+			<Destination lang="EN">Yarmouth, Nova Scotia, Canada</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337569" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA LOS HIELOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  RENÉ FAVALORO 3698,]]></Address1>
+					<Address2><![CDATA[9405, El Calafate, Argentina]]></Address2>
+					<PostalCode>9405</PostalCode>
+					<CityCode>82080</CityCode>
+					<CityName lang="EN">
+						<![CDATA[El Calafate]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-50.334618</Latitude>
+					<Longitude>-72.307236</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, Jacuzzi and 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, Jacuzzi and 24/24 Room-Service  We also have Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5104/37155104.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5105/37155105.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5106/37155106.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5107/37155107.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5108/37155108.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5109/37155109.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5110/37155110.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5111/37155111.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5112/37155112.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5113/37155113.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5114/37155114.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5115/37155115.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5116/37155116.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5097/37155097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5098/37155098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5099/37155099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5100/37155100.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5101/37155101.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5102/37155102.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5103/37155103.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 2902 492965/966 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

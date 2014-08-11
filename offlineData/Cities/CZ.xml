@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CZ">
+		<City id="8972"> 
+			<Name lang="EN">Beroun</Name>
+			<Region lang="EN">Beroun</Region>
+			<Destination lang="EN">Beroun, Beroun, Czech Republic</Destination>
+		</City>
+		<City id="7266">
+			<Name lang="EN">Brno</Name>
+			<Region lang="EN">Brno</Region>
+			<Destination lang="EN">Brno, Brno, Czech Republic</Destination>
+		</City>
+		<City id="17773">
+			<Name lang="EN">Ceske Budejovice</Name>
+			<Region lang="EN">Ceske Budejovice</Region>
+			<Destination lang="EN">Ceske Budejovice, Ceske Budejovice, Czech Republic</Destination>
+		</City>
+		<City id="17777">
+			<Name lang="EN">Cesky Krumlov</Name>
+			<Region lang="EN">Cesky Krumlov</Region>
+			<Destination lang="EN">Cesky Krumlov, Cesky Krumlov, Czech Republic</Destination>
+		</City>
+		<City id="16339">
+			<Name lang="EN">Frantiskovy Lazne</Name>
+			<Region lang="EN">Frantiskovy Lazne</Region>
+			<Destination lang="EN">Frantiskovy Lazne, Frantiskovy Lazne, Czech Republic</Destination>
+		</City>
+		<City id="23269">
+			<Name lang="EN">Hluboka nad Vltavou</Name>
+			<Region lang="EN">Hluboka nad Vltavou</Region>
+			<Destination lang="EN">Hluboka nad Vltavou, Hluboka nad Vltavou, Czech Republic</Destination>
+		</City>
+		<City id="29991">
+			<Name lang="EN">Karlovy Vary</Name>
+			<Region lang="EN">Karlovy Vary</Region>
+			<Destination lang="EN">Karlovy Vary, Karlovy Vary, Czech Republic</Destination>
+		</City>
+		<City id="33340">
+			<Name lang="EN">Karlstejn</Name>
+			<Region lang="EN">Karlstejn</Region>
+			<Destination lang="EN">Karlstejn, Karlstejn, Czech Republic</Destination>
+		</City>
+		<City id="15012">
+			<Name lang="EN">Kutna Hora</Name>
+			<Region lang="EN">Kutna Hora</Region>
+			<Destination lang="EN">Kutna Hora, Kutna Hora, Czech Republic</Destination>
+		</City>
+		<City id="18516">
+			<Name lang="EN">Liberec</Name>
+			<Region lang="EN">Liberec</Region>
+			<Destination lang="EN">Liberec, Liberec, Czech Republic</Destination>
+		</City>
+		<City id="14602">
+			<Name lang="EN">Marianske Lazne</Name>
+			<Region lang="EN">Marianske Lazne</Region>
+			<Destination lang="EN">Marianske Lazne, Marianske Lazne, Czech Republic</Destination>
+		</City>
+		<City id="27020">
+			<Name lang="EN">Olomouc</Name>
+			<Region lang="EN">Olomouc</Region>
+			<Destination lang="EN">Olomouc, Olomouc, Czech Republic</Destination>
+		</City>
+		<City id="27054">
+			<Name lang="EN">Ostrava</Name>
+			<Region lang="EN">Ostrava</Region>
+			<Destination lang="EN">Ostrava, Ostrava, Czech Republic</Destination>
+		</City>
+		<City id="24501">
+			<Name lang="EN">Plzen</Name>
+			<Region lang="EN">Plzen</Region>
+			<Destination lang="EN">Plzen, Plzen, Czech Republic</Destination>
+		</City>
+		<City id="29951">
+			<Name lang="EN">Prague</Name>
+			<Region lang="EN">Prague</Region>
+			<Destination lang="EN">Prague, Prague, Czech Republic</Destination>
+		</City>
+		<City id="25746">
+			<Name lang="EN">Pruhonice</Name>
+			<Region lang="EN">Pruhonice</Region>
+			<Destination lang="EN">Pruhonice, Pruhonice, Czech Republic</Destination>
+		</City>
+		<City id="2611">
+			<Name lang="EN">Tabor</Name>
+			<Region lang="EN">Tabor</Region>
+			<Destination lang="EN">Tabor, Tabor, Czech Republic</Destination>
+		</City>
+		<City id="36401">
+			<Name lang="EN">Teplice</Name>
+			<Region lang="EN">Teplice</Region>
+			<Destination lang="EN">Teplice, Teplice, Czech Republic</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

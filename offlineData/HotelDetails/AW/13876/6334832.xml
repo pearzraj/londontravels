@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334832" resultcode="0" message="" >
+				<Name><![CDATA[DIVI DUTCH VILLAGE RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.E. Irausquin Boulevard, 93,]]></Address1>
+					<Address2><![CDATA[1, Oranjestad, Aruba]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.5382</Latitude>
+					<Longitude>-70.0515</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Activities and relax: Jacuzzi, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7029/37157029.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7030/37157030.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7031/37157031.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7032/37157032.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7033/37157033.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7034/37157034.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7035/37157035.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7036/37157036.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7037/37157037.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7038/37157038.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+297 582 0501 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+297 583 5000]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AO">
+		<City id="12302"> 
+			<Name lang="EN">Luanda</Name>
+			<Region lang="EN">Luanda</Region>
+			<Destination lang="EN">Luanda, Luanda, Angola</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

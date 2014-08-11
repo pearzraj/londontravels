@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SY">
+		<City id="6332"> 
+			<Name lang="EN">Aleppo</Name>
+			<Region lang="EN">Aleppo</Region>
+			<Destination lang="EN">Aleppo, Aleppo, Syria</Destination>
+		</City>
+		<City id="7499">
+			<Name lang="EN">Damascus</Name>
+			<Region lang="EN">Damascus</Region>
+			<Destination lang="EN">Damascus, Damascus, Syria</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

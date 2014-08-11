@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333011" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND SALZBURG WEST]]></Name>
+				<Address>
+					<Address1><![CDATA[   Bundesstrasse,4]]></Address1>
+					<Address2><![CDATA[5073, Salzburg Airport [Szg], Austria]]></Address2>
+					<PostalCode>5073</PostalCode>
+					<CityCode>84461</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg Airport [Szg]]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.79202</Latitude>
+					<Longitude>12.99059</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9881/37099881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9882/37099882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9883/37099883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9884/37099884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9885/37099885.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9886/37099886.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9887/37099887.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9888/37099888.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9889/37099889.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9876/37099876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9877/37099877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9879/37099879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9880/37099880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9878/37099878.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 662 8581 4307]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 662 8581 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

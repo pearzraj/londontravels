@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="ME">
+		<City id="12728"> 
+			<Name lang="EN">Budva</Name>
+			<Region lang="EN">Budva</Region>
+			<Destination lang="EN">Budva, Budva, Montenegro</Destination>
+		</City>
+		<City id="13952">
+			<Name lang="EN">Kotor</Name>
+			<Region lang="EN">Kotor</Region>
+			<Destination lang="EN">Kotor, Kotor, Montenegro</Destination>
+		</City>
+		<City id="29709">
+			<Name lang="EN">Podgorica</Name>
+			<Region lang="EN">Podgorica</Region>
+			<Destination lang="EN">Podgorica, Podgorica, Montenegro</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

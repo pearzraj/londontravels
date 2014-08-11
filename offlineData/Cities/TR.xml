@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TR">
+		<City id="6700"> 
+			<Name lang="EN">Adana</Name>
+			<Region lang="EN">Adana</Region>
+			<Destination lang="EN">Adana, Adana, Turkey</Destination>
+		</City>
+		<City id="6704">
+			<Name lang="EN">Adiyaman</Name>
+			<Region lang="EN">Adiyaman</Region>
+			<Destination lang="EN">Adiyaman, Adiyaman, Turkey</Destination>
+		</City>
+		<City id="10822">
+			<Name lang="EN">Afyon</Name>
+			<Region lang="EN">Afyon</Region>
+			<Destination lang="EN">Afyon, Afyon, Turkey</Destination>
+		</City>
+		<City id="10831">
+			<Name lang="EN">Agri</Name>
+			<Region lang="EN">Agri</Region>
+			<Destination lang="EN">Agri, Agri, Turkey</Destination>
+		</City>
+		<City id="31489">
+			<Name lang="EN">Akyaka</Name>
+			<Region lang="EN">Akyaka</Region>
+			<Destination lang="EN">Akyaka, Akyaka, Turkey</Destination>
+		</City>
+		<City id="31519">
+			<Name lang="EN">Alanya</Name>
+			<Region lang="EN">Alanya</Region>
+			<Destination lang="EN">Alanya, Alanya, Turkey</Destination>
+		</City>
+		<City id="6542">
+			<Name lang="EN">Ankara</Name>
+			<Region lang="EN">Ankara</Region>
+			<Destination lang="EN">Ankara, Ankara, Turkey</Destination>
+		</City>
+		<City id="6557">
+			<Name lang="EN">Antalya</Name>
+			<Region lang="EN">Antalya</Region>
+			<Destination lang="EN">Antalya, Antalya, Turkey</Destination>
+		</City>
+		<City id="32049">
+			<Name lang="EN">Assos</Name>
+			<Region lang="EN">Assos</Region>
+			<Destination lang="EN">Assos, Assos, Turkey</Destination>
+		</City>
+		<City id="32150">
+			<Name lang="EN">Aydin</Name>
+			<Region lang="EN">Aydin</Region>
+			<Destination lang="EN">Aydin, Aydin, Turkey</Destination>
+		</City>
+		<City id="32159">
+			<Name lang="EN">Ayvalik</Name>
+			<Region lang="EN">Ayvalik</Region>
+			<Destination lang="EN">Ayvalik, Ayvalik, Turkey</Destination>
+		</City>
+		<City id="6902">
+			<Name lang="EN">Balikesir</Name>
+			<Region lang="EN">Balikesir</Region>
+			<Destination lang="EN">Balikesir, Balikesir, Turkey</Destination>
+		</City>
+		<City id="8390">
+			<Name lang="EN">Belek</Name>
+			<Region lang="EN">Belek</Region>
+			<Destination lang="EN">Belek, Belek, Turkey</Destination>
+		</City>
+		<City id="7143">
+			<Name lang="EN">Bodrum</Name>
+			<Region lang="EN">Bodrum</Region>
+			<Destination lang="EN">Bodrum, Bodrum, Turkey</Destination>
+		</City>
+		<City id="11140">
+			<Name lang="EN">Bolu</Name>
+			<Region lang="EN">Bolu</Region>
+			<Destination lang="EN">Bolu, Bolu, Turkey</Destination>
+		</City>
+		<City id="7348">
+			<Name lang="EN">Bursa</Name>
+			<Region lang="EN">Bursa</Region>
+			<Destination lang="EN">Bursa, Bursa, Turkey</Destination>
+		</City>
+		<City id="7793">
+			<Name lang="EN">Canakkale</Name>
+			<Region lang="EN">Canakkale</Region>
+			<Destination lang="EN">Canakkale, Canakkale, Turkey</Destination>
+		</City>
+		<City id="3646">
+			<Name lang="EN">Cerkezkoy</Name>
+			<Region lang="EN">Cerkezkoy</Region>
+			<Destination lang="EN">Cerkezkoy, Cerkezkoy, Turkey</Destination>
+		</City>
+		<City id="17779">
+			<Name lang="EN">Cesme</Name>
+			<Region lang="EN">Cesme</Region>
+			<Destination lang="EN">Cesme, Cesme, Turkey</Destination>
+		</City>
+		<City id="7483">
+			<Name lang="EN">Dalaman</Name>
+			<Region lang="EN">Dalaman</Region>
+			<Destination lang="EN">Dalaman, Dalaman, Turkey</Destination>
+		</City>
+		<City id="23371">
+			<Name lang="EN">Dalyan</Name>
+			<Region lang="EN">Dalyan</Region>
+			<Destination lang="EN">Dalyan, Dalyan, Turkey</Destination>
+		</City>
+		<City id="23410">
+			<Name lang="EN">Datca</Name>
+			<Region lang="EN">Datca</Region>
+			<Destination lang="EN">Datca, Datca, Turkey</Destination>
+		</City>
+		<City id="7558">
+			<Name lang="EN">Denizli</Name>
+			<Region lang="EN">Denizli</Region>
+			<Destination lang="EN">Denizli, Denizli, Turkey</Destination>
+		</City>
+		<City id="23908">
+			<Name lang="EN">Didim</Name>
+			<Region lang="EN">Didim</Region>
+			<Destination lang="EN">Didim, Didim, Turkey</Destination>
+		</City>
+		<City id="23915">
+			<Name lang="EN">Dikili</Name>
+			<Region lang="EN">Dikili</Region>
+			<Destination lang="EN">Dikili, Dikili, Turkey</Destination>
+		</City>
+		<City id="11023">
+			<Name lang="EN">Diyarbakir</Name>
+			<Region lang="EN">Diyarbakir</Region>
+			<Destination lang="EN">Diyarbakir, Diyarbakir, Turkey</Destination>
+		</City>
+		<City id="18693">
+			<Name lang="EN">Edremit/Korfez</Name>
+			<Region lang="EN">Edremit/Korfez</Region>
+			<Destination lang="EN">Edremit/Korfez, Edremit/Korfez, Turkey</Destination>
+		</City>
+		<City id="10440">
+			<Name lang="EN">Erdek</Name>
+			<Region lang="EN">Erdek</Region>
+			<Destination lang="EN">Erdek, Erdek, Turkey</Destination>
+		</City>
+		<City id="3671">
+			<Name lang="EN">Erzurum</Name>
+			<Region lang="EN">Erzurum</Region>
+			<Destination lang="EN">Erzurum, Erzurum, Turkey</Destination>
+		</City>
+		<City id="3676">
+			<Name lang="EN">Eskisehir</Name>
+			<Region lang="EN">Eskisehir</Region>
+			<Destination lang="EN">Eskisehir, Eskisehir, Turkey</Destination>
+		</City>
+		<City id="14531">
+			<Name lang="EN">Fethiye</Name>
+			<Region lang="EN">Fethiye</Region>
+			<Destination lang="EN">Fethiye, Fethiye, Turkey</Destination>
+		</City>
+		<City id="15284">
+			<Name lang="EN">Foca</Name>
+			<Region lang="EN">Foca</Region>
+			<Destination lang="EN">Foca, Foca, Turkey</Destination>
+		</City>
+		<City id="7844">
+			<Name lang="EN">Gaziantep</Name>
+			<Region lang="EN">Gaziantep</Region>
+			<Destination lang="EN">Gaziantep, Gaziantep, Turkey</Destination>
+		</City>
+		<City id="18792">
+			<Name lang="EN">Gocek</Name>
+			<Region lang="EN">Gocek</Region>
+			<Destination lang="EN">Gocek, Gocek, Turkey</Destination>
+		</City>
+		<City id="18826">
+			<Name lang="EN">Gonen</Name>
+			<Region lang="EN">Gonen</Region>
+			<Destination lang="EN">Gonen, Gonen, Turkey</Destination>
+		</City>
+		<City id="33121">
+			<Name lang="EN">Gumussuyu - Istanbul</Name>
+			<Region lang="EN">Gumussuyu - Istanbul</Region>
+			<Destination lang="EN">Gumussuyu - Istanbul, Gumussuyu - Istanbul, Turkey</Destination>
+		</City>
+		<City id="9261">
+			<Name lang="EN">Hatay</Name>
+			<Region lang="EN">Hatay</Region>
+			<Destination lang="EN">Hatay, Hatay, Turkey</Destination>
+		</City>
+		<City id="24826">
+			<Name lang="EN">Ilgaz</Name>
+			<Region lang="EN">Ilgaz</Region>
+			<Destination lang="EN">Ilgaz, Ilgaz, Turkey</Destination>
+		</City>
+		<City id="15143">
+			<Name lang="EN">Istanbul</Name>
+			<Region lang="EN">Istanbul</Region>
+			<Destination lang="EN">Istanbul, Istanbul, Turkey</Destination>
+		</City>
+		<City id="17504">
+			<Name lang="EN">Izmir</Name>
+			<Region lang="EN">Izmir</Region>
+			<Destination lang="EN">Izmir, Izmir, Turkey</Destination>
+		</City>
+		<City id="25914">
+			<Name lang="EN">Izmit</Name>
+			<Region lang="EN">Izmit</Region>
+			<Destination lang="EN">Izmit, Izmit, Turkey</Destination>
+		</City>
+		<City id="35345">
+			<Name lang="EN">Kadriye</Name>
+			<Region lang="EN">Kadriye</Region>
+			<Destination lang="EN">Kadriye, Kadriye, Turkey</Destination>
+		</City>
+		<City id="7723">
+			<Name lang="EN">Kars</Name>
+			<Region lang="EN">Kars</Region>
+			<Destination lang="EN">Kars, Kars, Turkey</Destination>
+		</City>
+		<City id="9086">
+			<Name lang="EN">Kas</Name>
+			<Region lang="EN">Kas</Region>
+			<Destination lang="EN">Kas, Kas, Turkey</Destination>
+		</City>
+		<City id="7745">
+			<Name lang="EN">Kastamonu</Name>
+			<Region lang="EN">Kastamonu</Region>
+			<Destination lang="EN">Kastamonu, Kastamonu, Turkey</Destination>
+		</City>
+		<City id="8059">
+			<Name lang="EN">Kayseri</Name>
+			<Region lang="EN">Kayseri</Region>
+			<Destination lang="EN">Kayseri, Kayseri, Turkey</Destination>
+		</City>
+		<City id="9828">
+			<Name lang="EN">Kemer</Name>
+			<Region lang="EN">Kemer</Region>
+			<Destination lang="EN">Kemer, Kemer, Turkey</Destination>
+		</City>
+		<City id="11854">
+			<Name lang="EN">Kirklareli</Name>
+			<Region lang="EN">Kirklareli</Region>
+			<Destination lang="EN">Kirklareli, Kirklareli, Turkey</Destination>
+		</City>
+		<City id="8704">
+			<Name lang="EN">Kocaeli</Name>
+			<Region lang="EN">Kocaeli</Region>
+			<Destination lang="EN">Kocaeli, Kocaeli, Turkey</Destination>
+		</City>
+		<City id="9320">
+			<Name lang="EN">Konya</Name>
+			<Region lang="EN">Konya</Region>
+			<Destination lang="EN">Konya, Konya, Turkey</Destination>
+		</City>
+		<City id="15004">
+			<Name lang="EN">Kusadasi</Name>
+			<Region lang="EN">Kusadasi</Region>
+			<Destination lang="EN">Kusadasi, Kusadasi, Turkey</Destination>
+		</City>
+		<City id="15009">
+			<Name lang="EN">Kutahya</Name>
+			<Region lang="EN">Kutahya</Region>
+			<Destination lang="EN">Kutahya, Kutahya, Turkey</Destination>
+		</City>
+		<City id="17624">
+			<Name lang="EN">Lara</Name>
+			<Region lang="EN">Lara</Region>
+			<Destination lang="EN">Lara, Lara, Turkey</Destination>
+		</City>
+		<City id="12690">
+			<Name lang="EN">Malatya</Name>
+			<Region lang="EN">Malatya</Region>
+			<Destination lang="EN">Malatya, Malatya, Turkey</Destination>
+		</City>
+		<City id="22238">
+			<Name lang="EN">Manisa</Name>
+			<Region lang="EN">Manisa</Region>
+			<Destination lang="EN">Manisa, Manisa, Turkey</Destination>
+		</City>
+		<City id="13754">
+			<Name lang="EN">Mardin</Name>
+			<Region lang="EN">Mardin</Region>
+			<Destination lang="EN">Mardin, Mardin, Turkey</Destination>
+		</City>
+		<City id="23316">
+			<Name lang="EN">Marmaris</Name>
+			<Region lang="EN">Marmaris</Region>
+			<Destination lang="EN">Marmaris, Marmaris, Turkey</Destination>
+		</City>
+		<City id="24323">
+			<Name lang="EN">Mersin</Name>
+			<Region lang="EN">Mersin</Region>
+			<Destination lang="EN">Mersin, Mersin, Turkey</Destination>
+		</City>
+		<City id="27757">
+			<Name lang="EN">Mugla</Name>
+			<Region lang="EN">Mugla</Region>
+			<Destination lang="EN">Mugla, Mugla, Turkey</Destination>
+		</City>
+		<City id="18982">
+			<Name lang="EN">Nevsehir</Name>
+			<Region lang="EN">Nevsehir</Region>
+			<Destination lang="EN">Nevsehir, Nevsehir, Turkey</Destination>
+		</City>
+		<City id="9400">
+			<Name lang="EN">Nigde</Name>
+			<Region lang="EN">Nigde</Region>
+			<Destination lang="EN">Nigde, Nigde, Turkey</Destination>
+		</City>
+		<City id="13897">
+			<Name lang="EN">Oren</Name>
+			<Region lang="EN">Oren</Region>
+			<Destination lang="EN">Oren, Oren, Turkey</Destination>
+		</City>
+		<City id="18396">
+			<Name lang="EN">Ozdere</Name>
+			<Region lang="EN">Ozdere</Region>
+			<Destination lang="EN">Ozdere, Ozdere, Turkey</Destination>
+		</City>
+		<City id="19735">
+			<Name lang="EN">Pamukkale</Name>
+			<Region lang="EN">Pamukkale</Region>
+			<Destination lang="EN">Pamukkale, Pamukkale, Turkey</Destination>
+		</City>
+		<City id="27914">
+			<Name lang="EN">Rize</Name>
+			<Region lang="EN">Rize</Region>
+			<Destination lang="EN">Rize, Rize, Turkey</Destination>
+		</City>
+		<City id="28357">
+			<Name lang="EN">Safranbolu</Name>
+			<Region lang="EN">Safranbolu</Region>
+			<Destination lang="EN">Safranbolu, Safranbolu, Turkey</Destination>
+		</City>
+		<City id="507">
+			<Name lang="EN">Sakarya</Name>
+			<Region lang="EN">Sakarya</Region>
+			<Destination lang="EN">Sakarya, Sakarya, Turkey</Destination>
+		</City>
+		<City id="5526">
+			<Name lang="EN">Samsun</Name>
+			<Region lang="EN">Samsun</Region>
+			<Destination lang="EN">Samsun, Samsun, Turkey</Destination>
+		</City>
+		<City id="8001">
+			<Name lang="EN">Sanliurfa</Name>
+			<Region lang="EN">Sanliurfa</Region>
+			<Destination lang="EN">Sanliurfa, Sanliurfa, Turkey</Destination>
+		</City>
+		<City id="4322">
+			<Name lang="EN">Sapanca</Name>
+			<Region lang="EN">Sapanca</Region>
+			<Destination lang="EN">Sapanca, Sapanca, Turkey</Destination>
+		</City>
+		<City id="4342">
+			<Name lang="EN">Sarigerme</Name>
+			<Region lang="EN">Sarigerme</Region>
+			<Destination lang="EN">Sarigerme, Sarigerme, Turkey</Destination>
+		</City>
+		<City id="4506">
+			<Name lang="EN">Side</Name>
+			<Region lang="EN">Side</Region>
+			<Destination lang="EN">Side, Side, Turkey</Destination>
+		</City>
+		<City id="4543">
+			<Name lang="EN">Sile</Name>
+			<Region lang="EN">Sile</Region>
+			<Destination lang="EN">Sile, Sile, Turkey</Destination>
+		</City>
+		<City id="29363">
+			<Name lang="EN">Tekirdag</Name>
+			<Region lang="EN">Tekirdag</Region>
+			<Destination lang="EN">Tekirdag, Tekirdag, Turkey</Destination>
+		</City>
+		<City id="373">
+			<Name lang="EN">Trabzon</Name>
+			<Region lang="EN">Trabzon</Region>
+			<Destination lang="EN">Trabzon, Trabzon, Turkey</Destination>
+		</City>
+		<City id="294">
+			<Name lang="EN">Uchisar</Name>
+			<Region lang="EN">Uchisar</Region>
+			<Destination lang="EN">Uchisar, Uchisar, Turkey</Destination>
+		</City>
+		<City id="2893">
+			<Name lang="EN">Urgup</Name>
+			<Region lang="EN">Urgup</Region>
+			<Destination lang="EN">Urgup, Urgup, Turkey</Destination>
+		</City>
+		<City id="30862">
+			<Name lang="EN">Van</Name>
+			<Region lang="EN">Van</Region>
+			<Destination lang="EN">Van, Van, Turkey</Destination>
+		</City>
+		<City id="3115">
+			<Name lang="EN">Yalova</Name>
+			<Region lang="EN">Yalova</Region>
+			<Destination lang="EN">Yalova, Yalova, Turkey</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

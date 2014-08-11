@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494022" resultcode="0" message="" >
+				<Name><![CDATA[MELIA RECOLETA PLAZA BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Posadas 1557 , ]]></Address1>
+					<Address2><![CDATA[C1112ADA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1112ADA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.586452</Latitude>
+					<Longitude>-58.387646</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna, Solarium and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4211/37674211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4212/37674212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4213/37674213.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4214/37674214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4215/37674215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4216/37674216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4217/37674217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4218/37674218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4219/37674219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4220/37674220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4221/37674221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4222/37674222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4223/37674223.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4224/37674224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4225/37674225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4226/37674226.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4227/37674227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4228/37674228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4229/37674229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4230/37674230.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5353 4001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5353 4000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

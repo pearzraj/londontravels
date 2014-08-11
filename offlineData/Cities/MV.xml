@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MV">
+		<City id="15380"> 
+			<Name lang="EN">Addu Atoll</Name>
+			<Region lang="EN">Addu Atoll</Region>
+			<Destination lang="EN">Addu Atoll, Addu Atoll, Maldives</Destination>
+		</City>
+		<City id="12693">
+			<Name lang="EN">Male</Name>
+			<Region lang="EN">Male</Region>
+			<Destination lang="EN">Male, Male, Maldives</Destination>
+		</City>
+		<City id="17315">
+			<Name lang="EN">North Male Atoll</Name>
+			<Region lang="EN">North Male Atoll</Region>
+			<Destination lang="EN">North Male Atoll, North Male Atoll, Maldives</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

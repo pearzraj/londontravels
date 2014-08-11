@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493782" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE GRAND JEBEL HAFEET]]></Name>
+				<Address>
+					<Address1><![CDATA[   Jebel Hafeet Al Ain, Po Box 24476,]]></Address1>
+					<Address2><![CDATA[16031, Al Ain, United Arab Emirates]]></Address2>
+					<PostalCode>16031</PostalCode>
+					<CityCode>78895</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Al Ain]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.05861</Latitude>
+					<Longitude>55.7775</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26624_11_1.gif</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26624_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26624_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097137839000]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97137838888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

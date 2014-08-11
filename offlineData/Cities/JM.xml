@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="JM">
+		<City id="8642"> 
+			<Name lang="EN">Kingston</Name>
+			<Region lang="EN">Kingston</Region>
+			<Destination lang="EN">Kingston, Kingston, Jamaica</Destination>
+		</City>
+		<City id="16560">
+			<Name lang="EN">Montego Bay</Name>
+			<Region lang="EN">Montego Bay</Region>
+			<Destination lang="EN">Montego Bay, Montego Bay, Jamaica</Destination>
+		</City>
+		<City id="18964">
+			<Name lang="EN">Negril</Name>
+			<Region lang="EN">Negril</Region>
+			<Destination lang="EN">Negril, Negril, Jamaica</Destination>
+		</City>
+		<City id="26243">
+			<Name lang="EN">Ocho Rios</Name>
+			<Region lang="EN">Ocho Rios</Region>
+			<Destination lang="EN">Ocho Rios, Ocho Rios, Jamaica</Destination>
+		</City>
+		<City id="28209">
+			<Name lang="EN">Runaway Bay</Name>
+			<Region lang="EN">Runaway Bay</Region>
+			<Destination lang="EN">Runaway Bay, Runaway Bay, Jamaica</Destination>
+		</City>
+		<City id="2537">
+			<Name lang="EN">Trelawny</Name>
+			<Region lang="EN">Trelawny</Region>
+			<Destination lang="EN">Trelawny, Trelawny, Jamaica</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

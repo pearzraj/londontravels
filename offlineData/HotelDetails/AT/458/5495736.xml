@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495736" resultcode="0" message="" >
+				<Name><![CDATA[GRABEN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Dorotheergasse,3]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.208187</Latitude>
+					<Longitude>16.370289</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar, Radio and Shower with Curtain  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Satellite / Cable TV , Hairdryer, Minibar, Radio and Shower with Curtain  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Curtain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9690/37259690.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9691/37259691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9692/37259692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9693/37259693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9694/37259694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9695/37259695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9696/37259696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9697/37259697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9698/37259698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9699/37259699.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05904_12_13.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 5121 53120]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 5121 5310 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

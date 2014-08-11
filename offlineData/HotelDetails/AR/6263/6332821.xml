@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332821" resultcode="0" message="" >
+				<Name><![CDATA[KENTON PALACE BUENOS AIRES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Defensa 383,]]></Address1>
+					<Address2><![CDATA[1065, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1065</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.612274</Latitude>
+					<Longitude>-58.371952</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8607/37098607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8608/37098608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8609/37098609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8610/37098610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8611/37098611.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8612/37098612.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143312020]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541143312020 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

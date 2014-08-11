@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338475" resultcode="0" message="" >
+				<Name><![CDATA[MOVENPICK HOTEL AND APARTMENTS BUR DUBAI]]></Name>
+				<Address>
+					<Address1><![CDATA[  19th Street, Opposite American Hospital, Oud Metha,]]></Address1>
+					<Address2><![CDATA[DUBAI, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>DUBAI</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.234215</Latitude>
+					<Longitude>55.3117</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. We have Babysitting Service for children. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. We have Babysitting Service for children. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Catering Services]]></Name>
+						<Description><![CDATA[Wedding Menu]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3874/37113874.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3875/37113875.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3876/37113876.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3877/37113877.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3878/37113878.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3879/37113879.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3880/37113880.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3881/37113881.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3882/37113882.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3883/37113883.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3884/37113884.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3871/37113871.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3872/37113872.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3873/37113873.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 336 6626]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 4 336 6000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

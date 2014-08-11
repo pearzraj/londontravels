@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494104" resultcode="0" message="" >
+				<Name><![CDATA[MAYFLOWER SUITES]]></Name>
+				<Address>
+					<Address1><![CDATA[  Parana, 720]]></Address1>
+					<Address2><![CDATA[C1017AAP, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1017AAP</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.600067</Latitude>
+					<Longitude>-58.388092</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9678/37679678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9679/37679679.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9680/37679680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9681/37679681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9682/37679682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9683/37679683.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9684/37679684.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9685/37679685.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9686/37679686.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9687/37679687.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9688/37679688.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9689/37679689.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9690/37679690.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9691/37679691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9692/37679692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9693/37679693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9694/37679694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9695/37679695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9696/37679696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9697/37679697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9698/37679698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9675/37679675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9676/37679676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9677/37679677.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 52520407]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 5238 0050 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

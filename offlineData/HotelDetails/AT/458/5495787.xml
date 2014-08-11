@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495787" resultcode="0" message="" >
+				<Name><![CDATA[STARLIGHT SUITEN SALZGRIES]]></Name>
+				<Address>
+					<Address1><![CDATA[   Am Salzgries,12]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20188</Latitude>
+					<Longitude>16.379972</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4118/37664118.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01663_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 535 922211]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 535 9222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

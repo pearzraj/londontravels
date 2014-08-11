@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495790" resultcode="0" message="" >
+				<Name><![CDATA[INTERCONTINENTAL VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Johannesgasse,28]]></Address1>
+					<Address2><![CDATA[1037, Vienna, Austria]]></Address2>
+					<PostalCode>1037</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.201923</Latitude>
+					<Longitude>16.379587</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops and Business Centre.  Activities and relax: Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops and Business Centre.  Activities and relax: Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4128/37664128.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4129/37664129.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4130/37664130.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4131/37664131.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4132/37664132.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4133/37664133.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4134/37664134.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4135/37664135.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4136/37664136.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4137/37664137.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4138/37664138.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4139/37664139.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00512_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 713 44 89]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 711 22 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

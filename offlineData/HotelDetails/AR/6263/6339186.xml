@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339186" resultcode="0" message="" >
+				<Name><![CDATA[TANGO LODGE PALERMO SOHO]]></Name>
+				<Address>
+					<Address1><![CDATA[  FRAY JUSTO SANTAMARIA DE ORO 2047,]]></Address1>
+					<Address2><![CDATA[00000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.583714</Latitude>
+					<Longitude>-58.428383</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Porters and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Porters and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7045/37137045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7046/37137046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7047/37137047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7048/37137048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7049/37137049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7050/37137050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7051/37137051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7052/37137052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7053/37137053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7054/37137054.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7055/37137055.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7056/37137056.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7057/37137057.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7058/37137058.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7059/37137059.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7060/37137060.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7061/37137061.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7038/37137038.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7039/37137039.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7040/37137040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7041/37137041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7042/37137042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7043/37137043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7044/37137044.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4554 6336 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335855" resultcode="0" message="" >
+				<Name><![CDATA[BEST WESTERN AMEDIA ART SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[  Linzer Bundesstrasse,6]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.80925</Latitude>
+					<Longitude>13.064196</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2429/41102429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2430/41102430.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07513_1_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[4366265010060]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 650100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

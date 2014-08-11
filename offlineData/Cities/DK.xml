@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="DK">
+		<City id="6661"> 
+			<Name lang="EN">Aalborg</Name>
+			<Region lang="EN">Aalborg</Region>
+			<Destination lang="EN">Aalborg, Aalborg, Denmark</Destination>
+		</City>
+		<City id="6663">
+			<Name lang="EN">Aarhus</Name>
+			<Region lang="EN">Aarhus</Region>
+			<Destination lang="EN">Aarhus, Aarhus, Denmark</Destination>
+		</City>
+		<City id="31645">
+			<Name lang="EN">Allinge</Name>
+			<Region lang="EN">Allinge</Region>
+			<Destination lang="EN">Allinge, Allinge, Denmark</Destination>
+		</City>
+		<City id="7096">
+			<Name lang="EN">Billund</Name>
+			<Region lang="EN">Billund</Region>
+			<Destination lang="EN">Billund, Billund, Denmark</Destination>
+		</City>
+		<City id="16834">
+			<Name lang="EN">Copenhagen</Name>
+			<Region lang="EN">Copenhagen</Region>
+			<Destination lang="EN">Copenhagen, Copenhagen, Denmark</Destination>
+		</City>
+		<City id="3673">
+			<Name lang="EN">Esbjerg</Name>
+			<Region lang="EN">Esbjerg</Region>
+			<Destination lang="EN">Esbjerg, Esbjerg, Denmark</Destination>
+		</City>
+		<City id="16349">
+			<Name lang="EN">Fredericia</Name>
+			<Region lang="EN">Fredericia</Region>
+			<Destination lang="EN">Fredericia, Fredericia, Denmark</Destination>
+		</City>
+		<City id="24025">
+			<Name lang="EN">Horsens</Name>
+			<Region lang="EN">Horsens</Region>
+			<Destination lang="EN">Horsens, Horsens, Denmark</Destination>
+		</City>
+		<City id="13223">
+			<Name lang="EN">Kolding</Name>
+			<Region lang="EN">Kolding</Region>
+			<Destination lang="EN">Kolding, Kolding, Denmark</Destination>
+		</City>
+		<City id="26247">
+			<Name lang="EN">Odense</Name>
+			<Region lang="EN">Odense</Region>
+			<Destination lang="EN">Odense, Odense, Denmark</Destination>
+		</City>
+		<City id="26346">
+			<Name lang="EN">Randers</Name>
+			<Region lang="EN">Randers</Region>
+			<Destination lang="EN">Randers, Randers, Denmark</Destination>
+		</City>
+		<City id="28032">
+			<Name lang="EN">Roskilde</Name>
+			<Region lang="EN">Roskilde</Region>
+			<Destination lang="EN">Roskilde, Roskilde, Denmark</Destination>
+		</City>
+		<City id="4550">
+			<Name lang="EN">Silkeborg</Name>
+			<Region lang="EN">Silkeborg</Region>
+			<Destination lang="EN">Silkeborg, Silkeborg, Denmark</Destination>
+		</City>
+		<City id="28861">
+			<Name lang="EN">Sonderborg</Name>
+			<Region lang="EN">Sonderborg</Region>
+			<Destination lang="EN">Sonderborg, Sonderborg, Denmark</Destination>
+		</City>
+		<City id="2605">
+			<Name lang="EN">Taastrup</Name>
+			<Region lang="EN">Taastrup</Region>
+			<Destination lang="EN">Taastrup, Taastrup, Denmark</Destination>
+		</City>
+		<City id="1006">
+			<Name lang="EN">Vedbaek</Name>
+			<Region lang="EN">Vedbaek</Region>
+			<Destination lang="EN">Vedbaek, Vedbaek, Denmark</Destination>
+		</City>
+		<City id="30884">
+			<Name lang="EN">Vejle</Name>
+			<Region lang="EN">Vejle</Region>
+			<Destination lang="EN">Vejle, Vejle, Denmark</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

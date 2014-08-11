@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332048" resultcode="0" message="" >
+				<Name><![CDATA[ROONEYS BOUTIQUE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sarmiento 1775 Third Floor,]]></Address1>
+					<Address2><![CDATA[1042, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1042</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60512</Latitude>
+					<Longitude>-58.391464</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Minibar  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning and Minibar  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3345/37093345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3346/37093346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3347/37093347.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3348/37093348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3349/37093349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3350/37093350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3351/37093351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3352/37093352.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5411 5252 5060]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5252 5060 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

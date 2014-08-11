@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331509" resultcode="0" message="" >
+				<Name><![CDATA[VILA E ARTE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Str "QEMAL STAFA",]]></Address1>
+					<Address2><![CDATA[7, Tirana, Albania]]></Address2>
+					<PostalCode>7</PostalCode>
+					<CityCode>64354</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tirana]]>
+					</CityName>
+					<CountryCode>AL</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Albania]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>41.33165</Latitude>
+					<Longitude>19.8318</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9645/37089645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9646/37089646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9647/37089647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9636/37089636.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9637/37089637.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9638/37089638.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9639/37089639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9640/37089640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9641/37089641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9642/37089642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9643/37089643.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9644/37089644.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

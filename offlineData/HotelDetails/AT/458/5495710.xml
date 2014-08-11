@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495710" resultcode="0" message="" >
+				<Name><![CDATA[ROYAL HOTEL VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Singerstrasse,3]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.2079</Latitude>
+					<Longitude>16.37231</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, Hairdryer and Minibar  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, Hairdryer and Minibar  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9482/37259482.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9483/37259483.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9472/37259472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9473/37259473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9474/37259474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9475/37259475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9476/37259476.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9477/37259477.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9478/37259478.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9479/37259479.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9480/37259480.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9481/37259481.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05902_12_14.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 513 9698]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 1 515 680 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

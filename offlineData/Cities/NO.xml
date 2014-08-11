@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="NO">
+		<City id="6662"> 
+			<Name lang="EN">Aalesund</Name>
+			<Region lang="EN">Aalesund</Region>
+			<Destination lang="EN">Aalesund, Aalesund, Norway</Destination>
+		</City>
+		<City id="31492">
+			<Name lang="EN">Al</Name>
+			<Region lang="EN">Al</Region>
+			<Destination lang="EN">Al, Al, Norway</Destination>
+		</City>
+		<City id="6376">
+			<Name lang="EN">Alta</Name>
+			<Region lang="EN">Alta</Region>
+			<Destination lang="EN">Alta, Alta, Norway</Destination>
+		</City>
+		<City id="31915">
+			<Name lang="EN">Arendal</Name>
+			<Region lang="EN">Arendal</Region>
+			<Destination lang="EN">Arendal, Arendal, Norway</Destination>
+		</City>
+		<City id="32030">
+			<Name lang="EN">Asker</Name>
+			<Region lang="EN">Asker</Region>
+			<Destination lang="EN">Asker, Asker, Norway</Destination>
+		</City>
+		<City id="32287">
+			<Name lang="EN">Balestrand</Name>
+			<Region lang="EN">Balestrand</Region>
+			<Destination lang="EN">Balestrand, Balestrand, Norway</Destination>
+		</City>
+		<City id="12118">
+			<Name lang="EN">Bergen</Name>
+			<Region lang="EN">Bergen</Region>
+			<Destination lang="EN">Bergen, Bergen, Norway</Destination>
+		</City>
+		<City id="7142">
+			<Name lang="EN">Bodo</Name>
+			<Region lang="EN">Bodo</Region>
+			<Destination lang="EN">Bodo, Bodo, Norway</Destination>
+		</City>
+		<City id="7275">
+			<Name lang="EN">Bronnoysund</Name>
+			<Region lang="EN">Bronnoysund</Region>
+			<Destination lang="EN">Bronnoysund, Bronnoysund, Norway</Destination>
+		</City>
+		<City id="8301">
+			<Name lang="EN">Dombas</Name>
+			<Region lang="EN">Dombas</Region>
+			<Destination lang="EN">Dombas, Dombas, Norway</Destination>
+		</City>
+		<City id="8733">
+			<Name lang="EN">Drammen</Name>
+			<Region lang="EN">Drammen</Region>
+			<Destination lang="EN">Drammen, Drammen, Norway</Destination>
+		</City>
+		<City id="9605">
+			<Name lang="EN">Eidfjord</Name>
+			<Region lang="EN">Eidfjord</Region>
+			<Destination lang="EN">Eidfjord, Eidfjord, Norway</Destination>
+		</City>
+		<City id="3711">
+			<Name lang="EN">Fagernes</Name>
+			<Region lang="EN">Fagernes</Region>
+			<Destination lang="EN">Fagernes, Fagernes, Norway</Destination>
+		</City>
+		<City id="15254">
+			<Name lang="EN">Flam</Name>
+			<Region lang="EN">Flam</Region>
+			<Destination lang="EN">Flam, Flam, Norway</Destination>
+		</City>
+		<City id="33030">
+			<Name lang="EN">Fornebu</Name>
+			<Region lang="EN">Fornebu</Region>
+			<Destination lang="EN">Fornebu, Fornebu, Norway</Destination>
+		</City>
+		<City id="17416">
+			<Name lang="EN">Gardermoen</Name>
+			<Region lang="EN">Gardermoen</Region>
+			<Destination lang="EN">Gardermoen, Gardermoen, Norway</Destination>
+		</City>
+		<City id="7852">
+			<Name lang="EN">Geilo</Name>
+			<Region lang="EN">Geilo</Region>
+			<Destination lang="EN">Geilo, Geilo, Norway</Destination>
+		</City>
+		<City id="17470">
+			<Name lang="EN">Geiranger</Name>
+			<Region lang="EN">Geiranger</Region>
+			<Destination lang="EN">Geiranger, Geiranger, Norway</Destination>
+		</City>
+		<City id="18070">
+			<Name lang="EN">Gjovik</Name>
+			<Region lang="EN">Gjovik</Region>
+			<Destination lang="EN">Gjovik, Gjovik, Norway</Destination>
+		</City>
+		<City id="9243">
+			<Name lang="EN">Hamar</Name>
+			<Region lang="EN">Hamar</Region>
+			<Destination lang="EN">Hamar, Hamar, Norway</Destination>
+		</City>
+		<City id="9250">
+			<Name lang="EN">Harstad-Narvik</Name>
+			<Region lang="EN">Harstad-Narvik</Region>
+			<Destination lang="EN">Harstad-Narvik, Harstad-Narvik, Norway</Destination>
+		</City>
+		<City id="28675">
+			<Name lang="EN">Haugesund</Name>
+			<Region lang="EN">Haugesund</Region>
+			<Destination lang="EN">Haugesund, Haugesund, Norway</Destination>
+		</City>
+		<City id="10015">
+			<Name lang="EN">Honningsvag</Name>
+			<Region lang="EN">Honningsvag</Region>
+			<Destination lang="EN">Honningsvag, Honningsvag, Norway</Destination>
+		</City>
+		<City id="24018">
+			<Name lang="EN">Hornindal</Name>
+			<Region lang="EN">Hornindal</Region>
+			<Destination lang="EN">Hornindal, Hornindal, Norway</Destination>
+		</City>
+		<City id="9052">
+			<Name lang="EN">Karasjok</Name>
+			<Region lang="EN">Karasjok</Region>
+			<Destination lang="EN">Karasjok, Karasjok, Norway</Destination>
+		</City>
+		<City id="9785">
+			<Name lang="EN">Kautokeino</Name>
+			<Region lang="EN">Kautokeino</Region>
+			<Destination lang="EN">Kautokeino, Kautokeino, Norway</Destination>
+		</City>
+		<City id="8653">
+			<Name lang="EN">Kirkenes</Name>
+			<Region lang="EN">Kirkenes</Region>
+			<Destination lang="EN">Kirkenes, Kirkenes, Norway</Destination>
+		</City>
+		<City id="13221">
+			<Name lang="EN">Kolbotn</Name>
+			<Region lang="EN">Kolbotn</Region>
+			<Destination lang="EN">Kolbotn, Kolbotn, Norway</Destination>
+		</City>
+		<City id="9373">
+			<Name lang="EN">Kristiansand</Name>
+			<Region lang="EN">Kristiansand</Region>
+			<Destination lang="EN">Kristiansand, Kristiansand, Norway</Destination>
+		</City>
+		<City id="9375">
+			<Name lang="EN">Kristiansund</Name>
+			<Region lang="EN">Kristiansund</Region>
+			<Destination lang="EN">Kristiansund, Kristiansund, Norway</Destination>
+		</City>
+		<City id="16098">
+			<Name lang="EN">Laerdal</Name>
+			<Region lang="EN">Laerdal</Region>
+			<Destination lang="EN">Laerdal, Laerdal, Norway</Destination>
+		</City>
+		<City id="10540">
+			<Name lang="EN">Leknes</Name>
+			<Region lang="EN">Leknes</Region>
+			<Destination lang="EN">Leknes, Leknes, Norway</Destination>
+		</City>
+		<City id="19501">
+			<Name lang="EN">Lillehammer</Name>
+			<Region lang="EN">Lillehammer</Region>
+			<Destination lang="EN">Lillehammer, Lillehammer, Norway</Destination>
+		</City>
+		<City id="19503">
+			<Name lang="EN">Lillestrom</Name>
+			<Region lang="EN">Lillestrom</Region>
+			<Destination lang="EN">Lillestrom, Lillestrom, Norway</Destination>
+		</City>
+		<City id="19927">
+			<Name lang="EN">Loen</Name>
+			<Region lang="EN">Loen</Region>
+			<Destination lang="EN">Loen, Loen, Norway</Destination>
+		</City>
+		<City id="19928">
+			<Name lang="EN">Lofthus</Name>
+			<Region lang="EN">Lofthus</Region>
+			<Destination lang="EN">Lofthus, Lofthus, Norway</Destination>
+		</City>
+		<City id="20558">
+			<Name lang="EN">Lorenskog</Name>
+			<Region lang="EN">Lorenskog</Region>
+			<Destination lang="EN">Lorenskog, Lorenskog, Norway</Destination>
+		</City>
+		<City id="20704">
+			<Name lang="EN">Lysaker</Name>
+			<Region lang="EN">Lysaker</Region>
+			<Destination lang="EN">Lysaker, Lysaker, Norway</Destination>
+		</City>
+		<City id="16554">
+			<Name lang="EN">Molde</Name>
+			<Region lang="EN">Molde</Region>
+			<Destination lang="EN">Molde, Molde, Norway</Destination>
+		</City>
+		<City id="9483">
+			<Name lang="EN">Norheimsund</Name>
+			<Region lang="EN">Norheimsund</Region>
+			<Destination lang="EN">Norheimsund, Norheimsund, Norway</Destination>
+		</City>
+		<City id="26632">
+			<Name lang="EN">Oslo</Name>
+			<Region lang="EN">Oslo</Region>
+			<Destination lang="EN">Oslo, Oslo, Norway</Destination>
+		</City>
+		<City id="23800">
+			<Name lang="EN">Osoyro</Name>
+			<Region lang="EN">Osoyro</Region>
+			<Destination lang="EN">Osoyro, Osoyro, Norway</Destination>
+		</City>
+		<City id="14966">
+			<Name lang="EN">Otta</Name>
+			<Region lang="EN">Otta</Region>
+			<Destination lang="EN">Otta, Otta, Norway</Destination>
+		</City>
+		<City id="18393">
+			<Name lang="EN">Oystese</Name>
+			<Region lang="EN">Oystese</Region>
+			<Destination lang="EN">Oystese, Oystese, Norway</Destination>
+		</City>
+		<City id="26364">
+			<Name lang="EN">Rasta</Name>
+			<Region lang="EN">Rasta</Region>
+			<Destination lang="EN">Rasta, Rasta, Norway</Destination>
+		</City>
+		<City id="30510">
+			<Name lang="EN">Roros</Name>
+			<Region lang="EN">Roros</Region>
+			<Destination lang="EN">Roros, Roros, Norway</Destination>
+		</City>
+		<City id="6137">
+			<Name lang="EN">Sandnes</Name>
+			<Region lang="EN">Sandnes</Region>
+			<Destination lang="EN">Sandnes, Sandnes, Norway</Destination>
+		</City>
+		<City id="6146">
+			<Name lang="EN">Sandvika</Name>
+			<Region lang="EN">Sandvika</Region>
+			<Destination lang="EN">Sandvika, Sandvika, Norway</Destination>
+		</City>
+		<City id="4352">
+			<Name lang="EN">Sarpsborg</Name>
+			<Region lang="EN">Sarpsborg</Region>
+			<Destination lang="EN">Sarpsborg, Sarpsborg, Norway</Destination>
+		</City>
+		<City id="28808">
+			<Name lang="EN">Skien</Name>
+			<Region lang="EN">Skien</Region>
+			<Destination lang="EN">Skien, Skien, Norway</Destination>
+		</City>
+		<City id="28848">
+			<Name lang="EN">Sogndal</Name>
+			<Region lang="EN">Sogndal</Region>
+			<Destination lang="EN">Sogndal, Sogndal, Norway</Destination>
+		</City>
+		<City id="4477">
+			<Name lang="EN">Stalheim</Name>
+			<Region lang="EN">Stalheim</Region>
+			<Destination lang="EN">Stalheim, Stalheim, Norway</Destination>
+		</City>
+		<City id="29025">
+			<Name lang="EN">Stavanger</Name>
+			<Region lang="EN">Stavanger</Region>
+			<Destination lang="EN">Stavanger, Stavanger, Norway</Destination>
+		</City>
+		<City id="34173">
+			<Name lang="EN">Steinsland</Name>
+			<Region lang="EN">Steinsland</Region>
+			<Destination lang="EN">Steinsland, Steinsland, Norway</Destination>
+		</City>
+		<City id="29108">
+			<Name lang="EN">Svolvaer</Name>
+			<Region lang="EN">Svolvaer</Region>
+			<Destination lang="EN">Svolvaer, Svolvaer, Norway</Destination>
+		</City>
+		<City id="2155">
+			<Name lang="EN">Tonsberg</Name>
+			<Region lang="EN">Tonsberg</Region>
+			<Destination lang="EN">Tonsberg, Tonsberg, Norway</Destination>
+		</City>
+		<City id="29826">
+			<Name lang="EN">Tromso</Name>
+			<Region lang="EN">Tromso</Region>
+			<Destination lang="EN">Tromso, Tromso, Norway</Destination>
+		</City>
+		<City id="29828">
+			<Name lang="EN">Trondheim</Name>
+			<Region lang="EN">Trondheim</Region>
+			<Destination lang="EN">Trondheim, Trondheim, Norway</Destination>
+		</City>
+		<City id="328">
+			<Name lang="EN">Ulsteinvik</Name>
+			<Region lang="EN">Ulsteinvik</Region>
+			<Destination lang="EN">Ulsteinvik, Ulsteinvik, Norway</Destination>
+		</City>
+		<City id="336">
+			<Name lang="EN">Ulvik</Name>
+			<Region lang="EN">Ulvik</Region>
+			<Destination lang="EN">Ulvik, Ulvik, Norway</Destination>
+		</City>
+		<City id="2059">
+			<Name lang="EN">Voss</Name>
+			<Region lang="EN">Voss</Region>
+			<Destination lang="EN">Voss, Voss, Norway</Destination>
+		</City>
+		<City id="2069">
+			<Name lang="EN">Vradal</Name>
+			<Region lang="EN">Vradal</Region>
+			<Destination lang="EN">Vradal, Vradal, Norway</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

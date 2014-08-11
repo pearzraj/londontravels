@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494716" resultcode="0" message="" >
+				<Name><![CDATA[VIBE SAVOY HOTEL MELBOURNE ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Little Collins Street,630]]></Address1>
+					<Address2><![CDATA[3000, Melbourne, Australia]]></Address2>
+					<PostalCode>3000</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.81795</Latitude>
+					<Longitude>144.95398</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8532/32608532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8533/32608533.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8534/32608534.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8535/32608535.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8536/32608536.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8537/32608537.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8525/32608525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8538/32608538.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8526/32608526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8527/32608527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8528/32608528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8529/32608529.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8530/32608530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8531/32608531.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061396228818]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0061396228888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

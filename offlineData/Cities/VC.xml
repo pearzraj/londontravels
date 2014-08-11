@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="VC">
+		<City id="27419"> 
+			<Name lang="EN">Palm Island</Name>
+			<Region lang="EN">Grenadines Islands</Region>
+			<Destination lang="EN">Palm Island, Grenadines Islands, St Vinc & Grenadines</Destination>
+		</City>
+		<City id="5502">
+			<Name lang="EN">Saint Vincent</Name>
+			<Region lang="EN">St. Vincent</Region>
+			<Destination lang="EN">Saint Vincent, St. Vincent, St Vinc & Grenadines</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

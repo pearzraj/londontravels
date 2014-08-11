@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495727" resultcode="0" message="" >
+				<Name><![CDATA[DANIEL HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Europaplatz,1]]></Address1>
+					<Address2><![CDATA[8020, Graz, Austria]]></Address2>
+					<PostalCode>8020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.071133</Latitude>
+					<Longitude>15.418254</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Jacuzzi. At the Business Centre, customers can work as though they were in their own office. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Shops, Garage and Business Centre.  Activities and relax: Jacuzzi. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9586/37259586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9587/37259587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9588/37259588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9589/37259589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9590/37259590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9591/37259591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9592/37259592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9593/37259593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9594/37259594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9595/37259595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9596/37259596.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01659_12_8.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+433 1671 1085]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+433 1671 1080 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

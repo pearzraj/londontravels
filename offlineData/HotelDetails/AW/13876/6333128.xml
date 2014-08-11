@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333128" resultcode="0" message="" >
+				<Name><![CDATA[MILL RESORT AND SUITES ARUBA]]></Name>
+				<Address>
+					<Address1><![CDATA[  J.E. Irausquin Boulevard 330,]]></Address1>
+					<Address2><![CDATA[2840, Oranjestad, Aruba]]></Address2>
+					<PostalCode>2840</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.526748</Latitude>
+					<Longitude>-70.02926</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Tourist Information, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Tourist Information, Shops, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9653/37109653.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9654/37109654.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9655/37109655.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9656/37109656.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9657/37109657.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9658/37109658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9639/37109639.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9640/37109640.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9641/37109641.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9642/37109642.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9643/37109643.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9644/37109644.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9645/37109645.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9646/37109646.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9647/37109647.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9648/37109648.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9649/37109649.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9650/37109650.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9651/37109651.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9652/37109652.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 497 586 7271]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 297 526 7700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

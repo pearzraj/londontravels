@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="IS">
+		<City id="6300"> 
+			<Name lang="EN">Akureyri</Name>
+			<Region lang="EN">Akureyri</Region>
+			<Destination lang="EN">Akureyri, Akureyri, Iceland</Destination>
+		</City>
+		<City id="11185">
+			<Name lang="EN">Borgarnes</Name>
+			<Region lang="EN">Borgarnes</Region>
+			<Destination lang="EN">Borgarnes, Borgarnes, Iceland</Destination>
+		</City>
+		<City id="3486">
+			<Name lang="EN">Egilsstadir</Name>
+			<Region lang="EN">Egilsstadir</Region>
+			<Destination lang="EN">Egilsstadir, Egilsstadir, Iceland</Destination>
+		</City>
+		<City id="15278">
+			<Name lang="EN">Fludir</Name>
+			<Region lang="EN">Fludir</Region>
+			<Destination lang="EN">Fludir, Fludir, Iceland</Destination>
+		</City>
+		<City id="22394">
+			<Name lang="EN">Hella</Name>
+			<Region lang="EN">Hella</Region>
+			<Destination lang="EN">Hella, Hella, Iceland</Destination>
+		</City>
+		<City id="16566">
+			<Name lang="EN">Hofn</Name>
+			<Region lang="EN">Hofn</Region>
+			<Destination lang="EN">Hofn, Hofn, Iceland</Destination>
+		</City>
+		<City id="12441">
+			<Name lang="EN">Hvammstangi</Name>
+			<Region lang="EN">Hvammstangi</Region>
+			<Destination lang="EN">Hvammstangi, Hvammstangi, Iceland</Destination>
+		</City>
+		<City id="15128">
+			<Name lang="EN">Isafjordur</Name>
+			<Region lang="EN">Isafjordur</Region>
+			<Destination lang="EN">Isafjordur, Isafjordur, Iceland</Destination>
+		</City>
+		<City id="9816">
+			<Name lang="EN">Keflavik</Name>
+			<Region lang="EN">Keflavik</Region>
+			<Destination lang="EN">Keflavik, Keflavik, Iceland</Destination>
+		</City>
+		<City id="11852">
+			<Name lang="EN">Kirkjubaejarklaustur</Name>
+			<Region lang="EN">Kirkjubaejarklaustur</Region>
+			<Destination lang="EN">Kirkjubaejarklaustur, Kirkjubaejarklaustur, Iceland</Destination>
+		</City>
+		<City id="26941">
+			<Name lang="EN">Laugar</Name>
+			<Region lang="EN">Laugar</Region>
+			<Destination lang="EN">Laugar, Laugar, Iceland</Destination>
+		</City>
+		<City id="17667">
+			<Name lang="EN">Laugarvatn</Name>
+			<Region lang="EN">Laugarvatn</Region>
+			<Destination lang="EN">Laugarvatn, Laugarvatn, Iceland</Destination>
+		</City>
+		<City id="11409">
+			<Name lang="EN">Myvatn</Name>
+			<Region lang="EN">Myvatn</Region>
+			<Destination lang="EN">Myvatn, Myvatn, Iceland</Destination>
+		</City>
+		<City id="28318">
+			<Name lang="EN">Neskaupstadur</Name>
+			<Region lang="EN">Neskaupstadur</Region>
+			<Destination lang="EN">Neskaupstadur, Neskaupstadur, Iceland</Destination>
+		</City>
+		<City id="1768">
+			<Name lang="EN">Reykjavik</Name>
+			<Region lang="EN">Reykjavik</Region>
+			<Destination lang="EN">Reykjavik, Reykjavik, Iceland</Destination>
+		</City>
+		<City id="18076">
+			<Name lang="EN">Skogar</Name>
+			<Region lang="EN">Skogar</Region>
+			<Destination lang="EN">Skogar, Skogar, Iceland</Destination>
+		</City>
+		<City id="18088">
+			<Name lang="EN">Storutjarnir</Name>
+			<Region lang="EN">Storutjarnir</Region>
+			<Destination lang="EN">Storutjarnir, Storutjarnir, Iceland</Destination>
+		</City>
+		<City id="34317">
+			<Name lang="EN">Vik</Name>
+			<Region lang="EN">Vik</Region>
+			<Destination lang="EN">Vik, Vik, Iceland</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

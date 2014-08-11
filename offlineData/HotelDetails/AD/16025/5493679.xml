@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493679" resultcode="0" message="" >
+				<Name><![CDATA[RUTLLAN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. del Revel, 3]]></Address1>
+					<Address2><![CDATA[AD400, Massana, La, Andorra]]></Address2>
+					<PostalCode>AD400</PostalCode>
+					<CityCode>59326</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Massana, La]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.54543</Latitude>
+					<Longitude>1.51892</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 4**** hotel is one of the best locations in LA MASSANA in relation to the city¿s most relevant places of interest. It's  rooms offer customers a functional and pleasant environment. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 4**** hotel is one of the best locations in LA MASSANA in relation to the city¿s most relevant places of interest. It's  rooms offer customers a functional and pleasant environment. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1200</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Restaurant]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Lounges]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Rooms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2920/32602920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2921/32602921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2922/32602922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2923/32602923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2924/32602924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2925/32602925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2914/32602914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2915/32602915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2916/32602916.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GMA000/GMASRUT_12_2.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2918/32602918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2919/32602919.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376835180]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376835000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

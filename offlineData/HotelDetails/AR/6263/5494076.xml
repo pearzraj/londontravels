@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494076" resultcode="0" message="" >
+				<Name><![CDATA[PICCALUGA APARTMENTS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Marcelo T. Alvear 1563,]]></Address1>
+					<Address2><![CDATA[1020, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1020</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59651</Latitude>
+					<Longitude>-58.389126</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Safe in Reception and Business Centre.  Activities and relax: Jacuzzi and Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4720/37674720.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4721/37674721.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4722/37674722.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4723/37674723.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4724/37674724.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4725/37674725.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4726/37674726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4713/37674713.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4714/37674714.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4715/37674715.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4716/37674716.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4717/37674717.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4718/37674718.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4719/37674719.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5811 3116]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 5811 3113 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

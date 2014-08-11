@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334285" resultcode="0" message="" >
+				<Name><![CDATA[IGUAZU JUNGLE LODGE]]></Name>
+				<Address>
+					<Address1><![CDATA[  HIPOLITO IRIGOYEN Y SAN LORENZO,]]></Address1>
+					<Address2><![CDATA[1, Puerto Iguazu, Argentina]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>87105</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.58766</Latitude>
+					<Longitude>-54.576645</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/1788/37141788.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1789/37141789.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1772/37141772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1773/37141773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1774/37141774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1775/37141775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1776/37141776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1777/37141777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1778/37141778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1779/37141779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1780/37141780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1781/37141781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1782/37141782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1783/37141783.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1784/37141784.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1785/37141785.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1786/37141786.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/1787/37141787.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[543757420600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

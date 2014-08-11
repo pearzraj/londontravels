@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6337679" resultcode="0" message="" >
+				<Name><![CDATA[SHARJAH ROTANA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al arouba street,]]></Address1>
+					<Address2><![CDATA[00000, Sharjah, United Arab Emirates]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>78899</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sharjah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.362364</Latitude>
+					<Longitude>55.39167</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[0.00]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Minibar  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Minibar  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5965/37155965.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5966/37155966.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7771/41117771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7790/41117790.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97165637777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

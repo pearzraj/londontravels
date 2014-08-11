@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6340004" resultcode="0" message="" >
+				<Name><![CDATA[HILTON ABU DHABI HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  P.o Box 877 Abu Dhabi, ]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.46269</Latitude>
+					<Longitude>54.326244</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The multilingual staff at reception will be happy to assist you. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Multilingual Personnel, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The multilingual staff at reception will be happy to assist you. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Multilingual Personnel, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Children´s Park]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4080/37154080.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4081/37154081.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4082/37154082.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4083/37154083.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4084/37154084.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4085/37154085.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4086/37154086.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_45.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_22.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_43.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_58.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_43.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_58.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_45.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_21.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04564_1_22.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 681 1696 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 681 1900]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

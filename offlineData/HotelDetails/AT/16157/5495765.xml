@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495765" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE GRAZ CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Lendplatz, 36-37]]></Address1>
+					<Address2><![CDATA[8020, Graz, Austria]]></Address2>
+					<PostalCode>8020</PostalCode>
+					<CityCode>64871</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Graz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.075726</Latitude>
+					<Longitude>15.430002</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Sauna. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_1_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4026/37664026.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4027/37664027.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4028/37664028.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4029/37664029.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4030/37664030.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4031/37664031.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4032/37664032.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4033/37664033.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4034/37664034.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4035/37664035.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4036/37664036.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T00000/T00946_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 316 751 405]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 316 751 405 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

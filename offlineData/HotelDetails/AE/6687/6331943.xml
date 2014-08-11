@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331943" resultcode="0" message="" >
+				<Name><![CDATA[KHALIDIYA PALACE RAYHAAN BY ROTANA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Corniche Road West,  Sector W-32,]]></Address1>
+					<Address2><![CDATA[43500, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>43500</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.458168</Latitude>
+					<Longitude>54.3188</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We have Babysitting Service for children. Health and beauty facilities include Sauna, Jacuzzi and Massages. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Babysitting Service for children. Health and beauty facilities include Sauna, Jacuzzi and Massages. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have .  Activities and relax: Jacuzzi, Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Sports]]></Name>
+						<Description><![CDATA[Tennis Court]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2604/37092604.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2605/37092605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2606/37092606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2607/37092607.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2608/37092608.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2609/37092609.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2610/37092610.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2603/37092603.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 971 2 6570077]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 2 6570000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

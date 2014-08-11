@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493895" resultcode="0" message="" >
+				<Name><![CDATA[DAZZLER FLATS-QUARTIER BASAVILBASO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Basavilbaso 1328,]]></Address1>
+					<Address2><![CDATA[1006, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1006</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59251</Latitude>
+					<Longitude>-58.376915</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We also have .   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We also have .   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4323/32604323.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4324/32604324.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4325/32604325.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4326/32604326.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4327/32604327.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4328/32604328.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4329/32604329.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4330/32604330.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4331/32604331.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4332/32604332.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4333/32604333.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4321/32604321.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4322/32604322.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4334/32604334.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 5217 5701]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 5235 0502 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

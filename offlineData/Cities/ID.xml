@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="ID">
+		<City id="12049"> 
+			<Name lang="EN">Bandung</Name>
+			<Region lang="EN">Java</Region>
+			<Destination lang="EN">Bandung, Java, Indonesia</Destination>
+		</City>
+		<City id="6988">
+			<Name lang="EN">Batam</Name>
+			<Region lang="EN">Riau Islands</Region>
+			<Destination lang="EN">Batam, Riau Islands, Indonesia</Destination>
+		</City>
+		<City id="14293">
+			<Name lang="EN">Candi Dasa</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Candi Dasa, Bali, Indonesia</Destination>
+		</City>
+		<City id="7559">
+			<Name lang="EN">Denpasar</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Denpasar, Bali, Indonesia</Destination>
+		</City>
+		<City id="29616">
+			<Name lang="EN">Jakarta</Name>
+			<Region lang="EN">Java</Region>
+			<Destination lang="EN">Jakarta, Java, Indonesia</Destination>
+		</City>
+		<City id="26128">
+			<Name lang="EN">Jimbaran</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Jimbaran, Bali, Indonesia</Destination>
+		</City>
+		<City id="15008">
+			<Name lang="EN">Kuta</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Kuta, Bali, Indonesia</Destination>
+		</City>
+		<City id="17831">
+			<Name lang="EN">Legian</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Legian, Bali, Indonesia</Destination>
+		</City>
+		<City id="18175">
+			<Name lang="EN">Medan</Name>
+			<Region lang="EN">Sumatra</Region>
+			<Destination lang="EN">Medan, Sumatra, Indonesia</Destination>
+		</City>
+		<City id="10285">
+			<Name lang="EN">Nusa Dua</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Nusa Dua, Bali, Indonesia</Destination>
+		</City>
+		<City id="35862">
+			<Name lang="EN">Sanur</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Sanur, Bali, Indonesia</Destination>
+		</City>
+		<City id="5051">
+			<Name lang="EN">Seminyak</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Seminyak, Bali, Indonesia</Destination>
+		</City>
+		<City id="29092">
+			<Name lang="EN">Surabaya</Name>
+			<Region lang="EN">Java</Region>
+			<Destination lang="EN">Surabaya, Java, Indonesia</Destination>
+		</City>
+		<City id="2606">
+			<Name lang="EN">Tabanan</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Tabanan, Bali, Indonesia</Destination>
+		</City>
+		<City id="2636">
+			<Name lang="EN">Tanjung Benoa</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Tanjung Benoa, Bali, Indonesia</Destination>
+		</City>
+		<City id="292">
+			<Name lang="EN">Ubud</Name>
+			<Region lang="EN">Bali</Region>
+			<Destination lang="EN">Ubud, Bali, Indonesia</Destination>
+		</City>
+		<City id="31225">
+			<Name lang="EN">Yogyakarta</Name>
+			<Region lang="EN">Java</Region>
+			<Destination lang="EN">Yogyakarta, Java, Indonesia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

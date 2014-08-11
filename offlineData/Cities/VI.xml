@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="VI">
+		<City id="8844"> 
+			<Name lang="EN">Saint Croix Island</Name>
+			<Region lang="EN">Saint Croix Island</Region>
+			<Destination lang="EN">Saint Croix Island, Saint Croix Island, Virgin Islands, USA</Destination>
+		</City>
+		<City id="28509">
+			<Name lang="EN">Saint Thomas Island</Name>
+			<Region lang="EN">Saint Thomas Island</Region>
+			<Destination lang="EN">Saint Thomas Island, Saint Thomas Island, Virgin Islands, USA</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

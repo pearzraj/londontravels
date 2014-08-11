@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6335964" resultcode="0" message="" >
+				<Name><![CDATA[HOLIDAY INN EXPRESS DUBAI INTERNET CITY]]></Name>
+				<Address>
+					<Address1><![CDATA[  Knowledge Village,p.o. Box 282647,]]></Address1>
+					<Address2><![CDATA[00000, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.104317</Latitude>
+					<Longitude>55.163105</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Activities and relax: Golf. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Classes and Courses]]></Name>
+						<Description><![CDATA[Golf]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4308/37114308.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4309/37114309.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4310/37114310.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4311/37114311.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4312/37114312.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4313/37114313.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_15.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_18.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_16.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E08000/E08338_12_13.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97144272400]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97144275555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

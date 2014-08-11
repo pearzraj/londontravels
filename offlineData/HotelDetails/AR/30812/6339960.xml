@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339960" resultcode="0" message="" >
+				<Name><![CDATA[HOSTERIA ROSA DE LOS VIENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  ROCA 533,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.802567</Latitude>
+					<Longitude>-68.306496</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[A bellboy service is available to guests. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[A bellboy service is available to guests. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7415/37787415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7416/37787416.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7417/37787417.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7418/37787418.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7419/37787419.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7420/37787420.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7421/37787421.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7422/37787422.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7405/37787405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7406/37787406.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7407/37787407.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7408/37787408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7409/37787409.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7410/37787410.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7411/37787411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7412/37787412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7413/37787413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7414/37787414.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2901430772]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2901431415 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

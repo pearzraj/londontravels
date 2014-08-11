@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334810" resultcode="0" message="" >
+				<Name><![CDATA[LAS HAYAS]]></Name>
+				<Address>
+					<Address1><![CDATA[  LE MARTIAL 1650,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.80072</Latitude>
+					<Longitude>-68.315186</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. Pets not allowed. Guests can rent a car from the hotel. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Shops.  Activities and relax: Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Hairdressers. Pets not allowed. Guests can rent a car from the hotel. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Shops.  Activities and relax: Sauna, Spa, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6863/37156863.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6864/37156864.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6865/37156865.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6842/37156842.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6843/37156843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6844/37156844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6845/37156845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6846/37156846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6847/37156847.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6848/37156848.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6849/37156849.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6850/37156850.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6851/37156851.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6852/37156852.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6853/37156853.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6854/37156854.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6855/37156855.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6856/37156856.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6857/37156857.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6858/37156858.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6859/37156859.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6860/37156860.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6861/37156861.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6862/37156862.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 2901 430710 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

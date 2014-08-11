@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494504" resultcode="0" message="" >
+				<Name><![CDATA[SOMERSET ON ELIZABETH]]></Name>
+				<Address>
+					<Address1><![CDATA[  Elizabeth Street,250]]></Address1>
+					<Address2><![CDATA[3000, Melbourne, Australia]]></Address2>
+					<PostalCode>3000</PostalCode>
+					<CityCode>82716</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Melbourne]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-37.81237</Latitude>
+					<Longitude>144.96227</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa, Sauna and Jacuzzi. Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Sauna, Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8214/32608214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8215/32608215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8227/32608227.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8228/32608228.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8229/32608229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8230/32608230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8231/32608231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8216/32608216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8217/32608217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8218/32608218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8219/32608219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8220/32608220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8221/32608221.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8222/32608222.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8223/32608223.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8224/32608224.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8225/32608225.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8226/32608226.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0061386658899]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0061386658888 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

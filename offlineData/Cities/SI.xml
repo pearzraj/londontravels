@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="SI">
+		<City id="10111"> 
+			<Name lang="EN">Bled</Name>
+			<Region lang="EN">Bled</Region>
+			<Destination lang="EN">Bled, Bled, Slovenia</Destination>
+		</City>
+		<City id="13335">
+			<Name lang="EN">Bohinj</Name>
+			<Region lang="EN">Bohinj</Region>
+			<Destination lang="EN">Bohinj, Bohinj, Slovenia</Destination>
+		</City>
+		<City id="11111">
+			<Name lang="EN">Bohinjsko Jezero</Name>
+			<Region lang="EN">Bohinjsko Jezero</Region>
+			<Destination lang="EN">Bohinjsko Jezero, Bohinjsko Jezero, Slovenia</Destination>
+		</City>
+		<City id="25917">
+			<Name lang="EN">Izola</Name>
+			<Region lang="EN">Izola</Region>
+			<Destination lang="EN">Izola, Izola, Slovenia</Destination>
+		</City>
+		<City id="12230">
+			<Name lang="EN">Ljubljana</Name>
+			<Region lang="EN">Ljubljana</Region>
+			<Destination lang="EN">Ljubljana, Ljubljana, Slovenia</Destination>
+		</City>
+		<City id="14604">
+			<Name lang="EN">Maribor</Name>
+			<Region lang="EN">Maribor</Region>
+			<Destination lang="EN">Maribor, Maribor, Slovenia</Destination>
+		</City>
+		<City id="24288">
+			<Name lang="EN">Piran</Name>
+			<Region lang="EN">Piran</Region>
+			<Destination lang="EN">Piran, Piran, Slovenia</Destination>
+		</City>
+		<City id="29927">
+			<Name lang="EN">Portoroz</Name>
+			<Region lang="EN">Portoroz</Region>
+			<Destination lang="EN">Portoroz, Portoroz, Slovenia</Destination>
+		</City>
+		<City id="25259">
+			<Name lang="EN">Postojna</Name>
+			<Region lang="EN">Postojna</Region>
+			<Destination lang="EN">Postojna, Postojna, Slovenia</Destination>
+		</City>
+		<City id="27962">
+			<Name lang="EN">Rogaska Slatina</Name>
+			<Region lang="EN">Rogaska Slatina</Region>
+			<Destination lang="EN">Rogaska Slatina, Rogaska Slatina, Slovenia</Destination>
+		</City>
+		<City id="5345">
+			<Name lang="EN">Sezana</Name>
+			<Region lang="EN">Sezana</Region>
+			<Destination lang="EN">Sezana, Sezana, Slovenia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

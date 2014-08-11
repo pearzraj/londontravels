@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493764" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE CENTRE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hamdan Street, PO Box 47136,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.488665</Latitude>
+					<Longitude>54.361843</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Hairdressers and Jacuzzi. We also have Games Room. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Hairdressers. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Health and beauty facilities include Hairdressers and Jacuzzi. We also have Games Room. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.  Activities and relax: Jacuzzi, Hairdressers. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Games Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Hairdressers]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3504/32603504.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3505/32603505.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3506/32603506.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3507/32603507.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3508/32603508.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3509/32603509.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3501/32603501.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3502/32603502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3503/32603503.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04563_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 634 3633]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 633 3555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

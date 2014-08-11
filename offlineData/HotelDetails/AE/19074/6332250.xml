@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332250" resultcode="0" message="" >
+				<Name><![CDATA[INTERCONTINENTAL DUBAI FESTIVAL CITY HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Festival City, Box 45777,]]></Address1>
+					<Address2><![CDATA[45777, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>45777</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.22601</Latitude>
+					<Longitude>55.34989</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4754/37094754.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4755/37094755.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4756/37094756.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4757/37094757.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4758/37094758.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4759/37094759.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4760/37094760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4761/37094761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4762/37094762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4763/37094763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4764/37094764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4765/37094765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4766/37094766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4767/37094767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4768/37094768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4769/37094769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4770/37094770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4771/37094771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4772/37094772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4745/37094745.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4746/37094746.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4747/37094747.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4748/37094748.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4749/37094749.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4750/37094750.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4751/37094751.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4752/37094752.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4753/37094753.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0097142329098]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097147011111]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

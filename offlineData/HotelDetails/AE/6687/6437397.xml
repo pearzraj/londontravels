@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6437397" resultcode="0" message="" >
+				<Name><![CDATA[STAYBRIDGE SUITES ABU DHABI-YAS ISLAND]]></Name>
+				<Address>
+					<Address1><![CDATA[  42375  Abu Dhabi,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.46463</Latitude>
+					<Longitude>54.59796</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_38.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_38.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_20.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_23.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_1_31.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18447_12_4.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[026563333 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

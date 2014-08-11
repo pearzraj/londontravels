@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493932" resultcode="0" message="" >
+				<Name><![CDATA[CONTE HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Carlos Pellegrini 101,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.6068</Latitude>
+					<Longitude>-58.381176</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4704/32604704.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4705/32604705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4706/32604706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4707/32604707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4708/32604708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4691/32604691.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4692/32604692.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4693/32604693.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4694/32604694.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4695/32604695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4696/32604696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4702/32604702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4703/32604703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4697/32604697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4698/32604698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4699/32604699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4700/32604700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4701/32604701.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541140320479]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541152357238 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

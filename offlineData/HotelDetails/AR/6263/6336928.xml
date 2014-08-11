@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336928" resultcode="0" message="" >
+				<Name><![CDATA[FORCADELL LIBERTADOR]]></Name>
+				<Address>
+					<Address1><![CDATA[  AV LIBERTADOR 14.257 (BARRIO MARTINEZ),]]></Address1>
+					<Address2><![CDATA[00000, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>00000</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.4807</Latitude>
+					<Longitude>-58.492</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Piano bar. Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Vehicle Rental, Wi-Fi, Safe in Reception and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Piano bar. Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Laundry Service and Room-Service We also have Vehicle Rental, Wi-Fi, Safe in Reception and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Piano Bar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9392/37139392.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9393/37139393.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9394/37139394.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9395/37139395.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9378/37139378.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9379/37139379.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9380/37139380.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9381/37139381.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9382/37139382.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9383/37139383.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9384/37139384.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9385/37139385.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9386/37139386.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9387/37139387.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9388/37139388.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9377/37139377.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9389/37139389.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9390/37139390.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9391/37139391.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 1147923822 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404363" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL STALEHNER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ranftlgasse 11,]]></Address1>
+					<Address2><![CDATA[1170, Vienna, Austria]]></Address2>
+					<PostalCode>1170</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.2184</Latitude>
+					<Longitude>16.3391</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18573_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43/1/408 25 06 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

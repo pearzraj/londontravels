@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AM">
+		<City id="31214"> 
+			<Name lang="EN">Yerevan</Name>
+			<Region lang="EN">Yerevan</Region>
+			<Destination lang="EN">Yerevan, Yerevan, Armenia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493609" resultcode="0" message="" >
+				<Name><![CDATA[ALFA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Avda. de Joan Martí,87]]></Address1>
+					<Address2><![CDATA[AD200, Encamp, Andorra]]></Address2>
+					<PostalCode>AD200</PostalCode>
+					<CityCode>59324</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Encamp]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.53184</Latitude>
+					<Longitude>1.573527</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The ALFA HOTEL offers the possibility of a fun holiday for all the family.  It's60 rooms offer customers a functional and pleasant environment. Reception personnel will advise customers with tourist information about the area. We offer Dinner Service. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Satellite / Cable TV , Central Heating, Hairdryer and Bathtub , and among our services and facilities available we have . We also have Multilingual Personnel, Guide Service, Ski Room, Wi-Fi and Tourist Information.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The ALFA HOTEL offers the possibility of a fun holiday for all the family.  It's60 rooms offer customers a functional and pleasant environment. Reception personnel will advise customers with tourist information about the area. We offer Dinner Service. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Satellite / Cable TV , Central Heating, Hairdryer and Bathtub , and among our services and facilities available we have . We also have Multilingual Personnel, Guide Service, Ski Room, Wi-Fi and Tourist Information.  Activities and relax: . Cuisine: . Pets allowed. Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Bathtub]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Dinner Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Latest Renovation]]></Name>
+						<Description><![CDATA[Integral]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Conditioner]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shampoo]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Bath Gel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Satellite / Cable TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception on Payment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ski Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Lunch Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Restaurant Bookings]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2172/32602172.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2173/32602173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2174/32602174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2175/32602175.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2176/32602176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2177/32602177.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/ENC000/ENCONI_1_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+376 832995]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+376 832999 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

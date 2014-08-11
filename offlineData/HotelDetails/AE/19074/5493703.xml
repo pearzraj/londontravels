@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493703" resultcode="0" message="" >
+				<Name><![CDATA[SEASHELL INN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Khalid Bin Waleed Street,]]></Address1>
+					<Address2><![CDATA[46500, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>46500</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.259</Latitude>
+					<Longitude>55.28891</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Currency Exchange and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3089/32603089.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3090/32603090.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3091/32603091.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3092/32603092.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26770_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26770_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26770_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T26000/T26770_1_3.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3093/32603093.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3094/32603094.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3095/32603095.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3096/32603096.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3097/32603097.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3098/32603098.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3099/32603099.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3088/32603088.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 4 3934 466]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 971 4 3934 777 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

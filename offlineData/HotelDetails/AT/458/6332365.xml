@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332365" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND HOTEL DOPPIO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Rennweg 99 / Rinnboeckstr. 1, ]]></Address1>
+					<Address2><![CDATA[1030, Vienna, Austria]]></Address2>
+					<PostalCode>1030</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.194115</Latitude>
+					<Longitude>16.395355</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7252/41127252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7253/41127253.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07518_1_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 790250 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493639" resultcode="0" message="" >
+				<Name><![CDATA[OBAGA BLANCA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. del Forn,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Canillo, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59323</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Canillo]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.56312</Latitude>
+					<Longitude>1.595267</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This hotel in CANILLO is the perfect place to spend some time in the mountains and enjoy the sports activities in the area. Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. Its 28rooms have been designed to provide the right environment for a welcome rest. Guided tours arranged. We also have Reading Room and Outdoor Summer Terrace. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Balcony, Central Heating, Background Music, Terrace, Soundproofing, LCD TV , Hairdryer, Minibar, Wi-Fi, 1 and Safe , and among our services and facilities available we have Lifts, Heating, Smoking Area, Outdoor Summer Terrace, Cot, Babysitting Service, High Chair, Bar Cafeteria, Garden and Terrace. We also have Currency Exchange, Multilingual Personnel, Ski Room, Luggage compartment, Wi-Fi, Tourist Information, Internet Corner, Medical Service and Garage.   ...]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This hotel in CANILLO is the perfect place to spend some time in the mountains and enjoy the sports activities in the area. Of particular note are the panoramic views of the ski slopes, of the valley and of the mountain. Its 28rooms have been designed to provide the right environment for a welcome rest. Guided tours arranged. We also have Reading Room and Outdoor Summer Terrace. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Telephone, TV, Balcony, Central Heating, Background Music, Terrace, Soundproofing, LCD TV , Hairdryer, Minibar, Wi-Fi, 1 and Safe , and among our services and facilities available we have Lifts, Heating, Smoking Area, Outdoor Summer Terrace, Cot, Babysitting Service, High Chair, Bar Cafeteria, Garden and Terrace. We also have Currency Exchange, Multilingual Personnel, Ski Room, Luggage compartment, Wi-Fi, Tourist Information, Internet Corner, Medical Service and Garage.  Activities and relax: Jacuzzi, Sauna, Solarium, Spa, Turkish Bath and De 1 a 4 Máquinas. Cuisine: . Pets not allowed. Credit Cards: Euro/Mastercard and Visa.  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>1400</CheckInTime>
+					<CheckOutTime>1200</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Tourist Destination]]></Name>
+						<Description><![CDATA[Mountain/Snow]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Mountain]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Valley]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Panoramic]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Views]]></Name>
+						<Description><![CDATA[Skiing Slope]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Couple]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Type of Bed ]]></Name>
+						<Description><![CDATA[Twin]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Mattresses of:]]></Name>
+						<Description><![CDATA[Docks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Balcony]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Terrace]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Sofa Bed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Safe]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Telephone]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Hand soap]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Others]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Blankets]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Background Music]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[LCD TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Eurosport]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[BBC (UK)]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Credit Cards]]></Name>
+						<Description><![CDATA[Accepted]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Adapted Baths]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Terrace]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Outdoor Summer Terrace]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Jacuzzi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Acoustic Alarms]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Automatic Door Closure]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Disabled Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Smoking Area]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Sofa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Soundproofing]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Shower with Screen]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Enlargement Mirror]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shampoo]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Bath Gel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Bathroom Amenities]]></Name>
+						<Description><![CDATA[Shower Hat]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Towels]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Work Area]]></Name>
+						<Description><![CDATA[Wi-Fi]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[TV]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[Tve]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Channels]]></Name>
+						<Description><![CDATA[CNN]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Kettle]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Minibar]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Luggage compartment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ski Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Exterior Parking]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Cot]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Breakfast Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Television Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Thermal Circuit]]></Name>
+						<Description><![CDATA[Turkish Bath]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Solarium]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Pets ]]></Name>
+						<Description><![CDATA[Pets not allowed]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Additional Beds]]></Name>
+						<Description><![CDATA[Free]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to the Hotel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Adapted for the Disabled]]></Name>
+						<Description><![CDATA[Accesses to Lounges and Restaurants]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Garden]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Reading Room]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Restaurant Bookings]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Medical Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[High Chair]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Viewpoint]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Manual Lock]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Electronic Locks]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Room Security]]></Name>
+						<Description><![CDATA[Electronic Smoke Detector]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Ticket Reservation]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Check In/Check Out]]></Name>
+						<Description><![CDATA[Express Entrance and Exit Register]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Slope Transfer]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2449/32602449.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2450/32602450.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2451/32602451.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2452/32602452.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2470/32602470.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2471/32602471.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2472/32602472.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2473/32602473.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2474/32602474.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2475/32602475.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2424/32602424.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2425/32602425.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2426/32602426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2427/32602427.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2428/32602428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2429/32602429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2430/32602430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2431/32602431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2432/32602432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2433/32602433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2434/32602434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2435/32602435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2453/32602453.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2457/32602457.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2458/32602458.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2459/32602459.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2460/32602460.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2461/32602461.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2462/32602462.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2463/32602463.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2464/32602464.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2465/32602465.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2466/32602466.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2467/32602467.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2468/32602468.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2469/32602469.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2436/32602436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2437/32602437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2438/32602438.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_12_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_1_19.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANOBA_12_9.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2455/32602455.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2456/32602456.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2439/32602439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2440/32602440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2441/32602441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2442/32602442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2443/32602443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2444/32602444.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2445/32602445.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2446/32602446.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2447/32602447.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2448/32602448.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2454/32602454.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376853200]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376751200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

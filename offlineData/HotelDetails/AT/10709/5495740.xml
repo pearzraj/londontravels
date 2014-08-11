@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495740" resultcode="0" message="" >
+				<Name><![CDATA[TREND SCHILLERPARK]]></Name>
+				<Address>
+					<Address1><![CDATA[   Schillerplatz,1]]></Address1>
+					<Address2><![CDATA[40200, Linz, Austria]]></Address2>
+					<PostalCode>40200</PostalCode>
+					<CityCode>64890</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Linz]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.297306</Latitude>
+					<Longitude>14.291164</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9742/37259742.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05915_12_12.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043732 69509]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043732 69500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

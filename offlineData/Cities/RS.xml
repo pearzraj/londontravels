@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="RS">
+		<City id="18665"> 
+			<Name lang="EN">Belgrade</Name>
+			<Region lang="EN">Belgrade</Region>
+			<Destination lang="EN">Belgrade, Belgrade, Serbia</Destination>
+		</City>
+		<City id="33171">
+			<Name lang="EN">Cacak</Name>
+			<Region lang="EN">Cacak</Region>
+			<Destination lang="EN">Cacak, Cacak, Serbia</Destination>
+		</City>
+		<City id="33376">
+			<Name lang="EN">Kragujevac</Name>
+			<Region lang="EN">Kragujevac</Region>
+			<Destination lang="EN">Kragujevac, Kragujevac, Serbia</Destination>
+		</City>
+		<City id="33377">
+			<Name lang="EN">Kraljevo</Name>
+			<Region lang="EN">Kraljevo</Region>
+			<Destination lang="EN">Kraljevo, Kraljevo, Serbia</Destination>
+		</City>
+		<City id="33381">
+			<Name lang="EN">Krusevac</Name>
+			<Region lang="EN">Krusevac</Region>
+			<Destination lang="EN">Krusevac, Krusevac, Serbia</Destination>
+		</City>
+		<City id="19619">
+			<Name lang="EN">Nis</Name>
+			<Region lang="EN">Nis</Region>
+			<Destination lang="EN">Nis, Nis, Serbia</Destination>
+		</City>
+		<City id="33727">
+			<Name lang="EN">Novi Pazar</Name>
+			<Region lang="EN">Novi Pazar</Region>
+			<Destination lang="EN">Novi Pazar, Novi Pazar, Serbia</Destination>
+		</City>
+		<City id="9767">
+			<Name lang="EN">Novi Sad</Name>
+			<Region lang="EN">Novi Sad</Region>
+			<Destination lang="EN">Novi Sad, Novi Sad, Serbia</Destination>
+		</City>
+		<City id="17336">
+			<Name lang="EN">Pirot</Name>
+			<Region lang="EN">Pirot</Region>
+			<Destination lang="EN">Pirot, Pirot, Serbia</Destination>
+		</City>
+		<City id="36664">
+			<Name lang="EN">Pozega</Name>
+			<Region lang="EN">Pozega</Region>
+			<Destination lang="EN">Pozega, Pozega, Serbia</Destination>
+		</City>
+		<City id="1798">
+			<Name lang="EN">Pristina</Name>
+			<Region lang="EN">Pristina</Region>
+			<Destination lang="EN">Pristina, Pristina, Serbia</Destination>
+		</City>
+		<City id="34863">
+			<Name lang="EN">Ruma</Name>
+			<Region lang="EN">Ruma</Region>
+			<Destination lang="EN">Ruma, Ruma, Serbia</Destination>
+		</City>
+		<City id="36709">
+			<Name lang="EN">Sremski Karlovci</Name>
+			<Region lang="EN">Sremski Karlovci</Region>
+			<Destination lang="EN">Sremski Karlovci, Sremski Karlovci, Serbia</Destination>
+		</City>
+		<City id="34185">
+			<Name lang="EN">Subotica</Name>
+			<Region lang="EN">Subotica</Region>
+			<Destination lang="EN">Subotica, Subotica, Serbia</Destination>
+		</City>
+		<City id="35886">
+			<Name lang="EN">Titovo Uzice</Name>
+			<Region lang="EN">Titovo Uzice</Region>
+			<Destination lang="EN">Titovo Uzice, Titovo Uzice, Serbia</Destination>
+		</City>
+		<City id="34416">
+			<Name lang="EN">Zajecar</Name>
+			<Region lang="EN">Zajecar</Region>
+			<Destination lang="EN">Zajecar, Zajecar, Serbia</Destination>
+		</City>
+		<City id="34432">
+			<Name lang="EN">Zrenjanin</Name>
+			<Region lang="EN">Zrenjanin</Region>
+			<Destination lang="EN">Zrenjanin, Zrenjanin, Serbia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

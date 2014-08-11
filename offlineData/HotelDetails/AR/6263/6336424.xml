@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336424" resultcode="0" message="" >
+				<Name><![CDATA[BRISTOL]]></Name>
+				<Address>
+					<Address1><![CDATA[   286 Cerrito St,]]></Address1>
+					<Address2><![CDATA[C1123AAA, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1123AAA</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60518</Latitude>
+					<Longitude>-58.382206</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3658/37123658.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3659/37123659.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3677/37123677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3678/37123678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3660/37123660.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3661/37123661.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3662/37123662.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3675/37123675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3676/37123676.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T42000/T42723_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3664/37123664.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3665/37123665.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3666/37123666.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3667/37123667.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3668/37123668.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8724/37778724.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8725/37778725.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8726/37778726.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8727/37778727.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8728/37778728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8729/37778729.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[541143823284]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[541152526400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

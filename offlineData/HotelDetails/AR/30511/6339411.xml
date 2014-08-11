@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339411" resultcode="0" message="" >
+				<Name><![CDATA[PLAZA DEL SOL]]></Name>
+				<Address>
+					<Address1><![CDATA[   San Juan 1055,]]></Address1>
+					<Address2><![CDATA[2000, Rosario, Argentina]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.950207</Latitude>
+					<Longitude>-60.638454</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8705/37138705.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8706/37138706.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8707/37138707.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8708/37138708.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8709/37138709.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8710/37138710.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8695/37138695.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8696/37138696.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8697/37138697.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8698/37138698.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8699/37138699.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8700/37138700.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8701/37138701.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8702/37138702.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8703/37138703.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8704/37138704.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[03414219899]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[03414219899 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

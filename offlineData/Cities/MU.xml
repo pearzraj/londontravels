@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="MU">
+		<City id="17797"> 
+			<Name lang="EN">Le Morne</Name>
+			<Region lang="EN">Le Morne</Region>
+			<Destination lang="EN">Le Morne, Le Morne, Mauritius</Destination>
+		</City>
+		<City id="23803">
+			<Name lang="EN">Pereybere</Name>
+			<Region lang="EN">Pereybere</Region>
+			<Destination lang="EN">Pereybere, Pereybere, Mauritius</Destination>
+		</City>
+		<City id="2766">
+			<Name lang="EN">Trou aux Biches</Name>
+			<Region lang="EN">Trou aux Biches</Region>
+			<Destination lang="EN">Trou aux Biches, Trou aux Biches, Mauritius</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

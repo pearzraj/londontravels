@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494210" resultcode="0" message="" >
+				<Name><![CDATA[HOWARD JOHNSON CONGRESO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Bartolomé Mitre 2241,]]></Address1>
+					<Address2><![CDATA[C1039AAI, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1039AAI</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.607876</Latitude>
+					<Longitude>-58.39829</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7287/32607287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7288/32607288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7289/32607289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7290/32607290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7291/32607291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7292/32607292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7293/32607293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7294/32607294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7281/32607281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7282/32607282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7283/32607283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7284/32607284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7285/32607285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7286/32607286.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4952 1303 ]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4952 6010 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

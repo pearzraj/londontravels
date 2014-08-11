@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="CO">
+		<City id="6605"> 
+			<Name lang="EN">Armenia</Name>
+			<Region lang="EN">Armenia</Region>
+			<Destination lang="EN">Armenia, Armenia, Colombia</Destination>
+		</City>
+		<City id="6962">
+			<Name lang="EN">Barranquilla</Name>
+			<Region lang="EN">Barranquilla</Region>
+			<Destination lang="EN">Barranquilla, Barranquilla, Colombia</Destination>
+		</City>
+		<City id="7148">
+			<Name lang="EN">Bogota</Name>
+			<Region lang="EN">Bogota</Region>
+			<Destination lang="EN">Bogota, Bogota, Colombia</Destination>
+		</City>
+		<City id="7297">
+			<Name lang="EN">Bucaramanga</Name>
+			<Region lang="EN">Bucaramanga</Region>
+			<Destination lang="EN">Bucaramanga, Bucaramanga, Colombia</Destination>
+		</City>
+		<City id="16005">
+			<Name lang="EN">Cali</Name>
+			<Region lang="EN">Cali</Region>
+			<Destination lang="EN">Cali, Cali, Colombia</Destination>
+		</City>
+		<City id="6457">
+			<Name lang="EN">Cartagena</Name>
+			<Region lang="EN">Cartagena</Region>
+			<Destination lang="EN">Cartagena, Cartagena, Colombia</Destination>
+		</City>
+		<City id="7442">
+			<Name lang="EN">Cucuta</Name>
+			<Region lang="EN">Cucuta</Region>
+			<Destination lang="EN">Cucuta, Cucuta, Colombia</Destination>
+		</City>
+		<City id="12454">
+			<Name lang="EN">Ibague</Name>
+			<Region lang="EN">Ibague</Region>
+			<Destination lang="EN">Ibague, Ibague, Colombia</Destination>
+		</City>
+		<City id="13703">
+			<Name lang="EN">Manizales</Name>
+			<Region lang="EN">Manizales</Region>
+			<Destination lang="EN">Manizales, Manizales, Colombia</Destination>
+		</City>
+		<City id="18176">
+			<Name lang="EN">Medellin</Name>
+			<Region lang="EN">Medellin</Region>
+			<Destination lang="EN">Medellin, Medellin, Colombia</Destination>
+		</City>
+		<City id="18435">
+			<Name lang="EN">Paipa</Name>
+			<Region lang="EN">Paipa</Region>
+			<Destination lang="EN">Paipa, Paipa, Colombia</Destination>
+		</City>
+		<City id="29449">
+			<Name lang="EN">Pereira</Name>
+			<Region lang="EN">Pereira</Region>
+			<Destination lang="EN">Pereira, Pereira, Colombia</Destination>
+		</City>
+		<City id="29742">
+			<Name lang="EN">Popayan</Name>
+			<Region lang="EN">Popayan</Region>
+			<Destination lang="EN">Popayan, Popayan, Colombia</Destination>
+		</City>
+		<City id="5527">
+			<Name lang="EN">San Andres Island</Name>
+			<Region lang="EN">San Andres Island</Region>
+			<Destination lang="EN">San Andres Island, San Andres Island, Colombia</Destination>
+		</City>
+		<City id="8032">
+			<Name lang="EN">Santa Marta</Name>
+			<Region lang="EN">Santa Marta</Region>
+			<Destination lang="EN">Santa Marta, Santa Marta, Colombia</Destination>
+		</City>
+		<City id="30853">
+			<Name lang="EN">Valledupar</Name>
+			<Region lang="EN">Valledupar</Region>
+			<Destination lang="EN">Valledupar, Valledupar, Colombia</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

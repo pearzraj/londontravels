@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494247" resultcode="0" message="" >
+				<Name><![CDATA[SOFITEL BUENOS AIRES ARROYO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Arroyo 841,]]></Address1>
+					<Address2><![CDATA[C1007AAB, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1007AAB</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.59186</Latitude>
+					<Longitude>-58.37911</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. The multilingual staff at reception will be happy to assist you. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Multilingual Personnel, Car parker, Garage and Business Centre.  Activities and relax: Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Massages. The multilingual staff at reception will be happy to assist you. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service We also have Currency Exchange, Multilingual Personnel, Car parker, Garage and Business Centre.  Activities and relax: Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Multilingual Personnel]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Beauty Treatments]]></Name>
+						<Description><![CDATA[Massages]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7680/32607680.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7681/32607681.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7682/32607682.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7669/32607669.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7670/32607670.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7671/32607671.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7672/32607672.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7673/32607673.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7674/32607674.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7675/32607675.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7676/32607676.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7677/32607677.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7678/32607678.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7679/32607679.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+5411 4131 0124]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+5411 4131 0125 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

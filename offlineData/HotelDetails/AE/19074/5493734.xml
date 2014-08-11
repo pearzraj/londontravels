@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493734" resultcode="0" message="" >
+				<Name><![CDATA[ROLLA RESIDENCE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Al Rolla Road, ]]></Address1>
+					<Address2><![CDATA[126, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>126</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.260193</Latitude>
+					<Longitude>55.29204</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Vehicle Rental, Safe in Reception, Airport Transfer and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The following services are offered Safe in Reception. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Vehicle Rental, Safe in Reception, Airport Transfer and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Interiors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Vehicle Rental]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Airport Transfer]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3290/32603290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3291/32603291.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3292/32603292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3293/32603293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3294/32603294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3295/32603295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3296/32603296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3297/32603297.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09770_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09770_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09770_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09770_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[97143592111]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[97143592000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

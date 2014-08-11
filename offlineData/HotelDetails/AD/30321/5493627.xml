@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493627" resultcode="0" message="" >
+				<Name><![CDATA[CLUB EL TARTER]]></Name>
+				<Address>
+					<Address1><![CDATA[  CARRETERA DE RANSOL S/N,]]></Address1>
+					<Address2><![CDATA[AD100, Ransol, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>62367</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ransol]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.581905</Latitude>
+					<Longitude>1.63898</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2292/32602292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2293/32602293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2294/32602294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2295/32602295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2288/32602288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2289/32602289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2290/32602290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2291/32602291.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00376852880 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

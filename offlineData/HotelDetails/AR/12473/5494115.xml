@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494115" resultcode="0" message="" >
+				<Name><![CDATA[ESTURION HOTEL AND LODGE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Tres Fronteras 650,]]></Address1>
+					<Address2><![CDATA[3370, Iguazu, Argentina]]></Address2>
+					<PostalCode>3370</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.597055</Latitude>
+					<Longitude>-54.57847</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9819/37679819.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9820/37679820.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9821/37679821.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9822/37679822.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9823/37679823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9824/37679824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9807/37679807.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9808/37679808.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9809/37679809.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9810/37679810.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9811/37679811.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9812/37679812.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9813/37679813.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9814/37679814.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9815/37679815.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9816/37679816.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9817/37679817.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9797/37679797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9798/37679798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9799/37679799.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9800/37679800.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9801/37679801.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9802/37679802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9803/37679803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9804/37679804.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9805/37679805.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9806/37679806.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9818/37679818.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 3757 42 1468]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 3757 42 0100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

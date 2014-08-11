@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332473" resultcode="0" message="" >
+				<Name><![CDATA[COSTA USHUAIA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Costa De Los Pajaros 1821,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.79168</Latitude>
+					<Longitude>-68.22925</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Porters, Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating, 24/24 Room-Service  and Laundry Service We also have Porters, Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6433/37096433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6434/37096434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6435/37096435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6436/37096436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6437/37096437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6438/37096438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6439/37096439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6440/37096440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6441/37096441.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6442/37096442.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6443/37096443.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6444/37096444.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2901 444 815]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2901440846 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

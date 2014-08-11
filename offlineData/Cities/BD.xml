@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="BD">
+		<City id="15721"> 
+			<Name lang="EN">Dhaka</Name>
+			<Region lang="EN">Dhaka</Region>
+			<Destination lang="EN">Dhaka, Dhaka, Bangladesh</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

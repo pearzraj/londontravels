@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493977" resultcode="0" message="" >
+				<Name><![CDATA[DAZZLER TOWER SAN TELMO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piedras 303,]]></Address1>
+					<Address2><![CDATA[C1070AAG, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1070AAG</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.615128</Latitude>
+					<Longitude>-58.37328</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5045/32605045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5046/32605046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5047/32605047.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5048/32605048.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5049/32605049.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5050/32605050.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5051/32605051.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5052/32605052.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5053/32605053.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5054/32605054.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 52175700]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 52175700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

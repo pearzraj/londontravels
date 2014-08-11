@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6437739" resultcode="0" message="" >
+				<Name><![CDATA[CITYMAX SHARJAH]]></Name>
+				<Address>
+					<Address1><![CDATA[  PO BOX 25030  Sharjah,]]></Address1>
+					<Address2><![CDATA[25030, Sharjah, United Arab Emirates]]></Address2>
+					<PostalCode>25030</PostalCode>
+					<CityCode>78899</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Sharjah]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.357523</Latitude>
+					<Longitude>55.391865</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18418_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097165985000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

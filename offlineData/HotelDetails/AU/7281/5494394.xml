@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494394" resultcode="0" message="" >
+				<Name><![CDATA[THE PEARLE]]></Name>
+				<Address>
+					<Address1><![CDATA[  14 Millington Road Cable Beach,]]></Address1>
+					<Address2><![CDATA[6725, Broome, Australia]]></Address2>
+					<PostalCode>6725</PostalCode>
+					<CityCode>81757</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Broome]]>
+					</CityName>
+					<CountryCode>AU</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Australia]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.585022</Latitude>
+					<Longitude>134.50401</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8040/32608040.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8041/32608041.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8042/32608042.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8043/32608043.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8044/32608044.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8045/32608045.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8046/32608046.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8047/32608047.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+61 0891940999]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+61 0891940900 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

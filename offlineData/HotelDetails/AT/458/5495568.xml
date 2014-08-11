@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495568" resultcode="0" message="" >
+				<Name><![CDATA[TREND HOTEL BOSEI]]></Name>
+				<Address>
+					<Address1><![CDATA[   Gutheil Schoder-Gasse, 7b]]></Address1>
+					<Address2><![CDATA[11000, Vienna, Austria]]></Address2>
+					<PostalCode>11000</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.16301</Latitude>
+					<Longitude>16.337507</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_4.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9700/32609700.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T05000/T05509_1_10.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 6610699]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431661061111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

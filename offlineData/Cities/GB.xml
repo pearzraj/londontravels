@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="GB">
+		<City id="6675"> 
+			<Name lang="EN">Aberdeen</Name>
+			<Region lang="EN">Aberdeen</Region>
+			<Destination lang="EN">Aberdeen, Aberdeen, United Kingdom</Destination>
+		</City>
+		<City id="32645">
+			<Name lang="EN">Abington</Name>
+			<Region lang="EN">Abington</Region>
+			<Destination lang="EN">Abington, Abington, United Kingdom</Destination>
+		</City>
+		<City id="31467">
+			<Name lang="EN">Airth</Name>
+			<Region lang="EN">Airth</Region>
+			<Destination lang="EN">Airth, Airth, United Kingdom</Destination>
+		</City>
+		<City id="31571">
+			<Name lang="EN">Alcester</Name>
+			<Region lang="EN">Alcester</Region>
+			<Destination lang="EN">Alcester, Alcester, United Kingdom</Destination>
+		</City>
+		<City id="32775">
+			<Name lang="EN">Allensford</Name>
+			<Region lang="EN">Allensford</Region>
+			<Destination lang="EN">Allensford, Allensford, United Kingdom</Destination>
+		</City>
+		<City id="31711">
+			<Name lang="EN">Altrincham</Name>
+			<Region lang="EN">Altrincham</Region>
+			<Destination lang="EN">Altrincham, Altrincham, United Kingdom</Destination>
+		</City>
+		<City id="31739">
+			<Name lang="EN">Ambleside</Name>
+			<Region lang="EN">Ambleside</Region>
+			<Destination lang="EN">Ambleside, Ambleside, United Kingdom</Destination>
+		</City>
+		<City id="31746">
+			<Name lang="EN">Amesbury</Name>
+			<Region lang="EN">Amesbury</Region>
+			<Destination lang="EN">Amesbury, Amesbury, United Kingdom</Destination>
+		</City>
+		<City id="31836">
+			<Name lang="EN">Antrim</Name>
+			<Region lang="EN">Antrim</Region>
+			<Destination lang="EN">Antrim, Antrim, United Kingdom</Destination>
+		</City>
+		<City id="31857">
+			<Name lang="EN">Appleby Magna</Name>
+			<Region lang="EN">Appleby Magna</Region>
+			<Destination lang="EN">Appleby Magna, Appleby Magna, United Kingdom</Destination>
+		</City>
+		<City id="31974">
+			<Name lang="EN">Arrochar</Name>
+			<Region lang="EN">Arrochar</Region>
+			<Destination lang="EN">Arrochar, Arrochar, United Kingdom</Destination>
+		</City>
+		<City id="31995">
+			<Name lang="EN">Arundel</Name>
+			<Region lang="EN">Arundel</Region>
+			<Destination lang="EN">Arundel, Arundel, United Kingdom</Destination>
+		</City>
+		<City id="6830">
+			<Name lang="EN">Ashford</Name>
+			<Region lang="EN">Ashford</Region>
+			<Destination lang="EN">Ashford, Ashford, United Kingdom</Destination>
+		</City>
+		<City id="32130">
+			<Name lang="EN">Aviemore</Name>
+			<Region lang="EN">Aviemore</Region>
+			<Destination lang="EN">Aviemore, Aviemore, United Kingdom</Destination>
+		</City>
+		<City id="32154">
+			<Name lang="EN">Aylesbury</Name>
+			<Region lang="EN">Aylesbury</Region>
+			<Destination lang="EN">Aylesbury, Aylesbury, United Kingdom</Destination>
+		</City>
+		<City id="32156">
+			<Name lang="EN">Ayr</Name>
+			<Region lang="EN">Ayr</Region>
+			<Destination lang="EN">Ayr, Ayr, United Kingdom</Destination>
+		</City>
+		<City id="32284">
+			<Name lang="EN">Baldock</Name>
+			<Region lang="EN">Baldock</Region>
+			<Destination lang="EN">Baldock, Baldock, United Kingdom</Destination>
+		</City>
+		<City id="32310">
+			<Name lang="EN">Ballygally</Name>
+			<Region lang="EN">Ballygally</Region>
+			<Destination lang="EN">Ballygally, Ballygally, United Kingdom</Destination>
+		</City>
+		<City id="32342">
+			<Name lang="EN">Banbury</Name>
+			<Region lang="EN">Banbury</Region>
+			<Destination lang="EN">Banbury, Banbury, United Kingdom</Destination>
+		</City>
+		<City id="32429">
+			<Name lang="EN">Barnsley</Name>
+			<Region lang="EN">Barnsley</Region>
+			<Destination lang="EN">Barnsley, Barnsley, United Kingdom</Destination>
+		</City>
+		<City id="32452">
+			<Name lang="EN">Basildon</Name>
+			<Region lang="EN">Basildon</Region>
+			<Destination lang="EN">Basildon, Basildon, United Kingdom</Destination>
+		</City>
+		<City id="32453">
+			<Name lang="EN">Basingstoke</Name>
+			<Region lang="EN">Basingstoke</Region>
+			<Destination lang="EN">Basingstoke, Basingstoke, United Kingdom</Destination>
+		</City>
+		<City id="32478">
+			<Name lang="EN">Bath</Name>
+			<Region lang="EN">Bath</Region>
+			<Destination lang="EN">Bath, Bath, United Kingdom</Destination>
+		</City>
+		<City id="8350">
+			<Name lang="EN">Bedford</Name>
+			<Region lang="EN">Bedford</Region>
+			<Destination lang="EN">Bedford, Bedford, United Kingdom</Destination>
+		</City>
+		<City id="18662">
+			<Name lang="EN">Belfast</Name>
+			<Region lang="EN">Belfast</Region>
+			<Destination lang="EN">Belfast, Belfast, United Kingdom</Destination>
+		</City>
+		<City id="8422">
+			<Name lang="EN">Bellshill (N Lanarkshire)</Name>
+			<Region lang="EN">Bellshill (N Lanarkshire)</Region>
+			<Destination lang="EN">Bellshill (N Lanarkshire), Bellshill (N Lanarkshire), United Kingdom</Destination>
+		</City>
+		<City id="9007">
+			<Name lang="EN">Beverley</Name>
+			<Region lang="EN">Beverley</Region>
+			<Destination lang="EN">Beverley, Beverley, United Kingdom</Destination>
+		</City>
+		<City id="9524">
+			<Name lang="EN">Bibury</Name>
+			<Region lang="EN">Bibury</Region>
+			<Destination lang="EN">Bibury, Bibury, United Kingdom</Destination>
+		</City>
+		<City id="9525">
+			<Name lang="EN">Bicester</Name>
+			<Region lang="EN">Bicester</Region>
+			<Destination lang="EN">Bicester, Bicester, United Kingdom</Destination>
+		</City>
+		<City id="9569">
+			<Name lang="EN">Bingley</Name>
+			<Region lang="EN">Bingley</Region>
+			<Destination lang="EN">Bingley, Bingley, United Kingdom</Destination>
+		</City>
+		<City id="1117">
+			<Name lang="EN">Birmingham</Name>
+			<Region lang="EN">Birmingham</Region>
+			<Destination lang="EN">Birmingham, Birmingham, United Kingdom</Destination>
+		</City>
+		<City id="1317">
+			<Name lang="EN">Blackpool</Name>
+			<Region lang="EN">Blackpool</Region>
+			<Destination lang="EN">Blackpool, Blackpool, United Kingdom</Destination>
+		</City>
+		<City id="11138">
+			<Name lang="EN">Bolton</Name>
+			<Region lang="EN">Bolton</Region>
+			<Destination lang="EN">Bolton, Bolton, United Kingdom</Destination>
+		</City>
+		<City id="7216">
+			<Name lang="EN">Bournemouth</Name>
+			<Region lang="EN">Bournemouth</Region>
+			<Destination lang="EN">Bournemouth, Bournemouth, United Kingdom</Destination>
+		</City>
+		<City id="12216">
+			<Name lang="EN">Bracknell</Name>
+			<Region lang="EN">Bracknell</Region>
+			<Destination lang="EN">Bracknell, Bracknell, United Kingdom</Destination>
+		</City>
+		<City id="7230">
+			<Name lang="EN">Bradford</Name>
+			<Region lang="EN">Bradford</Region>
+			<Destination lang="EN">Bradford, Bradford, United Kingdom</Destination>
+		</City>
+		<City id="12383">
+			<Name lang="EN">Brentwood</Name>
+			<Region lang="EN">Brentwood</Region>
+			<Destination lang="EN">Brentwood, Brentwood, United Kingdom</Destination>
+		</City>
+		<City id="33137">
+			<Name lang="EN">Brierley Hill</Name>
+			<Region lang="EN">Brierley Hill</Region>
+			<Destination lang="EN">Brierley Hill, Brierley Hill, United Kingdom</Destination>
+		</City>
+		<City id="12420">
+			<Name lang="EN">Brighouse</Name>
+			<Region lang="EN">Brighouse</Region>
+			<Destination lang="EN">Brighouse, Brighouse, United Kingdom</Destination>
+		</City>
+		<City id="7259">
+			<Name lang="EN">Brighton</Name>
+			<Region lang="EN">Brighton</Region>
+			<Destination lang="EN">Brighton, Brighton, United Kingdom</Destination>
+		</City>
+		<City id="7263">
+			<Name lang="EN">Bristol</Name>
+			<Region lang="EN">Bristol</Region>
+			<Destination lang="EN">Bristol, Bristol, United Kingdom</Destination>
+		</City>
+		<City id="12539">
+			<Name lang="EN">Broadway</Name>
+			<Region lang="EN">Broadway</Region>
+			<Destination lang="EN">Broadway, Broadway, United Kingdom</Destination>
+		</City>
+		<City id="15437">
+			<Name lang="EN">Brome</Name>
+			<Region lang="EN">Brome</Region>
+			<Destination lang="EN">Brome, Brome, United Kingdom</Destination>
+		</City>
+		<City id="12550">
+			<Name lang="EN">Bromsgrove</Name>
+			<Region lang="EN">Bromsgrove</Region>
+			<Destination lang="EN">Bromsgrove, Bromsgrove, United Kingdom</Destination>
+		</City>
+		<City id="35597">
+			<Name lang="EN">Broughton in Furness</Name>
+			<Region lang="EN">Broughton in Furness</Region>
+			<Destination lang="EN">Broughton in Furness, Broughton in Furness, United Kingdom</Destination>
+		</City>
+		<City id="12795">
+			<Name lang="EN">Burton upon Trent</Name>
+			<Region lang="EN">Burton upon Trent</Region>
+			<Destination lang="EN">Burton upon Trent, Burton upon Trent, United Kingdom</Destination>
+		</City>
+		<City id="12962">
+			<Name lang="EN">Callander</Name>
+			<Region lang="EN">Callander</Region>
+			<Destination lang="EN">Callander, Callander, United Kingdom</Destination>
+		</City>
+		<City id="16662">
+			<Name lang="EN">Cambridge</Name>
+			<Region lang="EN">Cambridge</Region>
+			<Destination lang="EN">Cambridge, Cambridge, United Kingdom</Destination>
+		</City>
+		<City id="14697">
+			<Name lang="EN">Canterbury</Name>
+			<Region lang="EN">Canterbury</Region>
+			<Destination lang="EN">Canterbury, Canterbury, United Kingdom</Destination>
+		</City>
+		<City id="6437">
+			<Name lang="EN">Cardiff</Name>
+			<Region lang="EN">Cardiff</Region>
+			<Destination lang="EN">Cardiff, Cardiff, United Kingdom</Destination>
+		</City>
+		<City id="6441">
+			<Name lang="EN">Carlisle</Name>
+			<Region lang="EN">Carlisle</Region>
+			<Destination lang="EN">Carlisle, Carlisle, United Kingdom</Destination>
+		</City>
+		<City id="18342">
+			<Name lang="EN">Chatham</Name>
+			<Region lang="EN">Chatham</Region>
+			<Destination lang="EN">Chatham, Chatham, United Kingdom</Destination>
+		</City>
+		<City id="18838">
+			<Name lang="EN">Cheltenham</Name>
+			<Region lang="EN">Cheltenham</Region>
+			<Destination lang="EN">Cheltenham, Cheltenham, United Kingdom</Destination>
+		</City>
+		<City id="18858">
+			<Name lang="EN">Chessington</Name>
+			<Region lang="EN">Chessington</Region>
+			<Destination lang="EN">Chessington, Chessington, United Kingdom</Destination>
+		</City>
+		<City id="6726">
+			<Name lang="EN">Chester</Name>
+			<Region lang="EN">Chester</Region>
+			<Destination lang="EN">Chester, Chester, United Kingdom</Destination>
+		</City>
+		<City id="18887">
+			<Name lang="EN">Chichester</Name>
+			<Region lang="EN">Chichester</Region>
+			<Destination lang="EN">Chichester, Chichester, United Kingdom</Destination>
+		</City>
+		<City id="34540">
+			<Name lang="EN">Childer Thornton</Name>
+			<Region lang="EN">Childer Thornton</Region>
+			<Destination lang="EN">Childer Thornton, Childer Thornton, United Kingdom</Destination>
+		</City>
+		<City id="18917">
+			<Name lang="EN">Chipping Campden</Name>
+			<Region lang="EN">Chipping Campden</Region>
+			<Destination lang="EN">Chipping Campden, Chipping Campden, United Kingdom</Destination>
+		</City>
+		<City id="18918">
+			<Name lang="EN">Chipping Norton</Name>
+			<Region lang="EN">Chipping Norton</Region>
+			<Destination lang="EN">Chipping Norton, Chipping Norton, United Kingdom</Destination>
+		</City>
+		<City id="20007">
+			<Name lang="EN">Cleator</Name>
+			<Region lang="EN">Cleator</Region>
+			<Destination lang="EN">Cleator, Cleator, United Kingdom</Destination>
+		</City>
+		<City id="20030">
+			<Name lang="EN">Clitheroe</Name>
+			<Region lang="EN">Clitheroe</Region>
+			<Destination lang="EN">Clitheroe, Clitheroe, United Kingdom</Destination>
+		</City>
+		<City id="20051">
+			<Name lang="EN">Cobham</Name>
+			<Region lang="EN">Cobham</Region>
+			<Destination lang="EN">Cobham, Cobham, United Kingdom</Destination>
+		</City>
+		<City id="21030">
+			<Name lang="EN">Colchester</Name>
+			<Region lang="EN">Colchester</Region>
+			<Destination lang="EN">Colchester, Colchester, United Kingdom</Destination>
+		</City>
+		<City id="21058">
+			<Name lang="EN">Colnbrook</Name>
+			<Region lang="EN">Colnbrook</Region>
+			<Destination lang="EN">Colnbrook, Colnbrook, United Kingdom</Destination>
+		</City>
+		<City id="35283">
+			<Name lang="EN">Comber</Name>
+			<Region lang="EN">Comber</Region>
+			<Destination lang="EN">Comber, Comber, United Kingdom</Destination>
+		</City>
+		<City id="22292">
+			<Name lang="EN">Coulsdon</Name>
+			<Region lang="EN">Coulsdon</Region>
+			<Destination lang="EN">Coulsdon, Coulsdon, United Kingdom</Destination>
+		</City>
+		<City id="7905">
+			<Name lang="EN">Coventry</Name>
+			<Region lang="EN">Coventry</Region>
+			<Destination lang="EN">Coventry, Coventry, United Kingdom</Destination>
+		</City>
+		<City id="22315">
+			<Name lang="EN">Craigellachie</Name>
+			<Region lang="EN">Craigellachie</Region>
+			<Destination lang="EN">Craigellachie, Craigellachie, United Kingdom</Destination>
+		</City>
+		<City id="22325">
+			<Name lang="EN">Crawley</Name>
+			<Region lang="EN">Crawley</Region>
+			<Destination lang="EN">Crawley, Crawley, United Kingdom</Destination>
+		</City>
+		<City id="22806">
+			<Name lang="EN">Crewe</Name>
+			<Region lang="EN">Crewe</Region>
+			<Destination lang="EN">Crewe, Crewe, United Kingdom</Destination>
+		</City>
+		<City id="22807">
+			<Name lang="EN">Crick</Name>
+			<Region lang="EN">Crick</Region>
+			<Destination lang="EN">Crick, Crick, United Kingdom</Destination>
+		</City>
+		<City id="22824">
+			<Name lang="EN">Croydon</Name>
+			<Region lang="EN">Croydon</Region>
+			<Destination lang="EN">Croydon, Croydon, United Kingdom</Destination>
+		</City>
+		<City id="23399">
+			<Name lang="EN">Dartford</Name>
+			<Region lang="EN">Dartford</Region>
+			<Destination lang="EN">Dartford, Dartford, United Kingdom</Destination>
+		</City>
+		<City id="23413">
+			<Name lang="EN">Daventry</Name>
+			<Region lang="EN">Daventry</Region>
+			<Destination lang="EN">Daventry, Daventry, United Kingdom</Destination>
+		</City>
+		<City id="23864">
+			<Name lang="EN">Derby</Name>
+			<Region lang="EN">Derby</Region>
+			<Destination lang="EN">Derby, Derby, United Kingdom</Destination>
+		</City>
+		<City id="19062">
+			<Name lang="EN">Doncaster</Name>
+			<Region lang="EN">Doncaster</Region>
+			<Destination lang="EN">Doncaster, Doncaster, United Kingdom</Destination>
+		</City>
+		<City id="8339">
+			<Name lang="EN">Dover</Name>
+			<Region lang="EN">Dover</Region>
+			<Destination lang="EN">Dover, Dover, United Kingdom</Destination>
+		</City>
+		<City id="8768">
+			<Name lang="EN">Dudley</Name>
+			<Region lang="EN">Dudley</Region>
+			<Destination lang="EN">Dudley, Dudley, United Kingdom</Destination>
+		</City>
+		<City id="8792">
+			<Name lang="EN">Dunblane</Name>
+			<Region lang="EN">Dunblane</Region>
+			<Destination lang="EN">Dunblane, Dunblane, United Kingdom</Destination>
+		</City>
+		<City id="11053">
+			<Name lang="EN">Dundee</Name>
+			<Region lang="EN">Dundee</Region>
+			<Destination lang="EN">Dundee, Dundee, United Kingdom</Destination>
+		</City>
+		<City id="9115">
+			<Name lang="EN">Durham</Name>
+			<Region lang="EN">Durham</Region>
+			<Destination lang="EN">Durham, Durham, United Kingdom</Destination>
+		</City>
+		<City id="9152">
+			<Name lang="EN">East Midlands</Name>
+			<Region lang="EN">East Midlands</Region>
+			<Destination lang="EN">East Midlands, East Midlands, United Kingdom</Destination>
+		</City>
+		<City id="9161">
+			<Name lang="EN">Eastbourne</Name>
+			<Region lang="EN">Eastbourne</Region>
+			<Destination lang="EN">Eastbourne, Eastbourne, United Kingdom</Destination>
+		</City>
+		<City id="9164">
+			<Name lang="EN">Eastleigh</Name>
+			<Region lang="EN">Eastleigh</Region>
+			<Destination lang="EN">Eastleigh, Eastleigh, United Kingdom</Destination>
+		</City>
+		<City id="18690">
+			<Name lang="EN">Edinburgh</Name>
+			<Region lang="EN">Edinburgh</Region>
+			<Destination lang="EN">Edinburgh, Edinburgh, United Kingdom</Destination>
+		</City>
+		<City id="9596">
+			<Name lang="EN">Egham</Name>
+			<Region lang="EN">Egham</Region>
+			<Destination lang="EN">Egham, Egham, United Kingdom</Destination>
+		</City>
+		<City id="25173">
+			<Name lang="EN">Enniskillen</Name>
+			<Region lang="EN">Enniskillen</Region>
+			<Destination lang="EN">Enniskillen, Enniskillen, United Kingdom</Destination>
+		</City>
+		<City id="3707">
+			<Name lang="EN">Exeter</Name>
+			<Region lang="EN">Exeter</Region>
+			<Destination lang="EN">Exeter, Exeter, United Kingdom</Destination>
+		</City>
+		<City id="13631">
+			<Name lang="EN">Fareham</Name>
+			<Region lang="EN">Fareham</Region>
+			<Destination lang="EN">Fareham, Fareham, United Kingdom</Destination>
+		</City>
+		<City id="3747">
+			<Name lang="EN">Farnborough</Name>
+			<Region lang="EN">Farnborough</Region>
+			<Destination lang="EN">Farnborough, Farnborough, United Kingdom</Destination>
+		</City>
+		<City id="14510">
+			<Name lang="EN">Feltham</Name>
+			<Region lang="EN">Feltham</Region>
+			<Destination lang="EN">Feltham, Feltham, United Kingdom</Destination>
+		</City>
+		<City id="15256">
+			<Name lang="EN">Fleet-Hampshire</Name>
+			<Region lang="EN">Fleet-Hampshire</Region>
+			<Destination lang="EN">Fleet-Hampshire, Fleet-Hampshire, United Kingdom</Destination>
+		</City>
+		<City id="15298">
+			<Name lang="EN">Folkestone</Name>
+			<Region lang="EN">Folkestone</Region>
+			<Destination lang="EN">Folkestone, Folkestone, United Kingdom</Destination>
+		</City>
+		<City id="8200">
+			<Name lang="EN">Glasgow</Name>
+			<Region lang="EN">Glasgow</Region>
+			<Destination lang="EN">Glasgow, Glasgow, United Kingdom</Destination>
+		</City>
+		<City id="18770">
+			<Name lang="EN">Glenrothes</Name>
+			<Region lang="EN">Glenrothes</Region>
+			<Destination lang="EN">Glenrothes, Glenrothes, United Kingdom</Destination>
+		</City>
+		<City id="8212">
+			<Name lang="EN">Gloucester</Name>
+			<Region lang="EN">Gloucester</Region>
+			<Destination lang="EN">Gloucester, Gloucester, United Kingdom</Destination>
+		</City>
+		<City id="19807">
+			<Name lang="EN">Great Malvern</Name>
+			<Region lang="EN">Great Malvern</Region>
+			<Destination lang="EN">Great Malvern, Great Malvern, United Kingdom</Destination>
+		</City>
+		<City id="19808">
+			<Name lang="EN">Great Yarmouth</Name>
+			<Region lang="EN">Great Yarmouth</Region>
+			<Destination lang="EN">Great Yarmouth, Great Yarmouth, United Kingdom</Destination>
+		</City>
+		<City id="19818">
+			<Name lang="EN">Greenock</Name>
+			<Region lang="EN">Greenock</Region>
+			<Destination lang="EN">Greenock, Greenock, United Kingdom</Destination>
+		</City>
+		<City id="19840">
+			<Name lang="EN">Gretna Green</Name>
+			<Region lang="EN">Gretna Green</Region>
+			<Destination lang="EN">Gretna Green, Gretna Green, United Kingdom</Destination>
+		</City>
+		<City id="8608">
+			<Name lang="EN">Guernsey</Name>
+			<Region lang="EN">Channel Islands</Region>
+			<Destination lang="EN">Guernsey, Channel Islands, United Kingdom</Destination>
+		</City>
+		<City id="20500">
+			<Name lang="EN">Guildford</Name>
+			<Region lang="EN">Guildford</Region>
+			<Destination lang="EN">Guildford, Guildford, United Kingdom</Destination>
+		</City>
+		<City id="20884">
+			<Name lang="EN">Halifax</Name>
+			<Region lang="EN">Halifax</Region>
+			<Destination lang="EN">Halifax, Halifax, United Kingdom</Destination>
+		</City>
+		<City id="20909">
+			<Name lang="EN">Hamilton</Name>
+			<Region lang="EN">Hamilton</Region>
+			<Destination lang="EN">Hamilton, Hamilton, United Kingdom</Destination>
+		</City>
+		<City id="9249">
+			<Name lang="EN">Harrogate</Name>
+			<Region lang="EN">Harrogate</Region>
+			<Destination lang="EN">Harrogate, Harrogate, United Kingdom</Destination>
+		</City>
+		<City id="9264">
+			<Name lang="EN">Hatfield</Name>
+			<Region lang="EN">Hatfield</Region>
+			<Destination lang="EN">Hatfield, Hatfield, United Kingdom</Destination>
+		</City>
+		<City id="22359">
+			<Name lang="EN">Haydock</Name>
+			<Region lang="EN">Haydock</Region>
+			<Destination lang="EN">Haydock, Haydock, United Kingdom</Destination>
+		</City>
+		<City id="22360">
+			<Name lang="EN">Hayes</Name>
+			<Region lang="EN">Hayes</Region>
+			<Destination lang="EN">Hayes, Hayes, United Kingdom</Destination>
+		</City>
+		<City id="22408">
+			<Name lang="EN">Hemel Hempstead</Name>
+			<Region lang="EN">Hemel Hempstead</Region>
+			<Destination lang="EN">Hemel Hempstead, Hemel Hempstead, United Kingdom</Destination>
+		</City>
+		<City id="9966">
+			<Name lang="EN">High Wycombe</Name>
+			<Region lang="EN">High Wycombe</Region>
+			<Destination lang="EN">High Wycombe, High Wycombe, United Kingdom</Destination>
+		</City>
+		<City id="23994">
+			<Name lang="EN">Hook</Name>
+			<Region lang="EN">Hook</Region>
+			<Destination lang="EN">Hook, Hook, United Kingdom</Destination>
+		</City>
+		<City id="24598">
+			<Name lang="EN">Hounslow</Name>
+			<Region lang="EN">Hounslow</Region>
+			<Destination lang="EN">Hounslow, Hounslow, United Kingdom</Destination>
+		</City>
+		<City id="33274">
+			<Name lang="EN">Hoylake</Name>
+			<Region lang="EN">Hoylake</Region>
+			<Destination lang="EN">Hoylake, Hoylake, United Kingdom</Destination>
+		</City>
+		<City id="24633">
+			<Name lang="EN">Huddersfield</Name>
+			<Region lang="EN">Huddersfield</Region>
+			<Destination lang="EN">Huddersfield, Huddersfield, United Kingdom</Destination>
+		</City>
+		<City id="24641">
+			<Name lang="EN">Hull</Name>
+			<Region lang="EN">Hull</Region>
+			<Destination lang="EN">Hull, Hull, United Kingdom</Destination>
+		</City>
+		<City id="24661">
+			<Name lang="EN">Huntingdon</Name>
+			<Region lang="EN">Huntingdon</Region>
+			<Destination lang="EN">Huntingdon, Huntingdon, United Kingdom</Destination>
+		</City>
+		<City id="24824">
+			<Name lang="EN">Ilford</Name>
+			<Region lang="EN">Ilford</Region>
+			<Destination lang="EN">Ilford, Ilford, United Kingdom</Destination>
+		</City>
+		<City id="24969">
+			<Name lang="EN">Inveraray</Name>
+			<Region lang="EN">Inveraray</Region>
+			<Destination lang="EN">Inveraray, Inveraray, United Kingdom</Destination>
+		</City>
+		<City id="15099">
+			<Name lang="EN">Inverness</Name>
+			<Region lang="EN">Inverness</Region>
+			<Destination lang="EN">Inverness, Inverness, United Kingdom</Destination>
+		</City>
+		<City id="15140">
+			<Name lang="EN">Isle of Skye</Name>
+			<Region lang="EN">Isle of Skye</Region>
+			<Destination lang="EN">Isle of Skye, Isle of Skye, United Kingdom</Destination>
+		</City>
+		<City id="17542">
+			<Name lang="EN">Jersey</Name>
+			<Region lang="EN">Channel Islands</Region>
+			<Destination lang="EN">Jersey, Channel Islands, United Kingdom</Destination>
+		</City>
+		<City id="9833">
+			<Name lang="EN">Kendal</Name>
+			<Region lang="EN">Kendal</Region>
+			<Destination lang="EN">Kendal, Kendal, United Kingdom</Destination>
+		</City>
+		<City id="9836">
+			<Name lang="EN">Kenilworth</Name>
+			<Region lang="EN">Kenilworth</Region>
+			<Destination lang="EN">Kenilworth, Kenilworth, United Kingdom</Destination>
+		</City>
+		<City id="9867">
+			<Name lang="EN">Keswick</Name>
+			<Region lang="EN">Keswick</Region>
+			<Destination lang="EN">Keswick, Keswick, United Kingdom</Destination>
+		</City>
+		<City id="10242">
+			<Name lang="EN">Kingston upon Thames</Name>
+			<Region lang="EN">Kingston upon Thames</Region>
+			<Destination lang="EN">Kingston upon Thames, Kingston upon Thames, United Kingdom</Destination>
+		</City>
+		<City id="27287">
+			<Name lang="EN">Knowsley</Name>
+			<Region lang="EN">Knowsley</Region>
+			<Destination lang="EN">Knowsley, Knowsley, United Kingdom</Destination>
+		</City>
+		<City id="15030">
+			<Name lang="EN">Kyleakin</Name>
+			<Region lang="EN">Kyleakin</Region>
+			<Destination lang="EN">Kyleakin, Kyleakin, United Kingdom</Destination>
+		</City>
+		<City id="16926">
+			<Name lang="EN">Lancaster</Name>
+			<Region lang="EN">Lancaster</Region>
+			<Destination lang="EN">Lancaster, Lancaster, United Kingdom</Destination>
+		</City>
+		<City id="10527">
+			<Name lang="EN">Leeds/Bradford</Name>
+			<Region lang="EN">Leeds/Bradford</Region>
+			<Destination lang="EN">Leeds/Bradford, Leeds/Bradford, United Kingdom</Destination>
+		</City>
+		<City id="17838">
+			<Name lang="EN">Leicester</Name>
+			<Region lang="EN">Leicester</Region>
+			<Destination lang="EN">Leicester, Leicester, United Kingdom</Destination>
+		</City>
+		<City id="17848">
+			<Name lang="EN">Leith</Name>
+			<Region lang="EN">Leith</Region>
+			<Destination lang="EN">Leith, Leith, United Kingdom</Destination>
+		</City>
+		<City id="18524">
+			<Name lang="EN">Lichfield</Name>
+			<Region lang="EN">Lichfield</Region>
+			<Destination lang="EN">Lichfield, Lichfield, United Kingdom</Destination>
+		</City>
+		<City id="19525">
+			<Name lang="EN">Lincoln</Name>
+			<Region lang="EN">Lincoln</Region>
+			<Destination lang="EN">Lincoln, Lincoln, United Kingdom</Destination>
+		</City>
+		<City id="10724">
+			<Name lang="EN">Liverpool</Name>
+			<Region lang="EN">Liverpool</Region>
+			<Destination lang="EN">Liverpool, Liverpool, United Kingdom</Destination>
+		</City>
+		<City id="19888">
+			<Name lang="EN">Llandudno</Name>
+			<Region lang="EN">Llandudno</Region>
+			<Destination lang="EN">Llandudno, Llandudno, United Kingdom</Destination>
+		</City>
+		<City id="19913">
+			<Name lang="EN">Loch Lomond</Name>
+			<Region lang="EN">Loch Lomond</Region>
+			<Destination lang="EN">Loch Lomond, Loch Lomond, United Kingdom</Destination>
+		</City>
+		<City id="12254">
+			<Name lang="EN">London</Name>
+			<Region lang="EN">London</Region>
+			<Destination lang="EN">London, London, United Kingdom</Destination>
+		</City>
+		<City id="12257">
+			<Name lang="EN">Londonderry</Name>
+			<Region lang="EN">Londonderry</Region>
+			<Destination lang="EN">Londonderry, Londonderry, United Kingdom</Destination>
+		</City>
+		<City id="20629">
+			<Name lang="EN">Ludlow</Name>
+			<Region lang="EN">Ludlow</Region>
+			<Destination lang="EN">Ludlow, Ludlow, United Kingdom</Destination>
+		</City>
+		<City id="20681">
+			<Name lang="EN">Luton</Name>
+			<Region lang="EN">Luton</Region>
+			<Destination lang="EN">Luton, Luton, United Kingdom</Destination>
+		</City>
+		<City id="20691">
+			<Name lang="EN">Lymington</Name>
+			<Region lang="EN">Lymington</Region>
+			<Destination lang="EN">Lymington, Lymington, United Kingdom</Destination>
+		</City>
+		<City id="20718">
+			<Name lang="EN">Macclesfield</Name>
+			<Region lang="EN">Macclesfield</Region>
+			<Destination lang="EN">Macclesfield, Macclesfield, United Kingdom</Destination>
+		</City>
+		<City id="21557">
+			<Name lang="EN">Maidenhead</Name>
+			<Region lang="EN">Maidenhead</Region>
+			<Destination lang="EN">Maidenhead, Maidenhead, United Kingdom</Destination>
+		</City>
+		<City id="21558">
+			<Name lang="EN">Maidstone</Name>
+			<Region lang="EN">Maidstone</Region>
+			<Destination lang="EN">Maidstone, Maidstone, United Kingdom</Destination>
+		</City>
+		<City id="22173">
+			<Name lang="EN">Maldon</Name>
+			<Region lang="EN">Maldon</Region>
+			<Destination lang="EN">Maldon, Maldon, United Kingdom</Destination>
+		</City>
+		<City id="13670">
+			<Name lang="EN">Manchester</Name>
+			<Region lang="EN">Manchester</Region>
+			<Destination lang="EN">Manchester, Manchester, United Kingdom</Destination>
+		</City>
+		<City id="23297">
+			<Name lang="EN">Market Bosworth</Name>
+			<Region lang="EN">Market Bosworth</Region>
+			<Destination lang="EN">Market Bosworth, Market Bosworth, United Kingdom</Destination>
+		</City>
+		<City id="23310">
+			<Name lang="EN">Marlow</Name>
+			<Region lang="EN">Marlow</Region>
+			<Destination lang="EN">Marlow, Marlow, United Kingdom</Destination>
+		</City>
+		<City id="24376">
+			<Name lang="EN">Middlesbrough</Name>
+			<Region lang="EN">Middlesbrough</Region>
+			<Destination lang="EN">Middlesbrough, Middlesbrough, United Kingdom</Destination>
+		</City>
+		<City id="15818">
+			<Name lang="EN">Milton Keynes</Name>
+			<Region lang="EN">Milton Keynes</Region>
+			<Destination lang="EN">Milton Keynes, Milton Keynes, United Kingdom</Destination>
+		</City>
+		<City id="27589">
+			<Name lang="EN">Motherwell</Name>
+			<Region lang="EN">Motherwell</Region>
+			<Destination lang="EN">Motherwell, Motherwell, United Kingdom</Destination>
+		</City>
+		<City id="28083">
+			<Name lang="EN">Nairn</Name>
+			<Region lang="EN">Nairn</Region>
+			<Destination lang="EN">Nairn, Nairn, United Kingdom</Destination>
+		</City>
+		<City id="22055">
+			<Name lang="EN">Neath</Name>
+			<Region lang="EN">Neath</Region>
+			<Destination lang="EN">Neath, Neath, United Kingdom</Destination>
+		</City>
+		<City id="18999">
+			<Name lang="EN">Newbury</Name>
+			<Region lang="EN">Newbury</Region>
+			<Destination lang="EN">Newbury, Newbury, United Kingdom</Destination>
+		</City>
+		<City id="8871">
+			<Name lang="EN">Newby Bridge</Name>
+			<Region lang="EN">Newby Bridge</Region>
+			<Destination lang="EN">Newby Bridge, Newby Bridge, United Kingdom</Destination>
+		</City>
+		<City id="19003">
+			<Name lang="EN">Newcastle</Name>
+			<Region lang="EN">Newcastle</Region>
+			<Destination lang="EN">Newcastle, Newcastle, United Kingdom</Destination>
+		</City>
+		<City id="8875">
+			<Name lang="EN">Newcastle-under-Lyme</Name>
+			<Region lang="EN">Newcastle-under-Lyme</Region>
+			<Destination lang="EN">Newcastle-under-Lyme, Newcastle-under-Lyme, United Kingdom</Destination>
+		</City>
+		<City id="8880">
+			<Name lang="EN">Newmarket</Name>
+			<Region lang="EN">Newmarket</Region>
+			<Destination lang="EN">Newmarket, Newmarket, United Kingdom</Destination>
+		</City>
+		<City id="8885">
+			<Name lang="EN">Newport</Name>
+			<Region lang="EN">Newport</Region>
+			<Destination lang="EN">Newport, Newport, United Kingdom</Destination>
+		</City>
+		<City id="8888">
+			<Name lang="EN">Newport Pagnell</Name>
+			<Region lang="EN">Newport Pagnell</Region>
+			<Destination lang="EN">Newport Pagnell, Newport Pagnell, United Kingdom</Destination>
+		</City>
+		<City id="36389">
+			<Name lang="EN">Newton Le Willows</Name>
+			<Region lang="EN">Newton Le Willows</Region>
+			<Destination lang="EN">Newton Le Willows, Newton Le Willows, United Kingdom</Destination>
+		</City>
+		<City id="8895">
+			<Name lang="EN">Newtonmore</Name>
+			<Region lang="EN">Newtonmore</Region>
+			<Destination lang="EN">Newtonmore, Newtonmore, United Kingdom</Destination>
+		</City>
+		<City id="19672">
+			<Name lang="EN">Northampton</Name>
+			<Region lang="EN">Northampton</Region>
+			<Destination lang="EN">Northampton, Northampton, United Kingdom</Destination>
+		</City>
+		<City id="19679">
+			<Name lang="EN">Norwich</Name>
+			<Region lang="EN">Norwich</Region>
+			<Destination lang="EN">Norwich, Norwich, United Kingdom</Destination>
+		</City>
+		<City id="19684">
+			<Name lang="EN">Nottingham</Name>
+			<Region lang="EN">Nottingham</Region>
+			<Destination lang="EN">Nottingham, Nottingham, United Kingdom</Destination>
+		</City>
+		<City id="10278">
+			<Name lang="EN">Nuneaton</Name>
+			<Region lang="EN">Nuneaton</Region>
+			<Destination lang="EN">Nuneaton, Nuneaton, United Kingdom</Destination>
+		</City>
+		<City id="26226">
+			<Name lang="EN">Oban</Name>
+			<Region lang="EN">Oban</Region>
+			<Destination lang="EN">Oban, Oban, United Kingdom</Destination>
+		</City>
+		<City id="27089">
+			<Name lang="EN">Oxford</Name>
+			<Region lang="EN">Oxford</Region>
+			<Destination lang="EN">Oxford, Oxford, United Kingdom</Destination>
+		</City>
+		<City id="21929">
+			<Name lang="EN">Penrith</Name>
+			<Region lang="EN">Penrith</Region>
+			<Destination lang="EN">Penrith, Penrith, United Kingdom</Destination>
+		</City>
+		<City id="29456">
+			<Name lang="EN">Perth</Name>
+			<Region lang="EN">Perth</Region>
+			<Destination lang="EN">Perth, Perth, United Kingdom</Destination>
+		</City>
+		<City id="23103">
+			<Name lang="EN">Peterborough</Name>
+			<Region lang="EN">Peterborough</Region>
+			<Destination lang="EN">Peterborough, Peterborough, United Kingdom</Destination>
+		</City>
+		<City id="24305">
+			<Name lang="EN">Pitlochry</Name>
+			<Region lang="EN">Pitlochry</Region>
+			<Destination lang="EN">Pitlochry, Pitlochry, United Kingdom</Destination>
+		</City>
+		<City id="29701">
+			<Name lang="EN">Plymouth</Name>
+			<Region lang="EN">Plymouth</Region>
+			<Destination lang="EN">Plymouth, Plymouth, United Kingdom</Destination>
+		</City>
+		<City id="24720">
+			<Name lang="EN">Poole</Name>
+			<Region lang="EN">Poole</Region>
+			<Destination lang="EN">Poole, Poole, United Kingdom</Destination>
+		</City>
+		<City id="29931">
+			<Name lang="EN">Portsmouth</Name>
+			<Region lang="EN">Portsmouth</Region>
+			<Destination lang="EN">Portsmouth, Portsmouth, United Kingdom</Destination>
+		</City>
+		<City id="25268">
+			<Name lang="EN">Potters Bar</Name>
+			<Region lang="EN">Potters Bar</Region>
+			<Destination lang="EN">Potters Bar, Potters Bar, United Kingdom</Destination>
+		</City>
+		<City id="25713">
+			<Name lang="EN">Preston</Name>
+			<Region lang="EN">Preston</Region>
+			<Destination lang="EN">Preston, Preston, United Kingdom</Destination>
+		</City>
+		<City id="26333">
+			<Name lang="EN">Ramsgate</Name>
+			<Region lang="EN">Ramsgate</Region>
+			<Destination lang="EN">Ramsgate, Ramsgate, United Kingdom</Destination>
+		</City>
+		<City id="27122">
+			<Name lang="EN">Reading</Name>
+			<Region lang="EN">Reading</Region>
+			<Destination lang="EN">Reading, Reading, United Kingdom</Destination>
+		</City>
+		<City id="27142">
+			<Name lang="EN">Reepham</Name>
+			<Region lang="EN">Reepham</Region>
+			<Destination lang="EN">Reepham, Reepham, United Kingdom</Destination>
+		</City>
+		<City id="5697">
+			<Name lang="EN">Risley</Name>
+			<Region lang="EN">Risley</Region>
+			<Destination lang="EN">Risley, Risley, United Kingdom</Destination>
+		</City>
+		<City id="30471">
+			<Name lang="EN">Rochester</Name>
+			<Region lang="EN">Rochester</Region>
+			<Destination lang="EN">Rochester, Rochester, United Kingdom</Destination>
+		</City>
+		<City id="28050">
+			<Name lang="EN">Rotherham</Name>
+			<Region lang="EN">Rotherham</Region>
+			<Destination lang="EN">Rotherham, Rotherham, United Kingdom</Destination>
+		</City>
+		<City id="28202">
+			<Name lang="EN">Ruislip</Name>
+			<Region lang="EN">Ruislip</Region>
+			<Destination lang="EN">Ruislip, Ruislip, United Kingdom</Destination>
+		</City>
+		<City id="28210">
+			<Name lang="EN">Runcorn</Name>
+			<Region lang="EN">Runcorn</Region>
+			<Destination lang="EN">Runcorn, Runcorn, United Kingdom</Destination>
+		</City>
+		<City id="30596">
+			<Name lang="EN">Saint Andrews</Name>
+			<Region lang="EN">Saint Andrews</Region>
+			<Destination lang="EN">Saint Andrews, Saint Andrews, United Kingdom</Destination>
+		</City>
+		<City id="5835">
+			<Name lang="EN">Salford</Name>
+			<Region lang="EN">Salford</Region>
+			<Destination lang="EN">Salford, Salford, United Kingdom</Destination>
+		</City>
+		<City id="5849">
+			<Name lang="EN">Salisbury</Name>
+			<Region lang="EN">Salisbury</Region>
+			<Destination lang="EN">Salisbury, Salisbury, United Kingdom</Destination>
+		</City>
+		<City id="6131">
+			<Name lang="EN">Sandbach</Name>
+			<Region lang="EN">Sandbach</Region>
+			<Destination lang="EN">Sandbach, Sandbach, United Kingdom</Destination>
+		</City>
+		<City id="23079">
+			<Name lang="EN">Sandy</Name>
+			<Region lang="EN">Sandy</Region>
+			<Destination lang="EN">Sandy, Sandy, United Kingdom</Destination>
+		</City>
+		<City id="4697">
+			<Name lang="EN">Scarborough</Name>
+			<Region lang="EN">Scarborough</Region>
+			<Destination lang="EN">Scarborough, Scarborough, United Kingdom</Destination>
+		</City>
+		<City id="5331">
+			<Name lang="EN">Sevenoaks</Name>
+			<Region lang="EN">Sevenoaks</Region>
+			<Destination lang="EN">Sevenoaks, Sevenoaks, United Kingdom</Destination>
+		</City>
+		<City id="28746">
+			<Name lang="EN">Sheffield</Name>
+			<Region lang="EN">Sheffield</Region>
+			<Destination lang="EN">Sheffield, Sheffield, United Kingdom</Destination>
+		</City>
+		<City id="889">
+			<Name lang="EN">Shepperton</Name>
+			<Region lang="EN">Shepperton</Region>
+			<Destination lang="EN">Shepperton, Shepperton, United Kingdom</Destination>
+		</City>
+		<City id="5107">
+			<Name lang="EN">Slough</Name>
+			<Region lang="EN">Slough</Region>
+			<Destination lang="EN">Slough, Slough, United Kingdom</Destination>
+		</City>
+		<City id="5374">
+			<Name lang="EN">Solihull</Name>
+			<Region lang="EN">Solihull</Region>
+			<Destination lang="EN">Solihull, Solihull, United Kingdom</Destination>
+		</City>
+		<City id="28885">
+			<Name lang="EN">Southampton</Name>
+			<Region lang="EN">Southampton</Region>
+			<Destination lang="EN">Southampton, Southampton, United Kingdom</Destination>
+		</City>
+		<City id="28886">
+			<Name lang="EN">Southend</Name>
+			<Region lang="EN">Southend</Region>
+			<Destination lang="EN">Southend, Southend, United Kingdom</Destination>
+		</City>
+		<City id="4257">
+			<Name lang="EN">Southport</Name>
+			<Region lang="EN">Southport</Region>
+			<Destination lang="EN">Southport, Southport, United Kingdom</Destination>
+		</City>
+		<City id="1269">
+			<Name lang="EN">St Albans</Name>
+			<Region lang="EN">St Albans</Region>
+			<Destination lang="EN">St Albans, St Albans, United Kingdom</Destination>
+		</City>
+		<City id="4407">
+			<Name lang="EN">St Helier</Name>
+			<Region lang="EN">Channel Islands</Region>
+			<Destination lang="EN">St Helier, Channel Islands, United Kingdom</Destination>
+		</City>
+		<City id="4470">
+			<Name lang="EN">Stafford</Name>
+			<Region lang="EN">Stafford</Region>
+			<Destination lang="EN">Stafford, Stafford, United Kingdom</Destination>
+		</City>
+		<City id="34168">
+			<Name lang="EN">Stansted Mountfitchet</Name>
+			<Region lang="EN">Stansted Mountfitchet</Region>
+			<Destination lang="EN">Stansted Mountfitchet, Stansted Mountfitchet, United Kingdom</Destination>
+		</City>
+		<City id="4659">
+			<Name lang="EN">Stevenage</Name>
+			<Region lang="EN">Stevenage</Region>
+			<Destination lang="EN">Stevenage, Stevenage, United Kingdom</Destination>
+		</City>
+		<City id="4677">
+			<Name lang="EN">Stirling</Name>
+			<Region lang="EN">Stirling</Region>
+			<Destination lang="EN">Stirling, Stirling, United Kingdom</Destination>
+		</City>
+		<City id="4780">
+			<Name lang="EN">Stockport</Name>
+			<Region lang="EN">Stockport</Region>
+			<Destination lang="EN">Stockport, Stockport, United Kingdom</Destination>
+		</City>
+		<City id="4785">
+			<Name lang="EN">Stoke on Trent</Name>
+			<Region lang="EN">Stoke on Trent</Region>
+			<Destination lang="EN">Stoke on Trent, Stoke on Trent, United Kingdom</Destination>
+		</City>
+		<City id="4791">
+			<Name lang="EN">Stone</Name>
+			<Region lang="EN">Stone</Region>
+			<Destination lang="EN">Stone, Stone, United Kingdom</Destination>
+		</City>
+		<City id="4828">
+			<Name lang="EN">Stratford upon Avon</Name>
+			<Region lang="EN">Stratford upon Avon</Region>
+			<Destination lang="EN">Stratford upon Avon, Stratford upon Avon, United Kingdom</Destination>
+		</City>
+		<City id="5251">
+			<Name lang="EN">Surbiton</Name>
+			<Region lang="EN">Surbiton</Region>
+			<Destination lang="EN">Surbiton, Surbiton, United Kingdom</Destination>
+		</City>
+		<City id="1362">
+			<Name lang="EN">Sutton</Name>
+			<Region lang="EN">Sutton</Region>
+			<Destination lang="EN">Sutton, Sutton, United Kingdom</Destination>
+		</City>
+		<City id="29112">
+			<Name lang="EN">Swansea</Name>
+			<Region lang="EN">Swansea</Region>
+			<Destination lang="EN">Swansea, Swansea, United Kingdom</Destination>
+		</City>
+		<City id="29115">
+			<Name lang="EN">Swindon</Name>
+			<Region lang="EN">Swindon</Region>
+			<Destination lang="EN">Swindon, Swindon, United Kingdom</Destination>
+		</City>
+		<City id="751">
+			<Name lang="EN">Tamworth</Name>
+			<Region lang="EN">Tamworth</Region>
+			<Destination lang="EN">Tamworth, Tamworth, United Kingdom</Destination>
+		</City>
+		<City id="2665">
+			<Name lang="EN">Tarbet</Name>
+			<Region lang="EN">Tarbet</Region>
+			<Destination lang="EN">Tarbet, Tarbet, United Kingdom</Destination>
+		</City>
+		<City id="36">
+			<Name lang="EN">Taunton</Name>
+			<Region lang="EN">Taunton</Region>
+			<Destination lang="EN">Taunton, Taunton, United Kingdom</Destination>
+		</City>
+		<City id="96">
+			<Name lang="EN">Telford</Name>
+			<Region lang="EN">Telford</Region>
+			<Destination lang="EN">Telford, Telford, United Kingdom</Destination>
+		</City>
+		<City id="211">
+			<Name lang="EN">Templepatrick</Name>
+			<Region lang="EN">Templepatrick</Region>
+			<Destination lang="EN">Templepatrick, Templepatrick, United Kingdom</Destination>
+		</City>
+		<City id="273">
+			<Name lang="EN">Tewkesbury</Name>
+			<Region lang="EN">Tewkesbury</Region>
+			<Destination lang="EN">Tewkesbury, Tewkesbury, United Kingdom</Destination>
+		</City>
+		<City id="819">
+			<Name lang="EN">Thurso</Name>
+			<Region lang="EN">Thurso</Region>
+			<Destination lang="EN">Thurso, Thurso, United Kingdom</Destination>
+		</City>
+		<City id="2186">
+			<Name lang="EN">Torquay</Name>
+			<Region lang="EN">Torquay</Region>
+			<Destination lang="EN">Torquay, Torquay, United Kingdom</Destination>
+		</City>
+		<City id="319">
+			<Name lang="EN">Ullapool</Name>
+			<Region lang="EN">Ullapool</Region>
+			<Destination lang="EN">Ullapool, Ullapool, United Kingdom</Destination>
+		</City>
+		<City id="1110">
+			<Name lang="EN">Wakefield</Name>
+			<Region lang="EN">Wakefield</Region>
+			<Destination lang="EN">Wakefield, Wakefield, United Kingdom</Destination>
+		</City>
+		<City id="2263">
+			<Name lang="EN">Walsall</Name>
+			<Region lang="EN">Walsall</Region>
+			<Destination lang="EN">Walsall, Walsall, United Kingdom</Destination>
+		</City>
+		<City id="2269">
+			<Name lang="EN">Walton-on-Thames</Name>
+			<Region lang="EN">Walton-on-Thames</Region>
+			<Destination lang="EN">Walton-on-Thames, Walton-on-Thames, United Kingdom</Destination>
+		</City>
+		<City id="2299">
+			<Name lang="EN">Warrington</Name>
+			<Region lang="EN">Warrington</Region>
+			<Destination lang="EN">Warrington, Warrington, United Kingdom</Destination>
+		</City>
+		<City id="2306">
+			<Name lang="EN">Warwick</Name>
+			<Region lang="EN">Warwick</Region>
+			<Destination lang="EN">Warwick, Warwick, United Kingdom</Destination>
+		</City>
+		<City id="2309">
+			<Name lang="EN">Washington</Name>
+			<Region lang="EN">Washington</Region>
+			<Destination lang="EN">Washington, Washington, United Kingdom</Destination>
+		</City>
+		<City id="2331">
+			<Name lang="EN">Watford</Name>
+			<Region lang="EN">Watford</Region>
+			<Destination lang="EN">Watford, Watford, United Kingdom</Destination>
+		</City>
+		<City id="2393">
+			<Name lang="EN">Wembley</Name>
+			<Region lang="EN">Wembley</Region>
+			<Destination lang="EN">Wembley, Wembley, United Kingdom</Destination>
+		</City>
+		<City id="4074">
+			<Name lang="EN">Wetherby</Name>
+			<Region lang="EN">Wetherby</Region>
+			<Destination lang="EN">Wetherby, Wetherby, United Kingdom</Destination>
+		</City>
+		<City id="4085">
+			<Name lang="EN">Wigan</Name>
+			<Region lang="EN">Wigan</Region>
+			<Destination lang="EN">Wigan, Wigan, United Kingdom</Destination>
+		</City>
+		<City id="2954">
+			<Name lang="EN">Winchester</Name>
+			<Region lang="EN">Winchester</Region>
+			<Destination lang="EN">Winchester, Winchester, United Kingdom</Destination>
+		</City>
+		<City id="2958">
+			<Name lang="EN">Windermere</Name>
+			<Region lang="EN">Windermere</Region>
+			<Destination lang="EN">Windermere, Windermere, United Kingdom</Destination>
+		</City>
+		<City id="2962">
+			<Name lang="EN">Windsor</Name>
+			<Region lang="EN">Windsor</Region>
+			<Destination lang="EN">Windsor, Windsor, United Kingdom</Destination>
+		</City>
+		<City id="3004">
+			<Name lang="EN">Woking</Name>
+			<Region lang="EN">Woking</Region>
+			<Destination lang="EN">Woking, Woking, United Kingdom</Destination>
+		</City>
+		<City id="3005">
+			<Name lang="EN">Wokingham</Name>
+			<Region lang="EN">Wokingham</Region>
+			<Destination lang="EN">Wokingham, Wokingham, United Kingdom</Destination>
+		</City>
+		<City id="3024">
+			<Name lang="EN">Wolverhampton</Name>
+			<Region lang="EN">Wolverhampton</Region>
+			<Destination lang="EN">Wolverhampton, Wolverhampton, United Kingdom</Destination>
+		</City>
+		<City id="3035">
+			<Name lang="EN">Woodford Green</Name>
+			<Region lang="EN">Woodford Green</Region>
+			<Destination lang="EN">Woodford Green, Woodford Green, United Kingdom</Destination>
+		</City>
+		<City id="3172">
+			<Name lang="EN">York</Name>
+			<Region lang="EN">York</Region>
+			<Destination lang="EN">York, York, United Kingdom</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331592" resultcode="0" message="" >
+				<Name><![CDATA[CATARATAS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta 12 Km 4,]]></Address1>
+					<Address2><![CDATA[3370, Iguazu, Argentina]]></Address2>
+					<PostalCode>3370</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.605297</Latitude>
+					<Longitude>-54.575695</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pool bar. It suplies customers a concierge service 24 hours a day. Health and beauty facilities include Sauna and Massages. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pool bar. It suplies customers a concierge service 24 hours a day. Health and beauty facilities include Sauna and Massages. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.  Activities and relax: Sauna and Massages. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6410/37296410.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6411/37296411.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6412/37296412.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6413/37296413.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6414/37296414.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6415/37296415.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6416/37296416.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6417/37296417.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6418/37296418.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6419/37296419.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6420/37296420.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6421/37296421.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6422/37296422.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6423/37296423.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6424/37296424.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6425/37296425.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6426/37296426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6427/37296427.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6406/37296406.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6407/37296407.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6408/37296408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6409/37296409.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6428/37296428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6429/37296429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6430/37296430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6439/37296439.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6440/37296440.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6441/37296441.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 3757 42 1090]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 3757 42 1100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493892" resultcode="0" message="" >
+				<Name><![CDATA[AMERIAN EXECUTIVE MENDOZA HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  San Lorenzo 660,]]></Address1>
+					<Address2><![CDATA[5500, Mendoza, Argentina]]></Address2>
+					<PostalCode>5500</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.89394</Latitude>
+					<Longitude>-68.801994</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4292/32604292.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4293/32604293.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4294/32604294.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4295/32604295.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4296/32604296.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4297/32604297.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4298/32604298.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4281/32604281.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4282/32604282.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4283/32604283.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4284/32604284.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4285/32604285.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4286/32604286.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4287/32604287.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4288/32604288.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4289/32604289.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4290/32604290.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4291/32604291.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 261 4051949]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 261 5245000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

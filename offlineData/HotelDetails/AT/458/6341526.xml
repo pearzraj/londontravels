@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341526" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL IMLAUER]]></Name>
+				<Address>
+					<Address1><![CDATA[  ROTENSTERNGASSE 10,]]></Address1>
+					<Address2><![CDATA[0102, Vienna, Austria]]></Address2>
+					<PostalCode>0102</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.45471</Latitude>
+					<Longitude>16.594849</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Porters, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. The following services are offered Currency Exchange and Safe in Reception. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Room-Service We also have Currency Exchange, Porters, Safe in Reception, Garage and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Safe in Reception]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7993/37127993.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7994/37127994.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7995/37127995.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7996/37127996.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7997/37127997.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7998/37127998.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7999/37127999.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7982/37127982.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7983/37127983.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7984/37127984.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7985/37127985.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7986/37127986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7987/37127987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7988/37127988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7989/37127989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7990/37127990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7991/37127991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7992/37127992.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1211400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

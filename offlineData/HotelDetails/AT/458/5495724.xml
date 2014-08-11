@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495724" resultcode="0" message="" >
+				<Name><![CDATA[SACHER]]></Name>
+				<Address>
+					<Address1><![CDATA[   Philharmonikerstrasse,4]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20378</Latitude>
+					<Longitude>16.370014</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9585/37259585.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T01000/T01995_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 51456810]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 51456 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

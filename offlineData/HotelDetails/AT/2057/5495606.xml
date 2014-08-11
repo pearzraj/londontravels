@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495606" resultcode="0" message="" >
+				<Name><![CDATA[AUSTRIA TREND EVENTHOTEL PYRAMIDE]]></Name>
+				<Address>
+					<Address1><![CDATA[   Parkallee,2]]></Address1>
+					<Address2><![CDATA[02334, Vosendorf, Austria]]></Address2>
+					<PostalCode>02334</PostalCode>
+					<CityCode>65273</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vosendorf]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.11918</Latitude>
+					<Longitude>16.318195</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9876/32609876.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_1_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_1_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_12_13.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_12_14.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04893_1_12.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00431 69900692]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043699003167 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

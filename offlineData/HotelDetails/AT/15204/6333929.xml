@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333929" resultcode="0" message="" >
+				<Name><![CDATA[SPORTHOTEL FONTANA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Lindau, 15]]></Address1>
+					<Address2><![CDATA[6391, Fieberbrunn, Austria]]></Address2>
+					<PostalCode>6391</PostalCode>
+					<CityCode>64995</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Fieberbrunn]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.4682</Latitude>
+					<Longitude>12.55034</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3342/37133342.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3343/37133343.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T44000/T44000_11_1.gif</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3345/37133345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3346/37133346.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3347/37133347.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3348/37133348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3349/37133349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3350/37133350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3351/37133351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3352/37133352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3353/37133353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3354/37133354.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043535656086 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333183" resultcode="0" message="" >
+				<Name><![CDATA[PULLMAN CITY CENTER ROSARIO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av Batlle y Ordoñez y Bv Oroño,]]></Address1>
+					<Address2><![CDATA[2000, Rosario, Argentina]]></Address2>
+					<PostalCode>2000</PostalCode>
+					<CityCode>64818</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Rosario]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-33.0111</Latitude>
+					<Longitude>-60.6629</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. The following services are offered Currency Exchange. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa and Sauna. Pets not allowed. The following services are offered Currency Exchange. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Shops, Garage and Business Centre.  Activities and relax: Sauna and Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9823/37299823.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9824/37299824.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9825/37299825.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9843/37299843.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9844/37299844.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9845/37299845.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9846/37299846.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9826/37299826.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9827/37299827.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9828/37299828.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9829/37299829.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9830/37299830.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9831/37299831.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9832/37299832.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9833/37299833.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9834/37299834.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9835/37299835.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9836/37299836.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9837/37299837.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9838/37299838.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9839/37299839.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9840/37299840.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9841/37299841.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9842/37299842.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[543414103232]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[543414103200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

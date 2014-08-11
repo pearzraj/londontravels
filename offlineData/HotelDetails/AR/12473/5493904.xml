@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493904" resultcode="0" message="" >
+				<Name><![CDATA[CASINO MAGIC HOTEL AND CASINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  Teodoro Planas 4005,]]></Address1>
+					<Address2><![CDATA[Q8304ENU, Iguazu, Argentina]]></Address2>
+					<PostalCode>Q8304ENU</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-38.957607</Latitude>
+					<Longitude>-68.11504</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4407/32604407.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4408/32604408.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4401/32604401.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4402/32604402.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4403/32604403.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4404/32604404.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4405/32604405.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4406/32604406.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

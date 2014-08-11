@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="PK">
+		<City id="29977"> 
+			<Name lang="EN">Karachi</Name>
+			<Region lang="EN">Karachi</Region>
+			<Destination lang="EN">Karachi, Karachi, Pakistan</Destination>
+		</City>
+		<City id="10455">
+			<Name lang="EN">Lahore</Name>
+			<Region lang="EN">Lahore</Region>
+			<Destination lang="EN">Lahore, Lahore, Pakistan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

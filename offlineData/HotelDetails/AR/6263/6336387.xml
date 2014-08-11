@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6336387" resultcode="0" message="" >
+				<Name><![CDATA[SAN TELMO FLATS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Piedras 990,]]></Address1>
+					<Address2><![CDATA[C1070AAT, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1070AAT</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.619617</Latitude>
+					<Longitude>-58.377262</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating and Jacuzzi We also have Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8276/37778276.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8277/37778277.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8278/37778278.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8279/37778279.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3365/37123365.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3366/37123366.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3367/37123367.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3368/37123368.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3369/37123369.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3370/37123370.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3371/37123371.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3372/37123372.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3373/37123373.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3363/37123363.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3364/37123364.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8273/37778273.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8274/37778274.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8275/37778275.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 430 00569]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 430 00569 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

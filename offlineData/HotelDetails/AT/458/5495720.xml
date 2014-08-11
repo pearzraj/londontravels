@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495720" resultcode="0" message="" >
+				<Name><![CDATA[COURTYARD BY MARRIOTT VIENNA SCHOENBRUNN]]></Name>
+				<Address>
+					<Address1><![CDATA[  Schoenbrunner Schlossstrasse, 38-40]]></Address1>
+					<Address2><![CDATA[1120, Vienna, Austria]]></Address2>
+					<PostalCode>1120</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.18473</Latitude>
+					<Longitude>16.321037</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, Dry Cleaning Service, 1 and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Dry Cleaning Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9530/37259530.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9531/37259531.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9532/37259532.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9519/37259519.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9520/37259520.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9521/37259521.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9522/37259522.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9523/37259523.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9524/37259524.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9525/37259525.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9526/37259526.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9527/37259527.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9528/37259528.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9529/37259529.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_12_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_1_12.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_12_36.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03245_1_36.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 181 017 17177]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 181 017 170 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

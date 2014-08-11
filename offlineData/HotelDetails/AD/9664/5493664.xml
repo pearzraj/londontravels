@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493664" resultcode="0" message="" >
+				<Name><![CDATA[LLOP GRIS HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[Ctra. General,S/N]]></Address1>
+					<Address2><![CDATA[AD100, Tarter, El, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59335</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Tarter, El]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.57888</Latitude>
+					<Longitude>1.64994</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2787/32602787.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2774/32602774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2775/32602775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2776/32602776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2777/32602777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2778/32602778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2779/32602779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2780/32602780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2781/32602781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2782/32602782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2783/32602783.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2784/32602784.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2785/32602785.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2786/32602786.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

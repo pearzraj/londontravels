@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494149" resultcode="0" message="" >
+				<Name><![CDATA[ARGENTA TOWER HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Juncal, 868]]></Address1>
+					<Address2><![CDATA[C1062ABl, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1062ABl</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.592175</Latitude>
+					<Longitude>-58.37966</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. A bellboy service is available to guests. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. A bellboy service is available to guests. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, 24/24 Room-Service  and Laundry Service We also have Currency Exchange, Porters, Wi-Fi and Business Centre.  Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Heating]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Central Air Conditioning]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[24/24 Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Porters]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Swimming Pool Area]]></Name>
+						<Description><![CDATA[Exteriors]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Equipment for Meetings]]></Name>
+						<Description><![CDATA[Fax]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Lounge]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6729/32606729.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6730/32606730.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6731/32606731.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6732/32606732.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6733/32606733.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6734/32606734.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6735/32606735.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6736/32606736.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6737/32606737.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6738/32606738.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6739/32606739.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6742/32606742.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6743/32606743.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6744/32606744.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6727/32606727.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6728/32606728.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6740/32606740.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6741/32606741.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00541143267090]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00541143254100 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

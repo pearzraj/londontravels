@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495612" resultcode="0" message="" >
+				<Name><![CDATA[LEVANTE PARLIAMENT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Auerspergstrasse,9]]></Address1>
+					<Address2><![CDATA[1080, Vienna, Austria]]></Address2>
+					<PostalCode>1080</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.208393</Latitude>
+					<Longitude>16.355022</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9941/32609941.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9942/32609942.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9943/32609943.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9944/32609944.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9945/32609945.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9946/32609946.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9899/32609899.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9900/32609900.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9918/32609918.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9919/32609919.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9920/32609920.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9921/32609921.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9922/32609922.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9923/32609923.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9924/32609924.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9925/32609925.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9926/32609926.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9927/32609927.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9928/32609928.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9929/32609929.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9930/32609930.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9931/32609931.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9901/32609901.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9902/32609902.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9903/32609903.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9904/32609904.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9905/32609905.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9906/32609906.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9907/32609907.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9908/32609908.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9909/32609909.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9910/32609910.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9911/32609911.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9912/32609912.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9913/32609913.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9914/32609914.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9915/32609915.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9916/32609916.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9917/32609917.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9932/32609932.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9933/32609933.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9934/32609934.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9935/32609935.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9936/32609936.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9937/32609937.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9938/32609938.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9939/32609939.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9940/32609940.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 1 228 28 28]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 1 228 28 0 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

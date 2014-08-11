@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495755" resultcode="0" message="" >
+				<Name><![CDATA[MARRIOTT VIENNA]]></Name>
+				<Address>
+					<Address1><![CDATA[   Parkring, 12a]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.20494</Latitude>
+					<Longitude>16.377676</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03253_12_6.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[0043 1 515188830]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00431 515180 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

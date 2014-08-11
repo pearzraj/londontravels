@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333775" resultcode="0" message="" >
+				<Name><![CDATA[PARK INN YAS ISLAND]]></Name>
+				<Address>
+					<Address1><![CDATA[  Yas Plaza, Yas Island P.o. Box 93725,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.466667</Latitude>
+					<Longitude>54.366665</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E07000/E07634_1_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+971 2 656 2223]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 656 2222 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

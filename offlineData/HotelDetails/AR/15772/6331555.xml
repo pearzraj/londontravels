@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6331555" resultcode="0" message="" >
+				<Name><![CDATA[ESPLENDOR MENDOZA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Maza y Emilio Civit (5515),]]></Address1>
+					<Address2><![CDATA[5515, Mendoza, Argentina]]></Address2>
+					<PostalCode>5515</PostalCode>
+					<CityCode>82718</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Mendoza]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-32.977222</Latitude>
+					<Longitude>-68.798706</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9986/37089986.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9987/37089987.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9988/37089988.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9989/37089989.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9990/37089990.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9991/37089991.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9992/37089992.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9993/37089993.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+ 54 2614811037]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+ 54 2614974017 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

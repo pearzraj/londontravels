@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495668" resultcode="0" message="" >
+				<Name><![CDATA[GOLDENER BAER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Tuerkenstrasse,27]]></Address1>
+					<Address2><![CDATA[1090, Vienna, Austria]]></Address2>
+					<PostalCode>1090</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.218243</Latitude>
+					<Longitude>16.365122</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[2]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9214/37259214.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9215/37259215.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9216/37259216.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9217/37259217.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9218/37259218.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9219/37259219.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9220/37259220.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9209/37259209.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9210/37259210.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9211/37259211.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9212/37259212.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9213/37259213.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+4 131 75 111 22]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00 431 3175 111 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

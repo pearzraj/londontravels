@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6339143" resultcode="0" message="" >
+				<Name><![CDATA[HOTEL PREMIER]]></Name>
+				<Address>
+					<Address1><![CDATA[  Crisotomo Alvarez 510,]]></Address1>
+					<Address2><![CDATA[1, San Miguel De Tucumán, Argentina]]></Address2>
+					<PostalCode>1</PostalCode>
+					<CityCode>83351</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Miguel De Tucumán]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-26.832378</Latitude>
+					<Longitude>-65.20506</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Wi-Fi and Safe in Reception.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Dry Cleaning Service and Room-Service We also have Wi-Fi and Safe in Reception.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4973/37784973.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4974/37784974.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4975/37784975.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4976/37784976.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4977/37784977.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4970/37784970.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4971/37784971.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4972/37784972.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 381 4310382]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 381 4310381]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

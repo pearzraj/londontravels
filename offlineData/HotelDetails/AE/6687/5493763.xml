@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493763" resultcode="0" message="" >
+				<Name><![CDATA[CROWNE PLAZA YAS ISLAND]]></Name>
+				<Address>
+					<Address1><![CDATA[  Yas Island Golf Plaza Abu Dhabi, ]]></Address1>
+					<Address2><![CDATA[41880, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>41880</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.466244</Latitude>
+					<Longitude>54.599445</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Valet parking available. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Valet parking available. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker, Shops, Garage and Business Centre.  Activities and relax: . Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3497/32603497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3498/32603498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3499/32603499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3500/32603500.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T09000/T09708_12_9.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[00971 2 656 3001]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[00971 2 656 3000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

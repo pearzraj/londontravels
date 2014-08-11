@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493886" resultcode="0" message="" >
+				<Name><![CDATA[LE ROYAL MERIDIEN ABU DHABI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Sheikh Khalifa Street,  PO Box 45505,]]></Address1>
+					<Address2><![CDATA[Abu Dha, Abu Dhabi, United Arab Emirates]]></Address2>
+					<PostalCode>Abu Dha</PostalCode>
+					<CityCode>78893</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Abu Dhabi]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>24.476725</Latitude>
+					<Longitude>54.370876</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[5]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service We also have Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4231/32604231.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4232/32604232.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4233/32604233.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4234/32604234.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4235/32604235.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4236/32604236.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4237/32604237.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4238/32604238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4239/32604239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4240/32604240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4241/32604241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4229/32604229.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4230/32604230.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4242/32604242.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06717_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T06000/T06717_12_5.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[01197126950434]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+971 2 6950404 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6556724" resultcode="0" message="" >
+				<Name><![CDATA[ROC DEL CASTELL APARTAMENTOS]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ del Tosque,s/n]]></Address1>
+					<Address2><![CDATA[AD100, Canillo, Andorra]]></Address2>
+					<PostalCode>AD100</PostalCode>
+					<CityCode>59323</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Canillo]]>
+					</CityName>
+					<CountryCode>AD</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Andorra]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>42.567574</Latitude>
+					<Longitude>1.597652</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The apartments have Independent Heating, Soundproofing, Satellite / Cable TV , Lounge-Diner, Lounge, Sofa Bed, Kitchen, Cooker, Coffee Machine, Refrigerator, Freezer, Microwave, Kitchen Utensils, Crockery, Cutlery, Tablecloths, Table/Chairs, Bathtub, Hairdryer, Towels, Laundry Service, Dry Cleaning Service and Wi-Fi , and among our services and facilities available we have Lifts and Heating . We also have Multilingual Personnel, Currency Exchange, Ski Room, Airport Shuttle , Vehicle Rental, Wi-Fi, Tourist Information, Airport Transfer and Garage. Activities and relax: Trekking, Bicycles, Quads, Skiing, Rafting, Kayak, Bowling, Horse ride and Archery.  ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[Excellent mountain apartments for sports- and nature-lovers wanting to share a few days with family or friends. Of particular note are the panoramic views of the surroundings, of the valley and of the mountain. The establishment has apartments of  1  and  2 bedrooms. The communal areas are ideal for relaxing with friends. The following services are offered Currency Exchange. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANRCD_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/CAN000/CANRCD_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANRCD_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANRCD_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/GCA000/GCANRCD_12_1.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[376751707]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[376751825 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

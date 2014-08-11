@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6338580" resultcode="0" message="" >
+				<Name><![CDATA[MIRADOR DEL VIRREY CABANAS BOUTIQUE]]></Name>
+				<Address>
+					<Address1><![CDATA[  Ruta Nacional 52 Kilometro 4.4,]]></Address1>
+					<Address2><![CDATA[4618, Purmamarca, Argentina]]></Address2>
+					<PostalCode>4618</PostalCode>
+					<CityCode>87108</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Purmamarca]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-23.744968</Latitude>
+					<Longitude>-65.502</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4006/37784006.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4007/37784007.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4008/37784008.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4009/37784009.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4010/37784010.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4011/37784011.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 387 426 7023]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 938 859 04057 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

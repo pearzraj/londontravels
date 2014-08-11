@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6404397" resultcode="0" message="" >
+				<Name><![CDATA[LANDMARK GRAND HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Riqqa Road Deira, P.O. BOX 42222  Dubai,]]></Address1>
+					<Address2><![CDATA[Dubai, Dubai, United Arab Emirates]]></Address2>
+					<PostalCode>Dubai</PostalCode>
+					<CityCode>64100</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Dubai]]>
+					</CityName>
+					<CountryCode>AE</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[United Arab Emirates]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>25.262987</Latitude>
+					<Longitude>55.324657</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_11.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18448_12_3.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0097142275555 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

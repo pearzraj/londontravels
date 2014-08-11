@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6341298" resultcode="0" message="" >
+				<Name><![CDATA[BAUEN SUITES HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Av. Corrientes 1856,]]></Address1>
+					<Address2><![CDATA[1045, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>1045</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.604465</Latitude>
+					<Longitude>-58.393078</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Customers can park their car in the hotel garage. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6578/37126578.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6579/37126579.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6580/37126580.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6581/37126581.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6582/37126582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6583/37126583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6584/37126584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6585/37126585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6586/37126586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6587/37126587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6588/37126588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6589/37126589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6590/37126590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6591/37126591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6592/37126592.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4370 0400]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4370 0400 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

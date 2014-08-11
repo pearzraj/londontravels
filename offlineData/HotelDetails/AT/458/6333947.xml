@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333947" resultcode="0" message="" >
+				<Name><![CDATA[MERCURE VIENNA ZENTRUM]]></Name>
+				<Address>
+					<Address1><![CDATA[C/ Fleischmarkt,1a]]></Address1>
+					<Address2><![CDATA[1010, Vienna, Austria]]></Address2>
+					<PostalCode>1010</PostalCode>
+					<CityCode>64916</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Vienna]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>48.211678</Latitude>
+					<Longitude>16.374521</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Pets not allowed. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/3502/37133502.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3503/37133503.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3504/37133504.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3505/37133505.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3494/37133494.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3495/37133495.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3496/37133496.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3497/37133497.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3498/37133498.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3499/37133499.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3500/37133500.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/3501/37133501.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043(0) 1 534 600 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

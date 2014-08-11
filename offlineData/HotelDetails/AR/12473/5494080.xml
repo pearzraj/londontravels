@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494080" resultcode="0" message="" >
+				<Name><![CDATA[MAITEI POSADAS HOTEL AND RESORT]]></Name>
+				<Address>
+					<Address1><![CDATA[  Avenida Ulises Lopez (acceso Oeste) y Ruta Nacion,]]></Address1>
+					<Address2><![CDATA[3300, Iguazu, Argentina]]></Address2>
+					<PostalCode>3300</PostalCode>
+					<CityCode>82339</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-27.39729</Latitude>
+					<Longitude>-55.96017</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4761/37674761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4762/37674762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4763/37674763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4764/37674764.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

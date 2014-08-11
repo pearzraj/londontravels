@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494018" resultcode="0" message="" >
+				<Name><![CDATA[AMERICAS TOWERS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Libertad 1070,]]></Address1>
+					<Address2><![CDATA[C1012AAV, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1012AAV</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.596027</Latitude>
+					<Longitude>-58.38419</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[The Business Centre has everything guests require to work. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Car parker, Garage and Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/4145/37674145.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4146/37674146.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4147/37674147.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4148/37674148.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4149/37674149.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4150/37674150.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4151/37674151.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4152/37674152.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4153/37674153.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4154/37674154.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4155/37674155.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4156/37674156.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4157/37674157.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4158/37674158.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4159/37674159.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/4160/37674160.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4129 0798]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0054 11 4129 0700 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="TW">
+		<City id="29967"> 
+			<Name lang="EN">Kaohsiung</Name>
+			<Region lang="EN">Kaohsiung</Region>
+			<Destination lang="EN">Kaohsiung, Kaohsiung, Taiwan</Destination>
+		</City>
+		<City id="29161">
+			<Name lang="EN">Taichung</Name>
+			<Region lang="EN">Taichung</Region>
+			<Destination lang="EN">Taichung, Taichung, Taiwan</Destination>
+		</City>
+		<City id="29165">
+			<Name lang="EN">Taipei</Name>
+			<Region lang="EN">Taipei</Region>
+			<Destination lang="EN">Taipei, Taipei, Taiwan</Destination>
+		</City>
+		<City id="2652">
+			<Name lang="EN">Taoyuan</Name>
+			<Region lang="EN">Taoyuan</Region>
+			<Destination lang="EN">Taoyuan, Taoyuan, Taiwan</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6333361" resultcode="0" message="" >
+				<Name><![CDATA[SOL CATARATAS]]></Name>
+				<Address>
+					<Address1><![CDATA[  Selva Iriapu 600,]]></Address1>
+					<Address2><![CDATA[5600, Puerto Iguazu, Argentina]]></Address2>
+					<PostalCode>5600</PostalCode>
+					<CityCode>87105</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Puerto Iguazu]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-25.60438</Latitude>
+					<Longitude>-54.559307</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and 24/24 Room-Service  We also have Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Guests can rent a car from the hotel. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Air Conditioning, Central Heating, Jacuzzi and 24/24 Room-Service  We also have Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7426/37117426.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7427/37117427.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7428/37117428.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7429/37117429.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7430/37117430.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7431/37117431.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7432/37117432.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7433/37117433.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7434/37117434.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7435/37117435.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7436/37117436.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7437/37117437.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7438/37117438.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7439/37117439.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0375715440525 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

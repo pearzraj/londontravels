@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="AE">
+		<City id="6687"> 
+			<Name lang="EN">Abu Dhabi</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="31473">
+			<Name lang="EN">Ajman</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="6302">
+			<Name lang="EN">Al Ain</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="19074">
+			<Name lang="EN">Dubai</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="10924">
+			<Name lang="EN">Fujairah</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="30324">
+			<Name lang="EN">Ras al Khaimah</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+		<City id="28734">
+			<Name lang="EN">Sharjah</Name>
+			<Region lang="EN"></Region>
+			<Destination lang="EN"></Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

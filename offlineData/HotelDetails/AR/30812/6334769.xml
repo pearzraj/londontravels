@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6334769" resultcode="0" message="" >
+				<Name><![CDATA[LOS ACEBOS]]></Name>
+				<Address>
+					<Address1><![CDATA[  LUIS F. MARTIAL 1911,]]></Address1>
+					<Address2><![CDATA[9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.806534</Latitude>
+					<Longitude>-68.35253</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Wi-Fi.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Fitted with Wi-Fi Internet access. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Central Heating We also have Vehicle Rental and Wi-Fi.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/6591/37156591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6592/37156592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6593/37156593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6594/37156594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6595/37156595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6596/37156596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6597/37156597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6598/37156598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6599/37156599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6600/37156600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6601/37156601.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6582/37156582.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6583/37156583.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6584/37156584.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6585/37156585.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6586/37156586.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6587/37156587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6588/37156588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6589/37156589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/6590/37156590.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 2901 442200 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

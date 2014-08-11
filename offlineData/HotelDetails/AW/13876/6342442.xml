@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6342442" resultcode="0" message="" >
+				<Name><![CDATA[TROPICANA ARUBA RESORT AND CASINO]]></Name>
+				<Address>
+					<Address1><![CDATA[  J. E. Irausquin Boulevard 248,]]></Address1>
+					<Address2><![CDATA[00001, Oranjestad, Aruba]]></Address2>
+					<PostalCode>00001</PostalCode>
+					<CityCode>82897</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Oranjestad]]>
+					</CityName>
+					<CountryCode>AW</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Aruba]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>12.573329</Latitude>
+					<Longitude>-70.042305</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Car parker.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Car parker.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/2250/37152250.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2251/37152251.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2252/37152252.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2253/37152253.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2238/37152238.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2239/37152239.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2254/37152254.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2255/37152255.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2256/37152256.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2257/37152257.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2258/37152258.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2259/37152259.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2247/37152247.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2248/37152248.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2249/37152249.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2240/37152240.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2241/37152241.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2242/37152242.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2243/37152243.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2244/37152244.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2245/37152245.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/2246/37152246.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+1 297 587 5474]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+1 297 587 9000 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

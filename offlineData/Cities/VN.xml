@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <GetCitiesRS Version="1">
+ 	<Success />
+	<Cities countryCode="VN">
+		<City id="16675"> 
+			<Name lang="EN">Cantho</Name>
+			<Region lang="EN">Cantho</Region>
+			<Destination lang="EN">Cantho, Cantho, Viet Nam</Destination>
+		</City>
+		<City id="18347">
+			<Name lang="EN">Chau Doc</Name>
+			<Region lang="EN">Chau Doc</Region>
+			<Destination lang="EN">Chau Doc, Chau Doc, Viet Nam</Destination>
+		</City>
+		<City id="7470">
+			<Name lang="EN">Da Nang</Name>
+			<Region lang="EN">Da Nang</Region>
+			<Destination lang="EN">Da Nang, Da Nang, Viet Nam</Destination>
+		</City>
+		<City id="7485">
+			<Name lang="EN">Dalat</Name>
+			<Region lang="EN">Dalat</Region>
+			<Destination lang="EN">Dalat, Dalat, Viet Nam</Destination>
+		</City>
+		<City id="20894">
+			<Name lang="EN">Halong</Name>
+			<Region lang="EN">Halong</Region>
+			<Destination lang="EN">Halong, Halong, Viet Nam</Destination>
+		</City>
+		<City id="18712">
+			<Name lang="EN">Hanoi</Name>
+			<Region lang="EN">Hanoi</Region>
+			<Destination lang="EN">Hanoi, Hanoi, Viet Nam</Destination>
+		</City>
+		<City id="9983">
+			<Name lang="EN">Ho Chi Minh City</Name>
+			<Region lang="EN">Ho Chi Minh City</Region>
+			<Destination lang="EN">Ho Chi Minh City, Ho Chi Minh City, Viet Nam</Destination>
+		</City>
+		<City id="23948">
+			<Name lang="EN">Hoi An</Name>
+			<Region lang="EN">Hoi An</Region>
+			<Destination lang="EN">Hoi An, Hoi An, Viet Nam</Destination>
+		</City>
+		<City id="10060">
+			<Name lang="EN">Hue</Name>
+			<Region lang="EN">Hue</Region>
+			<Destination lang="EN">Hue, Hue, Viet Nam</Destination>
+		</City>
+		<City id="19023">
+			<Name lang="EN">Nha-Trang</Name>
+			<Region lang="EN">Nha-Trang</Region>
+			<Destination lang="EN">Nha-Trang, Nha-Trang, Viet Nam</Destination>
+		</City>
+		<City id="23137">
+			<Name lang="EN">Phan Thiet</Name>
+			<Region lang="EN">Phan Thiet</Region>
+			<Destination lang="EN">Phan Thiet, Phan Thiet, Viet Nam</Destination>
+		</City>
+		<City id="29473">
+			<Name lang="EN">Phuquoc</Name>
+			<Region lang="EN">Phuquoc</Region>
+			<Destination lang="EN">Phuquoc, Phuquoc, Viet Nam</Destination>
+		</City>
+		<City id="4321">
+			<Name lang="EN">Sapa</Name>
+			<Region lang="EN">Sapa</Region>
+			<Destination lang="EN">Sapa, Sapa, Viet Nam</Destination>
+		</City>
+		<City id="30722">
+			<Name lang="EN">Tuyhoa</Name>
+			<Region lang="EN">Tuyhoa</Region>
+			<Destination lang="EN">Tuyhoa, Tuyhoa, Viet Nam</Destination>
+		</City>
+		<City id="30944">
+			<Name lang="EN">Vung Tau</Name>
+			<Region lang="EN">Vung Tau</Region>
+			<Destination lang="EN">Vung Tau, Vung Tau, Viet Nam</Destination>
+		</City>
+	</Cities>
+</GetCitiesRS> 

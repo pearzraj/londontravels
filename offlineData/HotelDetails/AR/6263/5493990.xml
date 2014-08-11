@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5493990" resultcode="0" message="" >
+				<Name><![CDATA[GRAND KING HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Lavalle 560,]]></Address1>
+					<Address2><![CDATA[C1047AAL, Buenos Aires, Argentina]]></Address2>
+					<PostalCode>C1047AAL</PostalCode>
+					<CityCode>81462</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Buenos Aires]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-34.60179</Latitude>
+					<Longitude>-58.37457</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[3]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[We have Babysitting Service for children. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[We have Babysitting Service for children. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[We also have Business Centre.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Babysitting Service]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/5198/32605198.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5180/32605180.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5181/32605181.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5182/32605182.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5183/32605183.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5184/32605184.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5185/32605185.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5186/32605186.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5187/32605187.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5188/32605188.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5189/32605189.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5173/32605173.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5174/32605174.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5175/32605175.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5176/32605176.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5177/32605177.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5178/32605178.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5179/32605179.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5190/32605190.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5191/32605191.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5192/32605192.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5193/32605193.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5194/32605194.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5195/32605195.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5196/32605196.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/5197/32605197.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 11 4393 4052]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 11 4393 4012 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

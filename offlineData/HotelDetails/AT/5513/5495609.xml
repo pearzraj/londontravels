@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495609" resultcode="0" message="" >
+				<Name><![CDATA[CASTELLANI PARKHOTEL SALZBURG]]></Name>
+				<Address>
+					<Address1><![CDATA[  Alpenstrasse, 6]]></Address1>
+					<Address2><![CDATA[5020, Salzburg, Austria]]></Address2>
+					<PostalCode>5020</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.792152</Latitude>
+					<Longitude>13.060754</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Pets not allowed. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/9879/32609879.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_6.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9882/32609882.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_5.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9885/32609885.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_10.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_8.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_1_9.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T03000/T03647_12_7.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 2060 666]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 2060 717 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

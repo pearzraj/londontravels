@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5495690" resultcode="0" message="" >
+				<Name><![CDATA[STEIN HOTEL]]></Name>
+				<Address>
+					<Address1><![CDATA[  Gisela Kai, 3-5]]></Address1>
+					<Address2><![CDATA[5024, Salzburg, Austria]]></Address2>
+					<PostalCode>5024</PostalCode>
+					<CityCode>64903</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Salzburg]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47.801403</Latitude>
+					<Longitude>13.045031</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker and Garage.   ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[It suplies customers a concierge service 24 hours a day. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service, 1 and Room-Service We also have Car parker and Garage.   ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04640_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04640_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/T04000/T04640_1_7.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9347/37259347.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9348/37259348.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9349/37259349.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9350/37259350.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9351/37259351.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9352/37259352.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9353/37259353.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9354/37259354.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9355/37259355.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9356/37259356.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9357/37259357.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9358/37259358.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9345/37259345.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/9346/37259346.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+43 662 87 439 69]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+43 662 87 434 60 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="5494253" resultcode="0" message="" >
+				<Name><![CDATA[TOWER INN AND SUITES ]]></Name>
+				<Address>
+					<Address1><![CDATA[  Hipolito Yrigoyen 774,]]></Address1>
+					<Address2><![CDATA[5600, San Rafael, Argentina]]></Address2>
+					<PostalCode>5600</PostalCode>
+					<CityCode>84455</CityCode>
+					<CityName lang="EN">
+						<![CDATA[San Rafael]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>37.97459</Latitude>
+					<Longitude>-122.5325</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The following services are offered Currency Exchange. Pets not allowed. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Spa. The following services are offered Currency Exchange. Pets not allowed. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Laundry Service and Room-Service We also have Currency Exchange, Car parker, Garage and Business Centre.  Activities and relax: Spa. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Room-Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Spa]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Other Services]]></Name>
+						<Description><![CDATA[Laundry Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Currency Exchange]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Restaurants and Bars]]></Name>
+						<Description><![CDATA[Bar Cafeteria]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Children ]]></Name>
+						<Description><![CDATA[Mini-Club]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Hotel Facilities]]></Name>
+						<Description><![CDATA[Lifts]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Leisure]]></Name>
+						<Description><![CDATA[Casino]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Car parker]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Parking, Transfers and Hire Services]]></Name>
+						<Description><![CDATA[Garage]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/7790/32607790.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7791/32607791.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7792/32607792.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7793/32607793.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7794/32607794.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7795/32607795.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7796/32607796.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7797/32607797.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7798/32607798.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7799/32607799.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7800/32607800.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7801/32607801.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7802/32607802.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7803/32607803.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7770/32607770.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7771/32607771.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7772/32607772.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7773/32607773.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7774/32607774.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7775/32607775.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7776/32607776.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7777/32607777.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7778/32607778.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7779/32607779.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7780/32607780.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7781/32607781.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7782/32607782.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7783/32607783.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7784/32607784.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7785/32607785.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7786/32607786.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7787/32607787.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7760/32607760.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7761/32607761.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7762/32607762.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7763/32607763.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7764/32607764.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7765/32607765.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7766/32607766.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7767/32607767.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7768/32607768.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7769/32607769.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7788/32607788.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/7789/32607789.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Fax</Type>
+						<Content><![CDATA[+54 2627 436947]]></Content>
+					</Info>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[+54 2627 427190 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

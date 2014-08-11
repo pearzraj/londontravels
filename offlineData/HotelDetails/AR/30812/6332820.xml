@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6332820" resultcode="0" message="" >
+				<Name><![CDATA[CILENE DEL FARO SUITES AND SPA]]></Name>
+				<Address>
+					<Address1><![CDATA[  Yaganes 74,]]></Address1>
+					<Address2><![CDATA[V9410, Ushuaia, Argentina]]></Address2>
+					<PostalCode>V9410</PostalCode>
+					<CityCode>83663</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Ushuaia]]>
+					</CityName>
+					<CountryCode>AR</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Argentina]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>-54.791508</Latitude>
+					<Longitude>-68.29729</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[4]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[This 4**** hotel is a versatile option for visitors wishing to spend a few days in the city. ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+				</Facilities>
+				<Images>
+					<Image>http://988364489.r.cdn77.net/img/poi/8587/37098587.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8605/37098605.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8606/37098606.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8588/37098588.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8589/37098589.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8590/37098590.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8591/37098591.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8592/37098592.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8593/37098593.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8594/37098594.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8595/37098595.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8596/37098596.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8597/37098597.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8598/37098598.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8599/37098599.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8600/37098600.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8601/37098601.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8602/37098602.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8603/37098603.jpg</Image>
+					<Image>http://988364489.r.cdn77.net/img/poi/8604/37098604.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[54 02901 442 500 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 

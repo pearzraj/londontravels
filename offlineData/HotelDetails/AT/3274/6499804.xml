@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GetHotelsDetailsRS Version="1">
+		<Success />
+		<Hotels>
+			<Hotel POICode="6499804" resultcode="0" message="" >
+				<Name><![CDATA[LATINI]]></Name>
+				<Address>
+					<Address1><![CDATA[  Kitzsteinhornstrasse,4]]></Address1>
+					<Address2><![CDATA[5700, Zell Am See, Austria]]></Address2>
+					<PostalCode>5700</PostalCode>
+					<CityCode>64920</CityCode>
+					<CityName lang="EN">
+						<![CDATA[Zell Am See]]>
+					</CityName>
+					<CountryCode>AT</CountryCode>
+					<CountryName lang="EN">
+						<![CDATA[Austria]]>
+					</CountryName>
+				</Address>
+				<GeoCode>
+					<Latitude>47</Latitude>
+					<Longitude>12</Longitude>
+				</GeoCode>
+				<Rating>
+					<Score><![CDATA[]]></Score>
+					<Description><![CDATA[]]></Description>
+				</Rating>
+				<Descriptions>
+					<ShortDescriptions>
+						<ShortDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. ]]></ShortDescription>
+					<ShortDescription lang="EN"><![CDATA[The rooms have Hairdryer and Radio Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></ShortDescription>
+					</ShortDescriptions>
+					<LongDescriptions>
+						<LongDescription lang="EN"><![CDATA[Health and beauty facilities include Sauna. It suplies customers a concierge service 24 hours a day. ]]></LongDescription>
+					<LongDescription lang="EN"><![CDATA[The rooms have Hairdryer and Radio Activities and relax: Sauna. Cuisine: . . Credit Cards: .  ]]></LongDescription>
+					</LongDescriptions>
+				</Descriptions>
+				<CheckInOut>
+					<CheckInTime>0</CheckInTime>
+					<CheckOutTime>0</CheckOutTime>
+				</CheckInOut>
+				<Facilities>
+					<Facility lang="EN">
+						<Name><![CDATA[Our Bathrooms Include]]></Name>
+						<Description><![CDATA[Hairdryer]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Radio]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Comforts]]></Name>
+						<Description><![CDATA[Wake-up Service]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Reception]]></Name>
+						<Description><![CDATA[Luggage compartment]]></Description>	
+					</Facility>
+					<Facility lang="EN">
+						<Name><![CDATA[Health and Beauty]]></Name>
+						<Description><![CDATA[Sauna]]></Description>	
+					</Facility>
+				</Facilities>
+				<Images>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_2.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_4.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_5.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_6.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_3.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_7.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_1_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_1.jpg</Image>
+					<Image>http://services.serhstourism.com/fotos/E18000/E18557_12_2.jpg</Image>
+				</Images>
+				<EssentialInfo>
+					
+				</EssentialInfo>
+				<ContactInfo>
+					<Info>
+						<Type>Telephone</Type>
+						<Content><![CDATA[0043 (0)654254250 ]]></Content>
+					</Info>
+					
+				</ContactInfo>
+			</Hotel>
+		</Hotels>
+	</GetHotelsDetailsRS> 
