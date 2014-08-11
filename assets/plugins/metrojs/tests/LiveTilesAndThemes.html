@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from www.drewgreenwell.com/tests/LiveTilesAndThemes.htm by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:53 GMT -->
+<head>
+    <title>LiveTiles And Themes</title>
+    <link href="../Scripts/MetroJs/bundles/MetroJs.ltt.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="tiles">
+    <div class="live-tile mango">
+        <div>test 1</div>
+    </div>
+    <div class="live-tile red" data-mode="flip">
+        <div>test 2</div>
+        <div>test 2 back</div>
+    </div>
+    <div class="list-tile blue">
+        <ul class="flip-list fourTiles" data-mode="flip-list">
+            <li><div></div><div style="background-color:Orange;"></div></li>
+            <li><div></div><div style="background-color:Blue;"></div></li>
+            <li><div></div><div style="background-color:Red;"></div></li>
+            <li><div></div><div style="background-color:Green;"></div></li>
+        </ul>
+    </div>
+    <div class="accentBorder" style="border-width:3px; border-style:solid; clear:both;">accentBorder</div>
+    <p class="accentColor">accentColor</p>
+    <a class="accentLink accentVisited" href="#">accentLink accentVisited</a><br />
+    <a class="accentHover" href="#">accentHover</a><br />
+    <p class="accent">accent</p>
+    <p class="accent red">accent override</p>
+</div>
+    
+    <script src="../Scripts/jquery-1.7.1.min-2.js" type="text/javascript"></script>
+    <script src="../Scripts/MetroJs/bundles/MetroJs.ltt.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.fn.metrojs.theme.applyTheme("dark", "blue");
+            $(".live-tile,.flip-list").liveTile();
+        });
+    </script>
+</body>
+
+<!-- Mirrored from www.drewgreenwell.com/tests/LiveTilesAndThemes.htm by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:56 GMT -->
+</html>

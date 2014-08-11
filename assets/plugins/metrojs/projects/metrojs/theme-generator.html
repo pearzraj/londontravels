@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs/theme-generator by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:16 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=728,initial-scale=1" />
+    <title>Metro JS Theme Generator - Drew Greenwell - Professional Developer</title>
+    <meta name="description" content="This site contains projects and thoughts by Drew Greenwell. Drew Greenwell is a professional developer living in Louisville, Ky and specializing in creating engaging experiences on the web and mobile devices." />
+    <meta name="keywords" content="Drew Greenwell,professional developer,Louisville,Kentucky,asp.net,MVC,ajax,jquery,javascript,MCSD">
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <link rel="stylesheet" href="../../content/site3912.css?v=0.9.72" type="text/css" />
+    <link rel="stylesheet" href="../../content/fa/assets/css/dg-font-awesome.min.css" type="text/css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/content/fa/assets/css/dg-font-awesome-ie7.min.css">
+    <![endif]-->
+    <link rel="stylesheet" href="../../scripts/metrojs/bundles/metrojs.minb1c9.css?v=0.9.72dev" type="text/css" />    
+    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27990990-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        function trackExternal(link, prefix) {
+            try {
+                if (typeof prefix == "undefined" || prefix == null)
+                    prefix = "";
+                var href = link.href.replace(/(http)(s)?:\/\/(www\.)?/i, "/outgoing/" + prefix);
+                _gaq.push(['_trackPageview', href]);
+            }
+            catch (err) { }
+        }
+	</script>
+    <script type="text/javascript" src="../../scripts/modernizr-2.5.3.js"></script>
+    <script type="text/javascript">window.MetroJsVersion = '0.9.72';</script>
+</head>
+<body class="desktop dark projects-metrojs theme-gen">
+    <header>
+        <div class="site-title"><a href="../../index.html">drewgreenwell</a></div>
+    </header>
+    
+<section class="interior-content">
+    <div class="tiles">
+        <h2>Metro JS Theme Generator</h2>
+        <div class="tile-group four-wide clear">
+            <div class="copy-tile accent two-wide">
+                <p>This theme generator will let you compile the css files for Metro JS to get the exact sizes you need. This tool uses the <a href="http://lesscss.org/" onclick="trackExternal(this)" target="_blank">.less</a> javascript compiler to compile the Metro JS 
+                    .less src files with the settings and modules you choose. The resulting theme along with a preview of your theme will appear below</p>
+            </div>
+             <div class="live-tile" data-mode="none" data-bounce="true">
+                <div>
+                    <a href="../../projects.html">
+                        <img class="full" src="../../images/projects/metro-js.png" alt="Metro JS" />
+                    </a>                    
+                </div>             
+            </div> 
+        </div>
+        <div class="tile-group four-wide">
+            <fieldset class="float-left">
+            <legend>Size Options</legend>
+                <p>The default tile size that the tile size classes will be based off of</p>
+            <div class="field">
+                <label for="height">Height</label><input type="text" id="height"value="150px" />
+            </div>
+            <div class="field">
+                <label for="width">Width</label><input type="text" id="width" value="150px" />
+            </div>
+            <div class="field">
+                <label for="margin">Margin</label><input type="text" id="margin" value="5px" />
+            </div>
+            </fieldset>
+            <fieldset class="less-files float-left">
+            <legend>CSS to compile</legend>
+                <p>The Metro JS modules that you are targeting</p>
+                <div class="field"><label for="liveTile">liveTile:</label><input type="checkbox" id="liveTile" class="check liveTile" value="liveTile" checked="checked" /></div>
+                <div class="field"><label for="theme">theme:</label><input type="checkbox" id="theme" class="check theme" value="theme" checked="checked" /></div>
+                <div class="field"><label for="applicationBar">applicationBar:</label><input type="checkbox" id="applicationBar" class="check applicationBar" value="appbar" checked="checked" /></div>
+        </fieldset>
+        <fieldset class="colors float-left">
+            <legend>Accent Colors</legend>
+            <div class="opt"><label for="all">select all:</label><input type="checkbox" id="all" class="check liveTile" value="all" checked="checked" /></div>
+            <div class="opt"><label for="none">select none:</label><input type="checkbox" id="none" class="check theme" value="none" /></div>
+        </fieldset>
+        <fieldset class="custom-colors float-left">
+            <legend>Custom Colors</legend>
+            <p>Add custom color definitions here to include them in Metro JS. The value field can be any color format supported by browsers e.g. red, #ff0000, rgb(255, 0,0)</p>
+            <div class="field">
+                <label for="customColorName">name</label><input id="customColorName" type="text" class="color" value="myblue" />
+            </div>
+            <div class="field">
+                <label for="customColorValue">value</label><input id="customColorValue" type="text" class="color" value="rgb(0,0,255)" />
+            </div>
+            <button class="add accentBorder accentColor">Add</button>
+        </fieldset>
+        <fieldset class="compile clear"><legend>Compile Options</legend>
+            <div class="field"><label for="minify">Minify</label><input type="checkbox" id="minify" class="minify" value="Minify" /></div>
+            <div class="field submit">
+                <button class="generate accentBorder accentColor">Generate Theme</button>
+            </div>
+            <p class="clear message"></p>
+        </fieldset>
+                
+        </div>
+        
+        <div class="preview" id="preview" style="display:none;">
+            <h3>Preview <a class="smallNote" href="#genResults">(View CSS Results Below)</a></h3>
+            <div id="previewPlaceHolder" class="preview-placeholder">
+            </div>
+        </div>
+        <div id="genResults" class="results" style="display:none;">
+            <h3>Results <a class="smallNote select" href="javascript:;">(select all)</a></h3>
+            <textarea id="results" rows="15" cols="80"></textarea>
+        </div>
+    </div>   
+</section>
+
+
+    
+<footer class="appbar">
+    <nav class="clear">
+		<ul class="appbar-buttons" id="menu">
+			<li>
+				<a class="home" href="../../index.html"><img alt="home" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">Home</span>
+			</li>
+			<li>
+				<a class="about" href="../../about.html"><img alt="about" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">About</span>
+			</li>
+			<li>
+				<a class="twitter" target="_blank" onclick="javascript:trackExternal(this);" href="http://www.twitter.com/dgreenwell"><img alt="twitter" src="../../images/1pixel.gif"></a>
+				<span class="charm-title">Twitter</span>
+			</li>
+		</ul>
+	</nav>
+    <a class="etc">&bull;&bull;&bull;</a>
+    <div class="tray">
+        <section class="base-theme-options">            
+            <h2>Base Theme</h2>
+            <ul></ul>
+        </section>
+        <section class="theme-options">
+            <h2>Accent Color</h2>
+            <ul></ul>
+        </section>
+        <section class="links clear">
+            <ul>
+                <li><a href="theme-generator.html">Generate a theme...</a></li>
+            </ul>
+        </section>
+    </div>      
+</footer>
+
+
+
+    <script src="../../scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="../../scripts/metrojs/bundles/metrojs3912.js?v=0.9.72" type="text/javascript"></script>
+    <script type="text/javascript">
+        var metroJs,
+            appBar;
+        // remove the default theme set for noscript and apply user theme
+        $(document).ready(function () {
+            $("body,.tiles").removeClass("dark blue");
+            metroJs = jQuery.fn.metrojs;
+            metroJs.theme.loadDefaultTheme();
+        });
+    </script>
+    
+<script type="text/javascript" src="../../scripts/less-1.3.3.min.js"></script>
+<script type="text/javascript" src="../../scripts/dg/projects.metrojs.themegenerator3912.js?v=0.9.72"></script>
+
+    <script type="text/javascript">        
+        
+        $(document).ready(function () {
+            var doBind = (typeof (window.bindAppBarKeyboard) === "undefined" || window.bindAppBarKeyboard);
+            // create the app bar
+            appBar = $(".appbar").applicationBar({
+	    	applyTheme: false, // apply theme example below
+                preloadAltBaseTheme: true, // load both sets of images so there isn't a flicker when base theme is changed
+                metroLightUrl: '/images/metroIcons_light.jpg',
+                metroDarkUrl: '/images/metroIcons.jpg',
+                bindKeyboard: doBind // bind the keyboard unless specified in an included script
+            });
+            // add the accents and base colors to the appbar
+            metroJs.theme.appendAccentColors();
+            metroJs.theme.appendBaseThemes();
+        });
+        
+
+	</script>
+    <script type="text/javascript" src="../../scripts/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="../../scripts/dg/global3912.js?v=0.9.72"></script>
+</body>
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs/theme-generator by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:18 GMT -->
+</html>

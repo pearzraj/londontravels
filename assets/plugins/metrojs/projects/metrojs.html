@@ -1,0 +1,2648 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:58:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1280, initial-scale=1" />
+    <title>Metro JS - Metro Live Tiles and more Modern UI tools for jQuery - Drew Greenwell - Professional Developer</title>
+    <meta name="description" content="Metro JS is a plugin for jQuery written in Javascript to help make Metro interfaces on the web. Metro JS is developed by Drew Greenwell, a professional developer in Louisville, Ky." />
+    <meta name="keywords" content="Drew Greenwell,professional developer,Louisville,Kentucky,asp.net,MVC,ajax,jquery,javascript,MCSD">
+    <link href="../favicon.ico" type="image/x-icon" rel="icon" />
+    <link href="../favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <link rel="stylesheet" href="../content/site3912.css?v=0.9.72" type="text/css" />
+    <link rel="stylesheet" href="../content/fa/assets/css/dg-font-awesome.min.css" type="text/css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/content/fa/assets/css/dg-font-awesome-ie7.min.css">
+    <![endif]-->
+    <link rel="stylesheet" href="../scripts/metrojs/bundles/metrojs.minb1c9.css?v=0.9.72dev" type="text/css" />    
+    <link rel="stylesheet" href="../content/syntax/shCoreVStudio.css" type="text/css" />    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27990990-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        function trackExternal(link, prefix) {
+            try {
+                if (typeof prefix == "undefined" || prefix == null)
+                    prefix = "";
+                var href = link.href.replace(/(http)(s)?:\/\/(www\.)?/i, "/outgoing/" + prefix);
+                _gaq.push(['_trackPageview', href]);
+            }
+            catch (err) { }
+        }
+	</script>
+    <script type="text/javascript" src="../scripts/modernizr-2.5.3.js"></script>
+    <script type="text/javascript">window.MetroJsVersion = '0.9.72';</script>
+</head>
+<body class="desktop dark projects-metrojs">
+    <header>
+        <div class="site-title"><a href="../index.html">drewgreenwell</a></div>
+    </header>
+    
+<noscript>
+    <style type="text/css">
+        .projects-metrojs .option
+        {
+            height:auto !important;
+        }
+    </style>
+</noscript>
+<section class="interior-content clear-fix">
+    <section id="about" class="about">
+	    <h2>Metro JS</h2>
+	    <p>Metro JS is a JavaScript plugin for jQuery developed to easily enable <a href="http://en.wikipedia.org/wiki/Metro_Design_Language" target="_blank" onclick="javascript:trackExternal(this);">Metro</a> interfaces on the web. 
+	       This release focuses on Live Tiles, the Application Bar and Theming. It's early in the development phase, but all features should work on at least IE7+(Win/WinPhone), Firefox, Chrome, Android, Opera, and Safari(OSX/iOS).</p>
+	       <p>Want to make a 'Me' tile or a 'People' tile like you see on Windows Phone for your website? Metro JS makes it easy!</p>
+	    <h3>What's on this page</h3>
+	    <nav id="pageNav" class="tiles float-left">
+	    <ul class="accentBorder">
+		    <li><a href="#whatsIncluded">What's Included</a></li>
+		    <li><a href="#whatsPlanned">What's Planned</a></li>
+		    <li><a href="#liveTile">.liveTile</a>
+			    <ul>
+				    <li><a href="#liveTileFeatures">Features</a></li>
+				    <li><a href="#liveTileAnatomy">Anatomy of a liveTile</a></li>
+				    <li><a href="#liveTileBasicExample">Basic Example</a></li>
+				    <li><a href="#fiddleAround">Fiddle Around! (More examples)</a></li>
+				    <li><a href="#liveTileOptions">.liveTile Options</a>
+                        <ul>
+                            <li><a href="#liveTileOptions">General Options</a></li>
+                            <li><a href="#liveTileImageSwapOpts">Image Swap Options</a></li>
+                            <li><a href="#liveTileHtmlSwapOpts">Html Swap Options</a></li>
+                        </ul>
+				    </li>
+                    <li><a href="#liveTileMethods">.liveTile Methods</a>
+			    </ul>
+		    </li>
+		    <li><a href="#applicationBar">.applicationBar</a>
+			    <ul>
+                    <li><a href="#applicationBar">Features</a></li>
+				    <li><a href="#appbarBasicExample">Basic Example</a></li>
+				    <li><a href="#appbarOptions">.applicationBar Options</a></li>
+			    </ul>
+		    </li>
+		    <li><a href="#download">Get the bits (Download)</a></li>
+		    <li><a href="#whatsChanged">What's Changed</a></li>
+		    <li><a href="#haveYourSay">Have your say</a></li>
+	    </ul>
+	    </nav>
+	    <div class="tiles tile-group two-wide two-tall float-right">
+		    <div class="live-tile" data-mode="none" data-bounce="true">
+			    <div>
+				    <a href="#fiddleAround"><img class="full" src="../images/projects/metro-js.png" alt="Metro JS" /></a>
+			    </div>
+			    <a href="#fiddleAround" class="tile-title accent">Examples</a>
+		    </div>
+		    <div class="live-tile" data-mode="none" data-bounce="true">
+			    <div>
+				    <a href="#download"><img class="full" src="../images/download_t.png" alt="download" /></a>
+			    </div>
+			    <a href="#download" class="tile-title">Download</a>
+		    </div>
+		    <div class="live-tile exclude">
+		    <!-- empty -->
+		    </div>
+		    <div class="live-tile" data-mode="flip" data-initdelay="5000" data-delay="7500" data-bounce="true" data-pause-onhover="true" data-link="/projects/metrojs/themes">
+			    <div>
+				    <a href="metrojs/themes.html"><img class="full" src="../images/projects/metro-js-theming.png" alt="Metro JS" /></a>
+			    </div>
+			    <div>
+				<p><span class="metroLarger">Custom sizes and layouts and colors oh my!</span></p>    
+			    </div>
+		    </div>
+	    </div>
+    </section>
+    <section id="whatsIncluded" class="whats-included">
+        <h3>What's Included</h3>
+        <ul>
+		    <li>metrojs.js - jQuery plugins .liveTile, .applicationBar, .theme and .metrojs.preloadImages</li>
+		    <li>metrojs.min.js - minified version of metrojs.js</li>
+		    <li>metrojs.css - base styles for .liveTile, .applicationBar, theme and tile layout definitions</li>
+		    <li>metrojs.min.css - minified version of metrojs.css</li>
+		    <li>images/metroIcons.jpg - windows phone metro icon sprite in dark theme</li>
+		    <li>images/metroIcons_light.jpg - windows phone metro icon sprite in light theme</li>
+		    <li>images/1pixel.gif - placeholder for your sprites/background-position. (not required)</li>
+	    </ul>
+	    <p class="footnote">Note: Metro JS is modular. You can choose which modules you'd like to include in the <a href="#download">download</a> section</p>
+    </section>
+    <section id="whatsPlanned" class="whats-planned">
+        <h3>What's Planned</h3>
+        <ul>
+            <li><span class="strike">Pivot view</span> (<span class="smallNote"> As of v0.9, carousel mode can be used with the "goto" data method to create a pivot control. <a href="#fiddle_eHDwd">Example</a></span>)</li>
+            <li>.panorama for long horizontal lists (<span class="smallNote">I'm still tweaking this for android</span>)</li>
+            <li>Windows Phone / Windows 8 Toast notifications</li>
+            <li><span class="strike">Theme generator to create custom tile sizes and themes.</span> The <a href="metrojs/theme-generator.html">theme generator</a> is available for version 0.9 forward.. and it's pretty sweet</li>
+            <li><span class="strike">Animation repeat property to allow for a static number of animations (<span class="smallNote">i.e. data-repeat="5"</span>)</span> data-repeat is available as of 0.8.9.3</li>
+            <li><span class="strike">Custom triggering functions to allow for custom flip-list patterns</span> As of 0.8.6, you can implement your own triggerDelay function to affect the randomness of flip list</li>		    
+            <li><span class="strike">Hardware acceleration.</span> Complete in v0.8.5. CSS animations, transforms and transitions are used to boost performance when available.</li>
+        </ul>
+    </section>
+    <section id="liveTile" class="about-live-planned">
+        <h3>.liveTile(<i>[options]</i>)</h3>
+        <p></p>
+        <section id="liveTileFeatures" class="live-tile-features">
+            <h4>Features</h4>
+            <ul>
+		        <li>Full "future proof" hardware acceleration for browsers that support it now and those that will in the future</li>
+			<li>Free! Metro JS is licensed under the <a href="http://en.wikipedia.org/wiki/MIT_License" onclick="trackExternal(this)" target="_blank">MIT License</a></li>
+			<li>An advanced <a href="metrojs/theme-generator.html">Theme Generator</a> to create custom layouts and accent colors</li>
+		        <li>Uses <a href="http://modernizr.com/" onclick="trackExternal(this)" target="_blank">Modenizr</a> if already available or built in capability checking via the same methods if not</li>
+                	<li>All tile modes support swapping content with images or html at random or sequentially from an array</li>
+                	<li>carousel tile mode to slide through any number of tile faces in arbitrary directions</li>
+		        <li>slide tile mode to stop at an arbitrary number of points to reveal or slide with the tile face behind it (<span class="smallNote">e.g. Me tile, or the animated clouds on the <a href="../projects.html">projects</a> page</span>)</li>
+		        <li>flip tile mode to flip between two tile faces</li>
+		        <li>flip-list tile mode to flip any number of tiles in sequence or at custom intervals to create mosaics and other unique content presentations (<span class="smallNote">e.g. People tile or the color strip, skills tile, and the hover list on the <a href="../index.html">home</a> page</span>)</li>
+	        </ul>
+        </section>
+        <section id="liveTileAnatomy" class="live-tile-anatomy">
+            <h4>Anatomy of a liveTile</h4>
+            <span class="code-label">A minimal tile HTML structure</span>
+	        <pre><code class="brush: js; html-script: true; toolbar: false;">
+&lt;div class="live-tile"&gt;
+    &lt;div&gt;front&lt;/div&gt;
+    &lt;div&gt;back&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;
+    $(document).ready(function(){
+        $(".live-tile").liveTile();
+    });
+&lt;/script&gt;
+	        </code></pre>
+	        <span class="footnote">This tile would slide the 'front' div out of the way
+		        at the <a href="#liveTileOptions">default delay interval</a>. If a back face is not present, a background accent div is appended to the tile by
+		        default.</span>
+	        <p>Live tiles can contain anything. The default hierarchy for image swapping is {tile}>div>a>img or {tile}>div>img, but those selectors can be customised using the <a href="#liveTileOptions">options</a> below</p>
+    </section>
+    <section id="liveTileBasicExample" class="live-tile-basic-example">
+        <h4><strong>Basic</strong> Example</h4>
+        <p>For a more fully featured demo, check out the <a style="border-bottom:1px dashed #FFF; text-decoration:none;" href="#fiddleAround">fiddle around</a> section or the <a href="../index.html">home page</a>.</p>
+        <div class="demo blue tile-group five-wide float-none">
+		    <div class="live-tile" data-speed="750" data-delay="3000">
+			    <span class="tile-title">slide tile</span>
+			    <div><img class="full" src="../images/sample/1tw.gif" alt="1" /></div>
+			    <div><img class="full" src="../images/sample/2t.gif" alt="2" /></div>
+		    </div>
+		    <div class="red live-tile" data-mode="flip" data-delay="4000">            
+			    <div>
+				    <img class="full" src="../images/sample/3tw.gif" alt="3" />
+				    <span class="tile-title">flip tile front</span>
+			    </div>
+			    <div>
+				    <img class="full" src="../images/sample/4tw.gif" alt="4" />
+				    <span class="tile-title">flip tile back</span>
+			    </div>
+		    </div>
+            <div class="live-tile" data-mode="carousel" data-direction="horizontal" data-delay="2500">
+			    <div>
+				    <img class="full" src="../images/sample/1tw.gif" alt="1" />
+				    <span class="tile-title">carousel slide 1</span>
+			    </div>
+			    <div>
+				    <img class="full" src="../images/sample/2t.gif" alt="2" />
+				    <span class="tile-title accent">carousel slide 2</span>
+			    </div>
+                <div>
+				    <img class="full" src="../images/sample/3tw.gif" alt="3" />
+				    <span class="tile-title">carousel slide 3</span>
+			    </div>
+                <div>
+				    <img class="full" src="../images/sample/4t.gif" alt="4" />
+				    <span class="tile-title accent">carousel slide 4</span>
+			    </div>
+		    </div>
+		    <div class="list-tile mango">
+			    <span class="tile-title">flip list</span>
+			    <ul class="flip-list fourTiles" data-mode="flip-list" data-delay="2000">
+				    <li>
+					    <div><img class="full" src="../images/sample/1t.gif" alt="1" /></div>
+					    <div><img class="full" src="../images/sample/1tw.gif" alt="1" /></div>
+				    </li>
+				    <li>
+					    <div><img class="full" src="../images/sample/2t.gif" alt="2" /></div>
+					    <div><img class="full" src="../images/sample/2tw.gif" alt="2" /></div>
+				    </li>
+				    <li>
+					    <div><img class="full" src="../images/sample/3t.gif" alt="3" /></div>
+					    <div><img class="full" src="../images/sample/3tw.gif" alt="3" /></div>
+				    </li>
+				    <li data-direction="horizontal">
+					    <div><img class="full" src="../images/sample/4t.gif" alt="4" /></div>
+					    <div><img class="full" src="../images/sample/4tw.gif" alt="4" /></div>
+				    </li>
+			    </ul>
+		    </div>
+		    <div class="live-tile accent green exclude">
+			    <span class="tile-title">static tile</span>
+			    <p>Static tiles can take advantage of theming too!</p>
+		    </div>
+	    </div>
+	<div class="footnote clear">Four live tiles using a static set of images and one static tile</div>
+	<div class="explanation">
+		<h5>The Code</h5>
+<pre><code class="brush: js; html-script: true; toolbar: false;">
+<!-- Apply blue theme as default for all tiles, but use the tiles class to allow the theme to be swapped -->
+&lt;div class="tiles blue tile-group four-wide"&gt;
+    <!-- Sliding Tile that shows 100% of the back tile every 3 seconds -->
+    &lt;div class=&quot;live-tile&quot; data-speed=&quot;750&quot; data-delay=&quot;3000&quot;&gt;
+        &lt;span class=&quot;tile-title&quot;&gt;slide tile&lt;/span&gt;
+        &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/1tw.gif&quot; alt=&quot;1&quot; /&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/2t.gif&quot; alt=&quot;2&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    <!-- Red Flip Tile that flips every 4 seconds -->
+    &lt;div class=&quot;red live-tile&quot; data-mode=&quot;flip&quot; data-delay=&quot;4000&quot;&gt;            
+        &lt;div&gt;
+            &lt;img class=&quot;full&quot; src=&quot;/images/sample/3tw.gif&quot; alt=&quot;3&quot; /&gt;
+            &lt;span class=&quot;tile-title&quot;&gt;flip tile front&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;img class=&quot;full&quot; src=&quot;/images/sample/4tw.gif&quot; alt=&quot;4&quot; /&gt;
+            &lt;span class=&quot;tile-title&quot;&gt;flip tile back&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    <!-- Carousel Tile that slides 4 tile faces every 2.5 seconds -->
+    &lt;div class=&quot;live-tile&quot; data-mode=&quot;carousel&quot; data-direction=&quot;horizontal&quot; data-delay=&quot;2500&quot;&gt;
+		&lt;div&gt;
+			&lt;img class=&quot;full&quot; src=&quot;/images/sample/1tw.gif&quot; alt=&quot;1&quot; /&gt;
+			&lt;span class=&quot;tile-title&quot;&gt;carousel slide 1&lt;/span&gt;
+		&lt;/div&gt;
+		&lt;div&gt;
+			&lt;img class=&quot;full&quot; src=&quot;/images/sample/2t.gif&quot; alt=&quot;2&quot; /&gt;
+			&lt;span class=&quot;tile-title accent&quot;&gt;carousel slide 2&lt;/span&gt;
+		&lt;/div&gt;
+        &lt;div&gt;
+			&lt;img class=&quot;full&quot; src=&quot;/images/sample/3tw.gif&quot; alt=&quot;3&quot; /&gt;
+			&lt;span class=&quot;tile-title&quot;&gt;carousel slide 3&lt;/span&gt;
+		&lt;/div&gt;
+        &lt;div&gt;
+			&lt;img class=&quot;full&quot; src=&quot;/images/sample/4t.gif&quot; alt=&quot;4&quot; /&gt;
+			&lt;span class=&quot;tile-title accent&quot;&gt;carousel slide 4&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+    <!-- Mango Flip List that triggers every 3 seconds -->
+    &lt;div class=&quot;list-tile mango&quot;&gt;
+        &lt;span class=&quot;tile-title&quot;&gt;flip list&lt;/span&gt;
+        &lt;ul class=&quot;flip-list fourTiles&quot; data-mode=&quot;flip-list&quot; data-delay=&quot;2000&quot;&gt;
+            &lt;li&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/1t.gif&quot; alt=&quot;1&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/1tw.gif&quot; alt=&quot;1&quot; /&gt;&lt;/div&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/2t.gif&quot; alt=&quot;2&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/2tw.gif&quot; alt=&quot;2&quot; /&gt;&lt;/div&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/3t.gif&quot; alt=&quot;3&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/3tw.gif&quot; alt=&quot;3&quot; /&gt;&lt;/div&gt;
+            &lt;/li&gt;
+            &lt;li data-direction=&quot;horizontal&quot;&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/4t.gif&quot; alt=&quot;4&quot; /&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;img class=&quot;full&quot; src=&quot;/images/sample/4tw.gif&quot; alt=&quot;4&quot; /&gt;&lt;/div&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    <!-- Green Static Tile -->
+    &lt;div class=&quot;live-tile accent green exclude&quot;&gt;
+        &lt;span class=&quot;tile-title&quot;&gt;static tile&lt;/span&gt;
+        &lt;p&gt;Static tiles can take advantage of theming too!&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+<!-- Activate live tiles -->
+&lt;script type="text/javascript"&gt;
+    // apply regular slide universally unless .exclude class is applied 
+    // NOTE: The default options for each liveTile are being pulled from the 'data-' attributes
+    $(&quot;.live-tile, .flip-list&quot;).not(&quot;.exclude&quot;).liveTile();
+&lt;/script&gt;
+</code></pre>
+                <div class="footnote">Four live tiles and one static tile initialized using <a href="#liveTileOptions">'data-' attributes</a>.</div>
+            </div>
+        </section>
+        <section id="fiddleAround" class="live-tile-fiddles">
+            <h4>Fiddle Around! (More Examples)</h4>
+            <p>Choose any link below to open/edit a JS Fiddle demonstration on this page. Check out the <a href="../index.html">home page</a> to see Metro JS in action</p>
+	        <div class="fiddles">
+		        <div class="fiddleNav tiles">
+		        <ul class="first">
+			        <li><span class="accentColor">Slide Mode</span>
+				        <ul>
+					        <li><a href="javascript:;" class="accentHover" id="Xqh8u" rel="http://jsfiddle.net/drewgreenwell/Xqh8u/embedded/result,html,js,resources/">Simple</a></li>
+					        <li><a href="javascript:;" class="accentHover" id="D9usk" rel="http://jsfiddle.net/drewgreenwell/D9usk/embedded/result,html,js,css,resources/">Multiple Stops (<span class="smallNote">e.g. Me tile</span>)</a></li>
+					        <li><a href="javascript:;" class="accentHover" id="VcKDc" rel="http://jsfiddle.net/drewgreenwell/VcKDc/embedded/result,html,js,css,resources/">Image Swaps and fadeSlideSwap</a></li>					        
+                            			<!--<li><a href="javascript:;" class="accentHover" id="xQUrK" rel="http://jsfiddle.net/drewgreenwell/xQUrK/embedded/result,html,js,css,resources/">A slide based carousel</a></li>-->
+				        </ul>
+			        </li>
+		        </ul>
+                <ul>
+                    <li><span class="accentColor">Carousel</span>
+                        <ul>
+                            <li><a href="javascript:;" class="accentHover" id="TDeZY" rel="http://jsfiddle.net/drewgreenwell/TDeZY/embedded/result,html,js,css,resources/">Simple</a></li>
+                            <li><a href="javascript:;" class="accentHover" data-height="340px" id="mBX3K" rel="http://jsfiddle.net/drewgreenwell/mBX3K/embedded/result,html,js,css,resources/">goto Basics</a></li>
+                            <li><a href="javascript:;" class="accentHover" data-height="500px" id="eHDwd" rel="http://jsfiddle.net/drewgreenwell/eHDwd/embedded/result,html,js,css,resources/">Making a Pivot Control</a></li>
+			    <li><a href="javascript:;" class="accentHover" id="bP7u7" rel="http://jsfiddle.net/drewgreenwell/bP7u7/embedded/result,html,js,css,resources/">Content Swaps</a></li>
+                        </ul>
+                    </li>
+                </ul>
+		        <ul>
+			        <li><span class="accentColor">Flip Mode</span>
+				        <ul>
+					        <li><a href="javascript:;" class="accentHover" id="UR6HB" rel="http://jsfiddle.net/drewgreenwell/UR6HB/embedded/result,html,js,resources/">Simple</a></li>                    
+					        <li><a href="javascript:;" class="accentHover" id="kEyjG" rel="http://jsfiddle.net/drewgreenwell/kEyjG/embedded/result,html,js,resources/">Image Swaps</a></li>                    
+				        </ul>
+			        </li>
+		        </ul>
+		        <ul>
+			        <li><span class="accentColor">Flip List</span>
+				        <ul>
+					        <li><a href="javascript:;" class="accentHover" id="WdCZS" rel="http://jsfiddle.net/drewgreenwell/WdCZS/embedded/result,html,js,css,resources/">Simple</a></li>
+					        <li><a href="javascript:;" class="accentHover" id="8ukNq" rel="http://jsfiddle.net/drewgreenwell/8ukNq/embedded/result,html,js,css,resources/">flipListOnHover</a></li>
+						<li><a href="javascript:;" data-height="500px" class="accentHover" id="4mQ4t" rel="http://jsfiddle.net/drewgreenwell/4mQ4t/embedded/result,html,js,resources/">triggerDelay</a></li>
+						<li><a href="javascript:;" class="accentHover" id="TQZZ7" rel="http://jsfiddle.net/drewgreenwell/TQZZ7/embedded/result,html,js,css,resources/">Image Swaps and triggerDelay</a></li>
+					        <li><a href="javascript:;" class="accentHover" id="dqJab" rel="http://jsfiddle.net/drewgreenwell/dqJab/embedded/result,html,js,css,resources/">Image Mosaics</a></li>
+				        </ul>
+			        </li>
+		        </ul>
+		        <ul>
+			        <li><span class="accentColor">General</span>
+				        <ul>
+					        <li><a href="javascript:;" id="9w98S" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/9w98S/embedded/result,html,js,css,resources/">animationComplete</a></li>
+						<li><a href="javascript:;" id="j8UfD" class="accentHover" data-height="500px" rel="http://jsfiddle.net/drewgreenwell/j8UfD/embedded/result,html,js,resources/">Draggable Tiles (jQuery UI)</a></li>
+					        <li><a href="javascript:;" id="PLwFg" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/PLwFg/embedded/result,html,js,resources/">Play on Click</a></li>
+					        <li><a href="javascript:;" id="CZDcc" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/CZDcc/embedded/result,html,js,resources/">Play on Hover</a></li>					
+					        <li><a href="javascript:;" id="NGV9J" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/NGV9J/embedded/result,html,js,resources/">Play others on Hover</a></li>
+						<li><a href="javascript:;" id="g6zv7" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/g6zv7/embedded/result,html,js,resources/">Pause On Hover</a></li>
+					        <li><a href="javascript:;" id="cyA3k" class="accentHover" rel="http://jsfiddle.net/drewgreenwell/cyA3k/embedded/result,html,js,resources/">Click to Edit</a></li>
+				        </ul>
+			        </li>
+		        </ul>
+		        </div>
+		        <iframe id="fiddlerFrame" style="display:none; width: 95%; height: 300px" src="about:blank" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+	        </div>
+        </section>
+        <section id="liveTileOptions" class="live-tile-options">            
+            <h4>.liveTile Options</h4>
+            <div class="filter-by">
+                <select id="filterLiveTileOptions">
+                    <option value="all">show all</option>
+                    <option value="carousel">carousel mode</option>  
+                    <option value="fade">fade mode</option>
+                    <option value="flip">flip mode</option>
+                    <option value="flip-list">flip-list mode</option>
+                    <option value="slide">slide mode</option>
+                    <option value="none">none mode</option>
+                </select>
+                <span class="count">Showing 67 options</span>
+                <span class="jump-to">Jump To - <a href="#liveTileImageSwapOpts">Image Swap Options</a> | <a href="#liveTileHtmlSwapOpts">Html Swap Options</a> | <a href="#liveTileMethods">.liveTile Methods</a></span>
+                <select id="sortLiveTileOptions" class="sort-by float-right">
+                    <option value="default">default sort</option>
+                    <option value="alpha">name a-z</option>
+                    <option value="type">type a-z</option>
+                </select>
+                <span class="sort-by-label float-right">Sort By</span>
+            </div>
+            <ul class="options tiles">
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="1.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">mode              </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-mode</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value"><dl>
+<dt>carousel</dt>
+<dd>slide any number of tile faces infinitely or slide to a specific tile face</dd>
+<dt>fade</dt>
+<dd>fade the front face in and out</dd>
+<dt>slide</dt>
+<dd>slide two tile faces at an arbitrary number of stopping points</dd>
+<dt>flip</dt>
+<dd>flip two tile faces in a vertical or horizontal direction</dd>
+<dt>flip-list</dt>
+<dd>trigger a list of tiles to flip between tile faces with custom delays</dd>
+<dt>none</dt>
+<dd>no animations are performed. This is useful if you just want to bind a bounce, click or link to the tile.</dd>
+</dl></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">slide</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">carousel, fade, flip, flip-list, slide, none</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="2.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">speed          </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-speed</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">how fast should animations be performed (<span class="smallNote">in milliseconds</span>).</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">500</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="3.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">initDelay             </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-initdelay</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">how long to wait before starting (<span class="smallNote">in milliseconds</span>). If the value is '-1' the delay property is used</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">-1</span></span>
+<span class="options"><span class="label">Options</span> <span class="value"> -1 = use delay, any number greater than or equal to zero is used</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="4.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">delay              </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-delay</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">how long to wait between animations (<span class="smallNote">in milliseconds</span>).<br />
+   Setting the delay value to -1 will use a random delay value between 3500 and 8000 milliseconds (<span class="smallNote">3.5 - 8 seconds</span>).<br />
+   Setting the delay value to anything lower than -1 (<span class="smallNote">e.g. -2</span>) will call the triggerDelay method (<span class="smallNote">see below</span>) one time to get the delay value.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">5000</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="4.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">startNow</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-start-now</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should the tile immediately start or wait util play or restart has been called</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="5.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="slide"><span class="label">Name</span> <span class="value">stops               </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-stops</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">How much should the front tile slide in slide mode before pausing. 
+   Setting one stop will make the tile slide between the stop value and 0. 
+   If more than one stop is set, the tile will loop through all stop values
+<div class="footnote">Note: If more than one stop is used, you need to set the final stop to 0px if you want the tile to return to the default position.</div></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">100%</span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value">   <div class="example-code-label">Example of multiple stops</div>
+<pre><code class="brush:xml; toolbar:false; gutter:false;">
+&lt;div class="live-tile" data-stops="30px,50%,120px,100%,0px"&gt;
+    &lt;div&gt;front&lt;/div&gt;
+    &lt;div&gt;back&lt;/div&gt;
+&lt;/div&gt;
+</code></pre> </div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="6.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="slide"><span class="label">Name</span> <span class="value">stack                 </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-stack</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should tiles in slide mode move synchronously as if stacked (<span class="smallNote">e.g Me tile</span>).</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="7.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip, flip-list, slide, carousel"><span class="label">Name</span> <span class="value">direction</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-direction</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">The direction that tiles slide and flip.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip, flip-list, slide, carousel</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">vertical</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">horizontal, vertical</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="8.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">bounce</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-bounce</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should the tile tilt or shrink when tapped. You can use bounceDirections to choose which directions a tile will tilt or shrink.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="8.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, fade, flip, slide, none"><span class="label">Name</span> <span class="value">bounceDirections</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-bounce-dir</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Controls the direction that a tile will bounce or tilt in. A click or tap must fall within the region of the option chosen unless the previous region is an '*' as in the the example below</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, fade, flip, slide, none</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'all'</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">'all', 'edges', 'corners', '*', 'c', 'tl', 'tr', 'bl'. 'br'. 't', 'l', 'b', 'r'</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><div class="example-code-label">Example of different bounceDirections options</div>
+<pre><code class="brush:xml; toolbar:false; gutter:false;">
+<!-- bounce only on the edges or center -->
+<div class="live-tile" data-bounce='true' data-bounce-dir="edges">
+<div>bouncy</div>
+</div>
+<!-- bounce only to the left or right -->
+<div class="live-tile" data-bounce='true' data-bounce-dir="l,r">
+<div>bouncy</div>
+</div>
+<!-- always bounce to the left -->
+<div class="live-tile" data-bounce='true' data-bounce-dir="*,l">
+<div>bouncy</div>
+</div>
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="8.11" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, fade, flip, slide, none"><span class="label">Name</span> <span class="value">bounceFollowsMove</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-bounce-follows</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should the tile change the active bounce direction as the mouse or touch moves</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, fade, flip, slide, none</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="9.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">click</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">a click handler for the tile. Returning false will prevent the data-link option if it's set. Returning true or not returning a value at all will open the data-link option if it has been set</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">null</span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value">			<div class="example-code-label">example click </div>
+<pre><code class="brush:js; toolbar:false; gutter:false;">
+$(".live-tile").liveTile({ 
+      click: function($tile, tileData){ 
+                // do some stuff
+                return false; // or return true; 
+            }
+});
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="9.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">link</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-link</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">a url to go to when clicked or tapped</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">empty string</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="9.20" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">newWindow</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-new-window</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should the link option be opened in a new window</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="10.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel"><span class="label">Name</span> <span class="value">animationDirection</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-ani-direction</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should animations be played  forward or backward</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">forward</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">backward, forward</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="11.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, flip-list"><span class="label">Name</span> <span class="value">tileSelector</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-tile-selector</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string selector</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">The selector used by carousel mode and flip-list mode to select containers</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">>div,>li,>p,>img,>a</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="12.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="fade, flip, flip-list, slide"><span class="label">Name</span> <span class="value">tileFaceSelector</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-face-selector</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string selector</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the selector used to choose the front and back container ( face ) for the tile </div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">fade, flip, flip-list, slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">>div,>li,>p,>img,>a</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="13.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">ignoreDataAttributes </span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should data attributes be ignored</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="14.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">pauseOnHover</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-pause-onhover</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should tile animations be paused on hover in and restarted on hover out</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="15.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">playOnHover            </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-play-onhover</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should "play" be called when the tile is hovered or touched</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="15.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">onHoverDelay</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-hover-delay</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">a delay that occurs before playOnHover and pauseOnHover is called. Setting this to a value of 200 or greater will reduce accidental flips when a user quickly passes by a tile</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">0</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="16.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">repeatCount   </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-repeat</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">how many times should the animation be performed. If the value is '-1' the animations will loop until stopped or paused</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">-1</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="17.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">appendBack</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-appendback</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">appends the .last tile if one doesnt exist (slide and flip only)</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">alwaysTrigger</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-always-trigger</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should every item in a flip list trigger every time a delay passes</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">flipListOnHover     </span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-flip-onhover</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should items in flip-list flip and stop when hovered</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">triggerDelay</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Returns a delay (<span class="smallNote">in milliseconds</span>) for each tile in a list. Returning -1 for the delay will skip the tile.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">function (idx) {  	return  Math.random() * 3000;}</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.20" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">animationComplete</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">fired by by all modes when an animation has finished. note: flip-list mode calls animationComplete after all tile animations have completed. note: The 'this' context is the current tile. e.g. var $tile = $(this);</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">function (tileData, $front, $back) { }</span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><div class="example-code-label">animationComplete example</div>
+<pre><code class="brush:js; toolbar:false; gutter:false;">
+$(".live-tile").liveTile({
+  mode: 'flip',
+  animationComplete: function(tileData, $front, $back){
+    //console.log('tile has animated ' + tileData.loopCount + ' times');
+  }
+});
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.21" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, slide, fade, flip, flip-list"><span class="label">Name</span> <span class="value">animationStarting</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">A function that is called prior to an animation starting. Returning false will cancel the animation from starting. All non static modes call animation starting.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, slide, fade, flip, flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value"></span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+$('.live-tile').liveTile({
+    animationStarting: function (tileData, $front, $back) {
+        // returning false will cancel the animation
+    }
+});
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.25" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">flipListOnHoverEvent </span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">The event that triggers the fli method to fire for tiles in 'flip-list' mode with 'flipListOnHover' set to true</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">mouseout</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">mouseout, mouseover, click, etc.</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.26" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip, flip-list"><span class="label">Name</span> <span class="value">noHAflipOpacity</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">flip-opacity</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Only applies when hardware acceleration is disabled. If this value is less than 1, flip animations will animate to and from the opacity level specified when they flip</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip, flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'1'</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">0-1</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.30" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, slide, flip, flip-list"><span class="label">Name</span> <span class="value">haTransFunc</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the tranisiton-timing function to use in hardware accelerated mode</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, slide, flip, flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">ease</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">ease | linear | ease-in | ease-out | ease-in-out...</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="18.31" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">noHaTransFunc</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the animation easing to use in non hardware accelerated mode</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">linear</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">swing | linear | plugins..</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="19.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel, slide"><span class="label">Name</span> <span class="value">currentIndex</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-start-index</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">what is the current stop index for slide mode or slide index for carousel mode</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel, slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">0</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="21.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">useModernizr</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">By default this checks to see if modernizer is already in use, but it can be overridden. If you're not using Modernizr, Metro JS will do its own testing internally. If you're using a custom version of Modernizr, Metro JS will need the transforms, transitions, transform3d and touch tests or you can set useModernizr to false.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">(typeof (window.Modernizr) != "undefined")</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="22.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">useHardwareAccel</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-ha</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should css animations, transitions and transforms be used when available</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="23.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">swap</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-swap</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">which swap modules are active for this tile</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">html, image</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="23.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,slide"><span class="label">Name</span> <span class="value">useTranslate</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-use-translate</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should Metro JS use translate() when available rather than top/left</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="24.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">swapFront</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-swap-front</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">override the available swap modules for the front face</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">html, image</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="25.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">swapBack</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-swap-back</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">override the available swap modules for the back face</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">html, image</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="27.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip, slide"><span class="label">Name</span> <span class="value">faces</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">object</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">an object containing jQuery elements for the front and/or back tile face</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip, slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">{ $front: null, $back: null }</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                
+            </ul>
+            <h5 id="liveTileImageSwapOpts">Image Swap Options<a class="return" href="#liveTileOptions">return to .liveTileOptions</a></h5>
+            <p>Swap modules are used to make it easier to swap content out at specific intervals.
+               You can set the swap option (data-swap='image') and either the frontImages or backImages property to activate the image module.
+                If you're calling .liveTile for a batch of tiles you can use data-swap-front='image' or data-swap-back='image'
+                to be more explicit about which content module to use. Additionally, some of the initial options for the html
+                and image swap modules are shared, to explicitly set the properties for the module, pass the options in an imgSwap object
+                like in this example.
+<pre><code class="brush: js; html-script: false; toolbar: false;">
+$(&quot;.live-tile&quot;).liveTile({
+    swap:'html,image',
+    frontContent: ['some html content', '&lt;p&gt;i dont want random&gt;&lt;/p&gt;'],
+    frontIsRandom: false,
+    frontImages: [
+        {src: 'img1.gif', alt:'some images'},
+        // note: you can also pass attr and css values directly for images
+        { attr: { src:'img2.gif', alt:'i want random' } }
+    ],
+    imgSwap: { frontIsRandom: true }
+});
+</code></pre>
+            </p>
+            <ul class="options tiles">
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="28.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">preloadImages</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should images be preloaded as soon as the module is loaded</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="29.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">imageCssSelector</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-image-css</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string selector</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the selector used to choose a an image to apply a src or background to</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">>img,>a>img</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="30.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">frontImages</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">An array of image objects that are applied to the front tile. This list is used to pull new images when animations complete.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><div class="example-code-label">example frontImages declaration</div>
+<pre><code class="brush:js; toolbar:false; gutter:false;">
+$('.live-tile').liveTile({ 
+    frontImages:[{ src:'koala.jpg', alt:'koala' }, 
+        { 
+	    src:'tulip.jpg',        // path to image
+	    alt:'tulip',            // alt text for image           
+	    href:'/planting-tulips',// href attribute if 'a' tag present
+	    onclick:''              // onlcick attribute of 'a' or 'img' tag
+        }
+    ] 
+});
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="31.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">frontIsRandom</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-israndom</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should images be chosen at random or in order</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="32.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">frontIsInGrid</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-isingrid</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">only chooses one item for each iteration in flip-list</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="33.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">frontIsBackgroundImage</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-isbg</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">set the src attribute or css background-image property</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="33.10" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">fadeSwap</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-fadeswap</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should the image be faded out as the src or background-image property is updated.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="33.20" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">alwaysSwapFront</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-alwaysswap</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should the front face always be swapped. This can be useful if you are animating a tile face in slide mode with multiple stops</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="33.30" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">alwaysSwapBack</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-alwaysswap</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should the back face always be swapped. This can be useful if you are animating a tile face in slide mode with multiple stops</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="34.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">backImages</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">An array of image objects that are applied to the back tile. This list is used to pull new images when animations complete.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value">			<div class="example-code-label">example backImages declaration</div>
+<pre><code class="brush:js; toolbar:false; gutter:false;">
+$('.live-tile').liveTile({ 
+    backImages:[{ src:'koala.jpg', alt:'koala' }, 
+        { 
+	    src:'tulip.jpg',        // path to image
+	    alt:'tulip',            // alt text for image           
+	    href:'/planting-tulips',// href attribute if 'a' tag present
+	    onclick:''              // onlcick attribute of 'a' or 'img' tag
+        }
+    ] 
+});
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="35.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">backIsRandom</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-israndom</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Should images be chosen at random or in order. <span class="smallNote">Only applies when backImages is set</span></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="36.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">backIsInGrid</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-isingrid</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Only chooses one item for each iteration in flip-list. This is useful for dividing an image into parts. <span class="smallNote">Only applies when backImages is set</span></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="37.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">backIsBackgroundImage</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-isbg</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Set the src attribute or css background-image property of the selected image. <span class="smallNote">Only applies when backImages is set</span></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+               
+            </ul>
+            <h5 id="liveTileHtmlSwapOpts">Html Swap Options<a class="return" href="#liveTileOptions">return to .liveTileOptions</a></h5>
+            <p>Swap modules are used to make it easier to swap content out at specific intervals.
+               You can set the swap option (data-swap='html') and either the frontContent or backContent property to activate the html module.
+                If you're calling .liveTile for a batch of tiles you can use data-swap-front='html' or data-swap-back='html'
+                to be more explicit about which content module to use. Additionally, some of the initial options for the html
+                and image swap modules are shared, to explicitly set the properties for the module, pass the options in an htmlSwap object
+                like in this example.
+<pre><code class="brush: js; html-script: false; toolbar: false;">
+$(&quot;.live-tile&quot;).liveTile({
+    swap:'html,image',
+    frontContent: ['some content', 'i &lt;strong&gt;dont&lt;/strong&gt; want random'],    
+    frontImages: [
+                  { src: 'img1.gif', alt:'some images' },
+                  // note: you can also pass attr and css values directly for images
+                  { attr: { src:'img2.gif', alt:'i want random' } }                  
+    ],
+    frontIsRandom: true, // this is global
+    htmlSwap: { frontIsRandom: false } //this is only on the html swap 
+});
+</code></pre>
+            </p>
+            <ul class="options tiles">
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="38.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">frontContent</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">an array of html content to use for the front</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="39.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">frontIsRandom</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-israndom</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should html be chosen at random or in order</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="40.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">frontIsInGrid</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-front-isingrid</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">only chooses one item for each iteration in flip-list</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="41.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">backContent</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string or array</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">an array of html content to use for the back</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">[ ]</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="42.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel,fade,flip,flip-list,slide"><span class="label">Name</span> <span class="value">backIsRandom</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-israndom</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should html be chosen at random or in order</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel,fade,flip,flip-list,slide</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="43.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="flip-list"><span class="label">Name</span> <span class="value">backIsInGrid</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">data-back-isingrid</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">only chooses one item for each iteration in flip-list</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">flip-list</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+               
+            </ul>
+        </section>
+        <section id="liveTileMethods" class="live-tile-methods">
+        <h4>.liveTile Methods<a class="return" href="#liveTileOptions">return to .liveTileOptions</a></h4>            
+            <p>Use these methods to get extra control over a tile's behavior</p>
+             <ul class="options tiles">
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="70.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">play</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTile(&quot;play&quot;, delay)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Starts the tile animations. If the tile has not run before and no delay is passed, the initDelay is used. A delay passed into the 'play' method will override the initDelay value if the tile has not previously started.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">tile delay</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">optional - #, { }</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// cause the tile to start right now
+$(".live-tile").liveTile("play", 0);
+// cause the tile to start at its specified interval
+$(".live-tile").liveTile("play");
+// start the tile on a 2 second delay with an object
+$(".live-tile").liveTile("play", { delay: 2000 });
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="71.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">pause</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTIle(&quot;pause&quot;)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Stops all animations and timers without resetting any counts. This method does not reset the hasRun property so the initDelay value will not be used the next time play is called. </div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value"></span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// pause the tile
+$('.live-tile').liveTile("pause");
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="72.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">stop</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTIle(&quot;stop&quot;)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Stops all animations and resets any associated counts. This method causes the initDelay value to be used next time 'play' is called</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value"></span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// stop the tile
+$('.live-tile').liveTile("stop");
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="73.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">restart</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTile(&quot;restart&quot;, delay)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Stop animations without resetting counts and then restart the timer. This is equivalent to calling .liveTile("pause") then .liveTile("play"). Restart can be useful for scenarios where you want to restart a countdown before an animation occurs.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">tile delay</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">optional - #, { }</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// restart with the tile's delay values
+$(".live-tile").liveTile("restart");
+// restart in 2 seconds
+$(".live-tile").liveTile("restart", 2000);
+// restart immediately
+$(".live-tile").liveTile("restart", { delay: 0 });
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="74.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="carousel"><span class="label">Name</span> <span class="value">goto</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTile(&quot;goto&quot;, index)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Move the carousel to the slide index specified. You can additionally specify a delay, animationDirection and direction option.
+<span class="smallNote">Note: The delay, animationDirection and direction options are not persisted when they are passed to goto. To set persistent values for these options, set them via the data object $(".live-tile").data("LiveTile")</span></div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">carousel</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">next</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">optional - #, 'next', 'prev', { }</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// goto the next slide
+$('.live-tile').liveTile("goto");
+// or
+$('.live-tile').liveTile("goto", "next");
+// goto the previous slide
+$('.live-tile').liveTile("goto", "prev");
+// go to a slide by index
+$('.live-tile').liveTile("goto", 1);
+// with a custom animationDirection
+$('.live-tile').liveTile("goto", { index:1, animationDirection:'backward' });
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="75.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">animate</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTIle(&quot;animate&quot;)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">This method will call doAction directly rather than triggering the timer. In almost all cases, the 'play' method is a better choice, but this can be helpful for some slide mode cases.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value"></span></span>
+<span class="options"></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// call the animate method
+$('.live-tile').liveTile("animate");
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="76.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">rebind</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTile(&quot;rebind&quot;, tileData)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Stops timers if present and recalls the init method with the tileData object. This is helpful if you are posting back the tile's html in an update panel or if you're removing and readding the tile to the DOM</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">{ }</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">optional - { }</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+    // set up a tile
+    $("#tile1").liveTile();
+    // this could be in document ready or called right before the postback
+    var tile1Data = $("#tile1").data("LiveTile");
+    //..
+    // this should run after a postback or after the element is removed/readded to the DOM
+    $("#tile1").liveTile('rebind', tile1Data);
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="77.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes="all"><span class="label">Name</span> <span class="value">destroy</span></span>
+
+<span class="data-attribute">
+<span class="label">Data Attribute</span> <span class="value">.liveTIle(&quot;destroy&quot;, removeCss)</span>
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">Stops all animations and timers and removes any associated data. You can optionally remove all css properties and classes added by Metro JS.</div></div>
+<span class="modes"><span class="label">Supported modes</span> <span class="value">all</span></span>
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">optional - boolean, { }</span></span>
+<div class="example"><span class="label">Example</span> <div class="value"><pre><code class="brush:js; toolbar:false; gutter:false;">
+// destroy the tile data
+$('.live-tile').liveTile("destroy");
+// destroy and remove the css
+$('.live-tile').liveTile("destroy", true);
+// destroy and remove the css with an object
+$('.live-tile').liveTile("destroy", { removeCss: true });
+</code></pre></div></div>
+</div>
+
+
+                        </li>                           
+               
+            </ul>
+        </section>
+    </section>
+    <section id="applicationBar" class="about-application-bar">
+        <h3>.applicationBar</h3>
+        <p>.applicationBar creates a nested container to house navigation options and additional settings.
+            The basic premise is that a container <span class="smallNote">(&lt;footer&gt; on this site)</span> is fixed to the bottom of the window or to the bottom of the document when position: fixed; is not supported.
+            You can use the .theme api to append accent colors and theme options as needed.
+        </p>
+        <section id="appbarBasicExample">
+            <h4>Basic Example</h4>
+            <div class="code-label">Example applicationBar markup and initialization code</div>
+<pre><code class="brush:js; html-script:true; toolbar:false; gutter:false;">
+	&lt;footer class="appbar"&gt;
+			&lt;nav&gt;
+			&lt;ul id="menu" class="appbar-buttons"&gt;
+				&lt;li&gt;
+					&lt;a href="#" class="home"&gt;&lt;img src="/images/1pixel.gif" alt="home" /&gt;&lt;/a&gt;
+					&lt;span class="charm-title"&gt;Home&lt;/span&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href="#" class="about"&gt;&lt;img src="/images/1pixel.gif" alt="about" /&gt;&lt;/a&gt;
+					&lt;span class="charm-title"&gt;About&lt;/span&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href="#" target="_blank" class="twitter"&gt;&lt;img src="/images/1pixel.gif" alt="twitter" /&gt;&lt;/a&gt;
+					&lt;span class="charm-title"&gt;Twitter&lt;/span&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/nav&gt;
+		&lt;a class="etc"&gt;&amp;bull;&amp;bull;&amp;bull;&lt;/a&gt;
+		&lt;ul class="theme-options clear"&gt;
+			
+		&lt;/ul&gt;
+		&lt;ul class="base-theme-options clear"&gt;		
+		&lt;/ul&gt;
+	&lt;/footer&gt;
+	&lt;script type="text/javascript"&gt;
+			var appBar, metroJs;
+			$(document).ready(function(){
+				appBar = $(".appbar").applicationBar({ 
+					preloadAltBaseTheme: true, 
+					bindKeyboard: true,
+					metroLightUrl: 'images/metroIcons_light.jpg',
+					metroDarkUrl: 'images/metroIcons.jpg'
+				});
+				// append the theme options 
+				metroJs = jQuery.fn.metrojs;
+				metroJs.theme.appendAccentColors({
+					accentListContainer: ".theme-options"
+				});
+				metroJs.theme.appendBaseThemes({
+					baseThemeListContainer: ".base-theme-options"
+				});
+			});
+	&lt;/script&gt;
+</code></pre>
+        </section>
+        <section id="appbarOptions">
+            <h4>.applicationBar Options</h4>
+            <ul class="options tiles">
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="44.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">applyTheme</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should the theme be loaded from local storage and applied to the page</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="45.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">themePicked</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">called when a new theme is chosen. the chosen theme (dark | light)</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">function (tColor) { }</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="46.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">accentPicked</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">called when a new accent is chosen. the chosen theme (blue, mango, purple, etc.)</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">function (aColor) { }</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="47.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">loaded</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">function</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">called if applyTheme is true onload when a theme has been loaded from local storage or overridden by options</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">function (tColor, aColor) { }</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="48.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">duration</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">number</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">how fast should animation be performed, in milliseconds</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">500</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="49.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">expandHeight</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">height the application bar to expand to when opened</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'320px'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="50.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">collapseHeight</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">height the application bar will collapse back to when closed</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'60px'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="51.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">bindKeyboard</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should up and down keys on keyborad be bound to the application bar</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">true</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="52.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">baseThemeCssSelector</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string selector</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">selector to place dark or light class after load or selection</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'body'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="53.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">accentCssSelector</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string selector</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">selector to place accent color class after load or selection</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'.tiles'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="54.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">accentColor</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the default accent color.</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'blue'</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">amber, blue, brown, cobalt, crimson, cyan, emerald, green, indigo, lime, magenta, mango, mauve, olive, orange, pink, purple, red, sienna, steel, teal, violet, yellow</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="55.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">baseTheme</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the default theme color</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'dark'</span></span>
+<span class="options"><span class="label">Options</span> <span class="value">light, dark</span></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="56.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">metroLightUrl</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the url for the metro light icons (only needed if preload 'preloadAltBaseTheme' is true)</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'images/ metroIcons_light.jpg'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="57.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">metroDarkUrl</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">string</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">the url for the metro dark icons (only needed if preload 'preloadAltBaseTheme' is true)</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">'images/metroIcons.jpg'</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+                        <li class="option">
+                            <div class="content">
+<input type="hidden" class="sort" value="58.00" />
+<a class="expand collapsed"><i class="icon small">&#xf053;</i></a>
+<span class="name" data-modes=""><span class="label">Name</span> <span class="value">preloadAltBaseTheme</span></span>
+
+<span class="data-attribute">
+ &nbsp; 
+</span>
+<span class="type"><span class="label">Type</span> <span class="value">boolean</span></span>
+<div class="description"><span class="label">Description</span> <div class="value">should the applicationBar icons be pre loaded for the alternate theme to enable fast theme switching</div></div>
+
+<span class="default-value"><span class="label">Default Value</span> <span class="value">false</span></span>
+<span class="options"></span>
+
+</div>
+
+
+                        </li>                           
+               
+            </ul>
+        </section>
+    </section>
+    <section id="download" class="download">
+        <h3>Get the bits (Download)</h3>
+        <div class="download-options tiles">            
+		    <div class="includes">
+                <p>Include the following modules</p>
+		        <label for="LiveTile"><input type="checkbox" checked="checked" name="LiveTile" id="LiveTile" />Live Tile</label>
+		        <label for="Themes"><input type="checkbox" checked="checked" name="Themes" id="Themes" />Theme Support</label>
+		        <label for="AppBar"><input type="checkbox" checked="checked" name="AppBar" id="AppBar" />Application Bar</label>
+		    </div>
+		<a id="downloadBtn" class="download-btn accent" href="../content/releases/metrojs/0.9.72/MetroJs.Full.0.9.72.zip"
+		 onclick="javascript:_gaq.push(['_trackPageView','/releases/metrojs.0.9.72'])">Download Metro JS 0.9.72 (zip)
+		 <span class="modules">All Modules</span></a>
+		<a class="download-btn accent red" href="metrojs/theme-generator.html">Theme Generator
+		 <span class="modules">Custom tile sizes and accent colors!</span></a>
+		 <a class="download-btn accent green" href="../tests/index.html">Basic Sample Pages
+		 <span class="modules">Tests for all modules</span></a> 		 
+	    </div>
+    </section>
+    <section id="whatsChanged" class="whats-changed">
+        <h3>What's Changed</h3>
+                 <a class="change-log-link" href="metrojs/changelog.html">View Entire Change log</a>
+<h4>0.9.71 -> 0.9.72</h4>
+<ul>
+	<li>Improved content module performance and tweaked to avoid prototype issues</li>
+	<li>preloadImages now works properly with image objects and not just string arrays</li>
+	<li>applicationBar calculates its collapsed height automatically by default for improved support for swapping to 'small' appbar mode</li>
+	<li>accentBgHover class added</li>
+</ul>
+<h4>0.9.7 -> 0.9.71</h4>
+<ul>
+    <li>Set default value for playOnHoverEvent back to 'both'</li>
+</ul>
+<h4>0.9.6 -> 0.9.7</h4>
+<ul>
+    <li>translate() is now used for carousel and slide mode when available.</li>
+    <li>useTranslate (aka data-use-translate) added to disable translate() and transition on top/left</li>
+    <li>pauseOnHoverEvent and playOnHoverEvent added. These are defaulted to 'both' which is the normal behavior for playOnHover and pauseOnHover, but can be changed to 'mouseover' etc. I plan on unifying the hover event model for the next release.</li>
+    <li>.theme default selectors will now allow nesting the ul. (eg 'ul.theme-options,.theme-options>ul' and 'ul.base-theme-options,.base-theme-options>ul'). You can change this to whatever suits your needs at jQuery.fn.metrojs.theme.defaults</li>
+</ul>
+<h4>0.9.5 -> 0.9.6</h4>
+<ul>
+    <li>'fade' mode added. This mode fades the front tile face in and out.</li>
+    <li>bounce now updates to different directions as the mouse/finger moves. This can be disabled by setting bounceFollowsMove aka 'data-bounce-follows' to false</li>
+    <li>bounceDirections correctly cleans up the perspective origin it sets on it's parent</li>
+    <li>carousel mode now uses percentages for tile movement to enable responsive scenarios.</li>
+    <li>All tile modes now pause their timer until the animation has finished (flip was the only mode that did not before)</li>
+</ul>
+<h4>0.9e -> 0.9.5</h4>
+<ul>
+    <li>No code changes. Swapping to semantic versioning for compatibility with the new <a href="http://plugins.jquery.com/" onclick="javascript:_gaq.push(['_trackPageView','/outgoing/plugins.jquery.com'])" target="_blank">jQuery plugins</a> site.</li>
+</ul>
+<h4>0.9d1 -> 0.9e</h4>
+<ul>
+    <li>bounceDirections aka data-bounce-dir added to allow tilt bouncing of tiles in addition to the default scale. You can limit the directions explicitly or use phrases like 'edges' or 'corners'.</li>
+    <li>animationComplete now correctly passes the current tile as the 'this'context</li>
+    <li>Resolved an issue with the swap modules not always triggering in slide mode</li>
+    <li>Added fadeSwap to the image swap module to force a fade when the image is changed</li>
+    <li>Added alwaysSwapFront and alwaysSwapBack to the image module. This can be useful in slide mode if you want to make the front and back face swap simultaneously</li>    
+</ul>
+<h4>0.9d -> 0.9d1</h4>
+<ul>
+    <li>Fixed typo causing global scope on a carousel property</li>
+    <li>haTransFunc and noHaTransFunc added to expose easing properties of animations</li>
+    <li>Support for jQuery 1.3.2 added</li>
+</ul>
+<h4>0.9c -> 0.9d</h4>
+<ul>
+    <li>You can now declare data-direction and data-ani-direction on each tile face in carousel mode</li>
+    <li>Calling 'goto' with no options is now the same as calling .liveTile('goto', 'next')</li>
+    <li>autoAniDirection option added to 'goto' to override the index based direction swapping</li>
+    <li>Issue with carousel mode getting index from all siblings resolved (fixes issues with a global tile-title in a carousel)</li>
+    <li>newWindow support added to data-link for flip-list</li>
+    <li>flipListOnHoverEvent option added to allow flipping based on events other than mouseout</li>
+    <li>flipListOnHover now works when startNow is set to false</li>
+    <li>issue with .themeLoaded resolved</li>
+    <li>accentBorderTop, accentBorderRight, accentBorderBottom and accentBorderLeft classes added for theming</li>
+    <li>.applicationBar now exposes its methods through the "ApplicationBar" data object</li>
+    <li>slideOpen and slideClosed methods added to .applicationBar, you can call them via .data("ApplicationBar")</li>
+    <li>handleSelector added to .applicationBar so you can use something other than 'a.etc'</li>
+</ul>
+<h4>0.9b -> 0.9c</h4>
+<ul>
+    <li>Corrected issue with destroy unbinding bounce twice</li>
+    <li>Added onHoverDelay aka data-hover-delay to allow a delay before a tile play or pause is triggered when a user hovers the tile</li>
+    <li>Resolved issue with .applicationBar in jQuery 1.9</li>
+    <li>.fourTiles and .nineTiles tile sizes are now relative to their container. The mosaic background-positions are still defined for one-tile size.
+    I'm planning to create a mosaic generator to create custom CSS for tile mosaics.</li>
+</ul>
+<h4>0.9a -> 0.9b</h4>
+<ul>
+    <li>The fadeout effect used in flip animations on non hardware accelerated browsers has been disabled by default. To turn it back on you can set noHAflipOpacity: '0'.</li>
+    <li>Fixed a flicker that occurs when playOnHover is set and a user hovers in and out of a flip tile faster than the css reset can be applied.</li>
+</ul>
+<h4>0.9 -> 0.9a</h4>
+<ul>
+    <li>Added direction support to the 'goto' carousel method in addition to animationDirection.<br />
+        <a href="metrojs.html#fiddle_mBX3K">see JS Fiddle example here</a>
+    </li>
+    <li>Finished updating calls to appendStyleProperties. (Thanks Devline)</li>
+    <li>Style change to help IE8 and below</li>
+    <li>Updated destroy method</li>
+    <li>padding-box style does not have consistent enough support and has been removed.</li>
+    <li>Padding removed from .face class. You can get padding on content by using a 'p' tag</li>    
+</ul>
+
+    </section>
+    <section id="haveYourSay" class="comments have-your-say">
+        <h3>Have Your Say</h3>
+        <p>Metro JS is still a work in progress, so now is a great time to get your feedback in. Let me know what you think in the comments below or contact me on twitter <a href="http://twitter.com/dgreenwell" onclick="javascript:trackExternal(this);">@DGreenwell</a></p>
+	    <div id="disqus_thread"></div>
+	    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	    <a href="http://disqus.com/" class="dsq-brlink" onclick="javascript:trackExternal(this);">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+</section>
+
+    
+<footer class="appbar">
+    <nav class="clear">
+		<ul class="appbar-buttons" id="menu">
+			<li>
+				<a class="home" href="../index.html"><img alt="home" src="../images/1pixel.gif"></a>
+				<span class="charm-title">Home</span>
+			</li>
+			<li>
+				<a class="about" href="../about.html"><img alt="about" src="../images/1pixel.gif"></a>
+				<span class="charm-title">About</span>
+			</li>
+			<li>
+				<a class="twitter" target="_blank" onclick="javascript:trackExternal(this);" href="http://www.twitter.com/dgreenwell"><img alt="twitter" src="../images/1pixel.gif"></a>
+				<span class="charm-title">Twitter</span>
+			</li>
+		</ul>
+	</nav>
+    <a class="etc">&bull;&bull;&bull;</a>
+    <div class="tray">
+        <section class="base-theme-options">            
+            <h2>Base Theme</h2>
+            <ul></ul>
+        </section>
+        <section class="theme-options">
+            <h2>Accent Color</h2>
+            <ul></ul>
+        </section>
+        <section class="links clear">
+            <ul>
+                <li><a href="metrojs/theme-generator.html">Generate a theme...</a></li>
+            </ul>
+        </section>
+    </div>      
+</footer>
+
+
+
+    <script src="../scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="../scripts/metrojs/bundles/metrojs3912.js?v=0.9.72" type="text/javascript"></script>
+    <script type="text/javascript">
+        var metroJs,
+            appBar;
+        // remove the default theme set for noscript and apply user theme
+        $(document).ready(function () {
+            $("body,.tiles").removeClass("dark blue");
+            metroJs = jQuery.fn.metrojs;
+            metroJs.theme.loadDefaultTheme();
+        });
+    </script>
+    <script src="../scripts/syntax/syntaxhighlighter.xj.min.js" type="text/javascript"></script>    
+    <script type="text/javascript" src="../scripts/dg/sortlist.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            window.bindAppBarKeyboard = false;
+            //enable accented border on nav
+            $(".about nav").find("li>a").addClass("accentBorder accentHover");
+            // enable syntax highlighter for code tags
+            SyntaxHighlighter.config.tagName = "code";
+            SyntaxHighlighter.all();
+            // live tiles in about and Basic Example sections
+            $(".about,.demo").find(".live-tile,.flip-list").not(".exclude").liveTile();
+            // sort options based on sort property or name
+            $("#sortLiveTileOptions").change(function () {
+                var val = $(this).val();
+                _gaq.push(['_trackEvent', 'MetroJs', 'Sorted', val]);
+                $(".options").each(function (idx, ul) {
+                    var $li = $(ul).find('li')
+                    if (val === "alpha") {
+                        $li.sortElements(function (a, b) {
+                            return $(a).find(".name>.value").text() > $(b).find(".name>.value").text() ? 1 : -1;
+                        });
+                    } else if (val === "type") {
+                        $li.sortElements(function (a, b) {
+                            return $(a).find(".type>.value").text() > $(b).find(".type>.value").text() ? 1 : -1;
+                        });
+                    } else {
+                        $li.sortElements(function (a, b) {
+                            return parseFloat($(a).find(".sort").val()) > parseFloat($(b).find(".sort").val()) ? 1 : -1;
+                        });
+                    }
+                });
+            });
+            // show or hide options based on drop down selection
+            $("#filterLiveTileOptions").change(function () {                
+                var val = $(this).val();
+                if (val === "flip") // make sure flip-list options don't come back for flip mode
+                    val = "flip$|flip,";
+                var regex = new RegExp("all|" + val, "i"),
+                    $opts = $("#liveTileOptions,#liveTileMethods").find(".option");
+                _gaq.push(['_trackEvent', 'MetroJs', 'Filtered', val]);
+                if (val === "all") {
+                    $opts.show();
+                    $("#liveTileOptions,").find(".count").text("Showing " + $opts.length + " options");
+                } else {
+                    var count = 0;                    
+                    $opts.each(function (idx, ele) {
+                        var $head = $(this).find(".name");
+                        if ($head.data("modes").match(regex) != null) {
+                            $(this).show();
+                            count++;
+                        } else
+                            $(this).hide();
+                    });
+                    $("#liveTileOptions").find(".count").text("Showing " + count + " options");
+                }
+            });
+            // expand or collapse option on click
+            $(".option").addClass("accentBorderLeft").each(function (idx, ele) {
+                    var $parent = $(ele),
+                        $cont = $parent.find(">.content"),
+                        $link = $cont.find(">.expand"),
+                        $handles = $cont.find(">.expand,>.name,>.data-attribute,>.type").css({ cursor: 'pointer' }),
+                        oName = $cont.find(">.name>.value").text();
+                    $cont.hover(function () {
+                        $handles.addClass("accentColor");
+                    }, function () {
+                        $handles.removeClass("accentColor");
+                    });
+                    $handles.bind("click", function () {
+                    var isCollapsed = $link.hasClass("collapsed"),
+                        oHeight;
+			        $link.toggleClass("collapsed");
+                    if (isCollapsed){
+                        if(typeof($parent.oHeight) === "undefined"){
+                            oHeight = 0;
+                            $parent.find(">.content").find(">.name,>.description,>.modes,>.options,>.example,>.default-value").each(function(){
+                                oHeight += $(this).outerHeight();
+                            });
+                            //oHeight = $parent.find(">.content").outerHeight(true);
+                            $parent.oHeight = oHeight;
+                        }else{
+                            oHeight = $parent.oHeight;
+                        }
+                        $parent.css({ height: oHeight });
+                        _gaq.push(['_trackEvent', 'Options', 'Expand', oName]);
+                    }else{
+                        $parent.css({ height: '20px' });
+                        _gaq.push(['_trackEvent', 'Options', 'Collapse', oName]);
+		            }
+                    $link.toggleClass('expanded');
+                });
+            });
+
+            //fiddle around 
+            var cb = Math.random() * 123456;
+            $(".fiddleNav>ul>li a").click(function () {
+                var url = $(this).attr("rel") + '?version=' + window.MetroJsVersion;
+                var src = $("#fiddlerFrame").attr("src");
+                var fName = $(this).text();
+                if (src != url) {
+                    if (typeof ($(this).data("height")) === "undefined")
+                        $("#fiddlerFrame").height("300px");
+                    else
+                        $("#fiddlerFrame").height($(this).data("height"));
+                    $("#fiddlerFrame").attr("src", url);
+                    $("#fiddlerFrame").show();
+                    _gaq.push(['_trackEvent', 'Fiddles', 'Opened', fName]);
+                    _gaq.push(['_trackPageView', '/samples/metrojs/' + url]);
+                } else {
+                    if ($(this).is(":visible")) {
+                        $("#fiddlerFrame").slideUp(function () {
+                            $("#fiddlerFrame").attr("src", '#' + url);
+                        });
+                    }
+                }
+            });
+            // show a fiddle by id or index
+            function handleHashChange() {
+                var  match = /fiddle_(.+)/.exec(window.location.hash);
+                if (match != null && match.length > 0) {
+                    document.getElementById("fiddleAround").scrollIntoView();
+                    _gaq.push(['_trackEvent', 'Fiddles', 'LoadById', match[1]]);
+                    $(".fiddleNav>ul>li").find('#' + match[1]).click();
+                } else {
+                    match = /fiddle([0-9][0-9]?)/.exec(window.location.hash);
+                    if (match != null && match.length > 0) {
+                        document.getElementById("fiddleAround").scrollIntoView();
+                        _gaq.push(['_trackEvent', 'Fiddles', 'LoadByIndex', match[1]]);
+                        $(".fiddleNav>ul>li a").eq(match[1]).click();
+                    } 
+                }
+            }
+            handleHashChange();
+            $(window).bind('hashchange', function () {
+                handleHashChange();
+            });
+            // handle download options
+            $(".download-options input").change(function () {
+                var lt = $("input#LiveTile").is(":checked"),
+                    th = $("input#Themes").is(":checked"),
+                    ab = $("input#AppBar").is(":checked"),
+                    version = window.MetroJsVersion,
+                    path = "/content/releases/metrojs/" + version + "/",
+                    url = "metrojs.Full." + version + ".zip",
+                    modules = "All Modules";
+                if (lt && th && ab) {
+                    // all  
+                } else if (lt && th) {
+                    url = "metrojs.LiveTilesAndThemes." + version + ".zip";
+                    modules = ".liveTile, .theme";
+                } else if (lt && ab) {
+                    url = "metrojs.LiveTilesAndAppBar." + version + ".zip";
+                    modules = ".liveTile, .applicationBar";
+                } else if (ab && th) {
+                    url = "metrojs.AppBarAndThemes." + version + ".zip"
+                    modules = ".theme, .applicationBar";
+                } else if (lt) {
+                    url = "metrojs.LiveTiles." + version + ".zip";
+                    modules = ".liveTile";
+                } else if (th) {
+                    url = "metrojs.Themes." + version + ".zip";
+                    modules = ".theme";
+                } else if (ab) {
+                    url = "metrojs.AppBar." + version + ".zip";
+                    modules = ".applicationBar";
+                }
+                _gaq.push(['_trackEvent', 'MetroJs', 'Picked', url]);
+                $("#downloadBtn").attr("href", path + url);
+                $("#downloadBtn .modules").text(modules);
+            });
+	    // enable disqus
+	    var disqus_developer = 1;
+	    var disqus_url = 'metrojs.html';
+	    var disqus_title = 'Drew Greenwell Metro JS';
+	    var disqus_identifier = '/projects/metrojs';
+	    var disqus_shortname = 'drewgreenwell';
+	    try {
+	        (function () {
+	            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	        })();
+	    } catch (err) {
+
+	    }
+        	(function () {
+        		function filterPath(string) {
+        			return string
+						.replace(/^\//, '')
+						.replace(/(index|default).[a-zA-Z]{3,4}$/, '')
+						.replace(/\/$/, '');
+        		}
+        		var locationPath = filterPath(location.pathname);
+        		var scrollElem = scrollableElement('html', 'body');
+
+        		$("#pageNav,section:not(#liveTileOptions)").find("a[href^=#]").each(function () {
+        			var thisPath = filterPath(this.pathname) || locationPath;
+        			if (locationPath == thisPath
+					&& (location.hostname == this.hostname || !this.hostname)
+					&& this.hash.replace(/#/, '')) {
+        				var $target = $(this.hash), target = this.hash;
+        				if (target && $target.length > 0) {
+        					var targetOffset = $target.offset().top;
+        					$(this).click(function (event) {
+        						event.preventDefault();
+        						$(scrollElem).animate({ scrollTop: targetOffset }, 400, function () {
+        							location.hash = target;
+        						});
+        					});
+        				}
+        			}
+        		});
+
+        		// use the first element that is "scrollable"
+        		function scrollableElement(els) {
+        			for (var i = 0, argLength = arguments.length; i < argLength; i++) {
+        				var el = arguments[i],
+							$scrollElement = $(el);
+        				if ($scrollElement.scrollTop() > 0) {
+        					return el;
+        				} else {
+        					$scrollElement.scrollTop(1);
+        					var isScrollable = $scrollElement.scrollTop() > 0;
+        					$scrollElement.scrollTop(0);
+        					if (isScrollable) {
+        						return el;
+        					}
+        				}
+        			}
+        			return [];
+        		}
+        	})();
+        });
+    </script>
+
+    <script type="text/javascript">        
+        
+        $(document).ready(function () {
+            var doBind = (typeof (window.bindAppBarKeyboard) === "undefined" || window.bindAppBarKeyboard);
+            // create the app bar
+            appBar = $(".appbar").applicationBar({
+	    	applyTheme: false, // apply theme example below
+                preloadAltBaseTheme: true, // load both sets of images so there isn't a flicker when base theme is changed
+                metroLightUrl: '/images/metroIcons_light.jpg',
+                metroDarkUrl: '/images/metroIcons.jpg',
+                bindKeyboard: doBind // bind the keyboard unless specified in an included script
+            });
+            // add the accents and base colors to the appbar
+            metroJs.theme.appendAccentColors();
+            metroJs.theme.appendBaseThemes();
+        });
+        
+
+	</script>
+    <script type="text/javascript" src="../scripts/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="../scripts/dg/global3912.js?v=0.9.72"></script>
+</body>
+
+<!-- Mirrored from www.drewgreenwell.com/projects/metrojs by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 04 Jan 2014 18:59:16 GMT -->
+</html>
